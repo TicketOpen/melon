@@ -1,0 +1,8 @@
+[melon]
+title = "멜론 티켓"
+url = "https://ticket.melon.com/csoon/index.htm"
+entrySelector = "div ul[class='list_ticket_cont'] li"
+titleSelector = "a[class='tit']"
+linkSelector = "a[class='tit']"
+contentSelector = "span[class='date']"
+waitUntil = "networkidle"
