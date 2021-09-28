@@ -4,9 +4,17 @@
         <title>멜론 티켓</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Sep 2021 05:12:23 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Sep 2021 06:15:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[온스타인웨이 Vol．7 〈윤한〉－ 온라인 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5482</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5482</guid>
+            <pubDate>Tue, 28 Sep 2021 06:15:34 GMT</pubDate>
+            <content:encoded><![CDATA[2021.09.30(목) 11:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2021/09/20210927144914c0155b62-27ff-4a49-970c-e7791f4f8d88.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
         <item>
             <title><![CDATA[잭킹콩 ＆ 오프더메뉴 합동 공연［JKCOTM］티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5481</link>
@@ -78,14 +86,6 @@
             <pubDate>Sat, 25 Sep 2021 19:02:45 GMT</pubDate>
             <content:encoded><![CDATA[2021.09.30(목) 20:00]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2021/09/202109171557038956f70d-1741-4826-9047-03d8ab8e472c.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[YongYong：RED STATION＃5 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5472</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5472</guid>
-            <pubDate>Sat, 25 Sep 2021 19:02:45 GMT</pubDate>
-            <content:encoded><![CDATA[2021.09.28(화) 20:00]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2021/09/20210917154257bcac6c80-6ef8-48ad-92b5-4ab70eaa8de1.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
     </channel>
 </rss>
