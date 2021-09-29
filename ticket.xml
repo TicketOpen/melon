@@ -4,7 +4,7 @@
         <title>멜론 티켓</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 Sep 2021 04:16:45 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Sep 2021 05:12:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Tue, 28 Sep 2021 09:12:54 GMT</pubDate>
             <content:encoded><![CDATA[2021.10.05(화) 14:00]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2021/09/202109281612284521ca89-e61c-4468-991a-a2f25e8f2641.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 배우 김소향 콘서트 〈향：하다〉 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5487</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5487</guid>
+            <pubDate>Wed, 29 Sep 2021 05:12:02 GMT</pubDate>
+            <content:encoded><![CDATA[2021.10.01(금) 14:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2021/09/20210928144432323e285d-4c08-4581-b88c-321a833b8b7c.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
         <item>
             <title><![CDATA[해리빅버튼 데뷔 10주년 앵콜 콘서트 티켓 오픈 안내]]></title>
@@ -78,14 +86,6 @@
             <pubDate>Sat, 25 Sep 2021 19:02:45 GMT</pubDate>
             <content:encoded><![CDATA[2021.09.28(화) 14:00]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2021/09/202109231723362cbf5791-04cb-4c3b-88ff-2eb1912a7c09.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[〈옥상달빛 소극장 공연：옥상달빛〉 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5478</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5478</guid>
-            <pubDate>Sat, 25 Sep 2021 19:02:45 GMT</pubDate>
-            <content:encoded><![CDATA[2021.09.29(수) 14:00]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2021/09/202109231715551a21cd39-ff35-419b-90e7-14ee84010f97.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
     </channel>
 </rss>
