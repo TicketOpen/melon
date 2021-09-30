@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Sep 2021 06:15:48 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Sep 2021 07:13:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -64,6 +64,14 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2021/09/20210929135349e5f72f29-57a0-4c4d-8fbb-b49875c2d48e.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
         <item>
+            <title><![CDATA[［MORAN MELLOW ＆ MAD CONCERT］티켓 오픈 안내 (멜론 티켓)]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5489</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5489</guid>
+            <pubDate>Thu, 30 Sep 2021 07:13:28 GMT</pubDate>
+            <content:encoded><![CDATA[2021.10.01(금) 18:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2021/09/20210929101154dd37ae46-1e7f-4f91-abf1-b7e1e022b1a3.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
             <title><![CDATA[사운드바이사운드＿소란X데이브레이크 티켓 오픈 안내 (멜론 티켓)]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5488</link>
             <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5488</guid>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 29 Sep 2021 05:12:02 GMT</pubDate>
             <content:encoded><![CDATA[2021.10.01(금) 14:00]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2021/09/20210928144432323e285d-4c08-4581-b88c-321a833b8b7c.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[해리빅버튼 데뷔 10주년 앵콜 콘서트 티켓 오픈 안내 (멜론 티켓)]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5486</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5486</guid>
-            <pubDate>Wed, 29 Sep 2021 03:14:16 GMT</pubDate>
-            <content:encoded><![CDATA[2021.10.06(수) 20:00]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2021/09/20210928095612fd575861-3481-463a-b69d-a0ce92c7fe4f.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
     </channel>
 </rss>
