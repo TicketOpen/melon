@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Sep 2021 04:16:37 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Sep 2021 05:12:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[THE GREATEST：전율 정동하 X 소 향－서울 티켓 오픈 안내 (멜론 티켓)]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5497</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5497</guid>
+            <pubDate>Thu, 30 Sep 2021 05:12:01 GMT</pubDate>
+            <content:encoded><![CDATA[2021.10.05(화) 14:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2021/09/202109301139006d6fcbbe-4218-45c2-842a-65383484b71a.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 〈하데스타운〉 최초 한국 공연，3차 티켓 오픈！（Musical Hadestown） (멜론 티켓)]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5494</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5494</guid>
+            <pubDate>Thu, 30 Sep 2021 05:12:01 GMT</pubDate>
+            <content:encoded><![CDATA[2021.10.08(금) 14:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2021/09/20210930091338d9bd3292-4979-4686-9b02-b92d1012fc67.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
         <item>
             <title><![CDATA[뮤지컬 〈헤드윅〉 마지막 티켓 오픈 안내 (멜론 티켓)]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5493</link>
@@ -70,22 +86,6 @@
             <pubDate>Wed, 29 Sep 2021 03:14:16 GMT</pubDate>
             <content:encoded><![CDATA[2021.09.30(목) 12:00]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2021/09/202109280945504880c93d-2984-4b26-b210-9bc8638ea046.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[까데호 x 다브다 투어－대구 티켓 오픈 안내 (멜론 티켓)]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5484</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5484</guid>
-            <pubDate>Wed, 29 Sep 2021 03:14:16 GMT</pubDate>
-            <content:encoded><![CDATA[2021.09.30(목) 12:00]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2021/09/20210928094501dbb1c539-7d79-4ce3-862f-89b1a92861a3.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[까데호 x 다브다 투어－서울 티켓 오픈 안내 (멜론 티켓)]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5483</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5483</guid>
-            <pubDate>Wed, 29 Sep 2021 03:14:16 GMT</pubDate>
-            <content:encoded><![CDATA[2021.09.30(목) 12:00]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2021/09/20210928094003aacbbf4c-00ef-4b9e-8f21-af464aa31fa5.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
     </channel>
 </rss>
