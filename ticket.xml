@@ -4,9 +4,25 @@
         <title>멜론 티켓</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Oct 2021 02:04:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Oct 2021 03:14:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[RE：SPES ANDONG 2021x롤링홀 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5503</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5503</guid>
+            <pubDate>Mon, 04 Oct 2021 03:14:07 GMT</pubDate>
+            <content:encoded><![CDATA[2021.10.07(목) 20:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2021/10/202110011659294541c17d-0861-4a08-b0e2-86ddf55a209f.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[이제 단독 콘서트：오두막 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5502</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5502</guid>
+            <pubDate>Mon, 04 Oct 2021 03:14:07 GMT</pubDate>
+            <content:encoded><![CDATA[2021.10.07(목) 20:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2021/10/202110011653469ff3a536-e567-4940-a1dd-c74b47075bd3.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
         <item>
             <title><![CDATA[뮤지컬 〈엑스칼리버〉 마지막 티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5500</link>
@@ -70,22 +86,6 @@
             <pubDate>Thu, 30 Sep 2021 02:04:11 GMT</pubDate>
             <content:encoded><![CDATA[2021.10.01(금) 15:00]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2021/09/2021092916153079504080-db27-42b1-acb4-ccb058db3f0c.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[［2021，멜로우키친의 Autumn Concert］티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5492</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5492</guid>
-            <pubDate>Thu, 30 Sep 2021 03:13:53 GMT</pubDate>
-            <content:encoded><![CDATA[2021.10.01(금) 18:00]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2021/09/2021093014230136a45841-1c56-415c-9ebc-ed039e5e0f44.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[먼데이프로젝트 시즌4［음악여행，쉼］－김마리 단독 콘서트 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5491</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5491</guid>
-            <pubDate>Thu, 30 Sep 2021 03:13:53 GMT</pubDate>
-            <content:encoded><![CDATA[2021.10.07(목) 20:00]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2021/09/20210929153257fb0d140e-7a6f-4274-881c-4028722f5ad2.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
     </channel>
 </rss>
