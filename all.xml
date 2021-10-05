@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Oct 2021 01:57:48 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Oct 2021 02:27:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Tue, 05 Oct 2021 01:57:47 GMT</pubDate>
             <content:encoded><![CDATA[2021.10.13(수) 11:00]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2021/10/20211001175836871b0d47-bd1a-4757-a251-521bfc4dd24c.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 〈젠틀맨스 가이드：사랑과 살인편〉 1차 티켓 오픈 안내 (멜론 티켓)]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5504</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5504</guid>
+            <pubDate>Tue, 05 Oct 2021 02:27:51 GMT</pubDate>
+            <content:encoded><![CDATA[2021.10.08(금) 11:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2021/10/20211005105556057b5e44-cc0a-4bd2-9377-2c79a92cbbca.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
         <item>
             <title><![CDATA[RE：SPES ANDONG 2021x롤링홀 티켓 오픈 안내 (멜론 티켓)]]></title>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 30 Sep 2021 06:15:47 GMT</pubDate>
             <content:encoded><![CDATA[2021.10.01(금) 20:00]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2021/09/202109300922515b73af0b-9512-4bfe-a5ac-0d8b8a1fbbc8.png/melon/resize/65x92/strip/true" length="0" type="image/png/melon/resize/65x92/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 〈하데스타운〉 최초 한국 공연，4차 티켓 오픈！（Musical Hadestown） (멜론 티켓)]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5494</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5494</guid>
-            <pubDate>Thu, 30 Sep 2021 05:12:01 GMT</pubDate>
-            <content:encoded><![CDATA[2021.10.08(금) 14:00]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2021/09/20210930091338d9bd3292-4979-4686-9b02-b92d1012fc67.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
     </channel>
 </rss>
