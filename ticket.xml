@@ -4,7 +4,7 @@
         <title>멜론 티켓</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Oct 2021 07:13:35 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Oct 2021 08:15:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Fri, 08 Oct 2021 05:12:10 GMT</pubDate>
             <content:encoded><![CDATA[2021.10.12(화) 12:00]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2021/10/20211008131849523bc909-4b84-4daf-a9fa-5e018f98608a.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[최유리 EP 앨범 발매기념 콘서트 ‘여정’ 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5520</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5520</guid>
+            <pubDate>Fri, 08 Oct 2021 08:15:52 GMT</pubDate>
+            <content:encoded><![CDATA[2021.10.12(화) 20:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2021/10/202110080917291fac954d-945a-4dec-8298-6c2f741a727c.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
         <item>
             <title><![CDATA[슈가레코드 레이블데이 콘서트 Vol．3 달에닿아 단독공연 티켓 오픈 안내]]></title>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 06 Oct 2021 03:14:00 GMT</pubDate>
             <content:encoded><![CDATA[2021.10.13(수) 20:00]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2021/10/20211005173852610f58be-9ee3-4e5c-a868-3f5acd74fba6.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[사우스클럽 X 이정권 콘서트 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5511</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5511</guid>
-            <pubDate>Tue, 05 Oct 2021 08:15:57 GMT</pubDate>
-            <content:encoded><![CDATA[2021.10.08(금) 15:00]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2021/10/20211005165302b7d22b35-bdae-4f4c-a9ac-8ce157814894.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
     </channel>
 </rss>
