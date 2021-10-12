@@ -4,7 +4,7 @@
         <title>멜론 티켓</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Oct 2021 04:16:46 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Oct 2021 05:11:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -48,6 +48,14 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2021/10/2021100819190390d60014-2990-489d-856f-5ff8fc84334b.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
         <item>
+            <title><![CDATA[프리즘브레이크 vol．11：권나무 x 이설아 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5523</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5523</guid>
+            <pubDate>Tue, 12 Oct 2021 05:11:49 GMT</pubDate>
+            <content:encoded><![CDATA[2021.10.14(목) 19:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2021/10/202110081713543e7f9f8b-3fee-471d-bd63-4c6eeebdcc70.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
             <title><![CDATA[헨델의 꿈꾸는 다락방 티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5522</link>
             <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5522</guid>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 08 Oct 2021 06:15:56 GMT</pubDate>
             <content:encoded><![CDATA[2021.10.13(수) 20:00]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2021/10/202110071453239e301309-e59d-499e-a269-512500fccf5f.png/melon/resize/65x92/strip/true" length="0" type="image/png/melon/resize/65x92/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[투데이올드스니커즈 첫번째 단독 콘서트［여기서 빛난다］티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5518</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5518</guid>
-            <pubDate>Thu, 07 Oct 2021 05:12:23 GMT</pubDate>
-            <content:encoded><![CDATA[2021.10.12(화) 14:00]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2021/10/202110081218428552fba4-f23a-42f7-bc4d-bcba87f2a689.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
     </channel>
 </rss>
