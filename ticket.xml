@@ -4,9 +4,17 @@
         <title>멜론 티켓</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Oct 2021 04:16:43 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Oct 2021 05:12:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[최현우 〈더 브레인 THE BRAIN〉 블록버스터급 멘탈매직쇼 첫 티켓오픈！]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5536</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5536</guid>
+            <pubDate>Wed, 13 Oct 2021 05:12:08 GMT</pubDate>
+            <content:encoded><![CDATA[2021.10.20(수) 14:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2021/10/20211013094135685b1d6b-a499-4270-94a2-12d784ac12d9.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
         <item>
             <title><![CDATA[뮤지컬 〈엑스칼리버〉－전주 티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5533</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 11 Oct 2021 03:14:13 GMT</pubDate>
             <content:encoded><![CDATA[2021.10.14(목) 20:00]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2021/10/2021100819190390d60014-2990-489d-856f-5ff8fc84334b.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[10 YEARS OF ARCHIVE，DOCUMENTED BY MAGAZINE B 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5524</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5524</guid>
-            <pubDate>Tue, 12 Oct 2021 07:13:18 GMT</pubDate>
-            <content:encoded><![CDATA[2021.10.12(화) 16:00]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2021/10/20211012153708083b7702-a5ca-432f-8e0b-06de2ae1686b.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
     </channel>
 </rss>
