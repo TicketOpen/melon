@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Oct 2021 08:15:47 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Oct 2021 09:13:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Thu, 14 Oct 2021 02:31:15 GMT</pubDate>
             <content:encoded><![CDATA[2021.10.14(목) 15:00]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2021/10/2021101411223048c9730a-afdc-41fb-8f28-ca86dea88c5c.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[위수 단독 공연 〈위수의 사계〉 티켓 오픈 안내 (멜론 티켓)]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5540</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5540</guid>
+            <pubDate>Thu, 14 Oct 2021 09:13:03 GMT</pubDate>
+            <content:encoded><![CDATA[2021.10.15(금) 18:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2021/10/202110131543405e7478e0-4d10-4d33-9712-b8ff83ff357f.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
         <item>
             <title><![CDATA[슈가레코드 레이블데이 콘서트 Vol．4 앵콜 조인트 공연（달에닿아，엔분의일，당기시오）티켓 오픈 안내 (멜론 티켓)]]></title>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 12 Oct 2021 11:11:03 GMT</pubDate>
             <content:encoded><![CDATA[2021.10.15(금) 20:00]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2021/10/2021101213301412a0aa22-4715-47f7-ad69-b5ccc2f690e6.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[먼데이프로젝트 IN 라이브클럽［허드 단독 콘서트］티켓 오픈 안내 (멜론 티켓)]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5531</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5531</guid>
-            <pubDate>Wed, 13 Oct 2021 03:14:03 GMT</pubDate>
-            <content:encoded><![CDATA[2021.10.20(수) 20:00]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2021/10/20211012114903669dc8a0-fe3d-4918-84ef-3cb9d711abf1.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
     </channel>
 </rss>
