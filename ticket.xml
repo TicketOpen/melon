@@ -4,7 +4,7 @@
         <title>멜론 티켓</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Oct 2021 02:31:16 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Oct 2021 03:14:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,22 @@
             <pubDate>Thu, 14 Oct 2021 02:31:15 GMT</pubDate>
             <content:encoded><![CDATA[2021.10.14(목) 15:00]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2021/10/2021101411223048c9730a-afdc-41fb-8f28-ca86dea88c5c.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[［2021 가을 나눔콘서트 ‘OK’］티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5538</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5538</guid>
+            <pubDate>Thu, 14 Oct 2021 03:14:43 GMT</pubDate>
+            <content:encoded><![CDATA[2021.10.15(금) 12:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2021/10/202110131522546952d9a4-39dc-498f-a50e-19336473c619.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[먼데이프로젝트 시즌4［음악여행，쉼］그＿냥 단독 콘서트 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5537</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5537</guid>
+            <pubDate>Thu, 14 Oct 2021 03:14:43 GMT</pubDate>
+            <content:encoded><![CDATA[2021.10.21(목) 20:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2021/10/2021101315200168dcfd43-0bf8-44fe-ae2a-9169443922e3.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
         <item>
             <title><![CDATA[최현우 〈더 브레인 THE BRAIN〉 블록버스터급 멘탈매직쇼 첫 티켓오픈！]]></title>
@@ -70,22 +86,6 @@
             <pubDate>Tue, 12 Oct 2021 03:13:42 GMT</pubDate>
             <content:encoded><![CDATA[2021.10.15(금) 20:00]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2021/10/20211012111524fae1ed56-cf43-4678-9d6d-9abd9d927088.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[다린 세번째 미니앨범 〈갈래〉 발매 기념 콘서트 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5529</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5529</guid>
-            <pubDate>Tue, 12 Oct 2021 03:13:42 GMT</pubDate>
-            <content:encoded><![CDATA[2021.10.15(금) 20:00]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2021/10/2021101209561377b928da-34ad-46fa-8890-f5a26da8d489.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[온스타인웨이 Vol．8 〈임세모〉－온라인 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5528</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5528</guid>
-            <pubDate>Tue, 12 Oct 2021 06:15:24 GMT</pubDate>
-            <content:encoded><![CDATA[2021.10.14(목) 11:00]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2021/10/202110081955064065aaa6-8b3c-45de-85f7-b34500e005ad.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
     </channel>
 </rss>
