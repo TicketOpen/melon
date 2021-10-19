@@ -4,16 +4,16 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Oct 2021 07:13:12 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Oct 2021 08:16:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[온스타인웨이 Vol．9 〈케빈오〉－온라인 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5549</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5549</guid>
-            <pubDate>Tue, 19 Oct 2021 06:16:19 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>21.10.21(목)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2021/10/20211019103217f483c777-f1da-4066-9871-1cbe6fd26e0a.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+            <title><![CDATA[스트릿 우먼 파이터［ON THE STAGE］－부산 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5551</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5551</guid>
+            <pubDate>Tue, 19 Oct 2021 08:16:32 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>21.10.22(금)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2021/10/2021101914332742f0540e-af55-4396-a7df-cd8ae462f612.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
         <item>
             <title><![CDATA[2021 온라인 체험극－다크필드라디오 〈ETERNAL〉 티켓 오픈 안내]]></title>
@@ -22,6 +22,14 @@
             <pubDate>Mon, 18 Oct 2021 07:13:30 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>21.10.20(수)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2021/10/202110181149273e3fd5e2-17f9-42f4-a562-b0fbcacda08a.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[온스타인웨이 Vol．9 〈케빈오〉－온라인 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5549</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5549</guid>
+            <pubDate>Tue, 19 Oct 2021 06:16:19 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>21.10.21(목)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2021/10/20211019103217f483c777-f1da-4066-9871-1cbe6fd26e0a.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
         <item>
             <title><![CDATA[［임연 1st LIVE 스테이지＿가을노을］티켓 오픈 안내]]></title>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 15 Oct 2021 12:32:45 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>21.10.15(금)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2021/10/202110131535420e264d3d-e9a2-450c-b451-66cf944a994a.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[위수 단독 공연 〈위수의 사계〉 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5540</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5540</guid>
-            <pubDate>Fri, 15 Oct 2021 12:32:45 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>21.10.15(금)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2021/10/202110131543405e7478e0-4d10-4d33-9712-b8ff83ff357f.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
