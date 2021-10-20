@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Oct 2021 04:17:32 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Oct 2021 05:12:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[마포Fm 스틸 얼라이브 4주년 콘서트 김훨＆정우 티켓 오픈 안내 (멜론 티켓)]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5554</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5554</guid>
+            <pubDate>Wed, 20 Oct 2021 05:12:00 GMT</pubDate>
+            <content:encoded><![CDATA[2021.10.22(금) 19:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2021/10/2021102009462026ea49e4-0879-45cb-ba24-83de3bca7877.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
         <item>
             <title><![CDATA[카유보트：향기를 만나다 展 티켓 오픈 안내 (멜론 티켓)]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5553</link>
@@ -80,12 +88,12 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2021/10/20211015134056c5b0e748-c862-46aa-8a3d-1a528a59dcaa.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
         <item>
-            <title><![CDATA[슈퍼밴드2 콘서트－부산 티켓 오픈 안내 (멜론 티켓)]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5543</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5543</guid>
-            <pubDate>Fri, 15 Oct 2021 02:00:52 GMT</pubDate>
-            <content:encoded><![CDATA[2021.10.22(금) 14:00]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2021/10/20211015100635507166c1-d027-4246-b0c2-197d6f08fd91.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+            <title><![CDATA[마포Fm 스틸 얼라이브 4주년 콘서트 김훨＆정우 티켓 오픈 안내 (멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식)]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5554</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5554</guid>
+            <pubDate>Wed, 20 Oct 2021 05:12:06 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>21.10.22(금)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2021/10/2021102009462026ea49e4-0879-45cb-ba24-83de3bca7877.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
         <item>
             <title><![CDATA[먼데이프로젝트 시즌4［음악여행，쉼］그＿냥 단독 콘서트 티켓 오픈 안내 (멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식)]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 20 Oct 2021 02:02:07 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>21.10.20(수)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2021/10/20211019180333f08012df-e49e-43a9-bd9d-3a16bdd9278a.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[스트릿 우먼 파이터［ON THE STAGE］－부산 티켓 오픈 안내 (멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식)]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5551</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5551</guid>
-            <pubDate>Tue, 19 Oct 2021 08:16:26 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>21.10.22(금)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2021/10/2021101914332742f0540e-af55-4396-a7df-cd8ae462f612.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
