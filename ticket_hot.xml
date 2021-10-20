@@ -4,17 +4,9 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Oct 2021 14:13:02 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Oct 2021 15:14:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[뮤지컬 〈레베카〉 2차 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5557</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5557</guid>
-            <pubDate>Wed, 20 Oct 2021 07:13:54 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>21.10.27(수)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2021/10/202110201521133205b778-6afc-45ba-a5cb-cfd4c4a790f0.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
         <item>
             <title><![CDATA[마포Fm 스틸 얼라이브 4주년 콘서트 김훨＆정우 티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5554</link>
@@ -22,6 +14,22 @@
             <pubDate>Wed, 20 Oct 2021 05:12:06 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>21.10.22(금)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2021/10/2021102009462026ea49e4-0879-45cb-ba24-83de3bca7877.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[스트릿 우먼 파이터［ON THE STAGE］－부산 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5551</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5551</guid>
+            <pubDate>Wed, 20 Oct 2021 15:14:09 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>21.10.22(금)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2021/10/2021101914332742f0540e-af55-4396-a7df-cd8ae462f612.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[슈퍼밴드2 콘서트－부산 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5543</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5543</guid>
+            <pubDate>Wed, 20 Oct 2021 15:14:09 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>21.10.22(금)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2021/10/20211015100635507166c1-d027-4246-b0c2-197d6f08fd91.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
         <item>
             <title><![CDATA[먼데이프로젝트 시즌4［음악여행，쉼］그＿냥 단독 콘서트 티켓 오픈 안내]]></title>
@@ -56,6 +64,14 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2021/10/202110161508345fd4b039-1902-4140-8595-caeb83863ffa.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
         <item>
+            <title><![CDATA[뮤지컬 〈레베카〉 2차 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5557</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5557</guid>
+            <pubDate>Wed, 20 Oct 2021 07:13:54 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>21.10.27(수)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2021/10/202110201521133205b778-6afc-45ba-a5cb-cfd4c4a790f0.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
             <title><![CDATA[먼데이프로젝트 IN 라이브클럽［허드 단독 콘서트］티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5531</link>
             <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5531</guid>
@@ -70,22 +86,6 @@
             <pubDate>Mon, 18 Oct 2021 07:13:30 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>21.10.20(수)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2021/10/202110181149273e3fd5e2-17f9-42f4-a562-b0fbcacda08a.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[최현우 〈더 브레인 THE BRAIN〉 블록버스터급 멘탈매직쇼 첫 티켓오픈！]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5536</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5536</guid>
-            <pubDate>Sun, 17 Oct 2021 16:19:41 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>21.10.20(수)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2021/10/20211013094135685b1d6b-a499-4270-94a2-12d784ac12d9.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[［임연 1st LIVE 스테이지＿가을노을］티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5544</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5544</guid>
-            <pubDate>Mon, 18 Oct 2021 07:13:30 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>21.10.19(화)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2021/10/20211015134056c5b0e748-c862-46aa-8a3d-1a528a59dcaa.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
