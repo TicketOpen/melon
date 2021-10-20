@@ -4,9 +4,17 @@
         <title>멜론 티켓</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Oct 2021 06:16:10 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Oct 2021 07:13:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뮤지컬 〈레베카〉 2차 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5557</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5557</guid>
+            <pubDate>Wed, 20 Oct 2021 07:13:47 GMT</pubDate>
+            <content:encoded><![CDATA[2021.10.27(수) 11:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2021/10/202110201521133205b778-6afc-45ba-a5cb-cfd4c4a790f0.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
         <item>
             <title><![CDATA[마포Fm 스틸 얼라이브 4주년 콘서트 김훨＆정우 티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5554</link>
@@ -22,6 +30,14 @@
             <pubDate>Wed, 20 Oct 2021 02:02:07 GMT</pubDate>
             <content:encoded><![CDATA[2021.10.20(수) 11:00]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2021/10/20211019180333f08012df-e49e-43a9-bd9d-3a16bdd9278a.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[［멋진녀석들 1st 가을 콘서트_Last Fall Men］티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5552</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5552</guid>
+            <pubDate>Wed, 20 Oct 2021 07:13:47 GMT</pubDate>
+            <content:encoded><![CDATA[2021.10.21(목) 18:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2021/10/202110191453445c507b79-fb5f-4389-b8a3-40f298205435.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
         <item>
             <title><![CDATA[스트릿 우먼 파이터［ON THE STAGE］－부산 티켓 오픈 안내]]></title>
@@ -70,22 +86,6 @@
             <pubDate>Tue, 19 Oct 2021 07:13:06 GMT</pubDate>
             <content:encoded><![CDATA[2021.10.20(수) 18:00]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2021/10/20211016161155ffad1de4-0d0c-4d6d-b936-c461dcd6553d.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[［유준 1st 소극장 팬미팅：출발］티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5545</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5545</guid>
-            <pubDate>Tue, 19 Oct 2021 03:15:50 GMT</pubDate>
-            <content:encoded><![CDATA[2021.10.20(수) 12:00]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2021/10/202110161508345fd4b039-1902-4140-8595-caeb83863ffa.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[［임연 1st LIVE 스테이지＿가을노을］티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5544</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5544</guid>
-            <pubDate>Mon, 18 Oct 2021 07:13:23 GMT</pubDate>
-            <content:encoded><![CDATA[2021.10.19(화) 18:00]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2021/10/20211015134056c5b0e748-c862-46aa-8a3d-1a528a59dcaa.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
     </channel>
 </rss>
