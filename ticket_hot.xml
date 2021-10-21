@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Oct 2021 02:07:10 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Oct 2021 03:13:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Tue, 19 Oct 2021 06:16:19 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>21.10.21(목)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2021/10/2021102110162545719927-7199-4e43-a32b-8e81c5d75186.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[아티스트를 위한 엑셀러레이팅 콘서트 ［로．프．스］티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5555</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5555</guid>
+            <pubDate>Thu, 21 Oct 2021 03:13:56 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>21.10.25(월)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2021/10/2021102109170889e01364-6346-4018-b9d1-ac97a6d30633.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
         <item>
             <title><![CDATA[마포Fm 스틸 얼라이브 4주년 콘서트 김훨＆정우 티켓 오픈 안내]]></title>
@@ -72,20 +80,12 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2021/10/202110201521133205b778-6afc-45ba-a5cb-cfd4c4a790f0.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
         <item>
-            <title><![CDATA[먼데이프로젝트 IN 라이브클럽［허드 단독 콘서트］티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5531</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5531</guid>
-            <pubDate>Sun, 17 Oct 2021 16:19:41 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>21.10.20(수)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2021/10/20211012114903669dc8a0-fe3d-4918-84ef-3cb9d711abf1.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[2021 온라인 체험극－다크필드라디오 〈ETERNAL〉 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5547</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5547</guid>
-            <pubDate>Mon, 18 Oct 2021 07:13:30 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>21.10.20(수)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2021/10/202110181149273e3fd5e2-17f9-42f4-a562-b0fbcacda08a.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+            <title><![CDATA[먼데이프로젝트 시즌4［차세대 단독 콘서트］티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5556</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5556</guid>
+            <pubDate>Thu, 21 Oct 2021 03:13:56 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>21.10.28(목)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2021/10/202110201407565eb847c6-4d0f-46ab-8647-225d74c93279.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
