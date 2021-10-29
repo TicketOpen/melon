@@ -4,7 +4,7 @@
         <title>멜론 티켓</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Oct 2021 08:15:58 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Oct 2021 09:13:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -48,6 +48,22 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2021/10/202110281619242fb2e32f-c61f-4126-88c6-49b477f63a5b.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
         <item>
+            <title><![CDATA[루비레코드 레이블쇼－Ruby Wednesday 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5577</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5577</guid>
+            <pubDate>Fri, 29 Oct 2021 09:13:18 GMT</pubDate>
+            <content:encoded><![CDATA[2021.11.02(화) 17:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2021/10/202110281314138bd94368-7e9a-4bda-9299-1204b77ec1df.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[［한국소아암재단과 함께하는 정미애의 블루콘서트］티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5576</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5576</guid>
+            <pubDate>Fri, 29 Oct 2021 09:13:18 GMT</pubDate>
+            <content:encoded><![CDATA[2021.11.01(월) 12:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2021/10/20211028112417fbcab404-a07e-47a8-ba27-666379d52de5.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
             <title><![CDATA[［2021 홍찬미 따듯한 힐링 콘서트］티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5575</link>
             <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5575</guid>
@@ -70,22 +86,6 @@
             <pubDate>Wed, 27 Oct 2021 09:13:35 GMT</pubDate>
             <content:encoded><![CDATA[2021.10.29(금) 18:00]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2021/10/202110271033273c329df9-bd9f-4cc9-a785-682da72578d3.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[케빈오 단독 콘서트：After Tonight 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5572</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5572</guid>
-            <pubDate>Wed, 27 Oct 2021 03:14:10 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.03(수) 20:00]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2021/10/20211026160146fe292ae5-5a84-43d7-ae77-940a22533059.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[온스타인웨이 Vol．8 〈박소은〉－온라인 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5571</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5571</guid>
-            <pubDate>Wed, 27 Oct 2021 02:26:05 GMT</pubDate>
-            <content:encoded><![CDATA[2021.10.28(목) 11:00]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2021/10/202110261509258ea7c04f-cb1e-485a-a1e6-0f1012e5e489.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
     </channel>
 </rss>
