@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 30 Oct 2021 04:17:03 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Oct 2021 05:11:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -88,6 +88,14 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2021/10/202110271033273c329df9-bd9f-4cc9-a785-682da72578d3.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
         <item>
+            <title><![CDATA[새벽공방 크리스마스 콘서트 〈Winter Land〉 티켓 오픈 안내 (멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식)]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5578</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5578</guid>
+            <pubDate>Fri, 29 Oct 2021 03:14:33 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>21.11.01(월)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2021/10/202110281619242fb2e32f-c61f-4126-88c6-49b477f63a5b.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
             <title><![CDATA[뮤지컬 〈하데스타운〉 최초 한국 공연，5차 티켓 오픈！（Musical Hadestown） (멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식)]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5587</link>
             <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5587</guid>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 27 Oct 2021 09:13:35 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>21.10.29(금)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2021/10/202110271033273c329df9-bd9f-4cc9-a785-682da72578d3.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[［대구］뮤지컬 〈엑스칼리버〉 티켓 오픈 안내 (멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식)]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5579</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5579</guid>
-            <pubDate>Fri, 29 Oct 2021 05:12:04 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>21.11.02(화)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2021/10/2021102818280693a7d8a2-2ae7-4ef5-a6bd-03173e48e09a.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
