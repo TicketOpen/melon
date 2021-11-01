@@ -4,9 +4,17 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 01 Nov 2021 05:12:28 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Nov 2021 06:16:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[문화정원아트홀 기획 서울전자음악단 단독공연 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5595</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5595</guid>
+            <pubDate>Mon, 01 Nov 2021 06:16:26 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>21.11.05(금)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2021/11/20211101115456d0eefb4d-11b3-4cba-adb0-6b053e1f5e56.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
         <item>
             <title><![CDATA[3 Should Be Better Than 1 티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5594</link>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 28 Oct 2021 02:26:36 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>21.10.29(금)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2021/10/202110271424533044ee3f-d86e-4d72-b69f-9f2c1360a06d.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[마리슈 7주년 기념 단독공연 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5591</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5591</guid>
-            <pubDate>Mon, 01 Nov 2021 03:14:26 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>21.11.11(목)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2021/10/2021103015351388512a51-9d1c-46dd-973e-58d244e9008b.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
