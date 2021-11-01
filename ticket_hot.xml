@@ -4,9 +4,25 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 01 Nov 2021 21:12:23 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Nov 2021 22:11:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[［대구］뮤지컬 〈엑스칼리버〉 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5579</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5579</guid>
+            <pubDate>Mon, 01 Nov 2021 00:44:45 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>21.11.02(화)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2021/10/2021102818280693a7d8a2-2ae7-4ef5-a6bd-03173e48e09a.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[웃음꽃 가든 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5584</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5584</guid>
+            <pubDate>Mon, 01 Nov 2021 22:11:36 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>21.11.02(화)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2021/10/202110291339495096fa0c-1565-462c-8ac4-c90189c2d2dc.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
         <item>
             <title><![CDATA[뮤지컬 〈젠틀맨스 가이드：사랑과 살인편〉 2차 티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5596</link>
@@ -56,14 +72,6 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2021/10/2021102910512803274c92-ff20-4d24-ba7e-5cfad6e3c42f.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
         <item>
-            <title><![CDATA[［대구］뮤지컬 〈엑스칼리버〉 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5579</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5579</guid>
-            <pubDate>Mon, 01 Nov 2021 00:44:45 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>21.11.02(화)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2021/10/2021102818280693a7d8a2-2ae7-4ef5-a6bd-03173e48e09a.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
             <title><![CDATA[애프터문 단독 콘서트：After Tonight 티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5568</link>
             <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5568</guid>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 28 Oct 2021 15:14:28 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>21.11.01(월)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2021/10/20211026145620b75e8982-687e-4871-b9b6-cbe392dc7610.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[［성남］뮤지컬 〈시카고〉 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5566</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5566</guid>
-            <pubDate>Mon, 01 Nov 2021 00:44:45 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>21.11.01(월)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2021/10/20211026113610f1955d64-6a19-4634-8df0-2d21840c8c62.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
