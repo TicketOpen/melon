@@ -17,3 +17,12 @@ linkSelector = "a.thumb_160x225"
 contentSelector = "span.date"
 imageSelector = "span.img img"
 waitUntil = "networkidle"
+
+[ticket_onsale]
+title = "멜론티켓 ─ 판매중"
+url = "https://ticket.melon.com/place/ajax/list_album.htm"
+entrySelector = "tbody tr"
+titleSelector = "span.show_title"
+linkSelector = "span a"
+imageSelector = "div a img"
+waitUntil = "networkidle"
