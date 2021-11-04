@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 판매중</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 04 Nov 2021 14:12:49 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Nov 2021 15:14:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -206,31 +206,6 @@
                             2021.11.04 - 2021.11.07</td>
                         <td class="show_loc">드림아트센터 2관</td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2021/09/20210928141710029e22e4-d190-4943-8727-95aa587911ec.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[투데이올드스니커즈 첫번째 단독 콘서트［여기서 빛난다］]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=206245</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=206245</guid>
-            <pubDate>Wed, 03 Nov 2021 19:01:05 GMT</pubDate>
-            <content:encoded><![CDATA[<td>
-                            <div class="show_infor">
-                                <div class="thumb_90x125  img">
-                                    <a href="#">
-                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2021/10/202110081219063eab528b-fe16-43b9-93e6-69df21c78afa.jpg/melon/resize/90x125/strip/true" alt="">
-                                        <span class="frame"></span>
-                                    </a>
-                                </div>
-                                <p class="infor_text">
-                                    <span class="ico_wrap">
-                                        <span class="ico_list ico_list1">단독판매</span><span class="ico_list ico_list4"> 판매중</span></span>
-                                    <span class="show_title"><a href="/performance/index.htm?prodId=206245">투데이올드스니커즈 첫번째 단독 콘서트［여기서 빛난다］</a></span>
-                                </p>
-                            </div>
-                        </td>
-                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
-                            2021.11.04 - 2021.11.04</td>
-                        <td class="show_loc">KT&amp;G 상상마당 라이브홀</td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2021/10/202110081219063eab528b-fe16-43b9-93e6-69df21c78afa.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
             <title><![CDATA[［천안］뮤지컬 〈시카고〉]]></title>
@@ -506,6 +481,31 @@
                             2021.11.07 - 2021.11.07</td>
                         <td class="show_loc">프리즘홀 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2021/10/202110081528173f286a32-c7ca-4728-9012-f4d84bfd80e0.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[온스타인웨이 Vol．9 〈BOYHOOD〉－온라인]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=206302</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=206302</guid>
+            <pubDate>Thu, 04 Nov 2021 15:14:29 GMT</pubDate>
+            <content:encoded><![CDATA[<td>
+                            <div class="show_infor">
+                                <div class="thumb_90x125  img">
+                                    <a href="#">
+                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2021/10/20211025162400367d1dfc-86e6-4637-99c0-f09bb84d0861.jpg/melon/resize/90x125/strip/true" alt="">
+                                        <span class="frame"></span>
+                                    </a>
+                                </div>
+                                <p class="infor_text">
+                                    <span class="ico_wrap">
+                                        <span class="ico_list ico_list4"> 판매중</span></span>
+                                    <span class="show_title"><a href="/performance/index.htm?prodId=206302">온스타인웨이 Vol．9 〈BOYHOOD〉－온라인</a></span>
+                                </p>
+                            </div>
+                        </td>
+                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
+                            2021.11.07 - 2021.11.07</td>
+                        <td class="show_loc">아티스츠카드 앱＆웹 서비스 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2021/10/20211025162400367d1dfc-86e6-4637-99c0-f09bb84d0861.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
     </channel>
 </rss>
