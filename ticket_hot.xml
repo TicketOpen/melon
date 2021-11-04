@@ -4,9 +4,25 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 04 Nov 2021 09:14:20 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Nov 2021 10:15:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[웃음꽃 가든 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5584</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5584</guid>
+            <pubDate>Thu, 04 Nov 2021 10:15:03 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>21.11.02(화)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2021/11/202111041819251613889f-26e7-49d3-b0a2-640eba75d72e.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[잠비나이 단독공연 New songs Premiere 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5604</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5604</guid>
+            <pubDate>Thu, 04 Nov 2021 10:15:03 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>21.11.10(수)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2021/11/202111040918177b9c4f39-67c5-466a-8c71-ccfa17a7c119.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
         <item>
             <title><![CDATA[문화정원아트홀 기획 서울전자음악단 단독공연 티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5595</link>
@@ -70,22 +86,6 @@
             <pubDate>Thu, 04 Nov 2021 00:44:36 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>21.11.05(금)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2021/11/20211103170215f85aa030-b8a1-49bf-9ea5-9701621b8b34.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 〈젠틀맨스 가이드：사랑과 살인편〉 2차 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5596</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5596</guid>
-            <pubDate>Mon, 01 Nov 2021 08:16:20 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>21.11.04(목)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2021/11/20211101120055d8e98c40-9283-441c-a463-a784a154b670.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[로칼하이레코즈와 함께하는 하범석 단독공연 “주변인”－로．프．스 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5592</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5592</guid>
-            <pubDate>Tue, 02 Nov 2021 08:16:20 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>21.11.04(목)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2021/11/202111021700566f0b829b-a895-4c75-8811-87f1c4091c5e.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
