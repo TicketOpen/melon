@@ -4,9 +4,25 @@
         <title>멜론 티켓</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 Nov 2021 04:17:15 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Nov 2021 05:12:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[연극 〈디어 런드리〉 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5609</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5609</guid>
+            <pubDate>Fri, 05 Nov 2021 05:12:24 GMT</pubDate>
+            <content:encoded><![CDATA[2021.11.10(수) 14:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2021/11/20211105112407199e8481-b061-4bea-a377-63bd9a8364b3.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[［전주］국민연극 〈라이어1탄〉 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5607</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5607</guid>
+            <pubDate>Fri, 05 Nov 2021 05:12:24 GMT</pubDate>
+            <content:encoded><![CDATA[2021.11.10(수) 14:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2021/11/20211105101100637035b2-4876-4091-a80a-8f1c83ccdea1.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
         <item>
             <title><![CDATA[［우주라이브］지애린 콘서트 티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5605</link>
@@ -70,22 +86,6 @@
             <pubDate>Tue, 02 Nov 2021 05:11:55 GMT</pubDate>
             <content:encoded><![CDATA[2021.11.05(금) 12:00]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2021/11/2021110211372791ff3c41-de90-4821-be7b-b42ad0dbfc3b.png/melon/resize/65x92/strip/true" length="0" type="image/png/melon/resize/65x92/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[문화정원아트홀 기획 오지은 단독공연 ‘가을의 만남’ 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5597</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5597</guid>
-            <pubDate>Tue, 02 Nov 2021 03:14:23 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.09(화) 20:00]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2021/11/20211101170230fde6da37-337e-4c79-a280-95f37639fb0b.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 〈젠틀맨스 가이드：사랑과 살인편〉 2차 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5596</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5596</guid>
-            <pubDate>Mon, 01 Nov 2021 08:16:12 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.04(목) 14:00]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2021/11/20211101120055d8e98c40-9283-441c-a463-a784a154b670.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
     </channel>
 </rss>
