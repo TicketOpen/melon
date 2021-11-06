@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 Nov 2021 23:14:06 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 06 Nov 2021 00:41:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Fri, 05 Nov 2021 05:12:31 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>21.11.09(화)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2021/11/20211105112407199e8481-b061-4bea-a377-63bd9a8364b3.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[［우주라이브］김우주＆로쿠 콘서트]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5608</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5608</guid>
+            <pubDate>Sat, 06 Nov 2021 00:41:29 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>21.11.06(토)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2021/11/202111051025444bac1824-0ffd-4e35-a175-780d80858b42.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
         <item>
             <title><![CDATA[［전주］국민연극 〈라이어1탄〉 티켓 오픈 안내]]></title>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 04 Nov 2021 10:15:03 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>21.11.10(수)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2021/11/202111040918177b9c4f39-67c5-466a-8c71-ccfa17a7c119.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[문화정원아트홀 기획 서울전자음악단 단독공연 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5595</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5595</guid>
-            <pubDate>Wed, 03 Nov 2021 15:14:29 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>21.11.05(금)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2021/11/20211101115456d0eefb4d-11b3-4cba-adb0-6b053e1f5e56.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
