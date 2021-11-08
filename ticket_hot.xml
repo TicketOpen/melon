@@ -4,9 +4,17 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 Nov 2021 05:12:44 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Nov 2021 06:16:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[연극 〈디어 런드리〉 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5609</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5609</guid>
+            <pubDate>Fri, 05 Nov 2021 05:12:31 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>21.11.09(화)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2021/11/20211105112407199e8481-b061-4bea-a377-63bd9a8364b3.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
         <item>
             <title><![CDATA[에이프릴 세컨드 단독 공연 〈12월의 돌고래：somewhere〉 티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5611</link>
@@ -22,14 +30,6 @@
             <pubDate>Mon, 08 Nov 2021 00:43:42 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>21.11.09(화)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2021/11/20211101170230fde6da37-337e-4c79-a280-95f37639fb0b.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[연극 〈디어 런드리〉 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5609</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5609</guid>
-            <pubDate>Fri, 05 Nov 2021 05:12:31 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>21.11.09(화)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2021/11/20211105112407199e8481-b061-4bea-a377-63bd9a8364b3.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 〈레베카〉 3차 티켓 오픈 안내]]></title>
