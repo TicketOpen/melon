@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 판매중</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 Nov 2021 14:13:01 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Nov 2021 15:14:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -181,31 +181,6 @@
                             2021.11.06 - 2022.04.03</td>
                         <td class="show_loc">헤이리스 갤러리 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2021/10/20211019154214e63ecc2c-e588-4cc5-a08e-f773ce1daea9.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[먼데이프로젝트 시즌4［음악여행，쉼］그＿냥 단독 콘서트]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=206267</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=206267</guid>
-            <pubDate>Sat, 06 Nov 2021 15:13:50 GMT</pubDate>
-            <content:encoded><![CDATA[<td>
-                            <div class="show_infor">
-                                <div class="thumb_90x125  img">
-                                    <a href="#">
-                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2021/10/202110131312160b5dd2fe-2802-4078-9069-253509d8d656.jpg/melon/resize/90x125/strip/true" alt="">
-                                        <span class="frame"></span>
-                                    </a>
-                                </div>
-                                <p class="infor_text">
-                                    <span class="ico_wrap">
-                                        <span class="ico_list ico_list1">단독판매</span><span class="ico_list ico_list4"> 판매중</span></span>
-                                    <span class="show_title"><a href="/performance/index.htm?prodId=206267">먼데이프로젝트 시즌4［음악여행，쉼］그＿냥 단독 콘서트</a></span>
-                                </p>
-                            </div>
-                        </td>
-                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
-                            2021.11.08 - 2021.11.08</td>
-                        <td class="show_loc">구름아래소극장 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2021/10/202110131312160b5dd2fe-2802-4078-9069-253509d8d656.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
             <title><![CDATA[10 YEARS OF ARCHIVE：DOCUMENTED BY MAGAZINE B]]></title>
@@ -506,6 +481,31 @@
                             2021.11.13 - 2021.11.13</td>
                         <td class="show_loc">동자아트홀 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2021/10/20211019174152a1612a1c-b928-4562-af6e-c35a7c9c5bbe.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[아티스트를 위한 엑셀러레이팅 콘서트 ［로．프．스］]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=206287</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=206287</guid>
+            <pubDate>Mon, 08 Nov 2021 15:14:42 GMT</pubDate>
+            <content:encoded><![CDATA[<td>
+                            <div class="show_infor">
+                                <div class="thumb_90x125  img">
+                                    <a href="#">
+                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2021/10/2021102109153306faa3e6-790f-4a71-9ebb-9885e93685dd.jpg/melon/resize/90x125/strip/true" alt="">
+                                        <span class="frame"></span>
+                                    </a>
+                                </div>
+                                <p class="infor_text">
+                                    <span class="ico_wrap">
+                                        <span class="ico_list ico_list1">단독판매</span><span class="ico_list ico_list4"> 판매중</span></span>
+                                    <span class="show_title"><a href="/performance/index.htm?prodId=206287">아티스트를 위한 엑셀러레이팅 콘서트 ［로．프．스］</a></span>
+                                </p>
+                            </div>
+                        </td>
+                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
+                            2021.11.13 - 2021.11.14</td>
+                        <td class="show_loc">프리즘홀 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2021/10/2021102109153306faa3e6-790f-4a71-9ebb-9885e93685dd.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
     </channel>
 </rss>
