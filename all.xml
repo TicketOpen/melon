@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 Nov 2021 01:56:15 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Nov 2021 02:27:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[콘서트 브랜디드 VOL．1 〈팔로알토，허클베리피，저스디스，EK〉－온라인 티켓 오픈 안내 (멜론 티켓)]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5617</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5617</guid>
+            <pubDate>Tue, 09 Nov 2021 02:27:22 GMT</pubDate>
+            <content:encoded><![CDATA[2021.11.10(수) 18:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2021/11/202111081120522c1b8301-5532-40a6-9604-0f1774bc522e.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
         <item>
             <title><![CDATA[Play NuPlay［2nd Label Concert］티켓 오픈 안내 (멜론 티켓)]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5616</link>
@@ -78,14 +86,6 @@
             <pubDate>Sat, 06 Nov 2021 00:41:23 GMT</pubDate>
             <content:encoded><![CDATA[2021.11.06(토) 12:00]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2021/11/202111051025444bac1824-0ffd-4e35-a175-780d80858b42.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[［전주］국민연극 〈라이어1탄〉 티켓 오픈 안내 (멜론 티켓)]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5607</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5607</guid>
-            <pubDate>Fri, 05 Nov 2021 05:12:24 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.10(수) 14:00]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2021/11/20211105101100637035b2-4876-4091-a80a-8f1c83ccdea1.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
         <item>
             <title><![CDATA[먼데이프로젝트 IN 라이브클럽［김제형 단독 콘서트］티켓 오픈 안내 (멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식)]]></title>
