@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 10 Nov 2021 00:43:25 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Nov 2021 01:56:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -72,20 +72,20 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2021/11/202111040918177b9c4f39-67c5-466a-8c71-ccfa17a7c119.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
         <item>
+            <title><![CDATA[이날치 XR 콘서트［수궁가：Catch the Rabbit］티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5620</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5620</guid>
+            <pubDate>Wed, 10 Nov 2021 01:56:11 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>21.11.11(목)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2021/11/2021110916390368871dd9-43aa-41cf-9277-4ca42f99eafc.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
             <title><![CDATA[옥상달빛 연말 단독 공연［수고했어，올해도 2021］티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5618</link>
             <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5618</guid>
             <pubDate>Tue, 09 Nov 2021 05:12:23 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>21.11.12(금)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2021/11/20211109103744bc178a4c-941c-41d0-a464-a7cddd823b71.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[［오픈일 변경］Play NuPlay［2nd Label Concert］티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5616</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5616</guid>
-            <pubDate>Tue, 09 Nov 2021 07:13:50 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>21.11.16(화)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2021/11/202111081757162a9d5bb1-f522-476c-a8fc-5608b1971a17.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
