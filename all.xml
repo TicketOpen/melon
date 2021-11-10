@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 10 Nov 2021 08:16:45 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Nov 2021 09:14:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -48,6 +48,14 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2021/11/2021110916390368871dd9-43aa-41cf-9277-4ca42f99eafc.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
         <item>
+            <title><![CDATA[지윤해 단독 공연 〈And‥？〉 티켓 오픈 안내 (멜론 티켓)]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5619</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5619</guid>
+            <pubDate>Wed, 10 Nov 2021 09:13:54 GMT</pubDate>
+            <content:encoded><![CDATA[2021.11.12(금) 18:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2021/11/2021110914255876582603-5bfc-49d0-86d1-422790e1f316.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
             <title><![CDATA[옥상달빛 연말 단독 공연［수고했어，올해도 2021］티켓 오픈 안내 (멜론 티켓)]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5618</link>
             <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5618</guid>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 08 Nov 2021 11:11:22 GMT</pubDate>
             <content:encoded><![CDATA[2021.11.16(화) 18:00]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2021/11/2021110817570706f5b931-13f1-4625-94fe-8bdbb9c64d1b.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[［오픈일 변경］Play NuPlay［＃2 THE CHIMMI］티켓 오픈 안내 (멜론 티켓)]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5614</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5614</guid>
-            <pubDate>Mon, 08 Nov 2021 11:11:22 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.16(화) 18:00]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2021/11/20211108175656a0c5639d-904a-4a55-823b-11c59fc11d6f.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
         <item>
             <title><![CDATA[2021 어반자카파 전국투어 콘서트 ‘겨울’－부산 티켓 오픈 안내 (멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식)]]></title>
