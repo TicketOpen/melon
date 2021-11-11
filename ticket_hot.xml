@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 Nov 2021 01:56:53 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Nov 2021 02:28:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Wed, 10 Nov 2021 02:28:45 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>21.11.18(목)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2021/11/20211110103834a8cc7dce-d01b-483d-beff-eb000c9a2877.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[소수빈 X 구원찬［TUNE UP STAGE with Friends＃8］티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5625</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5625</guid>
+            <pubDate>Thu, 11 Nov 2021 02:28:22 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>21.11.12(금)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2021/11/20211110104627c4508893-e9f1-44f9-b8a4-8cb471380d99.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
         <item>
             <title><![CDATA[에이프릴 세컨드 단독 공연 〈12월의 돌고래：somewhere〉 티켓 오픈 안내]]></title>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 09 Nov 2021 01:56:09 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>21.11.10(수)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2021/11/202111040918177b9c4f39-67c5-466a-8c71-ccfa17a7c119.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[블록버스터급 멘탈매직쇼 최현우 〈더 브레인〉 홀리데이 시즌 마지막 티켓오픈！]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5623</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5623</guid>
-            <pubDate>Wed, 10 Nov 2021 05:11:53 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>21.11.17(수)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2021/11/20211109173922f7b1f60e-6ecc-4111-902c-f9ab4494a1cf.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
