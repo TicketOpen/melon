@@ -4,7 +4,7 @@
         <title>멜론 티켓</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 16 Nov 2021 10:15:17 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Nov 2021 11:11:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -72,20 +72,20 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2021/11/2021111511261695626082-c31e-4c9a-86d1-431c31aa10b1.png/melon/resize/65x92/strip/true" length="0" type="image/png/melon/resize/65x92/strip/true"/>
         </item>
         <item>
+            <title><![CDATA[2021 세투아 연주회 〈봄열갈結（맺을 결）〉 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5634</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5634</guid>
+            <pubDate>Tue, 16 Nov 2021 11:11:42 GMT</pubDate>
+            <content:encoded><![CDATA[2021.11.16(화) 20:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2021/11/202111121420523a6e6317-9e49-4bda-bf80-0324948ef50f.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
             <title><![CDATA[뮤지컬 〈젠틀맨스 가이드：사랑과 살인편〉 3차 티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5633</link>
             <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5633</guid>
             <pubDate>Fri, 12 Nov 2021 07:13:59 GMT</pubDate>
             <content:encoded><![CDATA[2021.11.17(수) 11:00]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2021/11/20211112131000c790ab5d-17d6-433d-9a18-5182b93d04a5.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[2021 정승환의 안녕 겨울：다시 여기，우리－서울 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5632</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5632</guid>
-            <pubDate>Fri, 12 Nov 2021 05:12:40 GMT</pubDate>
-            <content:encoded><![CDATA[오픈일정 보기 &gt;]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2021/11/2021111114584641ee7f4f-01cc-4492-ab2a-177398a73dcf.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
     </channel>
 </rss>
