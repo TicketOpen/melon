@@ -4,7 +4,7 @@
         <title>멜론 티켓</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 19 Nov 2021 07:14:10 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Nov 2021 08:16:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Fri, 19 Nov 2021 05:12:29 GMT</pubDate>
             <content:encoded><![CDATA[2021.11.26(금) 14:00]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2021/11/2021111913093060f5b789-2f72-47f9-97c5-9d039dc8b618.png/melon/resize/65x92/strip/true" length="0" type="image/png/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 〈클림트：그 영혼의 시간속으로〉 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5662</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5662</guid>
+            <pubDate>Fri, 19 Nov 2021 08:16:15 GMT</pubDate>
+            <content:encoded><![CDATA[2021.11.19(금) 17:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2021/11/20211119114016eee1200d-5e0b-493a-a17e-a14ac26faff0.png/melon/resize/65x92/strip/true" length="0" type="image/png/melon/resize/65x92/strip/true"/>
         </item>
         <item>
             <title><![CDATA[［광주］2021 이승철 전국투어 콘서트 “우리，이제 만나요” 티켓 오픈 안내]]></title>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 18 Nov 2021 05:12:55 GMT</pubDate>
             <content:encoded><![CDATA[2021.11.23(화) 20:00]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2021/11/202111181128066f2f02d3-5e62-4be4-90dc-08b2e92622a5.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[［우주라이브］Jade．L 콘서트 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5652</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5652</guid>
-            <pubDate>Fri, 19 Nov 2021 00:43:29 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.19(금) 12:00]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2021/11/20211118111420d3b56c8f-78c0-4340-a27c-c936b50a5819.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
     </channel>
 </rss>
