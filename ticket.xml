@@ -4,7 +4,7 @@
         <title>멜론 티켓</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 18 Nov 2021 23:14:46 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Nov 2021 00:43:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,6 +30,14 @@
             <pubDate>Thu, 18 Nov 2021 05:12:55 GMT</pubDate>
             <content:encoded><![CDATA[2021.11.23(화) 20:00]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2021/11/202111181128066f2f02d3-5e62-4be4-90dc-08b2e92622a5.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[［우주라이브］Jade．L 콘서트 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5652</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5652</guid>
+            <pubDate>Fri, 19 Nov 2021 00:43:29 GMT</pubDate>
+            <content:encoded><![CDATA[2021.11.19(금) 12:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2021/11/20211118111420d3b56c8f-78c0-4340-a27c-c936b50a5819.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
         <item>
             <title><![CDATA[Fill in your blank Spin off．〈맥거핀‘s PRESS ROOM〉 티켓 오픈 안내]]></title>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 18 Nov 2021 09:13:50 GMT</pubDate>
             <content:encoded><![CDATA[2021.11.19(금) 18:00]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2021/11/202111171028027a067695-b8e0-43d6-94ae-65bc52b782d6.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[먼데이프로젝트 IN 라이브클럽［크리스탈 티 단독 콘서트］티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5643</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5643</guid>
-            <pubDate>Wed, 17 Nov 2021 03:14:17 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.24(수) 20:00]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2021/11/2021111618284411bed6fd-e890-4f60-8fdd-d8257a434e46.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
     </channel>
 </rss>
