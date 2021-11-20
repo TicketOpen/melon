@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 20 Nov 2021 04:17:29 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Nov 2021 05:12:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Fri, 19 Nov 2021 09:14:29 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>21.11.25(목)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2021/11/20211118181342055c5529-fda8-46d8-8ef4-48b977f5ea59.png/melon/resize/160x225/strip/true" length="0" type="image/png/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[오프더메뉴 첫 단독콘서트 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5666</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5666</guid>
+            <pubDate>Sat, 20 Nov 2021 05:12:17 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>21.11.23(화)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2021/11/202111191640190cdd22c5-76e3-4ae8-a550-8fb16b961cc0.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 〈클림트：그 영혼의 시간속으로〉 티켓 오픈 안내]]></title>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 18 Nov 2021 18:16:04 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>21.11.22(월)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2021/11/202111171607259bca9b28-cc35-4c22-92b4-54b47d6b811c.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[오현진 단독공연 ［I´LL BE YOUR LOVE］2021 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5645</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5645</guid>
-            <pubDate>Thu, 18 Nov 2021 09:13:57 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>21.11.22(월)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2021/11/202111171539571660b76c-380d-45a3-9284-b0bdffba1bee.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
