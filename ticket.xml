@@ -4,9 +4,17 @@
         <title>멜론 티켓</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 22 Nov 2021 10:15:07 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Nov 2021 11:11:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김뜻돌 첫 단독공연 〈돌잔치〉 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5670</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5670</guid>
+            <pubDate>Mon, 22 Nov 2021 11:11:38 GMT</pubDate>
+            <content:encoded><![CDATA[2021.11.25(목) 20:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2021/11/20211122164503bdc5b122-75e9-42df-bbd9-279e0e793343.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
         <item>
             <title><![CDATA[우지원 단독공연 〈Not Just a Dream〉 티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5667</link>
@@ -78,14 +86,6 @@
             <pubDate>Sat, 20 Nov 2021 04:17:17 GMT</pubDate>
             <content:encoded><![CDATA[2021.11.23(화) 18:00]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2021/11/2021111815024754071bb9-b5b7-4edb-979e-95debda78984.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[2021 환희 소극장 콘서트［가족］티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5657</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5657</guid>
-            <pubDate>Fri, 19 Nov 2021 05:12:29 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.25(목) 14:00]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2021/11/20211118181342055c5529-fda8-46d8-8ef4-48b977f5ea59.png/melon/resize/65x92/strip/true" length="0" type="image/png/melon/resize/65x92/strip/true"/>
         </item>
     </channel>
 </rss>
