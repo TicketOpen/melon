@@ -4,9 +4,17 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 22 Nov 2021 04:17:50 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Nov 2021 05:13:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[［Will You Date Me？with 박서함］티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5664</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5664</guid>
+            <pubDate>Mon, 22 Nov 2021 05:13:20 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>21.11.23(화)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2021/11/202111191400023d9fef2d-dc4f-4f0b-a057-ca9e522e26bf.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
         <item>
             <title><![CDATA[리엘（Liel）단독공연［Goodbye I’m Going Home］티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5653</link>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 19 Nov 2021 09:14:29 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>21.11.25(목)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2021/11/20211118181342055c5529-fda8-46d8-8ef4-48b977f5ea59.png/melon/resize/160x225/strip/true" length="0" type="image/png/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 〈클림트：그 영혼의 시간속으로〉 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5662</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5662</guid>
-            <pubDate>Fri, 19 Nov 2021 08:16:21 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>21.11.19(금)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2021/11/20211119114016eee1200d-5e0b-493a-a17e-a14ac26faff0.png/melon/resize/160x225/strip/true" length="0" type="image/png/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
