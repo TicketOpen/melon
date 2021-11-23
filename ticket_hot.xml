@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 23 Nov 2021 04:17:57 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Nov 2021 05:12:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -64,6 +64,14 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2021/11/202111191400023d9fef2d-dc4f-4f0b-a057-ca9e522e26bf.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
         <item>
+            <title><![CDATA[2021 나린 연말 콘서트：Year－end concert 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5668</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5668</guid>
+            <pubDate>Tue, 23 Nov 2021 05:12:19 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>21.11.23(화)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2021/11/202111221119584d64a924-8b55-4eac-94fe-e63a78b5b206.png/melon/resize/160x225/strip/true" length="0" type="image/png/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
             <title><![CDATA[사공 단독공연 티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5658</link>
             <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5658</guid>
@@ -78,14 +86,6 @@
             <pubDate>Sun, 21 Nov 2021 22:13:37 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>21.11.23(화)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2021/11/20211118172125b04050ab-fa64-4f1b-8c7a-5e0765f7e5e0.png/melon/resize/160x225/strip/true" length="0" type="image/png/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[헤이맨（HeyMen）연말 단독 콘서트 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5648</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5648</guid>
-            <pubDate>Thu, 18 Nov 2021 18:16:04 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>21.11.22(월)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2021/11/2021111716260741fa4ec4-3b01-4022-8983-b77241829eac.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>

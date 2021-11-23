@@ -4,7 +4,7 @@
         <title>멜론 티켓</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 23 Nov 2021 04:17:57 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Nov 2021 05:12:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Mon, 22 Nov 2021 11:11:38 GMT</pubDate>
             <content:encoded><![CDATA[2021.11.25(목) 20:00]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2021/11/20211122164503bdc5b122-75e9-42df-bbd9-279e0e793343.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[2021 나린 연말 콘서트：Year－end concert 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5668</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5668</guid>
+            <pubDate>Tue, 23 Nov 2021 05:12:12 GMT</pubDate>
+            <content:encoded><![CDATA[2021.11.23(화) 18:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2021/11/202111221119584d64a924-8b55-4eac-94fe-e63a78b5b206.png/melon/resize/65x92/strip/true" length="0" type="image/png/melon/resize/65x92/strip/true"/>
         </item>
         <item>
             <title><![CDATA[우지원 단독공연 〈Not Just a Dream〉 티켓 오픈 안내]]></title>
@@ -30,6 +38,14 @@
             <pubDate>Sat, 20 Nov 2021 05:12:09 GMT</pubDate>
             <content:encoded><![CDATA[2021.11.23(화) 19:00]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2021/11/202111191640190cdd22c5-76e3-4ae8-a550-8fb16b961cc0.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[연극 〈디어 런드리〉 2차 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5665</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5665</guid>
+            <pubDate>Tue, 23 Nov 2021 05:12:12 GMT</pubDate>
+            <content:encoded><![CDATA[2021.11.24(수) 14:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2021/11/20211119154439e170279e-5230-4dbd-bd6b-29103cbcf9ed.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
         <item>
             <title><![CDATA[［Will You Date Me？with 박서함］티켓 오픈 안내]]></title>
@@ -70,22 +86,6 @@
             <pubDate>Fri, 19 Nov 2021 03:14:26 GMT</pubDate>
             <content:encoded><![CDATA[2021.11.26(금) 19:00]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2021/11/202111181755476a99b915-b66b-4c6e-96dd-df4d02a0d93d.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[연극 〈친정엄마와 2박 3일〉－용인 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5659</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5659</guid>
-            <pubDate>Fri, 19 Nov 2021 05:12:29 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.23(화) 15:00]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2021/11/20211118172125b04050ab-fa64-4f1b-8c7a-5e0765f7e5e0.png/melon/resize/65x92/strip/true" length="0" type="image/png/melon/resize/65x92/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[사공 단독공연 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5658</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5658</guid>
-            <pubDate>Sat, 20 Nov 2021 04:17:17 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.23(화) 18:00]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2021/11/2021111815024754071bb9-b5b7-4edb-979e-95debda78984.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
     </channel>
 </rss>
