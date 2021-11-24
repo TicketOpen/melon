@@ -4,9 +4,25 @@
         <title>멜론 티켓</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 24 Nov 2021 01:56:41 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Nov 2021 02:28:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[unCERTAINTY 서수진 단독공연（Feat．Coloris Trio x 정수동 x Park 8）티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5675</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5675</guid>
+            <pubDate>Wed, 24 Nov 2021 02:28:32 GMT</pubDate>
+            <content:encoded><![CDATA[2021.11.25(목) 14:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2021/11/202111231714563ebb939e-eb68-4f58-b649-882c6b88c092.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[범인류적 유산모음곡 Part 1．과거로부터 현재로 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5674</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5674</guid>
+            <pubDate>Wed, 24 Nov 2021 02:28:32 GMT</pubDate>
+            <content:encoded><![CDATA[2021.11.25(목) 14:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2021/11/20211123171232cd758299-8980-4670-9c21-e271a283acdc.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
         <item>
             <title><![CDATA[2021 정동하의 크리스마스 콘서트 ＂성탄동하＂]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5673</link>
@@ -70,22 +86,6 @@
             <pubDate>Tue, 23 Nov 2021 05:12:12 GMT</pubDate>
             <content:encoded><![CDATA[2021.11.24(수) 14:00]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2021/11/20211119154439e170279e-5230-4dbd-bd6b-29103cbcf9ed.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[［Will You Date Me？with 박서함］티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5664</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5664</guid>
-            <pubDate>Mon, 22 Nov 2021 03:14:32 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.23(화) 18:00]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2021/11/202111191400023d9fef2d-dc4f-4f0b-a057-ca9e522e26bf.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[서울인디뮤직페스타［LIVE CLUB DAY－LIVE IS HERE］티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5663</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5663</guid>
-            <pubDate>Fri, 19 Nov 2021 05:12:29 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.26(금) 14:00]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2021/11/202111231434065af6f595-bc48-4b20-8a6d-7773eeb3efb3.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
     </channel>
 </rss>
