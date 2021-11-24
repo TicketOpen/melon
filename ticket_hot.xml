@@ -4,9 +4,17 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 24 Nov 2021 02:28:47 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Nov 2021 03:14:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[왈츠소파 크리스마스 콘서트 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5678</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5678</guid>
+            <pubDate>Wed, 24 Nov 2021 03:14:37 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>21.11.26(금)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2021/11/20211124111553ba0258c0-e761-40c4-b3f7-8d7d8e963ae1.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
         <item>
             <title><![CDATA[뮤지컬 〈더데빌〉 2차 티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5672</link>
@@ -14,6 +22,14 @@
             <pubDate>Tue, 23 Nov 2021 06:16:25 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>21.11.30(화)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2021/11/202111231417244e0de046-5bc1-4b64-8383-f3201829265b.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[먼데이프로젝트 IN 라이브클럽［해서웨이 단독 콘서트］티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5676</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5676</guid>
+            <pubDate>Wed, 24 Nov 2021 03:14:37 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>21.12.01(수)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2021/11/20211123172526cb128a26-a1bc-47ac-bf66-1758656063c3.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
         <item>
             <title><![CDATA[범인류적 유산모음곡 Part 1．과거로부터 현재로 티켓 오픈 안내]]></title>
@@ -70,22 +86,6 @@
             <pubDate>Sat, 20 Nov 2021 05:12:17 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>21.11.23(화)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2021/11/202111191640190cdd22c5-76e3-4ae8-a550-8fb16b961cc0.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[ALIVE STAGE ＃7：백아 소극장 단독 콘서트 ‘종이비행기’ 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5650</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5650</guid>
-            <pubDate>Tue, 23 Nov 2021 00:43:13 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>21.11.24(수)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2021/11/20211118105630628cd51e-6cc3-4dfb-9443-ac7cd506a051.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[먼데이프로젝트 IN 라이브클럽［크리스탈 티 단독 콘서트］티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5643</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5643</guid>
-            <pubDate>Tue, 23 Nov 2021 00:43:13 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>21.11.24(수)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2021/11/2021111618284411bed6fd-e890-4f60-8fdd-d8257a434e46.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
