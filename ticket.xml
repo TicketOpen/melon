@@ -4,7 +4,7 @@
         <title>멜론 티켓</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 Nov 2021 01:58:15 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Nov 2021 02:30:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Thu, 25 Nov 2021 01:57:59 GMT</pubDate>
             <content:encoded><![CDATA[2021.11.25(목) 09:00]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2021/11/202111250918294a22f868-7460-494b-9b4e-7f546a1c3700.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[온스타인웨이 Vol．15 〈최낙타〉－온라인 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5679</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5679</guid>
+            <pubDate>Thu, 25 Nov 2021 02:30:40 GMT</pubDate>
+            <content:encoded><![CDATA[2021.11.26(금) 11:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2021/11/20211124113907ce28529e-ca6d-4cdb-9939-f9feae6dace7.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
         <item>
             <title><![CDATA[왈츠소파 크리스마스 콘서트 티켓 오픈 안내]]></title>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 24 Nov 2021 09:14:26 GMT</pubDate>
             <content:encoded><![CDATA[2021.11.30(화) 20:00]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2021/11/20211123105610f5507764-a487-4e87-9a5a-997ba824586c.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[김뜻돌 첫 단독공연 〈돌잔치〉 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5670</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5670</guid>
-            <pubDate>Mon, 22 Nov 2021 11:11:38 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.25(목) 20:00]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2021/11/20211122164503bdc5b122-75e9-42df-bbd9-279e0e793343.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
     </channel>
 </rss>
