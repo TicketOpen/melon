@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 판매중</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 Nov 2021 14:13:28 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Nov 2021 15:14:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -231,31 +231,6 @@
                             2021.11.24 - 2021.11.26</td>
                         <td class="show_loc">STAYG </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2021/11/202111031517591296eb36-1cad-4f9a-8313-2215afabf772.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[로칼하이레코즈와 함께하는 하범석 단독공연 “주변인”－로．프．스]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=206316</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=206316</guid>
-            <pubDate>Sun, 21 Nov 2021 15:14:04 GMT</pubDate>
-            <content:encoded><![CDATA[<td>
-                            <div class="show_infor">
-                                <div class="thumb_90x125  img">
-                                    <a href="#">
-                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2021/11/2021110217013926fcc90b-4e7d-4db1-8a56-5d420a62731c.jpg/melon/resize/90x125/strip/true" alt="">
-                                        <span class="frame"></span>
-                                    </a>
-                                </div>
-                                <p class="infor_text">
-                                    <span class="ico_wrap">
-                                        <span class="ico_list ico_list1">단독판매</span><span class="ico_list ico_list4"> 판매중</span></span>
-                                    <span class="show_title"><a href="/performance/index.htm?prodId=206316">로칼하이레코즈와 함께하는 하범석 단독공연 “주변인”－로．프．스</a></span>
-                                </p>
-                            </div>
-                        </td>
-                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
-                            2021.11.25 - 2021.11.25</td>
-                        <td class="show_loc">KT&amp;G 상상마당 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2021/11/2021110217013926fcc90b-4e7d-4db1-8a56-5d420a62731c.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
             <title><![CDATA[소수빈 X 구원찬［TUNE UP STAGE with Friends＃8］［튠업 스테이지 위드 프렌즈 # 8］]]></title>
@@ -506,6 +481,31 @@
                             2021.11.27 - 2021.11.27</td>
                         <td class="show_loc">플렉스 라운지 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2021/10/202110151048237b361e46-9338-4614-a648-ed490d5fcc28.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[온스타인웨이 Vol．14 〈권순관〉－온라인]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=206288</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=206288</guid>
+            <pubDate>Thu, 25 Nov 2021 15:14:55 GMT</pubDate>
+            <content:encoded><![CDATA[<td>
+                            <div class="show_infor">
+                                <div class="thumb_90x125  img">
+                                    <a href="#">
+                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2021/10/202110211013103d38536d-dd39-4c7b-a28f-8ff33df94ff7.jpg/melon/resize/90x125/strip/true" alt="">
+                                        <span class="frame"></span>
+                                    </a>
+                                </div>
+                                <p class="infor_text">
+                                    <span class="ico_wrap">
+                                        <span class="ico_list ico_list4"> 판매중</span></span>
+                                    <span class="show_title"><a href="/performance/index.htm?prodId=206288">온스타인웨이 Vol．14 〈권순관〉－온라인</a></span>
+                                </p>
+                            </div>
+                        </td>
+                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
+                            2021.11.27 - 2021.11.27</td>
+                        <td class="show_loc">아티스츠카드 앱＆웹 서비스 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2021/10/202110211013103d38536d-dd39-4c7b-a28f-8ff33df94ff7.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
     </channel>
 </rss>
