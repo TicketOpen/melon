@@ -4,9 +4,17 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 Nov 2021 02:30:53 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Nov 2021 03:14:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[먼데이프로젝트 시즌4［음악여행，쉼］－모브닝 단독 콘서트 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5683</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5683</guid>
+            <pubDate>Thu, 25 Nov 2021 03:14:48 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>21.12.02(목)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2021/11/2021112511405646423a6b-4aa0-4112-95c7-a52bfc1ed147.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
         <item>
             <title><![CDATA[김창완밴드 콘서트 in 부산 티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5681</link>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 25 Nov 2021 02:30:46 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>21.11.26(금)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2021/11/20211124113907ce28529e-ca6d-4cdb-9939-f9feae6dace7.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 〈더데빌〉 2차 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5672</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5672</guid>
-            <pubDate>Tue, 23 Nov 2021 06:16:25 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>21.11.30(화)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2021/11/202111231417244e0de046-5bc1-4b64-8383-f3201829265b.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
