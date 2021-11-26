@@ -4,7 +4,7 @@
         <title>멜론 티켓</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 Nov 2021 10:15:37 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Nov 2021 11:12:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Fri, 26 Nov 2021 09:14:19 GMT</pubDate>
             <content:encoded><![CDATA[2021.11.29(월) 18:00]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2021/11/20211126154606b4b3fddd-f01f-4914-9970-0f4aad968f02.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[곽푸른하늘 단독공연 〈10〉]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5687</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5687</guid>
+            <pubDate>Fri, 26 Nov 2021 11:11:54 GMT</pubDate>
+            <content:encoded><![CDATA[2021.11.29(월) 20:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2021/11/2021112614063718ef4525-08f5-4c7d-8207-4f5278280d5c.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
         <item>
             <title><![CDATA[터치드 1st EP앨범 “Purple” 발매기념 단독공연 티켓 오픈 안내]]></title>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 26 Nov 2021 09:14:19 GMT</pubDate>
             <content:encoded><![CDATA[2021.11.27(토) 18:00]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2021/11/202111241145342185a218-b9c1-43a4-b6f3-4b29b89cfd49.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[온스타인웨이 Vol．15 〈최낙타〉－온라인 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5679</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5679</guid>
-            <pubDate>Thu, 25 Nov 2021 02:30:40 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.26(금) 11:00]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2021/11/20211124113907ce28529e-ca6d-4cdb-9939-f9feae6dace7.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
     </channel>
 </rss>
