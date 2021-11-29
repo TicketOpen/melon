@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 판매중</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 29 Nov 2021 14:13:44 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Nov 2021 15:14:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -181,31 +181,6 @@
                             2021.11.16 - 2022.02.27</td>
                         <td class="show_loc">충무아트센터 대극장</td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2021/10/20211005135224d40025cb-59c7-411e-b5b2-f013a3a8ce24.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[먼데이프로젝트 IN 라이브클럽［김제형 단독 콘서트］]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=206326</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=206326</guid>
-            <pubDate>Sat, 27 Nov 2021 15:13:55 GMT</pubDate>
-            <content:encoded><![CDATA[<td>
-                            <div class="show_infor">
-                                <div class="thumb_90x125  img">
-                                    <a href="#">
-                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2021/11/20211101101158d3c17c05-cb73-415f-84fc-e6cb6ba85800.jpg/melon/resize/90x125/strip/true" alt="">
-                                        <span class="frame"></span>
-                                    </a>
-                                </div>
-                                <p class="infor_text">
-                                    <span class="ico_wrap">
-                                        <span class="ico_list ico_list1">단독판매</span><span class="ico_list ico_list4"> 판매중</span></span>
-                                    <span class="show_title"><a href="/performance/index.htm?prodId=206326">먼데이프로젝트 IN 라이브클럽［김제형 단독 콘서트］</a></span>
-                                </p>
-                            </div>
-                        </td>
-                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
-                            2021.11.29 - 2021.11.29</td>
-                        <td class="show_loc">네스트나다 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2021/11/20211101101158d3c17c05-cb73-415f-84fc-e6cb6ba85800.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
             <title><![CDATA[이날치 콘서트［수궁가：Catch the Rabbit］]]></title>
@@ -506,6 +481,31 @@
                             2021.12.04 - 2021.12.04</td>
                         <td class="show_loc">플렉스 라운지 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2021/11/20211113120932641748f3-3d5e-478d-bf70-c76699f007c7.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[리엘（Liel）단독공연［Goodbye I’m Going Home］]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=206387</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=206387</guid>
+            <pubDate>Mon, 29 Nov 2021 15:14:46 GMT</pubDate>
+            <content:encoded><![CDATA[<td>
+                            <div class="show_infor">
+                                <div class="thumb_90x125  img">
+                                    <a href="#">
+                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2021/11/202111191045551b3986ad-9d1b-431b-99f7-c44c9f3aa76e.jpg/melon/resize/90x125/strip/true" alt="">
+                                        <span class="frame"></span>
+                                    </a>
+                                </div>
+                                <p class="infor_text">
+                                    <span class="ico_wrap">
+                                        <span class="ico_list ico_list1">단독판매</span><span class="ico_list ico_list4"> 판매중</span></span>
+                                    <span class="show_title"><a href="/performance/index.htm?prodId=206387">리엘（Liel）단독공연［Goodbye I’m Going Home］</a></span>
+                                </p>
+                            </div>
+                        </td>
+                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
+                            2021.12.04 - 2021.12.04</td>
+                        <td class="show_loc">문화정원아트홀 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2021/11/202111191045551b3986ad-9d1b-431b-99f7-c44c9f3aa76e.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
     </channel>
 </rss>
