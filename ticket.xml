@@ -4,9 +4,17 @@
         <title>멜론 티켓</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 Nov 2021 08:14:29 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Nov 2021 09:12:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[데이먼스 이어 2021 연말 단독 공연［Setting Fires］티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5695</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5695</guid>
+            <pubDate>Tue, 30 Nov 2021 09:12:07 GMT</pubDate>
+            <content:encoded><![CDATA[2021.12.03(금) 18:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2021/11/202111291648041b758205-a96c-4c3a-85c7-a8ce3a4e017e.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
         <item>
             <title><![CDATA[최고은［reAL II］‘오늘의 난 미지근하게 축제’ 발매 단독 공연 티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5694</link>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 26 Nov 2021 05:12:52 GMT</pubDate>
             <content:encoded><![CDATA[2021.12.02(목) 18:00]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2021/11/20211130145504d4bae030-0928-4f58-ac17-4aab124b82bc.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 〈하데스타운〉 최초 한국 공연，6차 티켓 오픈！（Musical Hadestown）]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5685</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5685</guid>
-            <pubDate>Fri, 26 Nov 2021 05:12:52 GMT</pubDate>
-            <content:encoded><![CDATA[2021.12.03(금) 14:00]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2021/11/202111261102250fcc8965-70b6-4871-8ff7-35dee448c52b.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
     </channel>
 </rss>
