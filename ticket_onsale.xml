@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 판매중</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Dec 2021 14:13:45 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Dec 2021 15:15:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -181,31 +181,6 @@
                             2021.11.16 - 2022.02.27</td>
                         <td class="show_loc">충무아트센터 대극장</td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2021/10/20211005135224d40025cb-59c7-411e-b5b2-f013a3a8ce24.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[Play NuPlay［＃1 일단 공연 올때 다 알려줌（19금）］]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=206344</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=206344</guid>
-            <pubDate>Sat, 27 Nov 2021 15:13:55 GMT</pubDate>
-            <content:encoded><![CDATA[<td>
-                            <div class="show_infor">
-                                <div class="thumb_90x125  img">
-                                    <a href="#">
-                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2021/11/20211116160223bab01085-8d4d-491b-869d-7442837b9ad1.jpg/melon/resize/90x125/strip/true" alt="">
-                                        <span class="frame"></span>
-                                    </a>
-                                </div>
-                                <p class="infor_text">
-                                    <span class="ico_wrap">
-                                        <span class="ico_list ico_list1">단독판매</span><span class="ico_list ico_list4"> 판매중</span></span>
-                                    <span class="show_title"><a href="/performance/index.htm?prodId=206344">Play NuPlay［＃1 일단 공연 올때 다 알려줌（19금）］ </a></span>
-                                </p>
-                            </div>
-                        </td>
-                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
-                            2021.12.01 - 2021.12.01</td>
-                        <td class="show_loc">KT&amp;G 상상마당 홍대 라이브홀 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2021/11/20211116160223bab01085-8d4d-491b-869d-7442837b9ad1.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
             <title><![CDATA[Fill in your blank Spin off．〈맥거핀‘s PRESS ROOM〉]]></title>
@@ -506,6 +481,31 @@
                             2021.12.04 - 2021.12.05</td>
                         <td class="show_loc">롤링홀 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2021/11/202111030917298ea48359-3032-41db-88cc-e1c31d304f15.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[［대구］뮤지컬 〈엑스칼리버〉]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=206320</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=206320</guid>
+            <pubDate>Wed, 01 Dec 2021 15:15:20 GMT</pubDate>
+            <content:encoded><![CDATA[<td>
+                            <div class="show_infor">
+                                <div class="thumb_90x125  img">
+                                    <a href="#">
+                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2021/10/20211029134053bb3d9b66-498e-43a4-a921-2e5077f7a07d.jpg/melon/resize/90x125/strip/true" alt="">
+                                        <span class="frame"></span>
+                                    </a>
+                                </div>
+                                <p class="infor_text">
+                                    <span class="ico_wrap">
+                                        <span class="ico_list ico_list4"> 판매중</span></span>
+                                    <span class="show_title"><a href="/performance/index.htm?prodId=206320">［대구］뮤지컬 〈엑스칼리버〉</a></span>
+                                </p>
+                            </div>
+                        </td>
+                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
+                            2021.12.04 - 2021.12.05</td>
+                        <td class="show_loc">계명아트센터 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2021/10/20211029134053bb3d9b66-498e-43a4-a921-2e5077f7a07d.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
     </channel>
 </rss>
