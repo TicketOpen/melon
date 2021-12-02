@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Dec 2021 02:31:23 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Dec 2021 03:14:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,6 +30,14 @@
             <pubDate>Wed, 01 Dec 2021 09:14:37 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>21.12.03(금)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2021/11/202111301530384d474de5-21ce-437a-996e-7b461017425d.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[먼데이프로젝트 시즌4［청춘의 밤］－전진희 단독 콘서트 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5701</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5701</guid>
+            <pubDate>Thu, 02 Dec 2021 03:14:33 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>21.12.09(목)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2021/12/20211201154710328b20ab-e47e-4ae9-82d2-5f83c34d5639.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
         <item>
             <title><![CDATA[체리필터 연말 단독 콘서트：Cherry Christmas 티켓 오픈 안내]]></title>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 30 Nov 2021 00:46:27 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>21.12.01(수)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2021/11/20211123172526cb128a26-a1bc-47ac-bf66-1758656063c3.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[FREE HUG 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5682</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5682</guid>
-            <pubDate>Tue, 30 Nov 2021 00:46:27 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>21.12.01(수)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2021/11/2021112509552030e1cced-2ec3-42a2-9b97-ca4fb221a9f1.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
