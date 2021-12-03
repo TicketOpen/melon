@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 판매중</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Dec 2021 14:13:38 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Dec 2021 15:15:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -181,31 +181,6 @@
                             2021.11.16 - 2022.02.27</td>
                         <td class="show_loc">충무아트센터 대극장</td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2021/10/20211005135224d40025cb-59c7-411e-b5b2-f013a3a8ce24.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[Fill in your blank Spin off．〈맥거핀‘s PRESS ROOM〉]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=206384</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=206384</guid>
-            <pubDate>Sat, 27 Nov 2021 15:13:55 GMT</pubDate>
-            <content:encoded><![CDATA[<td>
-                            <div class="show_infor">
-                                <div class="thumb_90x125  img">
-                                    <a href="#">
-                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2021/11/20211117173033dfed5fad-5be6-401e-99a7-e02e168f6e21.jpg/melon/resize/90x125/strip/true" alt="">
-                                        <span class="frame"></span>
-                                    </a>
-                                </div>
-                                <p class="infor_text">
-                                    <span class="ico_wrap">
-                                        <span class="ico_list ico_list1">단독판매</span><span class="ico_list ico_list4"> 판매중</span></span>
-                                    <span class="show_title"><a href="/performance/index.htm?prodId=206384">Fill in your blank Spin off．〈맥거핀‘s PRESS ROOM〉</a></span>
-                                </p>
-                            </div>
-                        </td>
-                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
-                            2021.12.03 - 2021.12.03</td>
-                        <td class="show_loc">롤링홀 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2021/11/20211117173033dfed5fad-5be6-401e-99a7-e02e168f6e21.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
             <title><![CDATA[서울인디뮤직페스타［LIVE CLUB DAY－LIVE IS HERE］]]></title>
@@ -506,6 +481,31 @@
                             2021.12.04 - 2021.12.05</td>
                         <td class="show_loc">계명아트센터 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2021/10/20211029134053bb3d9b66-498e-43a4-a921-2e5077f7a07d.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[더원과 함께하는 첫사랑（밴드 이층버스 기부콘서트）]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=206358</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=206358</guid>
+            <pubDate>Fri, 03 Dec 2021 15:15:14 GMT</pubDate>
+            <content:encoded><![CDATA[<td>
+                            <div class="show_infor">
+                                <div class="thumb_90x125  img">
+                                    <a href="#">
+                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2021/11/20211111094303aa1502ab-63b1-4936-ac47-eba6d293b0a7.jpg/melon/resize/90x125/strip/true" alt="">
+                                        <span class="frame"></span>
+                                    </a>
+                                </div>
+                                <p class="infor_text">
+                                    <span class="ico_wrap">
+                                        <span class="ico_list ico_list1">단독판매</span><span class="ico_list ico_list4"> 판매중</span></span>
+                                    <span class="show_title"><a href="/performance/index.htm?prodId=206358">더원과 함께하는 첫사랑（밴드 이층버스 기부콘서트）</a></span>
+                                </p>
+                            </div>
+                        </td>
+                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
+                            2021.12.05 - 2021.12.05</td>
+                        <td class="show_loc">성수아트홀 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2021/11/20211111094303aa1502ab-63b1-4936-ac47-eba6d293b0a7.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
     </channel>
 </rss>
