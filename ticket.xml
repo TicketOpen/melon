@@ -4,7 +4,7 @@
         <title>멜론 티켓</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Dec 2021 23:14:08 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Dec 2021 00:43:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Thu, 02 Dec 2021 09:14:12 GMT</pubDate>
             <content:encoded><![CDATA[2021.12.07(화) 18:00]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2021/12/20211202155114aaa341a4-7b2b-4377-bbb5-1322c54cea93.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[［우주라이브］두왑사운드 콘서트 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5702</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5702</guid>
+            <pubDate>Fri, 03 Dec 2021 00:43:45 GMT</pubDate>
+            <content:encoded><![CDATA[2021.12.03(금) 09:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2021/12/2021120209180594445b54-b053-4771-bab6-68bf9da9314b.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
         <item>
             <title><![CDATA[먼데이프로젝트 시즌4［청춘의 밤］－전진희 단독 콘서트 티켓 오픈 안내]]></title>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 29 Nov 2021 05:13:01 GMT</pubDate>
             <content:encoded><![CDATA[2021.12.01(수) 14:00]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2021/11/202111290958558ae9a1d8-626d-4dd4-bfed-7213002c2e2f.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[문화정원아트홀 김바다 단독공연 BAADA 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5693</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5693</guid>
-            <pubDate>Mon, 29 Nov 2021 03:14:22 GMT</pubDate>
-            <content:encoded><![CDATA[2021.12.06(월) 20:00]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2021/11/20211127104949079f5e56-7c0d-44ef-bbe9-a1d2364f5ed4.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
     </channel>
 </rss>
