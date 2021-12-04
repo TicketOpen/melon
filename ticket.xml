@@ -4,9 +4,25 @@
         <title>멜론 티켓</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 04 Dec 2021 02:32:08 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Dec 2021 03:14:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2021 정상수 기부 콘서트－서울 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5713</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5713</guid>
+            <pubDate>Sat, 04 Dec 2021 03:13:59 GMT</pubDate>
+            <content:encoded><![CDATA[2021.12.06(월) 18:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2021/12/20211203173441a23e79b1-8948-4c3a-b779-424abc709767.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[2021 정상수 기부 콘서트－부산 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5712</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5712</guid>
+            <pubDate>Sat, 04 Dec 2021 03:13:59 GMT</pubDate>
+            <content:encoded><![CDATA[2021.12.06(월) 18:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2021/12/202112031734572305ef29-cf3d-4907-8371-9441e0692a39.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
         <item>
             <title><![CDATA[Thumbs UP！with 이정권 티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5709</link>
@@ -70,22 +86,6 @@
             <pubDate>Fri, 03 Dec 2021 00:43:45 GMT</pubDate>
             <content:encoded><![CDATA[2021.12.03(금) 09:00]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2021/12/2021120209180594445b54-b053-4771-bab6-68bf9da9314b.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[먼데이프로젝트 시즌4［청춘의 밤］－전진희 단독 콘서트 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5701</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5701</guid>
-            <pubDate>Thu, 02 Dec 2021 03:14:25 GMT</pubDate>
-            <content:encoded><![CDATA[2021.12.09(목) 20:00]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2021/12/20211201154710328b20ab-e47e-4ae9-82d2-5f83c34d5639.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[정우의［Frame］티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5700</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5700</guid>
-            <pubDate>Wed, 01 Dec 2021 03:14:15 GMT</pubDate>
-            <content:encoded><![CDATA[2021.12.03(금) 18:00]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2021/11/20211130184841e02d118a-11e9-4ff5-aeb6-d8a146fec12c.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
     </channel>
 </rss>

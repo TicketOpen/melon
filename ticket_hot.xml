@@ -4,9 +4,25 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 04 Dec 2021 02:32:08 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Dec 2021 03:14:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2021 정상수 기부 콘서트－부산 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5712</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5712</guid>
+            <pubDate>Sat, 04 Dec 2021 03:14:05 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>21.12.06(월)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2021/12/202112031734572305ef29-cf3d-4907-8371-9441e0692a39.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[2021 정상수 기부 콘서트－서울 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5713</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5713</guid>
+            <pubDate>Sat, 04 Dec 2021 03:14:05 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>21.12.06(월)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2021/12/20211203173441a23e79b1-8948-4c3a-b779-424abc709767.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
         <item>
             <title><![CDATA[2021 정승환의 안녕 겨울：다시 여기，우리－서울 티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5632</link>
@@ -70,22 +86,6 @@
             <pubDate>Fri, 03 Dec 2021 03:14:20 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>21.12.06(월)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2021/12/202112021152347ef9ae27-b247-469f-a42e-706057ab8c39.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[정우의［Frame］티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5700</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5700</guid>
-            <pubDate>Thu, 02 Dec 2021 00:44:21 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>21.12.03(금)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2021/11/20211130184841e02d118a-11e9-4ff5-aeb6-d8a146fec12c.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[터치드 1st EP앨범 “Purple” 발매기념 단독공연 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5686</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5686</guid>
-            <pubDate>Tue, 30 Nov 2021 06:14:05 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>21.12.02(목)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2021/12/2021120117483799c28995-e3d5-4e66-9d5b-104f347dff3f.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
