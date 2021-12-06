@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Dec 2021 07:14:55 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Dec 2021 08:17:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Mon, 06 Dec 2021 05:14:03 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>21.12.15(수)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2021/12/20211206134449d4ce62b0-73d2-42fd-ba4e-07b1f59cd900.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[2021 정승환의 안녕 겨울：다시 여기，우리－서울 추가 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5716</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5716</guid>
+            <pubDate>Mon, 06 Dec 2021 08:17:07 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>21.12.08(수)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2021/12/202112061403335796de85-406e-43d7-adb2-de14b33c84fa.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
         <item>
             <title><![CDATA[먼데이프로젝트 IN 라이브클럽［해서웨이 단독 콘서트］티켓 오픈 안내]]></title>
@@ -78,14 +86,6 @@
             <pubDate>Sat, 04 Dec 2021 03:14:05 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>21.12.06(월)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2021/12/202112031734572305ef29-cf3d-4907-8371-9441e0692a39.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[2021 정상수 기부 콘서트－서울 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5713</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5713</guid>
-            <pubDate>Sat, 04 Dec 2021 03:14:05 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>21.12.06(월)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2021/12/20211203173441a23e79b1-8948-4c3a-b779-424abc709767.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
