@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Dec 2021 02:38:39 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Dec 2021 03:14:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Thu, 02 Dec 2021 09:14:18 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>21.12.07(화)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2021/12/20211202155114aaa341a4-7b2b-4377-bbb5-1322c54cea93.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[이부영 6집［Love，like a song］쇼케이스 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5711</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5711</guid>
+            <pubDate>Mon, 06 Dec 2021 03:14:33 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>21.12.07(화)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2021/12/20211203150750b6974154-5217-4416-901e-ecb45861c68c.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
         <item>
             <title><![CDATA[체리필터 연말 단독 콘서트：Cherry Christmas 티켓 오픈 안내]]></title>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 03 Dec 2021 08:16:36 GMT</pubDate>
             <content:encoded><![CDATA[오픈일정 보기 &gt;]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2021/11/2021111114584641ee7f4f-01cc-4492-ab2a-177398a73dcf.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[［우주라이브］장호선 콘서트 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5710</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5710</guid>
-            <pubDate>Mon, 06 Dec 2021 00:46:23 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>21.12.06(월)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2021/12/20211203130622b2aaba0c-82fb-4132-a9a8-16643719da69.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
