@@ -4,9 +4,17 @@
         <title>멜론 티켓</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Dec 2021 21:13:23 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Dec 2021 08:17:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[［2021，Blue Fanmeeting with 이혁］티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5717</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5717</guid>
+            <pubDate>Tue, 07 Dec 2021 08:17:40 GMT</pubDate>
+            <content:encoded><![CDATA[2021.12.08(수) 18:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2021/12/202112061526066c97fc11-361b-4b26-a123-ece1adb08f8c.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
         <item>
             <title><![CDATA[2021 정승환의 안녕 겨울：다시 여기，우리－서울 추가 티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5716</link>
@@ -22,6 +30,14 @@
             <pubDate>Mon, 06 Dec 2021 05:13:56 GMT</pubDate>
             <content:encoded><![CDATA[2021.12.15(수) 11:00]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2021/12/20211206134449d4ce62b0-73d2-42fd-ba4e-07b1f59cd900.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[밴디지 단독 콘서트：롤링 27주년 기념 공연 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5714</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5714</guid>
+            <pubDate>Tue, 07 Dec 2021 08:17:40 GMT</pubDate>
+            <content:encoded><![CDATA[2021.12.13(월) 20:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2021/12/20211206103253a888d5a3-48bd-46b8-b05e-cab077ab6ba4.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
         <item>
             <title><![CDATA[2021 정상수 기부 콘서트－서울 티켓 오픈 안내]]></title>
@@ -70,22 +86,6 @@
             <pubDate>Fri, 03 Dec 2021 06:16:35 GMT</pubDate>
             <content:encoded><![CDATA[2021.12.07(화) 15:00]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2021/12/202112031109295c82765b-6f98-4559-ba81-ce5910a4db2a.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[2021 온라인 체험극－다크필드라디오 〈DOUBLE〉 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5707</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5707</guid>
-            <pubDate>Fri, 03 Dec 2021 06:16:35 GMT</pubDate>
-            <content:encoded><![CDATA[2021.12.07(화) 15:00]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2021/12/2021120216321285a2e564-561f-4a8b-96ef-e86d005cf8da.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[2021 XINDIE PRESENTS vol．7 나인x범진 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5706</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5706</guid>
-            <pubDate>Fri, 03 Dec 2021 03:14:13 GMT</pubDate>
-            <content:encoded><![CDATA[2021.12.06(월) 14:00]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2021/12/2021120213025448627e9f-6a64-48c3-a5f2-13598c52d844.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
     </channel>
 </rss>
