@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 판매중</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Dec 2021 02:37:51 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Dec 2021 03:14:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -31,6 +31,31 @@
                             2020.09.12 - 2022.02.02</td>
                         <td class="show_loc">뮤지엄 다 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2021/08/202108251658152a126c13-1680-455c-972f-150747fa5ca2.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[너와 내가 만든 세상 제주전，‘아가，봄이 왔다’ 케테콜비츠 전]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=206452</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=206452</guid>
+            <pubDate>Thu, 09 Dec 2021 03:14:30 GMT</pubDate>
+            <content:encoded><![CDATA[<td>
+                            <div class="show_infor">
+                                <div class="thumb_90x125  img">
+                                    <a href="#">
+                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2021/12/20211208121852d757fa0a-e49b-4e71-a175-4374f63d7022.jpg/melon/resize/90x125/strip/true" alt="">
+                                        <span class="frame"></span>
+                                    </a>
+                                </div>
+                                <p class="infor_text">
+                                    <span class="ico_wrap">
+                                        <span class="ico_list ico_list4"> 판매중</span></span>
+                                    <span class="show_title"><a href="/performance/index.htm?prodId=206452">너와 내가 만든 세상 제주전，‘아가，봄이 왔다’ 케테콜비츠 전</a></span>
+                                </p>
+                            </div>
+                        </td>
+                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
+                            2021.04.24 - 2022.03.07</td>
+                        <td class="show_loc">포도뮤지엄 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2021/12/20211208121852d757fa0a-e49b-4e71-a175-4374f63d7022.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 〈하데스타운〉]]></title>
@@ -481,31 +506,6 @@
                             2021.12.10 - 2021.12.11</td>
                         <td class="show_loc">KT&amp;G 상상마당 홍대 라이브홀 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2021/11/20211103170206501e1ef9-955f-4292-a65d-f87379ef7b6e.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[헤이맨（HeyMen）연말 단독 콘서트]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=206378</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=206378</guid>
-            <pubDate>Wed, 08 Dec 2021 15:15:25 GMT</pubDate>
-            <content:encoded><![CDATA[<td>
-                            <div class="show_infor">
-                                <div class="thumb_90x125  img">
-                                    <a href="#">
-                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2021/11/20211117111155cb47f71f-fbc3-45a5-b72b-9b219d2e3529.jpg/melon/resize/90x125/strip/true" alt="">
-                                        <span class="frame"></span>
-                                    </a>
-                                </div>
-                                <p class="infor_text">
-                                    <span class="ico_wrap">
-                                        <span class="ico_list ico_list1">단독판매</span><span class="ico_list ico_list4"> 판매중</span></span>
-                                    <span class="show_title"><a href="/performance/index.htm?prodId=206378">헤이맨（HeyMen）연말 단독 콘서트</a></span>
-                                </p>
-                            </div>
-                        </td>
-                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
-                            2021.12.11 - 2021.12.11</td>
-                        <td class="show_loc">서울마포음악창작소 라이브홀</td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2021/11/20211117111155cb47f71f-fbc3-45a5-b72b-9b219d2e3529.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
     </channel>
 </rss>
