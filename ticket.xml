@@ -4,7 +4,7 @@
         <title>멜론 티켓</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Dec 2021 05:13:46 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Dec 2021 06:16:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Fri, 10 Dec 2021 03:14:11 GMT</pubDate>
             <content:encoded><![CDATA[2021.12.17(금) 11:00]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2021/12/202112101037068b37fbf4-f4d4-41a7-b294-9797e3441897.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[혜은이x재주소년 〈당신의 ‘파란나라’는 무엇인가요？〉 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5724</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5724</guid>
+            <pubDate>Fri, 10 Dec 2021 06:16:39 GMT</pubDate>
+            <content:encoded><![CDATA[2021.12.14(화) 18:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2021/12/2021120917414791a1c6ee-087e-45ed-aa27-2e55613e6b22.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
         <item>
             <title><![CDATA[먼데이프로젝트 시즌4［허드 단독 콘서트］티켓 오픈 안내]]></title>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 07 Dec 2021 08:17:40 GMT</pubDate>
             <content:encoded><![CDATA[2021.12.08(수) 18:00]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2021/12/202112061526066c97fc11-361b-4b26-a123-ece1adb08f8c.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[2021 정승환의 안녕 겨울：다시 여기，우리－서울 추가 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5716</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5716</guid>
-            <pubDate>Mon, 06 Dec 2021 08:17:00 GMT</pubDate>
-            <content:encoded><![CDATA[2021.12.08(수) 20:00]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2021/12/202112061403335796de85-406e-43d7-adb2-de14b33c84fa.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
     </channel>
 </rss>
