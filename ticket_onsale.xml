@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 판매중</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Dec 2021 00:45:58 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Dec 2021 02:00:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -383,6 +383,31 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2021/11/202111251643585a0cd961-2a1f-451a-803b-06dab52733d3.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
+            <title><![CDATA[정세운 공식 팬클럽 ‘행운（LUCKY）’ 4기]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=206456</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=206456</guid>
+            <pubDate>Mon, 13 Dec 2021 02:00:04 GMT</pubDate>
+            <content:encoded><![CDATA[<td>
+                            <div class="show_infor">
+                                <div class="thumb_90x125  img">
+                                    <a href="#">
+                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2021/12/20211210153016e065dbb6-9481-4270-9b71-980f90ef20bf.jpg/melon/resize/90x125/strip/true" alt="">
+                                        <span class="frame"></span>
+                                    </a>
+                                </div>
+                                <p class="infor_text">
+                                    <span class="ico_wrap">
+                                        <span class="ico_list ico_list1">단독판매</span><span class="ico_list ico_list4"> 판매중</span></span>
+                                    <span class="show_title"><a href="/performance/index.htm?prodId=206456">정세운 공식 팬클럽 ‘행운（LUCKY）’ 4기</a></span>
+                                </p>
+                            </div>
+                        </td>
+                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
+                            2021.12.13 - 2021.12.26</td>
+                        <td class="show_loc">- </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2021/12/20211210153016e065dbb6-9481-4270-9b71-980f90ef20bf.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
             <title><![CDATA[2021 XINDIE PRESENTS vol．7 딕펑스x소낙별]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=206433</link>
             <guid>https://ticket.melon.com/performance/index.htm?prodId=206433</guid>
@@ -481,31 +506,6 @@
                             2021.12.15 - 2021.12.15</td>
                         <td class="show_loc">롤링홀 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2021/12/2021120211350857a78243-4f6d-4e74-a43f-0c1b654d2675.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[2021 XINDIE PRESENTS vol．7 나인x범진]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=206436</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=206436</guid>
-            <pubDate>Sun, 12 Dec 2021 15:13:56 GMT</pubDate>
-            <content:encoded><![CDATA[<td>
-                            <div class="show_infor">
-                                <div class="thumb_90x125  img">
-                                    <a href="#">
-                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2021/12/20211202115031d659e42a-69ab-4c27-a1c3-d5e9e08624ff.jpg/melon/resize/90x125/strip/true" alt="">
-                                        <span class="frame"></span>
-                                    </a>
-                                </div>
-                                <p class="infor_text">
-                                    <span class="ico_wrap">
-                                        <span class="ico_list ico_list1">단독판매</span><span class="ico_list ico_list4"> 판매중</span></span>
-                                    <span class="show_title"><a href="/performance/index.htm?prodId=206436">2021 XINDIE PRESENTS vol．7 나인x범진</a></span>
-                                </p>
-                            </div>
-                        </td>
-                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
-                            2021.12.15 - 2021.12.15</td>
-                        <td class="show_loc">폼텍 웍스홀 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2021/12/20211202115031d659e42a-69ab-4c27-a1c3-d5e9e08624ff.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
     </channel>
 </rss>
