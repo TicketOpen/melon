@@ -4,9 +4,17 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Dec 2021 02:37:18 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Dec 2021 03:14:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[1415 3rd EP naps！발매기념 단독 공연：롤링 27주년 기념 공연 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5729</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5729</guid>
+            <pubDate>Mon, 13 Dec 2021 03:14:25 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>21.12.17(금)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2021/12/202112130939430f25e0cd-7412-4018-9248-ed3f996edbac.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
         <item>
             <title><![CDATA[뮤지컬 〈젠틀맨스 가이드：사랑과 살인편〉 5차 티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5725</link>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 10 Dec 2021 03:14:19 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>21.12.17(금)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2021/12/202112101037068b37fbf4-f4d4-41a7-b294-9797e3441897.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[2021 상생콘서트 공유（公有）티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5726</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5726</guid>
-            <pubDate>Mon, 13 Dec 2021 00:45:51 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>21.12.13(월)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2021/12/202112101026151450ae00-3e2a-40e2-aa87-b6f3570a2cdc.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
