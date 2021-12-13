@@ -4,7 +4,7 @@
         <title>멜론 티켓</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Dec 2021 06:16:54 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Dec 2021 07:14:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Mon, 13 Dec 2021 04:17:36 GMT</pubDate>
             <content:encoded><![CDATA[2021.12.20(월) 14:00]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2021/12/20211213120321ef3b0f45-ce19-439a-9c85-ad7c0ee25f57.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[［우주티켓］돈워리 뮤지션（합리적 소비란 무엇인가）－토르토르，연어초밥，여름스웨터 공연 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5732</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5732</guid>
+            <pubDate>Mon, 13 Dec 2021 07:14:07 GMT</pubDate>
+            <content:encoded><![CDATA[2021.12.13(월) 17:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2021/12/202112131131477b2105e1-e34f-42cf-a23d-242249ff300f.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
         <item>
             <title><![CDATA[REDOOR FIRST CONCERT 티켓 오픈 안내]]></title>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 09 Dec 2021 03:14:18 GMT</pubDate>
             <content:encoded><![CDATA[2021.12.16(목) 20:00]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2021/12/202112081715121ebf667a-5d0e-4c9c-97b6-6712a2bd4b04.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[너와 내가 만든 세상 제주전，‘아가，봄이 왔다’ 케테콜비츠 전 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5722</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5722</guid>
-            <pubDate>Thu, 09 Dec 2021 03:14:18 GMT</pubDate>
-            <content:encoded><![CDATA[2021.12.15(수) 12:00]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2021/12/20211208113339281b7356-f862-4604-b525-df8326805f5c.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
     </channel>
 </rss>
