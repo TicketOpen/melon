@@ -4,9 +4,17 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Dec 2021 08:17:09 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Dec 2021 09:15:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[［CHRISTMAS EVE MINII LIVE with 요아리］티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5734</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5734</guid>
+            <pubDate>Mon, 13 Dec 2021 09:15:15 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>21.12.14(화)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2021/12/20211213161559d509ed52-9560-4d96-8b95-ebcc964ef9d6.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
         <item>
             <title><![CDATA[［우주티켓］돈워리 뮤지션（합리적 소비란 무엇인가）－토르토르，연어초밥，여름스웨터 공연 티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5732</link>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 09 Dec 2021 03:14:25 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>21.12.15(수)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2021/12/20211208113339281b7356-f862-4604-b525-df8326805f5c.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[먼데이프로젝트 시즌4［청춘의 밤］－전진희 단독 콘서트 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5701</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5701</guid>
-            <pubDate>Fri, 10 Dec 2021 03:14:19 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>21.12.09(목)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2021/12/20211201154710328b20ab-e47e-4ae9-82d2-5f83c34d5639.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
