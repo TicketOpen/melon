@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Dec 2021 06:17:04 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Dec 2021 07:13:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Thu, 16 Dec 2021 05:13:10 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>21.12.17(금)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2021/12/20211217133951555d93a8-1d97-443d-b346-a6244a37bfa6.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[라포엠 단독 콘서트 〈ECLIPSE〉－부산 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5742</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5742</guid>
+            <pubDate>Fri, 17 Dec 2021 07:13:49 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>21.12.22(수)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2021/12/20211217111226086f93b7-5306-4876-8bce-d27d666adeb3.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
         <item>
             <title><![CDATA[THE BOYZ 공식 팬클럽 〈THE B〉 4기 모집 오픈 안내]]></title>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 10 Dec 2021 06:16:46 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>21.12.14(화)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2021/12/20211215162206b4a40682-c1e7-4cde-8f3f-33a1af212c67.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[2022 Summer Soul 단독 콘서트 ‘January’：롤링 27주년 기념 공연 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5739</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5739</guid>
-            <pubDate>Thu, 16 Dec 2021 03:14:32 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>21.12.23(목)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2021/12/202112151547556a2e64c3-baf4-4bd0-a66b-b9f157657e6e.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
