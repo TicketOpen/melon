@@ -4,9 +4,17 @@
         <title>멜론 티켓</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Dec 2021 02:03:15 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Dec 2021 03:15:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[맥거핀 단독 콘서트 ‘21st Century L’：롤링 27주년 기념 공연 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5743</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5743</guid>
+            <pubDate>Mon, 20 Dec 2021 03:14:45 GMT</pubDate>
+            <content:encoded><![CDATA[2021.12.27(월) 20:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2021/12/2021121715453845b3a0de-24a4-48ac-bbb2-2d06f20af395.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
         <item>
             <title><![CDATA[라포엠 단독 콘서트 〈ECLIPSE〉－부산 티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5742</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 13 Dec 2021 09:15:07 GMT</pubDate>
             <content:encoded><![CDATA[2021.12.14(화) 18:00]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2021/12/20211213161559d509ed52-9560-4d96-8b95-ebcc964ef9d6.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 〈잭더리퍼〉－부산 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5733</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5733</guid>
-            <pubDate>Mon, 13 Dec 2021 04:17:36 GMT</pubDate>
-            <content:encoded><![CDATA[2021.12.20(월) 14:00]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2021/12/20211213120321ef3b0f45-ce19-439a-9c85-ad7c0ee25f57.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
     </channel>
 </rss>
