@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Dec 2021 04:18:31 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Dec 2021 05:14:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -38,6 +38,14 @@
             <pubDate>Sun, 19 Dec 2021 23:13:57 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>21.12.20(월)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2021/12/20211214174439a109a58c-8f5d-4aad-aa21-968431375ab8.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[Thanks For Your Service 릴레이 ROCK 콘서트 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5745</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5745</guid>
+            <pubDate>Tue, 21 Dec 2021 05:14:38 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>21.12.23(목)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2021/12/202112201453268f1841f2-b7aa-4db7-8753-63fa3e137642.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
         <item>
             <title><![CDATA[라포엠 단독 콘서트 〈ECLIPSE〉－부산 티켓 오픈 안내]]></title>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 15 Dec 2021 09:14:13 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>21.12.17(금)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2021/12/20211217163120b91267ba-4574-4cfc-b7c4-3438b6278547.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 〈레베카〉 5차 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5727</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5727</guid>
-            <pubDate>Sun, 19 Dec 2021 23:13:57 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>21.12.17(금)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2021/12/202112101037068b37fbf4-f4d4-41a7-b294-9797e3441897.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
