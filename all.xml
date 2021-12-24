@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Dec 2021 23:14:40 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Dec 2021 00:46:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -88,6 +88,14 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2021/12/20211214174439a109a58c-8f5d-4aad-aa21-968431375ab8.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
         <item>
+            <title><![CDATA[뮤지컬 〈더데빌〉 3차 티켓 오픈 안내 (멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식)]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5744</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5744</guid>
+            <pubDate>Mon, 20 Dec 2021 05:14:39 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>21.12.24(금)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2021/12/2021122013054613b93e61-4cd9-4eac-8030-db8ff1cac886.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
             <title><![CDATA[2022 Summer Soul 단독 콘서트 ‘January’：롤링 27주년 기념 공연 티켓 오픈 안내 (멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식)]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5739</link>
             <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5739</guid>
@@ -150,14 +158,6 @@
             <pubDate>Tue, 21 Dec 2021 06:17:40 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>21.12.01(수)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2021/11/20211130150918acdc7642-fd32-4137-9b64-a510d3657e23.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 〈더데빌〉 3차 티켓 오픈 안내 (멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식)]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5744</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5744</guid>
-            <pubDate>Mon, 20 Dec 2021 05:14:39 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>21.12.24(금)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2021/12/2021122013054613b93e61-4cd9-4eac-8030-db8ff1cac886.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 〈잭더리퍼〉－부산 티켓 오픈 안내 (멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식)]]></title>
