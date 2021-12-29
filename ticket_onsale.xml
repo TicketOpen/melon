@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 판매중</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 Dec 2021 00:46:25 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Dec 2021 02:01:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -258,31 +258,6 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2021/11/2021110511253095150cf0-e456-46e1-bade-3609e987ddef.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 〈더데빌〉]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=206325</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=206325</guid>
-            <pubDate>Fri, 10 Dec 2021 05:13:45 GMT</pubDate>
-            <content:encoded><![CDATA[<td>
-                            <div class="show_infor">
-                                <div class="thumb_90x125  img">
-                                    <a href="#">
-                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2021/11/20211101181406d0da3cfb-729d-4e55-b933-e3c043a67a1f.jpg/melon/resize/90x125/strip/true" alt="">
-                                        <span class="frame"></span>
-                                    </a>
-                                </div>
-                                <p class="infor_text">
-                                    <span class="ico_wrap">
-                                        <span class="ico_list ico_list4"> 판매중</span></span>
-                                    <span class="show_title"><a href="/performance/index.htm?prodId=206325">뮤지컬 〈더데빌〉</a></span>
-                                </p>
-                            </div>
-                        </td>
-                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
-                            2021.12.10 - 2022.02.27</td>
-                        <td class="show_loc">드림아트센터 1관</td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2021/11/20211101181406d0da3cfb-729d-4e55-b933-e3c043a67a1f.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
             <title><![CDATA[THE BOYZ 공식 팬클럽 〈THE B〉 4기]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=206454</link>
             <guid>https://ticket.melon.com/performance/index.htm?prodId=206454</guid>
@@ -506,6 +481,31 @@
                             2021.12.30 - 2021.12.30</td>
                         <td class="show_loc">벨로주 홍대 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2021/12/202112131128396c3903d0-f37e-4ca5-93f4-de877645c030.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[2021 정승환의 안녕 겨울：다시 여기，우리－대구]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=206365</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=206365</guid>
+            <pubDate>Wed, 29 Dec 2021 02:01:26 GMT</pubDate>
+            <content:encoded><![CDATA[<td>
+                            <div class="show_infor">
+                                <div class="thumb_90x125  img">
+                                    <a href="#">
+                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2021/12/20211207162633b83ddaa4-ff8b-42b1-8ee5-c4607d7d4113.jpg/melon/resize/90x125/strip/true" alt="">
+                                        <span class="frame"></span>
+                                    </a>
+                                </div>
+                                <p class="infor_text">
+                                    <span class="ico_wrap">
+                                        <span class="ico_list ico_list1">단독판매</span><span class="ico_list ico_list4"> 판매중</span></span>
+                                    <span class="show_title"><a href="/performance/index.htm?prodId=206365">2021 정승환의 안녕 겨울：다시 여기，우리－대구</a></span>
+                                </p>
+                            </div>
+                        </td>
+                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
+                            2021.12.31 - 2021.12.31</td>
+                        <td class="show_loc">대구 엑스코(EXCO) 오디토리움</td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2021/12/20211207162633b83ddaa4-ff8b-42b1-8ee5-c4607d7d4113.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
     </channel>
 </rss>
