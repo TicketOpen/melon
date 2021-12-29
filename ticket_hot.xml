@@ -4,9 +4,17 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 Dec 2021 04:18:39 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Dec 2021 05:14:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뮤지컬 〈하데스타운〉 최초 한국 공연，마지막 티켓 오픈！（Musical Hadestown）]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5756</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5756</guid>
+            <pubDate>Wed, 29 Dec 2021 05:14:29 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>22.01.04(화)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2021/12/20211229094541a6f25e52-08cb-4be5-a2a7-5700bfc7d8bc.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
         <item>
             <title><![CDATA[이제 단독 콘서트 ‘Open’：롤링 27주년 기념 공연 티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5752</link>
@@ -40,6 +48,14 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2021/12/20211224091140fe065be2-b50c-429f-b8c4-601563a35bd0.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
         <item>
+            <title><![CDATA[양반들 기획공연 흐름 流 flow season：겨울 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5755</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5755</guid>
+            <pubDate>Wed, 29 Dec 2021 05:14:29 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>21.12.31(금)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2021/12/202112290909282d923cb7-3806-46ca-b6de-5421d51eaccc.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
             <title><![CDATA[먼데이프로젝트 IN 라이브클럽［신승은 단독 콘서트］티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5754</link>
             <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5754</guid>
@@ -70,22 +86,6 @@
             <pubDate>Tue, 28 Dec 2021 00:46:37 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>21.11.05(금)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2021/11/20211101093658235f13eb-fda3-4e5b-9064-6aea4e77fd39.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[먼데이프로젝트 시즌4［음악여행，쉼］－모브닝 단독 콘서트 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5683</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5683</guid>
-            <pubDate>Mon, 27 Dec 2021 03:14:27 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>21.12.02(목)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2021/11/2021112511405646423a6b-4aa0-4112-95c7-a52bfc1ed147.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[밴디지 단독 콘서트：롤링 27주년 기념 공연 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5714</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5714</guid>
-            <pubDate>Mon, 27 Dec 2021 00:47:09 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>21.12.13(월)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2021/12/20211206103253a888d5a3-48bd-46b8-b05e-cab077ab6ba4.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>

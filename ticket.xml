@@ -4,9 +4,25 @@
         <title>멜론 티켓</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 Dec 2021 04:18:39 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Dec 2021 05:14:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뮤지컬 〈하데스타운〉 최초 한국 공연，마지막 티켓 오픈！（Musical Hadestown）]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5756</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5756</guid>
+            <pubDate>Wed, 29 Dec 2021 05:14:23 GMT</pubDate>
+            <content:encoded><![CDATA[2022.01.04(화) 14:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2021/12/20211229094541a6f25e52-08cb-4be5-a2a7-5700bfc7d8bc.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[양반들 기획공연 흐름 流 flow season：겨울 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5755</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5755</guid>
+            <pubDate>Wed, 29 Dec 2021 05:14:23 GMT</pubDate>
+            <content:encoded><![CDATA[2021.12.31(금) 19:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2021/12/202112290909282d923cb7-3806-46ca-b6de-5421d51eaccc.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
         <item>
             <title><![CDATA[먼데이프로젝트 IN 라이브클럽［신승은 단독 콘서트］티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5754</link>
@@ -70,22 +86,6 @@
             <pubDate>Wed, 22 Dec 2021 03:15:09 GMT</pubDate>
             <content:encoded><![CDATA[2021.12.29(수) 20:00]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2021/12/202112211041095c1c7260-0033-46cc-9036-dc969caece3f.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[Thanks For Your Service 릴레이 ROCK 콘서트 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5745</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5745</guid>
-            <pubDate>Tue, 21 Dec 2021 05:14:32 GMT</pubDate>
-            <content:encoded><![CDATA[2021.12.23(목) 14:00]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2021/12/202112201453268f1841f2-b7aa-4db7-8753-63fa3e137642.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 〈더데빌〉 3차 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5744</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5744</guid>
-            <pubDate>Mon, 20 Dec 2021 05:14:39 GMT</pubDate>
-            <content:encoded><![CDATA[2021.12.24(금) 14:00]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2021/12/2021122013054613b93e61-4cd9-4eac-8030-db8ff1cac886.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
     </channel>
 </rss>
