@@ -4,9 +4,17 @@
         <title>멜론 티켓</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 31 Dec 2021 08:17:20 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 31 Dec 2021 09:14:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[The Poles 정규 앨범 발매 기념 단독 콘서트 ‘The High Tide Club’ 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5762</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5762</guid>
+            <pubDate>Fri, 31 Dec 2021 09:14:21 GMT</pubDate>
+            <content:encoded><![CDATA[2022.01.03(월) 18:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2021/12/2021123015153424d16546-7d63-4ece-8853-97fb95debb0d.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
         <item>
             <title><![CDATA[［2022 Winter Fanmeeting－유지애 30’s story］티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5761</link>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 28 Dec 2021 05:14:42 GMT</pubDate>
             <content:encoded><![CDATA[2021.12.30(목) 19:00]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2021/12/202112271751376a2fb71c-984a-424d-bceb-8c98bd9167cc.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[이제 단독 콘서트 ‘Open’：롤링 27주년 기념 공연 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5752</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5752</guid>
-            <pubDate>Tue, 28 Dec 2021 03:14:16 GMT</pubDate>
-            <content:encoded><![CDATA[2022.01.03(월) 20:00]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2021/12/20211227142334372b527c-b5f3-4db2-91a1-f976476ea310.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
     </channel>
 </rss>

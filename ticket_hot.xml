@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 31 Dec 2021 08:17:20 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 31 Dec 2021 09:14:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -48,6 +48,14 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2021/12/202112290909282d923cb7-3806-46ca-b6de-5421d51eaccc.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
         <item>
+            <title><![CDATA[The Poles 정규 앨범 발매 기념 단독 콘서트 ‘The High Tide Club’ 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5762</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5762</guid>
+            <pubDate>Fri, 31 Dec 2021 09:14:27 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>22.01.03(월)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2021/12/2021123015153424d16546-7d63-4ece-8853-97fb95debb0d.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
             <title><![CDATA[미스피츠 단독 콘서트 ‘First Step’：롤링 27주년 기념 공연 티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5746</link>
             <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5746</guid>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 30 Dec 2021 03:14:16 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>22.01.06(목)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2021/12/2021122914073991e7c31f-945f-4c4b-85fe-a8b530213a35.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[이제 단독 콘서트 ‘Open’：롤링 27주년 기념 공연 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5752</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5752</guid>
-            <pubDate>Fri, 31 Dec 2021 04:18:35 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>22.01.03(월)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2021/12/20211227142334372b527c-b5f3-4db2-91a1-f976476ea310.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
