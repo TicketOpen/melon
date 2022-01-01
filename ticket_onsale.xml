@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 판매중</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 01 Jan 2022 14:13:07 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 01 Jan 2022 15:13:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -333,31 +333,6 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2021/11/20211126135108968482ed-a0c3-48ee-b8d6-270dbcd8601e.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
-            <title><![CDATA[헐리우드 영화음악 콘서트 in 부산]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=206332</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=206332</guid>
-            <pubDate>Fri, 31 Dec 2021 15:15:01 GMT</pubDate>
-            <content:encoded><![CDATA[<td>
-                            <div class="show_infor">
-                                <div class="thumb_90x125  img">
-                                    <a href="#">
-                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2021/11/202111021647233d8280db-2315-4eb3-88b9-66f683115aec.jpg/melon/resize/90x125/strip/true" alt="">
-                                        <span class="frame"></span>
-                                    </a>
-                                </div>
-                                <p class="infor_text">
-                                    <span class="ico_wrap">
-                                        <span class="ico_list ico_list4"> 판매중</span></span>
-                                    <span class="show_title"><a href="/performance/index.htm?prodId=206332">헐리우드 영화음악 콘서트 in 부산</a></span>
-                                </p>
-                            </div>
-                        </td>
-                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
-                            2021.12.31 - 2022.01.01</td>
-                        <td class="show_loc">드림씨어터 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2021/11/202111021647233d8280db-2315-4eb3-88b9-66f683115aec.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
             <title><![CDATA[CRUMP VOL．12 〈2022 신년 맞이 힙합 콘서트〉]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=206448</link>
             <guid>https://ticket.melon.com/performance/index.htm?prodId=206448</guid>
@@ -506,6 +481,31 @@
                             2022.01.09 - 2022.01.09</td>
                         <td class="show_loc">롤링홀 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2021/12/202112071454325effdc82-c8f3-4e84-9293-192b5af51ac0.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[Happy New Year 2022！Western Kite X kennytheking（guest．g1nger）]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=206481</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=206481</guid>
+            <pubDate>Sat, 01 Jan 2022 15:13:59 GMT</pubDate>
+            <content:encoded><![CDATA[<td>
+                            <div class="show_infor">
+                                <div class="thumb_90x125  img">
+                                    <a href="#">
+                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2021/12/20211224163233ad6824a8-554c-45f9-8651-f2fedfbfb5c8.jpg/melon/resize/90x125/strip/true" alt="">
+                                        <span class="frame"></span>
+                                    </a>
+                                </div>
+                                <p class="infor_text">
+                                    <span class="ico_wrap">
+                                        <span class="ico_list ico_list1">단독판매</span><span class="ico_list ico_list4"> 판매중</span></span>
+                                    <span class="show_title"><a href="/performance/index.htm?prodId=206481">Happy New Year 2022！Western Kite X kennytheking（guest．g1nger）</a></span>
+                                </p>
+                            </div>
+                        </td>
+                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
+                            2022.01.09 - 2022.01.09</td>
+                        <td class="show_loc">벨로주 홍대 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2021/12/20211224163233ad6824a8-554c-45f9-8651-f2fedfbfb5c8.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
     </channel>
 </rss>
