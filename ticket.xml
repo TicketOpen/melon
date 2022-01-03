@@ -4,9 +4,17 @@
         <title>멜론 티켓</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 03 Jan 2022 04:18:30 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Jan 2022 05:14:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[발굴 100주년 기념특별전 투탕카멘：파라오의 비밀 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5763</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5763</guid>
+            <pubDate>Mon, 03 Jan 2022 05:14:32 GMT</pubDate>
+            <content:encoded><![CDATA[2022.01.03(월) 14:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2021/12/202112311611313e437483-2d85-40e1-84af-1b9b60455e1f.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
         <item>
             <title><![CDATA[The Poles 정규 앨범 발매 기념 단독 콘서트 ‘The High Tide Club’ 티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5762</link>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 29 Dec 2021 03:13:57 GMT</pubDate>
             <content:encoded><![CDATA[2022.01.05(수) 20:00]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2021/12/20211228155525514b2353-fd6b-4a1a-bf88-552c98648db3.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[CONNECT：마리슈x오추프로젝트 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5753</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5753</guid>
-            <pubDate>Tue, 28 Dec 2021 05:14:42 GMT</pubDate>
-            <content:encoded><![CDATA[2021.12.30(목) 19:00]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2021/12/202112271751376a2fb71c-984a-424d-bceb-8c98bd9167cc.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
     </channel>
 </rss>

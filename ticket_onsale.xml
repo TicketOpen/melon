@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 판매중</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 03 Jan 2022 04:18:29 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Jan 2022 05:14:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -56,6 +56,31 @@
                             2021.04.24 - 2022.03.07</td>
                         <td class="show_loc">포도뮤지엄 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2021/12/20211208121852d757fa0a-e49b-4e71-a175-4374f63d7022.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[발굴 100주년 기념특별전 투탕카멘：파라오의 비밀]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=206491</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=206491</guid>
+            <pubDate>Mon, 03 Jan 2022 05:14:46 GMT</pubDate>
+            <content:encoded><![CDATA[<td>
+                            <div class="show_infor">
+                                <div class="thumb_90x125  img">
+                                    <a href="#">
+                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2021/12/20211231160851160cfb99-e375-455c-9727-c9f63fdc2a17.jpg/melon/resize/90x125/strip/true" alt="">
+                                        <span class="frame"></span>
+                                    </a>
+                                </div>
+                                <p class="infor_text">
+                                    <span class="ico_wrap">
+                                        <span class="ico_list ico_list4"> 판매중</span></span>
+                                    <span class="show_title"><a href="/performance/index.htm?prodId=206491">발굴 100주년 기념특별전 투탕카멘：파라오의 비밀</a></span>
+                                </p>
+                            </div>
+                        </td>
+                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
+                            2021.06.22 - 2022.04.24</td>
+                        <td class="show_loc">용산 전쟁기념관 특별전시실</td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2021/12/20211231160851160cfb99-e375-455c-9727-c9f63fdc2a17.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 〈하데스타운〉]]></title>
@@ -481,31 +506,6 @@
                             2022.01.14 - 2022.01.15</td>
                         <td class="show_loc">용인 포은아트홀 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2021/11/20211118172052ac0ed7b5-3667-4fa5-a252-2fd4011ebd2e.png/melon/resize/90x125/strip/true" length="0" type="image/png/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[＋1dB（plz）]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=206482</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=206482</guid>
-            <pubDate>Sun, 02 Jan 2022 15:14:16 GMT</pubDate>
-            <content:encoded><![CDATA[<td>
-                            <div class="show_infor">
-                                <div class="thumb_90x125  img">
-                                    <a href="#">
-                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2021/12/20211227100620936e8eda-fddc-4790-b0d1-a26cad08a8cf.jpg/melon/resize/90x125/strip/true" alt="">
-                                        <span class="frame"></span>
-                                    </a>
-                                </div>
-                                <p class="infor_text">
-                                    <span class="ico_wrap">
-                                        <span class="ico_list ico_list1">단독판매</span><span class="ico_list ico_list4"> 판매중</span></span>
-                                    <span class="show_title"><a href="/performance/index.htm?prodId=206482">＋1dB（plz）</a></span>
-                                </p>
-                            </div>
-                        </td>
-                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
-                            2022.01.14 - 2022.01.14</td>
-                        <td class="show_loc">프리즘홀 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2021/12/20211227100620936e8eda-fddc-4790-b0d1-a26cad08a8cf.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
     </channel>
 </rss>

@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 03 Jan 2022 04:18:29 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Jan 2022 05:14:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Sun, 02 Jan 2022 23:13:51 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>22.01.05(수)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2021/12/20211228155525514b2353-fd6b-4a1a-bf88-552c98648db3.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[발굴 100주년 기념특별전 투탕카멘：파라오의 비밀 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5763</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5763</guid>
+            <pubDate>Mon, 03 Jan 2022 05:14:39 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>22.01.03(월)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2021/12/202112311611313e437483-2d85-40e1-84af-1b9b60455e1f.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
         <item>
             <title><![CDATA[［2022 Winter Fanmeeting－유지애 30’s story］티켓 오픈 안내]]></title>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 30 Dec 2021 03:14:16 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>21.12.29(수)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2021/12/202112211041095c1c7260-0033-46cc-9036-dc969caece3f.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[Happy New Year 2022！Western Kite X kennytheking（guest．g1nger）티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5750</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5750</guid>
-            <pubDate>Mon, 27 Dec 2021 03:14:27 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>21.12.29(수)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2021/12/202112270938049f2b363f-29ab-4013-862a-b95b5389427e.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
