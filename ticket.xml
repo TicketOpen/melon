@@ -4,7 +4,7 @@
         <title>멜론 티켓</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 05 Jan 2022 06:17:44 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Jan 2022 07:14:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Wed, 05 Jan 2022 03:15:10 GMT</pubDate>
             <content:encoded><![CDATA[2022.01.10(월) 14:00]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/01/202201051153156318ae1d-69bf-44dc-b3c0-7deec68c6608.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[당기시오 단독공연 “To be another day” 서울공연 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5771</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5771</guid>
+            <pubDate>Wed, 05 Jan 2022 07:13:59 GMT</pubDate>
+            <content:encoded><![CDATA[2022.01.06(목) 20:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/01/20220105095117276ca72f-6ce0-4997-83c6-6c59defaa4f3.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 〈더데빌〉 마지막 티켓 오픈 안내]]></title>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 31 Dec 2021 09:14:21 GMT</pubDate>
             <content:encoded><![CDATA[2022.01.03(월) 18:00]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2021/12/2021123015153424d16546-7d63-4ece-8853-97fb95debb0d.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[［2022 Winter Fanmeeting－유지애 30’s story］티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5761</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5761</guid>
-            <pubDate>Thu, 30 Dec 2021 11:12:12 GMT</pubDate>
-            <content:encoded><![CDATA[2021.12.31(금) 20:00]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2021/12/20211230131855d6665d5b-31b3-49cb-aa0f-2a064fa186ea.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
     </channel>
 </rss>
