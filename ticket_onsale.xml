@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 판매중</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 06 Jan 2022 04:18:44 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Jan 2022 05:15:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -408,6 +408,31 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2021/12/20211224163233ad6824a8-554c-45f9-8651-f2fedfbfb5c8.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
+            <title><![CDATA[정세운 공식 팬클럽 ‘행운（LUCKY）’ 4기 추가모집]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=206456</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=206456</guid>
+            <pubDate>Thu, 06 Jan 2022 05:15:52 GMT</pubDate>
+            <content:encoded><![CDATA[<td>
+                            <div class="show_infor">
+                                <div class="thumb_90x125  img">
+                                    <a href="#">
+                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/01/2022010614014505c1b762-bed0-46a3-a22c-fa4e701ca397.jpg/melon/resize/90x125/strip/true" alt="">
+                                        <span class="frame"></span>
+                                    </a>
+                                </div>
+                                <p class="infor_text">
+                                    <span class="ico_wrap">
+                                        <span class="ico_list ico_list1">단독판매</span><span class="ico_list ico_list4"> 판매중</span></span>
+                                    <span class="show_title"><a href="/performance/index.htm?prodId=206456">정세운 공식 팬클럽 ‘행운（LUCKY）’ 4기 추가모집</a></span>
+                                </p>
+                            </div>
+                        </td>
+                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
+                            2022.01.10 - 2022.01.16</td>
+                        <td class="show_loc">- </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/01/2022010614014505c1b762-bed0-46a3-a22c-fa4e701ca397.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
             <title><![CDATA[Thanks For Your Service 릴레이 ROCK 콘서트]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=206476</link>
             <guid>https://ticket.melon.com/performance/index.htm?prodId=206476</guid>
@@ -481,31 +506,6 @@
                             2022.01.14 - 2022.01.14</td>
                         <td class="show_loc">프리즘홀 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2021/12/20211227100620936e8eda-fddc-4790-b0d1-a26cad08a8cf.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[2022 온라인체험극－다크필드라디오 〈ETERNAL〉]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=206489</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=206489</guid>
-            <pubDate>Wed, 05 Jan 2022 15:15:28 GMT</pubDate>
-            <content:encoded><![CDATA[<td>
-                            <div class="show_infor">
-                                <div class="thumb_90x125  img">
-                                    <a href="#">
-                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/01/202201031351362b364147-4756-4d86-8ac7-6fc060057a8e.jpg/melon/resize/90x125/strip/true" alt="">
-                                        <span class="frame"></span>
-                                    </a>
-                                </div>
-                                <p class="infor_text">
-                                    <span class="ico_wrap">
-                                        <span class="ico_list ico_list1">단독판매</span><span class="ico_list ico_list4"> 판매중</span></span>
-                                    <span class="show_title"><a href="/performance/index.htm?prodId=206489">2022 온라인체험극－다크필드라디오 〈ETERNAL〉</a></span>
-                                </p>
-                            </div>
-                        </td>
-                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
-                            2022.01.14 - 2022.01.30</td>
-                        <td class="show_loc">다크필드라디오 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/01/202201031351362b364147-4756-4d86-8ac7-6fc060057a8e.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
     </channel>
 </rss>
