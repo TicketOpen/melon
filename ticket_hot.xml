@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 07 Jan 2022 05:15:10 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Jan 2022 06:17:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Fri, 07 Jan 2022 05:15:03 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>22.01.10(월)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/01/20220106181940ac94bbf5-e3f1-426d-8ffc-220f9df9de2f.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 〈엑스칼리버〉 2차 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5778</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5778</guid>
+            <pubDate>Fri, 07 Jan 2022 06:17:32 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>22.01.11(화)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/01/20220107143230c319694c-96f2-4ec4-a5c4-58473c3dcb65.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
         <item>
             <title><![CDATA[전자양 단독 공연 ‘팡파레’ 티켓 오픈 안내]]></title>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 05 Jan 2022 07:14:06 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>22.01.06(목)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/01/20220105095117276ca72f-6ce0-4997-83c6-6c59defaa4f3.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[김사월 단독 콘서트：롤링 27주년 기념 공연 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5776</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5776</guid>
-            <pubDate>Fri, 07 Jan 2022 03:17:49 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>22.01.13(목)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/01/202201061438193ff889e1-d761-424a-9419-a52f95c48b25.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
