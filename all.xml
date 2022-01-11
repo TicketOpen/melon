@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 11 Jan 2022 08:18:01 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Jan 2022 09:15:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Tue, 11 Jan 2022 07:14:03 GMT</pubDate>
             <content:encoded><![CDATA[2022.01.18(화) 11:00]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/01/20220110160453f094e15d-46e1-469d-9a38-fc1a341de1f7.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[［Soldout smile］Showcase（87dance SSS）티켓 오픈 안내 (멜론 티켓)]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5783</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5783</guid>
+            <pubDate>Tue, 11 Jan 2022 09:15:00 GMT</pubDate>
+            <content:encoded><![CDATA[2022.01.12(수) 18:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/01/20220110153518a4d99ff3-629b-47a8-850f-3f4f4bb8e96b.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
         <item>
             <title><![CDATA[위아영 단독 콘서트：롤링 27주년 기념 공연 티켓 오픈 안내 (멜론 티켓)]]></title>
@@ -80,14 +88,6 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/01/20220106104029760f92a4-ae11-4840-96cf-6e12275ac381.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
         <item>
-            <title><![CDATA[정세운 공식 팬클럽 ‘행운（LUCKY）’ 4기 추가모집 오픈 안내 (멜론 티켓)]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5774</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5774</guid>
-            <pubDate>Thu, 06 Jan 2022 05:15:38 GMT</pubDate>
-            <content:encoded><![CDATA[2022.01.10(월) 10:00]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/01/202201051437453e18024d-85e0-4341-b4d7-968f8ce97fe8.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
-        </item>
-        <item>
             <title><![CDATA[새벽공방 뮤직 콘서트 ‘MIRACLE’ with 소아암재단 티켓 오픈 안내 (멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식)]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5781</link>
             <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5781</guid>
@@ -152,20 +152,20 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/01/20220110160453f094e15d-46e1-469d-9a38-fc1a341de1f7.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
         <item>
+            <title><![CDATA[［Soldout smile］Showcase（87dance SSS）티켓 오픈 안내 (멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식)]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5783</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5783</guid>
+            <pubDate>Tue, 11 Jan 2022 09:15:07 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>22.01.12(수)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/01/20220110153518a4d99ff3-629b-47a8-850f-3f4f4bb8e96b.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
             <title><![CDATA[위아영 단독 콘서트：롤링 27주년 기념 공연 티켓 오픈 안내 (멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식)]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5782</link>
             <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5782</guid>
             <pubDate>Tue, 11 Jan 2022 03:17:08 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>22.01.17(월)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/01/20220110150725899a4051-3e2a-4c9b-89b2-8405cd461626.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[어느 봄날，테레사 프레이타스 사진전 티켓 오픈 안내 (멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식)]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5779</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5779</guid>
-            <pubDate>Fri, 07 Jan 2022 08:17:21 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>22.01.10(월)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/01/20220107153842a683cedd-3e6a-4d51-90dd-6dce5cfab31a.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
         <item>
             <title><![CDATA[수퍼네이처（SUPER NATURE） (멜론티켓 ─ 판매중)]]></title>
