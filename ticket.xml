@@ -4,9 +4,25 @@
         <title>멜론 티켓</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 11 Jan 2022 00:50:48 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Jan 2022 02:06:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[포르테 디 콰트로 콘서트：메타포닉－부산 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5785</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5785</guid>
+            <pubDate>Tue, 11 Jan 2022 02:05:48 GMT</pubDate>
+            <content:encoded><![CDATA[2022.01.14(금) 14:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/01/2022011110235101936eeb-50d6-4ffd-a35c-fe9d7e9521cb.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[［한국소암재단과 함께하는 새벽공방 팬미팅 ‘MIRACLE’］티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5781</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5781</guid>
+            <pubDate>Tue, 11 Jan 2022 02:05:48 GMT</pubDate>
+            <content:encoded><![CDATA[2022.01.11(화) 12:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/01/202201101446050ad62f07-7213-464c-a554-6ba3b56a4c2c.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
         <item>
             <title><![CDATA[CONNECT：조희원X허드 티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5780</link>
@@ -70,22 +86,6 @@
             <pubDate>Thu, 06 Jan 2022 03:17:07 GMT</pubDate>
             <content:encoded><![CDATA[2022.01.12(수) 20:00]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/01/202201051417355c4e3ce4-c797-4774-b4cc-aa0b9a9f5a9a.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[2022 부활 발렌타인 콘서트 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5772</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5772</guid>
-            <pubDate>Wed, 05 Jan 2022 03:15:10 GMT</pubDate>
-            <content:encoded><![CDATA[2022.01.10(월) 14:00]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/01/202201051153156318ae1d-69bf-44dc-b3c0-7deec68c6608.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[당기시오 단독공연 “To be another day” 서울공연 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5771</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5771</guid>
-            <pubDate>Wed, 05 Jan 2022 07:13:59 GMT</pubDate>
-            <content:encoded><![CDATA[2022.01.06(목) 20:00]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/01/20220105095117276ca72f-6ce0-4997-83c6-6c59defaa4f3.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
     </channel>
 </rss>
