@@ -4,17 +4,9 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 12 Jan 2022 07:13:54 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Jan 2022 08:17:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[뮤지컬 〈더 테일 에이프릴 풀스〉 1차 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5788</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5788</guid>
-            <pubDate>Wed, 12 Jan 2022 05:15:05 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>22.01.19(수)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/01/20220112120751f977eda6-74aa-4e43-92d1-e11eedbb9cd5.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
         <item>
             <title><![CDATA[팔칠댄스（87dance），［Soldout smile］Showcase 티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5783</link>
@@ -22,6 +14,22 @@
             <pubDate>Tue, 11 Jan 2022 09:15:07 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>22.01.12(수)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/01/20220110153518a4d99ff3-629b-47a8-850f-3f4f4bb8e96b.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[전자양 단독 공연 ‘팡파레’ 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5769</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5769</guid>
+            <pubDate>Wed, 12 Jan 2022 08:17:33 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>22.01.11(화)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/01/2022010413052864083786-8b12-462e-b5d1-d4c2b5dcceef.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 〈더 테일 에이프릴 풀스〉 1차 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5788</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5788</guid>
+            <pubDate>Wed, 12 Jan 2022 05:15:05 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>22.01.19(수)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/01/20220112120751f977eda6-74aa-4e43-92d1-e11eedbb9cd5.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
         <item>
             <title><![CDATA[2022 포맨 콘서트 ‘First’ 〈문화정원아트홀 기획공연〉 티켓 오픈 안내]]></title>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 07 Jan 2022 00:53:08 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>22.01.10(월)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/01/202201051153156318ae1d-69bf-44dc-b3c0-7deec68c6608.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[2022 린（LYn）콘서트 〈HOME〉 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5777</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5777</guid>
-            <pubDate>Fri, 07 Jan 2022 05:15:03 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>22.01.10(월)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/01/20220106181940ac94bbf5-e3f1-426d-8ffc-220f9df9de2f.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
