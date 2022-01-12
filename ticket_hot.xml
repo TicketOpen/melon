@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 12 Jan 2022 08:17:40 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Jan 2022 09:14:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,6 +30,14 @@
             <pubDate>Wed, 12 Jan 2022 05:15:05 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>22.01.19(수)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/01/20220112120751f977eda6-74aa-4e43-92d1-e11eedbb9cd5.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[라이브나우 케이팝 원어스 라이브스트리밍 이벤트 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5787</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5787</guid>
+            <pubDate>Wed, 12 Jan 2022 09:14:17 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>22.01.12(수)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/01/202201111737035b50192e-e905-4bf3-90c5-b0b6fa7706ce.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
         <item>
             <title><![CDATA[2022 포맨 콘서트 ‘First’ 〈문화정원아트홀 기획공연〉 티켓 오픈 안내]]></title>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 07 Jan 2022 00:53:08 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>22.01.11(화)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/01/202201050911383a57e568-5413-4108-baf7-3a62f6bc0347.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[2022 부활 발렌타인 콘서트 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5772</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5772</guid>
-            <pubDate>Fri, 07 Jan 2022 00:53:08 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>22.01.10(월)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/01/202201051153156318ae1d-69bf-44dc-b3c0-7deec68c6608.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
