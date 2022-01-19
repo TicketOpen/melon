@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 19 Jan 2022 04:17:08 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Jan 2022 05:12:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Wed, 19 Jan 2022 03:13:27 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>22.01.26(수)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/01/202201181557546a65d9cf-e695-486c-9adb-4972dc3d1b84.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 〈프리다〉 1차 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5803</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5803</guid>
+            <pubDate>Wed, 19 Jan 2022 05:12:07 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>22.01.26(수)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/01/20220118183418ed014504-60a6-4d38-bbf7-137b7c9cb7a2.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
         <item>
             <title><![CDATA[앙코르 핸즈포히어로 힙합페스티벌 HFHHHF 티켓 오픈 안내]]></title>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 17 Jan 2022 03:17:23 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>22.01.24(월)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/01/202201141454519102c6f3-d74a-42dd-88a9-17fbeed9f65e.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[우주소녀 공식 팬클럽 우정 5기 추가모집 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5797</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5797</guid>
-            <pubDate>Mon, 17 Jan 2022 02:06:47 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>22.01.17(월)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/01/202201141357203c50de6d-ddd9-479d-a902-1d36af68448c.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
