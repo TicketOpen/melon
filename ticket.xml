@@ -4,9 +4,25 @@
         <title>멜론 티켓</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 21 Jan 2022 04:19:07 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Jan 2022 05:12:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2022 RAVI CONCERT［REVOIR］티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5812</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5812</guid>
+            <pubDate>Fri, 21 Jan 2022 05:11:49 GMT</pubDate>
+            <content:encoded><![CDATA[2022.01.25(화) 20:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/01/20220121112904c4d2b420-3e84-4dcb-ac99-7a8b0d9c5e97.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[티키타카 콘서트：해서웨이 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5811</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5811</guid>
+            <pubDate>Fri, 21 Jan 2022 05:11:49 GMT</pubDate>
+            <content:encoded><![CDATA[2022.01.24(월) 19:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/01/20220121092112435fd69d-bdd5-4c96-a3f6-670d6003e958.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
         <item>
             <title><![CDATA[뮤지컬 〈엑스칼리버〉 마지막 티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5810</link>
@@ -70,22 +86,6 @@
             <pubDate>Wed, 19 Jan 2022 05:12:01 GMT</pubDate>
             <content:encoded><![CDATA[2022.01.26(수) 14:00]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/01/20220118183418ed014504-60a6-4d38-bbf7-137b7c9cb7a2.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[［먼데이프로젝트 시즌5］베리코이버니 앨범발매 단독 콘서트 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5802</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5802</guid>
-            <pubDate>Wed, 19 Jan 2022 03:13:21 GMT</pubDate>
-            <content:encoded><![CDATA[2022.01.26(수) 20:00]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/01/202201181557546a65d9cf-e695-486c-9adb-4972dc3d1b84.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[앙코르 핸즈포히어로 힙합페스티벌 HFHHHF 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5801</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5801</guid>
-            <pubDate>Wed, 19 Jan 2022 02:25:53 GMT</pubDate>
-            <content:encoded><![CDATA[2022.01.21(금) 14:00]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/01/2022011815424594ff1763-e71b-401b-a89c-9ce9557f11c2.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
     </channel>
 </rss>

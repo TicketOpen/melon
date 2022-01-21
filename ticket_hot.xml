@@ -4,9 +4,17 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 21 Jan 2022 04:19:07 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Jan 2022 05:12:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2022 RAVI CONCERT［REVOIR］티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5812</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5812</guid>
+            <pubDate>Fri, 21 Jan 2022 05:11:56 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>22.01.25(화)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/01/20220121112904c4d2b420-3e84-4dcb-ac99-7a8b0d9c5e97.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
         <item>
             <title><![CDATA[모브닝 단독 콘서트 ‘사랑을 위하여’：롤링 27주년 기념 공연 티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5798</link>
@@ -40,6 +48,14 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/01/20220113143724665a7325-7830-45c3-84a8-b9724aae67ce.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
         <item>
+            <title><![CDATA[티키타카 콘서트：해서웨이 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5811</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5811</guid>
+            <pubDate>Fri, 21 Jan 2022 05:11:56 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>22.01.24(월)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/01/20220121092112435fd69d-bdd5-4c96-a3f6-670d6003e958.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
             <title><![CDATA[뮤지컬 〈엑스칼리버〉 마지막 티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5810</link>
             <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5810</guid>
@@ -70,22 +86,6 @@
             <pubDate>Thu, 20 Jan 2022 05:12:55 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>22.01.21(금)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/01/2022012010124240a23ed0-476b-4990-839f-63522639fbf8.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[먼데이프로젝트 시즌5［청춘의 밤］－오프더메뉴 단독 콘서트 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5791</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5791</guid>
-            <pubDate>Tue, 18 Jan 2022 00:50:36 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>22.01.20(목)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/01/20220112131759451742de-5829-4800-b9c6-947ca2f69d9a.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[제11회 가온차트 뮤직 어워즈（11th GAONCHART MUSIC AWARDS）티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5804</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5804</guid>
-            <pubDate>Wed, 19 Jan 2022 09:13:57 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>22.01.21(금)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/01/202201191710367b2e6299-0608-4f22-a57f-ffbe9ea18909.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
