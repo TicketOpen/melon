@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 24 Jan 2022 00:44:47 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Jan 2022 02:02:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -56,6 +56,14 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/01/202201211800437399da40-02ed-428d-8a4c-4353d6191d17.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
         <item>
+            <title><![CDATA[양수리 음악공장 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5813</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5813</guid>
+            <pubDate>Mon, 24 Jan 2022 02:02:16 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>22.01.24(월)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/01/20220121115913c46a2148-fa11-4dfa-ae27-b891be3d8bf8.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
             <title><![CDATA[2022 RAVI CONCERT［REVOIR］티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5812</link>
             <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5812</guid>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 21 Jan 2022 01:56:55 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>22.01.24(월)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/01/2022011711110603c6f0df-6afd-4f64-9a36-928b7771464e.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[앙코르 핸즈포히어로 힙합페스티벌 HFHHHF 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5801</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5801</guid>
-            <pubDate>Mon, 24 Jan 2022 00:44:40 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>22.01.21(금)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/01/2022011815424594ff1763-e71b-401b-a89c-9ce9557f11c2.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
