@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 24 Jan 2022 02:02:23 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Jan 2022 03:18:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Sat, 22 Jan 2022 03:13:14 GMT</pubDate>
             <content:encoded><![CDATA[2022.01.24(월) 20:00]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/01/202201211800437399da40-02ed-428d-8a4c-4353d6191d17.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[잠비나이 단독 콘서트：롤링 27주년 기념 공연 티켓 오픈 안내 (멜론 티켓)]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5814</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5814</guid>
+            <pubDate>Mon, 24 Jan 2022 03:17:49 GMT</pubDate>
+            <content:encoded><![CDATA[2022.01.28(금) 20:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/01/2022012114101698d64a28-e25e-4294-a380-8efcfe147c82.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
         <item>
             <title><![CDATA[양수리 음악공장 티켓 오픈 안내 (멜론 티켓)]]></title>
@@ -80,14 +88,6 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/01/20220119171940480a7d51-fc1a-4772-8690-b25f17261e48.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
         <item>
-            <title><![CDATA[먼데이프로젝트 시즌5［음악여행，쉼］‘결’ 단독 콘서트 티켓 오픈 안내 (멜론 티켓)]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5805</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5805</guid>
-            <pubDate>Thu, 20 Jan 2022 03:12:49 GMT</pubDate>
-            <content:encoded><![CDATA[2022.01.27(목) 20:00]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/01/20220119171251eef13e4c-804e-4f6f-ba27-b90409bb5e26.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
-        </item>
-        <item>
             <title><![CDATA[뮤지컬 〈프리다〉 1차 티켓 오픈 안내 (멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식)]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5803</link>
             <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5803</guid>
@@ -136,10 +136,18 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/01/202201211800437399da40-02ed-428d-8a4c-4353d6191d17.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
         <item>
+            <title><![CDATA[잠비나이 단독 콘서트：롤링 27주년 기념 공연 티켓 오픈 안내 (멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식)]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5814</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5814</guid>
+            <pubDate>Mon, 24 Jan 2022 03:17:55 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>22.01.28(금)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/01/2022012114101698d64a28-e25e-4294-a380-8efcfe147c82.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
             <title><![CDATA[양수리 음악공장 티켓 오픈 안내 (멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식)]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5813</link>
             <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5813</guid>
-            <pubDate>Mon, 24 Jan 2022 02:02:16 GMT</pubDate>
+            <pubDate>Mon, 24 Jan 2022 02:02:10 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>22.01.24(월)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/01/20220121115913c46a2148-fa11-4dfa-ae27-b891be3d8bf8.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 17 Jan 2022 03:17:16 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>22.01.24(월)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/01/202201141454519102c6f3-d74a-42dd-88a9-17fbeed9f65e.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[아이유 공식 팬클럽 〈유애나〉 5기 모집 오픈 안내 (멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식)]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5799</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5799</guid>
-            <pubDate>Mon, 17 Jan 2022 03:17:16 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>22.01.24(월)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/01/2022011711110603c6f0df-6afd-4f64-9a36-928b7771464e.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
         <item>
             <title><![CDATA[수퍼네이처（SUPER NATURE） (멜론티켓 ─ 판매중)]]></title>
@@ -543,6 +543,31 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2021/12/2021122809130327c8a2bc-1368-4705-80d5-88297173a96a.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
+            <title><![CDATA[아이유 공식 팬클럽 〈유애나〉 5기 모집 (멜론티켓 ─ 판매중)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=206529</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=206529</guid>
+            <pubDate>Mon, 24 Jan 2022 03:18:02 GMT</pubDate>
+            <content:encoded><![CDATA[<td>
+                            <div class="show_infor">
+                                <div class="thumb_90x125  img">
+                                    <a href="#">
+                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/01/202201171512584b44fbc4-98d6-4fbc-8b55-ae1f3bbdce53.jpg/melon/resize/90x125/strip/true" alt="">
+                                        <span class="frame"></span>
+                                    </a>
+                                </div>
+                                <p class="infor_text">
+                                    <span class="ico_wrap">
+                                        <span class="ico_list ico_list1">단독판매</span><span class="ico_list ico_list4"> 판매중</span></span>
+                                    <span class="show_title"><a href="/performance/index.htm?prodId=206529">아이유 공식 팬클럽 〈유애나〉 5기 모집</a></span>
+                                </p>
+                            </div>
+                        </td>
+                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
+                            2022.01.24 - 2022.02.06</td>
+                        <td class="show_loc">- </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/01/202201171512584b44fbc4-98d6-4fbc-8b55-ae1f3bbdce53.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
             <title><![CDATA[제11회 가온차트 뮤직 어워즈（11th GAONCHART MUSIC AWARDS） (멜론티켓 ─ 판매중)]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=206539</link>
             <guid>https://ticket.melon.com/performance/index.htm?prodId=206539</guid>
@@ -641,31 +666,6 @@
                             2022.01.29 - 2022.01.29</td>
                         <td class="show_loc">성수아트홀 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2021/12/20211217144856c4cd6cf8-9b40-4c7a-866f-588aa3f7d1e7.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[미스피츠 단독 콘서트 ‘First Step’：롤링 27주년 기념 공연 (멜론티켓 ─ 판매중)]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=206474</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=206474</guid>
-            <pubDate>Sun, 23 Jan 2022 15:14:44 GMT</pubDate>
-            <content:encoded><![CDATA[<td>
-                            <div class="show_infor">
-                                <div class="thumb_90x125  img">
-                                    <a href="#">
-                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2021/12/2021122009421637cb4753-3e5f-46d8-9adf-f8a9a63a089e.jpg/melon/resize/90x125/strip/true" alt="">
-                                        <span class="frame"></span>
-                                    </a>
-                                </div>
-                                <p class="infor_text">
-                                    <span class="ico_wrap">
-                                        <span class="ico_list ico_list1">단독판매</span><span class="ico_list ico_list4"> 판매중</span></span>
-                                    <span class="show_title"><a href="/performance/index.htm?prodId=206474">미스피츠 단독 콘서트 ‘First Step’：롤링 27주년 기념 공연</a></span>
-                                </p>
-                            </div>
-                        </td>
-                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
-                            2022.01.29 - 2022.01.29</td>
-                        <td class="show_loc">롤링홀 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2021/12/2021122009421637cb4753-3e5f-46d8-9adf-f8a9a63a089e.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
     </channel>
 </rss>

@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 판매중</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 24 Jan 2022 02:02:23 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Jan 2022 03:18:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -383,6 +383,31 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2021/12/2021122809130327c8a2bc-1368-4705-80d5-88297173a96a.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
+            <title><![CDATA[아이유 공식 팬클럽 〈유애나〉 5기 모집]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=206529</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=206529</guid>
+            <pubDate>Mon, 24 Jan 2022 03:18:02 GMT</pubDate>
+            <content:encoded><![CDATA[<td>
+                            <div class="show_infor">
+                                <div class="thumb_90x125  img">
+                                    <a href="#">
+                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/01/202201171512584b44fbc4-98d6-4fbc-8b55-ae1f3bbdce53.jpg/melon/resize/90x125/strip/true" alt="">
+                                        <span class="frame"></span>
+                                    </a>
+                                </div>
+                                <p class="infor_text">
+                                    <span class="ico_wrap">
+                                        <span class="ico_list ico_list1">단독판매</span><span class="ico_list ico_list4"> 판매중</span></span>
+                                    <span class="show_title"><a href="/performance/index.htm?prodId=206529">아이유 공식 팬클럽 〈유애나〉 5기 모집</a></span>
+                                </p>
+                            </div>
+                        </td>
+                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
+                            2022.01.24 - 2022.02.06</td>
+                        <td class="show_loc">- </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/01/202201171512584b44fbc4-98d6-4fbc-8b55-ae1f3bbdce53.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
             <title><![CDATA[제11회 가온차트 뮤직 어워즈（11th GAONCHART MUSIC AWARDS）]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=206539</link>
             <guid>https://ticket.melon.com/performance/index.htm?prodId=206539</guid>
@@ -481,31 +506,6 @@
                             2022.01.29 - 2022.01.29</td>
                         <td class="show_loc">성수아트홀 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2021/12/20211217144856c4cd6cf8-9b40-4c7a-866f-588aa3f7d1e7.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[미스피츠 단독 콘서트 ‘First Step’：롤링 27주년 기념 공연]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=206474</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=206474</guid>
-            <pubDate>Sun, 23 Jan 2022 15:14:44 GMT</pubDate>
-            <content:encoded><![CDATA[<td>
-                            <div class="show_infor">
-                                <div class="thumb_90x125  img">
-                                    <a href="#">
-                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2021/12/2021122009421637cb4753-3e5f-46d8-9adf-f8a9a63a089e.jpg/melon/resize/90x125/strip/true" alt="">
-                                        <span class="frame"></span>
-                                    </a>
-                                </div>
-                                <p class="infor_text">
-                                    <span class="ico_wrap">
-                                        <span class="ico_list ico_list1">단독판매</span><span class="ico_list ico_list4"> 판매중</span></span>
-                                    <span class="show_title"><a href="/performance/index.htm?prodId=206474">미스피츠 단독 콘서트 ‘First Step’：롤링 27주년 기념 공연</a></span>
-                                </p>
-                            </div>
-                        </td>
-                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
-                            2022.01.29 - 2022.01.29</td>
-                        <td class="show_loc">롤링홀 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2021/12/2021122009421637cb4753-3e5f-46d8-9adf-f8a9a63a089e.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
     </channel>
 </rss>

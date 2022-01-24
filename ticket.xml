@@ -4,7 +4,7 @@
         <title>멜론 티켓</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 24 Jan 2022 02:02:23 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Jan 2022 03:18:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Sat, 22 Jan 2022 03:13:14 GMT</pubDate>
             <content:encoded><![CDATA[2022.01.24(월) 20:00]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/01/202201211800437399da40-02ed-428d-8a4c-4353d6191d17.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[잠비나이 단독 콘서트：롤링 27주년 기념 공연 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5814</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5814</guid>
+            <pubDate>Mon, 24 Jan 2022 03:17:49 GMT</pubDate>
+            <content:encoded><![CDATA[2022.01.28(금) 20:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/01/2022012114101698d64a28-e25e-4294-a380-8efcfe147c82.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
         <item>
             <title><![CDATA[양수리 음악공장 티켓 오픈 안내]]></title>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 20 Jan 2022 03:12:49 GMT</pubDate>
             <content:encoded><![CDATA[2022.01.27(목) 20:00]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/01/20220119171940480a7d51-fc1a-4772-8690-b25f17261e48.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[먼데이프로젝트 시즌5［음악여행，쉼］‘결’ 단독 콘서트 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5805</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5805</guid>
-            <pubDate>Thu, 20 Jan 2022 03:12:49 GMT</pubDate>
-            <content:encoded><![CDATA[2022.01.27(목) 20:00]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/01/20220119171251eef13e4c-804e-4f6f-ba27-b90409bb5e26.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
     </channel>
 </rss>
