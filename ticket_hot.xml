@@ -4,9 +4,25 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 26 Jan 2022 00:51:44 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Jan 2022 02:03:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[엔분의일 단독 콘서트 〈2022 엔분의일：Intro〉 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5808</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5808</guid>
+            <pubDate>Wed, 26 Jan 2022 02:03:38 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>22.01.28(금)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/01/2022012017233926299336-6ff2-4e32-aae1-c044a80940d4.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[먼데이프로젝트 시즌5［프롬 팬미팅 콘서트 ‘달의 뒤편으로 와요’］티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5806</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5806</guid>
+            <pubDate>Wed, 26 Jan 2022 02:03:38 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>22.01.27(목)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/01/20220119171940480a7d51-fc1a-4772-8690-b25f17261e48.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
         <item>
             <title><![CDATA[먼데이프로젝트 시즌5［음악여행，쉼］‘결’ 단독 콘서트 티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5805</link>
@@ -70,22 +86,6 @@
             <pubDate>Tue, 25 Jan 2022 11:11:43 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>22.01.28(금)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/01/2022012514411365f9750b-a79d-4b0b-af86-fd7bfbed03a0.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[모브닝 단독 콘서트 ‘사랑을 위하여’：롤링 27주년 기념 공연 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5798</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5798</guid>
-            <pubDate>Tue, 25 Jan 2022 00:51:02 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>22.01.24(월)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/01/202201141454519102c6f3-d74a-42dd-88a9-17fbeed9f65e.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[아이유 공식 팬클럽 〈유애나〉 5기 모집 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5799</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5799</guid>
-            <pubDate>Tue, 25 Jan 2022 00:51:02 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>22.01.24(월)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/01/2022011711110603c6f0df-6afd-4f64-9a36-928b7771464e.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
