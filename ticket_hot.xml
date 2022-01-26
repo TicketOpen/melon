@@ -4,9 +4,25 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 26 Jan 2022 05:12:45 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Jan 2022 06:16:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뮤지컬 〈레베카〉－부산 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5820</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5820</guid>
+            <pubDate>Wed, 26 Jan 2022 06:16:45 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>22.01.28(금)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/01/2022012612550026a14ef4-d298-42e4-8bb0-e1d34061e87e.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 〈레베카〉－전주 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5821</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5821</guid>
+            <pubDate>Wed, 26 Jan 2022 06:16:45 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>22.01.28(금)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/01/20220126125833306305d9-cf39-43cc-be47-6b853b4d564d.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
         <item>
             <title><![CDATA[엔분의일 단독 콘서트 〈2022 엔분의일：Intro〉 티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5808</link>
@@ -70,22 +86,6 @@
             <pubDate>Fri, 21 Jan 2022 05:11:56 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>22.01.25(화)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/01/20220121112904c4d2b420-3e84-4dcb-ac99-7a8b0d9c5e97.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[모브닝 대구 공연［사랑을 위하여］티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5819</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5819</guid>
-            <pubDate>Tue, 25 Jan 2022 11:11:43 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>22.01.28(금)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/01/20220125144432ed678ace-de05-4cb0-831b-98c666f0e828.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[모브닝 부산 공연［사랑을 위하여］티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5818</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5818</guid>
-            <pubDate>Tue, 25 Jan 2022 11:11:43 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>22.01.28(금)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/01/2022012514411365f9750b-a79d-4b0b-af86-fd7bfbed03a0.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>

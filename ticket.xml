@@ -4,9 +4,25 @@
         <title>멜론 티켓</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 26 Jan 2022 05:12:45 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Jan 2022 06:16:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뮤지컬 〈레베카〉－전주 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5821</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5821</guid>
+            <pubDate>Wed, 26 Jan 2022 06:16:39 GMT</pubDate>
+            <content:encoded><![CDATA[2022.01.28(금) 15:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/01/20220126125833306305d9-cf39-43cc-be47-6b853b4d564d.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 〈레베카〉－부산 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5820</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5820</guid>
+            <pubDate>Wed, 26 Jan 2022 06:16:39 GMT</pubDate>
+            <content:encoded><![CDATA[2022.01.28(금) 14:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/01/2022012612550026a14ef4-d298-42e4-8bb0-e1d34061e87e.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
         <item>
             <title><![CDATA[모브닝 대구 공연［사랑을 위하여］티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5819</link>
@@ -70,22 +86,6 @@
             <pubDate>Fri, 21 Jan 2022 05:11:49 GMT</pubDate>
             <content:encoded><![CDATA[2022.01.24(월) 19:00]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/01/20220121092112435fd69d-bdd5-4c96-a3f6-670d6003e958.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 〈엑스칼리버〉 마지막 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5810</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5810</guid>
-            <pubDate>Fri, 21 Jan 2022 04:18:52 GMT</pubDate>
-            <content:encoded><![CDATA[2022.01.27(목) 14:00]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/01/202201201736349791986d-2206-4e10-a732-ed4884cb339d.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[2022 신현묵 첫번째 단독 콘서트：Will you be my Valentine 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5809</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5809</guid>
-            <pubDate>Fri, 21 Jan 2022 03:13:27 GMT</pubDate>
-            <content:encoded><![CDATA[2022.01.24(월) 12:00]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/01/20220120173040d078dfab-95c6-4fb2-b76e-eb467a7e26a2.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
     </channel>
 </rss>
