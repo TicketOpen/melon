@@ -4,9 +4,25 @@
         <title>멜론 티켓</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 03 Feb 2022 23:12:05 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Feb 2022 00:46:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[［우주라이브］원니 단독 콘서트（Guest．김기원，최연교）티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5835</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5835</guid>
+            <pubDate>Fri, 04 Feb 2022 00:45:53 GMT</pubDate>
+            <content:encoded><![CDATA[2022.02.04(금) 10:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/02/2022020310483642b1f7f6-a771-40dd-8679-25b6d360c9a2.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[［우주라이브］새벽공방 단독 콘서트 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5834</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5834</guid>
+            <pubDate>Fri, 04 Feb 2022 00:45:53 GMT</pubDate>
+            <content:encoded><![CDATA[2022.02.04(금) 13:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/02/2022020310455824f77036-20bd-4ad7-8186-e4dd7ad6c65c.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
         <item>
             <title><![CDATA[먼데이프로젝트 시즌5 음악여행，쉼［김정훈 단독 콘서트］티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5832</link>
@@ -70,22 +86,6 @@
             <pubDate>Fri, 28 Jan 2022 05:12:06 GMT</pubDate>
             <content:encoded><![CDATA[2022.02.03(목) 14:00]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/01/20220126143710dd98a247-8bf4-43a0-8e78-f17e68cef27e.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[줍에이 단독 콘서트：꽃샘 추위 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5824</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5824</guid>
-            <pubDate>Thu, 27 Jan 2022 03:13:28 GMT</pubDate>
-            <content:encoded><![CDATA[2022.02.03(목) 18:00]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/01/20220126134123955b0bf7-230b-4793-be88-2a3ec7d316c0.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[1st 영둥이 단독 콘서트：SLATE 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5823</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5823</guid>
-            <pubDate>Thu, 27 Jan 2022 03:13:28 GMT</pubDate>
-            <content:encoded><![CDATA[2022.01.28(금) 18:00]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/01/20220126133922f9791892-6204-412c-a867-3f1a3f5ceee1.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
     </channel>
 </rss>
