@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 04 Feb 2022 10:12:44 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Feb 2022 11:09:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Fri, 04 Feb 2022 09:12:16 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>22.02.07(월)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/02/2022020413154187dfe05a-8752-4ae3-a9ce-cf4eb5d5f2f8.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[MBTI 콘서트 〈자기만의 방〉 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5838</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5838</guid>
+            <pubDate>Fri, 04 Feb 2022 11:09:12 GMT</pubDate>
+            <content:encoded><![CDATA[오픈일정 보기 &gt;]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/02/202202041221437df68abc-9cf0-432b-b0c6-1b2afa057b68.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
         <item>
             <title><![CDATA[2022 윤석철트리오 단독공연 ‘익숙하고 일정한’ 티켓 오픈 안내]]></title>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 03 Feb 2022 03:14:50 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>22.02.07(월)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/01/202201281718155f09dbd4-f2c9-4eb7-b36c-b891b197d68a.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[［우주라이브］새벽공방 단독 콘서트 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5834</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5834</guid>
-            <pubDate>Fri, 04 Feb 2022 00:46:00 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>22.02.04(금)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/02/2022020310455824f77036-20bd-4ad7-8186-e4dd7ad6c65c.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
