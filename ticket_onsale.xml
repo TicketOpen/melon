@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 판매중</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Feb 2022 14:12:50 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Feb 2022 15:13:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -308,31 +308,6 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/01/202201281732538e3bf6f7-00cc-4d5a-9251-6d61522b97f8.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
-            <title><![CDATA[먼데이프로젝트 시즌5［청춘의 밤］－오프더메뉴 단독 콘서트]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=206510</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=206510</guid>
-            <pubDate>Wed, 02 Feb 2022 15:14:44 GMT</pubDate>
-            <content:encoded><![CDATA[<td>
-                            <div class="show_infor">
-                                <div class="thumb_90x125  img">
-                                    <a href="#">
-                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/01/2022011016405236be2cbe-faa9-49f4-8bfd-b6f89de27966.jpg/melon/resize/90x125/strip/true" alt="">
-                                        <span class="frame"></span>
-                                    </a>
-                                </div>
-                                <p class="infor_text">
-                                    <span class="ico_wrap">
-                                        <span class="ico_list ico_list1">단독판매</span><span class="ico_list ico_list4"> 판매중</span></span>
-                                    <span class="show_title"><a href="/performance/index.htm?prodId=206510">먼데이프로젝트 시즌5［청춘의 밤］－오프더메뉴 단독 콘서트</a></span>
-                                </p>
-                            </div>
-                        </td>
-                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
-                            2022.02.07 - 2022.02.07</td>
-                        <td class="show_loc">벨로주 홍대 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/01/2022011016405236be2cbe-faa9-49f4-8bfd-b6f89de27966.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
             <title><![CDATA[김사월 단독 콘서트：롤링 27주년 기념 공연]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=206494</link>
             <guid>https://ticket.melon.com/performance/index.htm?prodId=206494</guid>
@@ -506,6 +481,31 @@
                             2022.02.13 - 2022.02.13</td>
                         <td class="show_loc">클럽온에어 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/01/202201281620147805f17f-cbc7-4211-a99c-9b9fc09d1a12.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[［우주라이브］원니 단독 콘서트（Guest．김기원，최연교）]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=206568</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=206568</guid>
+            <pubDate>Mon, 07 Feb 2022 15:13:24 GMT</pubDate>
+            <content:encoded><![CDATA[<td>
+                            <div class="show_infor">
+                                <div class="thumb_90x125  img">
+                                    <a href="#">
+                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/01/2022012815410713415e4f-6fb1-4a94-8fcf-30391ef9cd78.jpg/melon/resize/90x125/strip/true" alt="">
+                                        <span class="frame"></span>
+                                    </a>
+                                </div>
+                                <p class="infor_text">
+                                    <span class="ico_wrap">
+                                        <span class="ico_list ico_list4"> 판매중</span></span>
+                                    <span class="show_title"><a href="/performance/index.htm?prodId=206568">［우주라이브］원니 단독 콘서트（Guest．김기원，최연교）</a></span>
+                                </p>
+                            </div>
+                        </td>
+                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
+                            2022.02.13 - 2022.02.13</td>
+                        <td class="show_loc">홍대 우주정거장 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/01/2022012815410713415e4f-6fb1-4a94-8fcf-30391ef9cd78.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
     </channel>
 </rss>
