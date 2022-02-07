@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Feb 2022 10:14:25 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Feb 2022 11:11:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Mon, 07 Feb 2022 02:27:45 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>22.02.07(월)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/02/20220207144514e245609b-05ac-41c4-b9c1-ed1b38a1b8b0.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[티키타카 콘서트：오프더메뉴 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5842</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5842</guid>
+            <pubDate>Mon, 07 Feb 2022 11:11:02 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>22.02.08(화)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/02/202202070922321956ebd8-32bb-4962-8104-e8a20ecd07ea.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
         <item>
             <title><![CDATA[내 귀에 드라마 콘서트：에이프릴세컨드 티켓 오픈 안내]]></title>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 04 Feb 2022 09:12:16 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>22.02.07(월)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/02/2022020413154187dfe05a-8752-4ae3-a9ce-cf4eb5d5f2f8.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[나인 단독 콘서트：롤링 27주년 기념 공연 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5837</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5837</guid>
-            <pubDate>Fri, 04 Feb 2022 03:12:40 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>22.02.09(수)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/02/2022020409311900c63546-1007-4fc2-8881-25d7d789e23c.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
