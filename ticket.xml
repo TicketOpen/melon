@@ -4,7 +4,7 @@
         <title>멜론 티켓</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Feb 2022 01:57:21 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Feb 2022 02:27:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Fri, 04 Feb 2022 09:12:10 GMT</pubDate>
             <content:encoded><![CDATA[2022.02.08(화) 18:00]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/02/20220204154804046d3ae9-95fc-4544-9b3c-fc8646fa6fc3.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[［한혜리 After Party：Welcome to Hyeri’s world］티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5840</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5840</guid>
+            <pubDate>Mon, 07 Feb 2022 02:27:38 GMT</pubDate>
+            <content:encoded><![CDATA[2022.02.07(월) 18:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/02/20220204143613e4287c68-0312-4416-b7e1-80a48fe95a9c.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
         <item>
             <title><![CDATA[ants 단독 공연 ‘talk us’ 티켓 오픈 안내]]></title>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 03 Feb 2022 03:14:44 GMT</pubDate>
             <content:encoded><![CDATA[2022.02.10(목) 20:00]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/01/202201281750390c67b85f-7efc-4609-b5b6-05bb5a259a1b.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[먼데이프로젝트 시즌5 청춘의 밤［이준형 단독 콘서트］티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5831</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5831</guid>
-            <pubDate>Thu, 03 Feb 2022 03:14:44 GMT</pubDate>
-            <content:encoded><![CDATA[2022.02.09(수) 20:00]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/01/202201281726015710c23c-bfec-4007-897f-081026b0013f.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
     </channel>
 </rss>
