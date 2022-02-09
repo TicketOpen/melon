@@ -4,9 +4,17 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 09 Feb 2022 00:53:59 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Feb 2022 02:03:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뮤지컬 〈레베카〉 추가 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5849</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5849</guid>
+            <pubDate>Wed, 09 Feb 2022 02:03:21 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>22.02.10(목)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/02/202202090938387c858509-42c1-4306-bb98-121e5f4e635b.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
         <item>
             <title><![CDATA[2022 윤석철트리오 단독공연 ‘익숙하고 일정한’ 티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5833</link>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 08 Feb 2022 00:55:18 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>22.02.09(수)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/02/2022020409311900c63546-1007-4fc2-8881-25d7d789e23c.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[［한혜리 After Party：Welcome to Hyeri’s world］티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5840</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5840</guid>
-            <pubDate>Mon, 07 Feb 2022 02:27:45 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>22.02.07(월)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/02/20220207144514e245609b-05ac-41c4-b9c1-ed1b38a1b8b0.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>

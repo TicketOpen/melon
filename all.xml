@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 09 Feb 2022 00:53:59 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Feb 2022 02:03:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뮤지컬 〈레베카〉 추가 티켓 오픈 안내 (멜론 티켓)]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5849</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5849</guid>
+            <pubDate>Wed, 09 Feb 2022 02:03:15 GMT</pubDate>
+            <content:encoded><![CDATA[2022.02.10(목) 16:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/02/202202090938387c858509-42c1-4306-bb98-121e5f4e635b.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
         <item>
             <title><![CDATA[카운터테너 최성훈 콘서트 〈Movement〉 티켓 오픈 안내 (멜론 티켓)]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5845</link>
@@ -80,12 +88,12 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/02/2022020409311900c63546-1007-4fc2-8881-25d7d789e23c.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 〈더 테일 에이프릴 풀스〉 2차 티켓 오픈 안내 (멜론 티켓)]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5836</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5836</guid>
-            <pubDate>Fri, 04 Feb 2022 05:10:42 GMT</pubDate>
-            <content:encoded><![CDATA[2022.02.09(수) 14:00]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/02/20220204092214b15290b1-0975-46f9-b433-4aacf4fa06d0.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+            <title><![CDATA[뮤지컬 〈레베카〉 추가 티켓 오픈 안내 (멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식)]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5849</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5849</guid>
+            <pubDate>Wed, 09 Feb 2022 02:03:21 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>22.02.10(목)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/02/202202090938387c858509-42c1-4306-bb98-121e5f4e635b.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
         <item>
             <title><![CDATA[2022 윤석철트리오 단독공연 ‘익숙하고 일정한’ 티켓 오픈 안내 (멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식)]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 04 Feb 2022 03:12:31 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>22.02.09(수)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/02/2022020409311900c63546-1007-4fc2-8881-25d7d789e23c.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[［한혜리 After Party：Welcome to Hyeri’s world］티켓 오픈 안내 (멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식)]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5840</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5840</guid>
-            <pubDate>Mon, 07 Feb 2022 02:27:38 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>22.02.07(월)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/02/20220207144514e245609b-05ac-41c4-b9c1-ed1b38a1b8b0.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
         <item>
             <title><![CDATA[너와 내가 만든 세상 제주전，‘아가，봄이 왔다’ 케테콜비츠 전 (멜론티켓 ─ 판매중)]]></title>
@@ -363,7 +363,7 @@
                             </div>
                         </td>
                         <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
-                            2021.11.16 - 2022.02.27</td>
+                            2021.11.16 - 2022.02.28</td>
                         <td class="show_loc">충무아트센터 대극장</td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2021/10/20211005135224d40025cb-59c7-411e-b5b2-f013a3a8ce24.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
