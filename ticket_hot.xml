@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 10 Feb 2022 02:28:08 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Feb 2022 03:13:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -40,6 +40,14 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/02/202202081451269d5f2d50-28ca-4be2-88fd-ebfc2efdc59b.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
         <item>
+            <title><![CDATA[먼데이프로젝트 시즌5 청춘의 밤［정우 단독 콘서트］티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5853</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5853</guid>
+            <pubDate>Thu, 10 Feb 2022 03:13:41 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>22.02.17(목)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/02/20220209141306979dab71-2e5f-4fe8-8756-8c5c576b060d.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
             <title><![CDATA[나인 단독 콘서트：롤링 27주년 기념 공연 티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5837</link>
             <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5837</guid>
@@ -72,20 +80,12 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/02/20220209103037bbe5aee2-4f5a-4cf4-a14e-0cb900eea2d0.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
         <item>
-            <title><![CDATA[먼데이프로젝트 IN 라이브클럽［슈야 단독 콘서트］티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5846</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5846</guid>
-            <pubDate>Wed, 09 Feb 2022 03:14:17 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>22.02.16(수)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/02/20220208144040ef105863-7aaf-4b99-9bee-ec97c4c74ad9.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[2022 윤석철트리오 단독공연 ‘익숙하고 일정한’ 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5833</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5833</guid>
-            <pubDate>Wed, 09 Feb 2022 00:53:52 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>22.02.08(화)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/02/20220204102308faf1e3b2-37f4-4fbc-a09e-4c9a6e6f4c0d.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+            <title><![CDATA[줍에이 단독 콘서트：꽃샘 추위 추가 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5852</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5852</guid>
+            <pubDate>Thu, 10 Feb 2022 03:13:41 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>22.02.11(금)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/02/20220209114235e537ee21-8a20-4b8b-acc4-3335118e367e.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
