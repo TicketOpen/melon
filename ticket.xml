@@ -4,9 +4,17 @@
         <title>멜론 티켓</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 11 Feb 2022 04:17:09 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Feb 2022 05:12:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뮤지컬 〈리지〉 1차 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5857</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5857</guid>
+            <pubDate>Fri, 11 Feb 2022 05:12:08 GMT</pubDate>
+            <content:encoded><![CDATA[2022.02.16(수) 14:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/02/2022021015521893c3203b-e6df-437c-a43b-c3ce549c55c5.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
         <item>
             <title><![CDATA[W24 4주년 기념 단독 콘서트：롤링 27주년 기념 공연 티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5856</link>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 09 Feb 2022 09:13:03 GMT</pubDate>
             <content:encoded><![CDATA[2022.02.11(금) 18:00]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/02/202202081451269d5f2d50-28ca-4be2-88fd-ebfc2efdc59b.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[허심탄회：虛心坦會－사공，전유동 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5847</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5847</guid>
-            <pubDate>Wed, 09 Feb 2022 09:13:03 GMT</pubDate>
-            <content:encoded><![CDATA[2022.02.11(금) 18:00]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/02/202202081451003ea1825b-5c10-4a93-855a-465e1f985750.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
     </channel>
 </rss>
