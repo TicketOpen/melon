@@ -4,9 +4,17 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 18 Feb 2022 08:16:12 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Feb 2022 09:13:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[초승（CHOSNG）소극장 공연 ‘심야화원’ 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5872</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5872</guid>
+            <pubDate>Fri, 18 Feb 2022 09:13:41 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>22.02.21(월)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/02/202202181407294c91ef5b-6cf3-4a52-870f-c2ec4f8ca51f.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
         <item>
             <title><![CDATA[W24 4주년 기념 단독 콘서트：롤링 27주년 기념 공연 티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5856</link>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 17 Feb 2022 03:14:40 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>22.02.24(목)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/02/2022021611503305b7295a-21cb-40ec-a2d7-31df7867b373.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[off the menu 단독 콘서트 ‘Every point of view’：롤링 27주년 기념 공연 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5869</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5869</guid>
-            <pubDate>Thu, 17 Feb 2022 03:14:40 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>22.02.24(목)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/02/2022021610594496b4281e-aa8b-4c28-84cf-8970773258ed.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
