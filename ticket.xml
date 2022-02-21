@@ -4,7 +4,7 @@
         <title>멜론 티켓</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 21 Feb 2022 03:15:30 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Feb 2022 04:18:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Mon, 21 Feb 2022 03:15:16 GMT</pubDate>
             <content:encoded><![CDATA[2022.02.28(월) 20:00]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/02/20220221094627e8386b04-d79e-44aa-a964-c22b1b0b9272.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[［곽동현 팬미팅 ‘White ROXY Day’］티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5873</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5873</guid>
+            <pubDate>Mon, 21 Feb 2022 04:17:55 GMT</pubDate>
+            <content:encoded><![CDATA[2022.02.21(월) 18:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/02/20220218154844814a22a0-d7c8-4920-9285-207cffc9823a.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
         <item>
             <title><![CDATA[초승（CHOSNG）소극장 공연 ‘심야화원’ 티켓 오픈 안내]]></title>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 16 Feb 2022 03:14:16 GMT</pubDate>
             <content:encoded><![CDATA[2022.02.23(수) 20:00]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/02/20220215131806cee3a20b-fc17-4f57-a6c9-0e137c385925.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[포르테 디 콰트로 콘서트 〈메타포닉〉－부산 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5864</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5864</guid>
-            <pubDate>Tue, 15 Feb 2022 05:12:44 GMT</pubDate>
-            <content:encoded><![CDATA[2022.02.22(화) 14:00]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/02/20220215104001d3fac5b0-8e7c-47ab-8548-198b61e3dda8.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
     </channel>
 </rss>
