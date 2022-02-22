@@ -4,9 +4,17 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Feb 2022 04:17:34 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Feb 2022 05:13:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뮤지컬 〈레베카〉－인천 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5880</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5880</guid>
+            <pubDate>Tue, 22 Feb 2022 05:13:04 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>22.02.28(월)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/02/2022022213140343da45d2-3980-45af-ac85-c57f3d3f1866.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
         <item>
             <title><![CDATA[9001 단독 콘서트：롤링 27주년 기념 공연 티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5861</link>
@@ -40,6 +48,14 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/02/20220215131806cee3a20b-fc17-4f57-a6c9-0e137c385925.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
         <item>
+            <title><![CDATA[connect：서온X홍예진 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5876</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5876</guid>
+            <pubDate>Tue, 22 Feb 2022 05:13:04 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>22.02.24(목)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/02/2022022116545697ad6da8-a77f-48c0-a69e-4bb99e45a43c.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
             <title><![CDATA[원디비 단독 콘서트［너에게］티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5871</link>
             <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5871</guid>
@@ -70,22 +86,6 @@
             <pubDate>Mon, 21 Feb 2022 03:15:23 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>22.02.28(월)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/02/20220221094627e8386b04-d79e-44aa-a964-c22b1b0b9272.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[해리빅버튼 단독 콘서트 ‘Let‘s Keep Going’：롤링 27주년 기념 공연 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5866</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5866</guid>
-            <pubDate>Mon, 21 Feb 2022 00:49:27 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>22.02.23(수)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/02/20220215132543c5f8d75f-4acf-4f14-a639-98315c700bf8.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[키라라 〈4〉 쇼케이스 in 부산 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5855</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5855</guid>
-            <pubDate>Thu, 17 Feb 2022 00:51:43 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>22.02.17(목)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/02/2022020915160019112b61-edb2-484d-92a7-3dfcf994f3bc.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
