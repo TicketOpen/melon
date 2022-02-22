@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Feb 2022 02:31:44 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Feb 2022 03:16:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -56,6 +56,14 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/02/20220218154844814a22a0-d7c8-4920-9285-207cffc9823a.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
         <item>
+            <title><![CDATA[하이브로 단독 콘서트 ‘오늘부터 1일’：롤링 27주년 기념 공연 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5875</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5875</guid>
+            <pubDate>Tue, 22 Feb 2022 03:16:07 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>22.02.28(월)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/02/20220221104410e6136a51-d38b-4499-88d5-ae7a1325cf77.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
             <title><![CDATA[4SECONDS 앨범 발매 기념 콘서트 ‘꽃’：롤링 27주년 기념 공연 티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5874</link>
             <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5874</guid>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 17 Feb 2022 00:51:43 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>22.02.17(목)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/02/2022020915160019112b61-edb2-484d-92a7-3dfcf994f3bc.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 〈레베카〉－여수 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5863</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5863</guid>
-            <pubDate>Thu, 17 Feb 2022 00:51:43 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>22.02.17(목)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/02/2022021416284422c7b4a7-8ad9-4d0a-918d-304ad60d26f0.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
