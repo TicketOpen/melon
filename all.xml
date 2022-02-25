@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 25 Feb 2022 09:14:20 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Feb 2022 10:16:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -38,6 +38,14 @@
             <pubDate>Fri, 25 Feb 2022 03:14:58 GMT</pubDate>
             <content:encoded><![CDATA[2022.02.28(월) 12:00]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/02/20220224132808ac8184ad-6d38-4dda-8b79-c2a551c5366e.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[어나더 브릭 인 더 어쿠스틱 VOL．1－전유동，전호권 티켓 오픈 안내 (멜론 티켓)]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5888</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5888</guid>
+            <pubDate>Fri, 25 Feb 2022 10:16:12 GMT</pubDate>
+            <content:encoded><![CDATA[2022.03.05(토) 19:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/02/202202241042297a29bf76-c425-40b2-8a52-9767d1305973.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
         <item>
             <title><![CDATA[UNCOMMON LIVE 〈2022 언커먼라이브 콘서트〉 티켓 오픈 안내 (멜론 티켓)]]></title>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 24 Feb 2022 03:13:18 GMT</pubDate>
             <content:encoded><![CDATA[2022.02.25(금) 18:00]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/02/20220223133950cb724e5e-6177-4c29-ab6a-02da2c5abd1d.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[먼데이프로젝트 시즌5 청춘의 밤［임세모 단독 콘서트］티켓 오픈 안내 (멜론 티켓)]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5882</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5882</guid>
-            <pubDate>Thu, 24 Feb 2022 03:13:18 GMT</pubDate>
-            <content:encoded><![CDATA[2022.03.03(목) 20:00]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/02/20220223094332191e0c2e-11fa-4423-b0f9-cc4fdbb14521.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
         <item>
             <title><![CDATA[UNCOMMON LIVE 〈2022 언커먼라이브 콘서트〉 티켓 오픈 안내 (멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식)]]></title>
