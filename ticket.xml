@@ -4,7 +4,7 @@
         <title>멜론 티켓</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 25 Feb 2022 04:17:36 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Feb 2022 05:13:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Thu, 24 Feb 2022 08:16:29 GMT</pubDate>
             <content:encoded><![CDATA[2022.03.03(목) 15:00]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/02/20220224170653edf382ca-1f37-402e-9a14-96877bd872f1.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[티키타카 콘서트：불고기디스코 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5891</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5891</guid>
+            <pubDate>Fri, 25 Feb 2022 05:13:35 GMT</pubDate>
+            <content:encoded><![CDATA[2022.02.28(월) 19:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/02/2022022415360580bbfd25-a463-4d4d-b51d-da9c63dfd758.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
         <item>
             <title><![CDATA[Blast from the past 티켓 오픈 안내]]></title>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 24 Feb 2022 03:13:18 GMT</pubDate>
             <content:encoded><![CDATA[2022.03.03(목) 20:00]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/02/20220223094332191e0c2e-11fa-4423-b0f9-cc4fdbb14521.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[영국 현대 미술의 거장：마이클 크레이그 마틴展 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5881</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5881</guid>
-            <pubDate>Wed, 23 Feb 2022 04:17:54 GMT</pubDate>
-            <content:encoded><![CDATA[2022.02.24(목) 16:00]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/02/202202231501080d16edc6-5588-4d32-8628-6420dcd21ee1.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
     </channel>
 </rss>
