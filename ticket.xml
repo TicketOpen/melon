@@ -4,7 +4,7 @@
         <title>멜론 티켓</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 25 Feb 2022 10:16:27 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Feb 2022 11:12:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -38,6 +38,14 @@
             <pubDate>Fri, 25 Feb 2022 03:14:58 GMT</pubDate>
             <content:encoded><![CDATA[2022.02.28(월) 12:00]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/02/20220224132808ac8184ad-6d38-4dda-8b79-c2a551c5366e.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[차세대 데뷔 3주년 기념 단독공연［당신들의 다음 세대 vol．3］티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5889</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5889</guid>
+            <pubDate>Fri, 25 Feb 2022 11:12:13 GMT</pubDate>
+            <content:encoded><![CDATA[2022.02.28(월) 20:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/02/20220224113157ef3373da-d78d-4d61-85f1-aad8e4eeefc5.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
         <item>
             <title><![CDATA[어나더 브릭 인 더 어쿠스틱 VOL．1－전유동，전호권 티켓 오픈 안내]]></title>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 24 Feb 2022 03:13:18 GMT</pubDate>
             <content:encoded><![CDATA[2022.02.25(금) 18:00]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/02/2022022313553082fb6782-1c71-4ca7-b193-a117b9eb058d.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[리밋 단독 콘서트：LIMITLESS 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5883</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5883</guid>
-            <pubDate>Thu, 24 Feb 2022 03:13:18 GMT</pubDate>
-            <content:encoded><![CDATA[2022.02.25(금) 18:00]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/02/20220223133950cb724e5e-6177-4c29-ab6a-02da2c5abd1d.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
     </channel>
 </rss>
