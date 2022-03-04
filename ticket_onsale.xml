@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 판매중</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 04 Mar 2022 02:22:55 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Mar 2022 03:17:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -358,6 +358,31 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/01/202201271312365b447744-e1d6-415f-b8b5-73eb6cf4bf92.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
+            <title><![CDATA[하성운 공식 팬클럽 HA：NEUL 3기 모집]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=206627</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=206627</guid>
+            <pubDate>Fri, 04 Mar 2022 03:17:19 GMT</pubDate>
+            <content:encoded><![CDATA[<td>
+                            <div class="show_infor">
+                                <div class="thumb_90x125  img">
+                                    <a href="#">
+                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/02/20220224145030879053d0-9cba-43fb-9e16-39c9c9e27896.jpg/melon/resize/90x125/strip/true" alt="">
+                                        <span class="frame"></span>
+                                    </a>
+                                </div>
+                                <p class="infor_text">
+                                    <span class="ico_wrap">
+                                        <span class="ico_list ico_list1">단독판매</span><span class="ico_list ico_list4"> 판매중</span></span>
+                                    <span class="show_title"><a href="/performance/index.htm?prodId=206627">하성운 공식 팬클럽 HA：NEUL 3기 모집</a></span>
+                                </p>
+                            </div>
+                        </td>
+                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
+                            2022.03.07 - 2022.03.20</td>
+                        <td class="show_loc">- </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/02/20220224145030879053d0-9cba-43fb-9e16-39c9c9e27896.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
             <title><![CDATA[먼데이프로젝트 IN 라이브클럽［슈야 단독 콘서트］]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=206576</link>
             <guid>https://ticket.melon.com/performance/index.htm?prodId=206576</guid>
@@ -481,31 +506,6 @@
                             2022.03.08 - 2022.03.08</td>
                         <td class="show_loc">롤링홀 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/02/20220210100342702dca26-1267-4024-98b1-bae8e13ab07d.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[이글루베이 단독 콘서트［독백］：롤링 27주년 기념 공연]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=206589</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=206589</guid>
-            <pubDate>Thu, 03 Mar 2022 07:14:08 GMT</pubDate>
-            <content:encoded><![CDATA[<td>
-                            <div class="show_infor">
-                                <div class="thumb_90x125  img">
-                                    <a href="#">
-                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/02/202202101118553d847c76-bb7f-40c5-b181-52b7149c052c.jpg/melon/resize/90x125/strip/true" alt="">
-                                        <span class="frame"></span>
-                                    </a>
-                                </div>
-                                <p class="infor_text">
-                                    <span class="ico_wrap">
-                                        <span class="ico_list ico_list1">단독판매</span><span class="ico_list ico_list4"> 판매중</span></span>
-                                    <span class="show_title"><a href="/performance/index.htm?prodId=206589">이글루베이 단독 콘서트［독백］：롤링 27주년 기념 공연</a></span>
-                                </p>
-                            </div>
-                        </td>
-                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
-                            2022.03.09 - 2022.03.09</td>
-                        <td class="show_loc">롤링홀 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/02/202202101118553d847c76-bb7f-40c5-b181-52b7149c052c.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
     </channel>
 </rss>
