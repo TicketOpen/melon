@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Mar 2022 02:11:58 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Mar 2022 03:16:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -56,6 +56,14 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/03/2022030313224723d7bfff-2fe2-4899-9342-ce6fba054b3a.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
         <item>
+            <title><![CDATA[VIVIZ（비비지）공식 팬클럽 나비（Na．V）1기 모집 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5911</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5911</guid>
+            <pubDate>Mon, 07 Mar 2022 03:16:09 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>22.03.08(화)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/03/202203041343358a973df8-fa74-4c61-93d2-3953d9ce9bdd.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
             <title><![CDATA[키드킹 단독 콘서트：Emotional Baggage 티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5910</link>
             <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5910</guid>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 03 Mar 2022 00:56:59 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>22.03.04(금)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/02/20220225093202cd8ef2e7-dac0-4951-8619-e86af839de70.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[달란트 첫 단독콘서트：touchdown point 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5897</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5897</guid>
-            <pubDate>Thu, 03 Mar 2022 00:56:59 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>22.03.04(금)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/02/20220225154741ad4b7bc0-38c5-4bcc-af1a-375c66629fa4.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
