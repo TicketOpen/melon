@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 판매중</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 08 Mar 2022 02:09:48 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Mar 2022 03:15:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -458,6 +458,31 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/02/202202111123179924c01a-4ee4-4fc1-8cc2-ec6b4e60e910.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
+            <title><![CDATA[스페이스브릭 밴드위크－봄방학［모스크바 서핑클럽X까데호］]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=206652</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=206652</guid>
+            <pubDate>Tue, 08 Mar 2022 03:15:48 GMT</pubDate>
+            <content:encoded><![CDATA[<td>
+                            <div class="show_infor">
+                                <div class="thumb_90x125  img">
+                                    <a href="#">
+                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/03/20220304155915d81b725f-089c-4266-948b-c5485917e34f.jpg/melon/resize/90x125/strip/true" alt="">
+                                        <span class="frame"></span>
+                                    </a>
+                                </div>
+                                <p class="infor_text">
+                                    <span class="ico_wrap">
+                                        <span class="ico_list ico_list4"> 판매중</span></span>
+                                    <span class="show_title"><a href="/performance/index.htm?prodId=206652">스페이스브릭 밴드위크－봄방학［모스크바 서핑클럽X까데호］</a></span>
+                                </p>
+                            </div>
+                        </td>
+                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
+                            2022.03.13 - 2022.03.13</td>
+                        <td class="show_loc">스페이스 브릭 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/03/20220304155915d81b725f-089c-4266-948b-c5485917e34f.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
             <title><![CDATA[먼데이프로젝트 IN 라이브클럽［이븐이프 단독 콘서트］]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=206595</link>
             <guid>https://ticket.melon.com/performance/index.htm?prodId=206595</guid>
@@ -481,31 +506,6 @@
                             2022.03.14 - 2022.03.14</td>
                         <td class="show_loc">공상온도 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/02/20220214095550ffd7ce9f-90d6-45cd-8bdf-2284f760fe09.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[먼데이프로젝트 시즌5［웨이브투어스 단독 콘서트 “Burn in my youth”］]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=206601</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=206601</guid>
-            <pubDate>Mon, 07 Mar 2022 15:14:44 GMT</pubDate>
-            <content:encoded><![CDATA[<td>
-                            <div class="show_infor">
-                                <div class="thumb_90x125  img">
-                                    <a href="#">
-                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/02/202202141648261825a044-c41d-4c5b-b033-e572526e1e91.jpg/melon/resize/90x125/strip/true" alt="">
-                                        <span class="frame"></span>
-                                    </a>
-                                </div>
-                                <p class="infor_text">
-                                    <span class="ico_wrap">
-                                        <span class="ico_list ico_list1">단독판매</span><span class="ico_list ico_list4"> 판매중</span></span>
-                                    <span class="show_title"><a href="/performance/index.htm?prodId=206601">먼데이프로젝트 시즌5［웨이브투어스 단독 콘서트 “Burn in my youth”］</a></span>
-                                </p>
-                            </div>
-                        </td>
-                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
-                            2022.03.14 - 2022.03.15</td>
-                        <td class="show_loc">케이티엔지 상상마당 라이브홀 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/02/202202141648261825a044-c41d-4c5b-b033-e572526e1e91.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
     </channel>
 </rss>
