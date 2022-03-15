@@ -4,9 +4,25 @@
         <title>멜론 티켓</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 15 Mar 2022 08:18:45 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Mar 2022 09:14:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Light On（라이트 온）－MustB concert 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5940</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5940</guid>
+            <pubDate>Tue, 15 Mar 2022 09:14:25 GMT</pubDate>
+            <content:encoded><![CDATA[2022.03.15(화) 18:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/03/202203141739240b580c02-45ce-4559-b335-18bf510e7694.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[마침내 우리가 화원이 되기를 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5939</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5939</guid>
+            <pubDate>Tue, 15 Mar 2022 09:14:25 GMT</pubDate>
+            <content:encoded><![CDATA[2022.03.18(금) 18:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/03/20220314155221e8bca77d-7c06-461b-b47d-c45f6a6a51f6.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
         <item>
             <title><![CDATA[은종 단독 콘서트 ‘소란스러운 봄’：롤링 27주년 기념 공연 티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5938</link>
@@ -70,22 +86,6 @@
             <pubDate>Fri, 11 Mar 2022 05:13:45 GMT</pubDate>
             <content:encoded><![CDATA[2022.03.14(월) 20:00]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/03/20220310164312b84e3c01-46ea-431d-80b5-f2aa0647832a.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[나상현씨밴드 단독 콘서트 ‘2834＋’：롤링 27주년 기념 공연 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5930</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5930</guid>
-            <pubDate>Fri, 11 Mar 2022 03:16:07 GMT</pubDate>
-            <content:encoded><![CDATA[2022.03.17(목) 20:00]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/03/202203101638011259d11e-e08a-4b1e-8172-3223730d61e1.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[트롯데이 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5929</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5929</guid>
-            <pubDate>Fri, 11 Mar 2022 02:19:23 GMT</pubDate>
-            <content:encoded><![CDATA[2022.03.11(금) 15:00]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/03/202203111311462e8e7230-64ef-4c11-ae75-841482b54d0a.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
     </channel>
 </rss>
