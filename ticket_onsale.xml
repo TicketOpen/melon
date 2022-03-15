@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 판매중</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 15 Mar 2022 05:15:01 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Mar 2022 06:18:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -358,31 +358,6 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/02/202202221116244eb89eb4-b28f-4cd7-969c-22e683d75692.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
-            <title><![CDATA[하이브로 단독 콘서트 ‘오늘부터 1일’：롤링 27주년 기념 공연]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=206608</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=206608</guid>
-            <pubDate>Sat, 12 Mar 2022 15:14:56 GMT</pubDate>
-            <content:encoded><![CDATA[<td>
-                            <div class="show_infor">
-                                <div class="thumb_90x125  img">
-                                    <a href="#">
-                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/02/20220221103440caaabfbf-211d-446e-8a96-996b8ab11324.jpg/melon/resize/90x125/strip/true" alt="">
-                                        <span class="frame"></span>
-                                    </a>
-                                </div>
-                                <p class="infor_text">
-                                    <span class="ico_wrap">
-                                        <span class="ico_list ico_list1">단독판매</span><span class="ico_list ico_list4"> 판매중</span></span>
-                                    <span class="show_title"><a href="/performance/index.htm?prodId=206608">하이브로 단독 콘서트 ‘오늘부터 1일’：롤링 27주년 기념 공연</a></span>
-                                </p>
-                            </div>
-                        </td>
-                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
-                            2022.03.18 - 2022.03.18</td>
-                        <td class="show_loc">롤링홀 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/02/20220221103440caaabfbf-211d-446e-8a96-996b8ab11324.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
             <title><![CDATA[어나더 브릭 인 더 헤비니스 VOL．1－개미，두억시니，트랩]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=206643</link>
             <guid>https://ticket.melon.com/performance/index.htm?prodId=206643</guid>
@@ -506,6 +481,31 @@
                             2022.03.19 - 2022.03.20</td>
                         <td class="show_loc">롯데콘서트홀 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/02/20220208130619c8eb7938-c079-4571-b553-34cb3aab8211.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[키라라 〈4〉 쇼케이스 in 서울]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=206584</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=206584</guid>
+            <pubDate>Tue, 15 Mar 2022 06:18:50 GMT</pubDate>
+            <content:encoded><![CDATA[<td>
+                            <div class="show_infor">
+                                <div class="thumb_90x125  img">
+                                    <a href="#">
+                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/02/20220208175940d85d532a-4e50-4216-a8f2-9574bbd99999.jpg/melon/resize/90x125/strip/true" alt="">
+                                        <span class="frame"></span>
+                                    </a>
+                                </div>
+                                <p class="infor_text">
+                                    <span class="ico_wrap">
+                                        <span class="ico_list ico_list1">단독판매</span><span class="ico_list ico_list4"> 판매중</span></span>
+                                    <span class="show_title"><a href="/performance/index.htm?prodId=206584">키라라 〈4〉 쇼케이스 in 서울</a></span>
+                                </p>
+                            </div>
+                        </td>
+                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
+                            2022.03.19 - 2022.03.19</td>
+                        <td class="show_loc">플랫폼엘 플랫폼 라이브</td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/02/20220208175940d85d532a-4e50-4216-a8f2-9574bbd99999.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
     </channel>
 </rss>
