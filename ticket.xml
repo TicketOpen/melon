@@ -4,7 +4,7 @@
         <title>멜론 티켓</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 18 Mar 2022 09:46:35 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Mar 2022 10:58:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,6 +30,14 @@
             <pubDate>Fri, 18 Mar 2022 05:13:48 GMT</pubDate>
             <content:encoded><![CDATA[2022.03.24(목) 14:00]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/03/202203181056132ed42539-8247-40c4-93e0-07245aa6a65f.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[2022 인터걸스 오프라인 쇼케이스 ‘인투유’ 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5950</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5950</guid>
+            <pubDate>Fri, 18 Mar 2022 10:57:49 GMT</pubDate>
+            <content:encoded><![CDATA[2022.03.18(금) 19:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/03/2022031716442944728818-1854-4a76-a66a-04689f10fa21.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
         <item>
             <title><![CDATA[The Poles 정규 앨범 발매 기념 앵콜 콘서트 ‘The High Tide Club’ 티켓 오픈 안내]]></title>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 16 Mar 2022 00:58:06 GMT</pubDate>
             <content:encoded><![CDATA[2022.03.18(금) 21:00]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/03/20220315162033f2548b8e-c55b-4f54-93d9-b5e366f5d61c.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[이길승콘서트 Old＆New［1집 A면］티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5943</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5943</guid>
-            <pubDate>Wed, 16 Mar 2022 03:18:52 GMT</pubDate>
-            <content:encoded><![CDATA[2022.03.18(금) 12:00]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/03/2022031515371648287d89-4440-42a6-8d12-50f2eaeba3a6.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
     </channel>
 </rss>
