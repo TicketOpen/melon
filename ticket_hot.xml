@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 19 Mar 2022 02:10:54 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Mar 2022 03:15:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,6 +30,14 @@
             <pubDate>Fri, 18 Mar 2022 05:13:55 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>22.03.24(목)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/03/202203181110581c7892a9-ce2f-47d8-90f9-b43f5b02f483.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[티키타카 콘서트：조희원 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5954</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5954</guid>
+            <pubDate>Sat, 19 Mar 2022 03:14:54 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>22.03.21(월)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/03/202203181619570ab1ce07-da8e-4f83-9a58-67a0b6df2b0c.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 〈레베카〉－천안 티켓 오픈 안내]]></title>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 18 Mar 2022 01:15:12 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>22.03.23(수)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/03/202203151326332b4f97dc-6291-44d3-9164-4fb82de50617.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[은종 단독 콘서트 ‘소란스러운 봄’：롤링 27주년 기념 공연 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5938</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5938</guid>
-            <pubDate>Fri, 18 Mar 2022 01:15:12 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>22.03.22(화)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/03/2022031414140910e4fc82-d189-4781-94a5-4b8ad2afa1f7.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
