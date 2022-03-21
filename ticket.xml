@@ -4,9 +4,25 @@
         <title>멜론 티켓</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 21 Mar 2022 02:27:36 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Mar 2022 03:23:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[W24 정규 1집 ‘White Album’ 발매 기념 콘서트 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5956</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5956</guid>
+            <pubDate>Mon, 21 Mar 2022 03:23:17 GMT</pubDate>
+            <content:encoded><![CDATA[2022.03.23(수) 12:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/03/20220321112117ce94bf90-622e-41ff-b760-7e6db3fd9d7e.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[정승수 밴드 단독 콘서트：Caffeine 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5955</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5955</guid>
+            <pubDate>Mon, 21 Mar 2022 03:23:17 GMT</pubDate>
+            <content:encoded><![CDATA[2022.03.22(화) 18:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/03/20220318172146b8914657-3812-40ab-addb-19e57fc268ef.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
         <item>
             <title><![CDATA[티키타카 콘서트：조희원 티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5954</link>
@@ -70,22 +86,6 @@
             <pubDate>Thu, 17 Mar 2022 06:18:14 GMT</pubDate>
             <content:encoded><![CDATA[2022.03.18(금) 18:00]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/03/2022031613480683327858-967d-44be-8e07-0a19b456501d.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[먼데이프로젝트 시즌5［신승은 단독 콘서트 “네 탓은 아니다”］티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5946</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5946</guid>
-            <pubDate>Thu, 17 Mar 2022 03:16:44 GMT</pubDate>
-            <content:encoded><![CDATA[2022.03.24(목) 20:00]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/03/202203161108054b93cdeb-036f-405c-909c-25305c8c07b3.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[히미츠 단독 콘서트：HeMeets의 미스터리 박스 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5945</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5945</guid>
-            <pubDate>Thu, 17 Mar 2022 03:16:44 GMT</pubDate>
-            <content:encoded><![CDATA[2022.03.18(금) 18:00]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/03/202203161058272c6a1992-2716-4885-bd17-718f75c74261.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,17 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 21 Mar 2022 02:27:36 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Mar 2022 03:23:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[W24 정규 1집 ‘White Album’ 발매 기념 콘서트 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5956</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5956</guid>
+            <pubDate>Mon, 21 Mar 2022 03:23:24 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>22.03.23(수)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/03/20220321112117ce94bf90-622e-41ff-b760-7e6db3fd9d7e.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
         <item>
             <title><![CDATA[전자양 단독 콘서트 ‘ISCO’：롤링 27주년 기념 공연 티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5935</link>
@@ -22,6 +30,14 @@
             <pubDate>Fri, 18 Mar 2022 05:13:55 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>22.03.24(목)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/03/2022031809560011922dbb-d296-4f45-99ed-2febcc2f3add.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[정승수 밴드 단독 콘서트：Caffeine 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5955</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5955</guid>
+            <pubDate>Mon, 21 Mar 2022 03:23:24 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>22.03.22(화)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/03/20220318172146b8914657-3812-40ab-addb-19e57fc268ef.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
         <item>
             <title><![CDATA[［박시환 콘서트 ‘선물’］티켓 오픈 안내]]></title>
@@ -70,22 +86,6 @@
             <pubDate>Thu, 17 Mar 2022 00:56:37 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>22.03.18(금)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/03/20220314155221e8bca77d-7c06-461b-b47d-c45f6a6a51f6.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[이길승콘서트 Old＆New［1집 A면］티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5943</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5943</guid>
-            <pubDate>Wed, 16 Mar 2022 03:19:00 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>22.03.18(금)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/03/2022031515371648287d89-4440-42a6-8d12-50f2eaeba3a6.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[먼데이프로젝트 IN 라이브클럽［펜텐 단독 콘서트］티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5942</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5942</guid>
-            <pubDate>Fri, 18 Mar 2022 01:15:12 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>22.03.23(수)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/03/202203151502523838d1a3-3ebd-463a-adeb-7db94f9c3dab.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
