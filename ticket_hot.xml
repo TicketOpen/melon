@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Mar 2022 02:36:30 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Mar 2022 03:26:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,6 +30,14 @@
             <pubDate>Fri, 18 Mar 2022 08:48:46 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>22.02.08(화)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/02/20220207102913745c086d-22f6-4436-a925-19d06210e92f.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[임헌일 단독 콘서트：롤링 27주년 기념 공연 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5957</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5957</guid>
+            <pubDate>Tue, 22 Mar 2022 03:25:54 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>22.03.29(화)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/03/2022032111311103451a18-fecf-4ee1-9808-8b9bcec0d105.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
         <item>
             <title><![CDATA[전자양 단독 콘서트 ‘ISCO’：롤링 27주년 기념 공연 티켓 오픈 안내]]></title>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 18 Mar 2022 05:13:55 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>22.03.24(목)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/03/202203181056132ed42539-8247-40c4-93e0-07245aa6a65f.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[〈작은 아씨들〉 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5944</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5944</guid>
-            <pubDate>Wed, 16 Mar 2022 00:58:12 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>22.03.18(금)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/03/20220315162033f2548b8e-c55b-4f54-93d9-b5e366f5d61c.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
