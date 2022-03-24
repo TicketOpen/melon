@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 판매중</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Mar 2022 14:18:25 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Mar 2022 15:17:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -131,31 +131,6 @@
                             2022.01.29 - 2022.04.24</td>
                         <td class="show_loc">더현대서울 ALT.1 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/01/202201281732538e3bf6f7-00cc-4d5a-9251-6d61522b97f8.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[MBTI 콘서트 〈자기만의 방〉]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=206573</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=206573</guid>
-            <pubDate>Sat, 12 Feb 2022 15:13:00 GMT</pubDate>
-            <content:encoded><![CDATA[<td>
-                            <div class="show_infor">
-                                <div class="thumb_90x125  img">
-                                    <a href="#">
-                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/02/202202041556270b61112c-3f0d-439f-8220-334c67a29528.jpg/melon/resize/90x125/strip/true" alt="">
-                                        <span class="frame"></span>
-                                    </a>
-                                </div>
-                                <p class="infor_text">
-                                    <span class="ico_wrap">
-                                        <span class="ico_list ico_list1">단독판매</span><span class="ico_list ico_list4"> 판매중</span></span>
-                                    <span class="show_title"><a href="/performance/index.htm?prodId=206573">MBTI 콘서트 〈자기만의 방〉</a></span>
-                                </p>
-                            </div>
-                        </td>
-                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
-                            2022.02.17 - 2022.03.24</td>
-                        <td class="show_loc">위코 스튜디오 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/02/202202041556270b61112c-3f0d-439f-8220-334c67a29528.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 〈프리다〉]]></title>
@@ -506,6 +481,31 @@
                             2022.03.27 - 2022.03.27</td>
                         <td class="show_loc">롤링홀 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/02/202202211605103c956e59-3a4e-45f5-8011-e28c71c4df05.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[레스트 온 메모리 단독 콘서트：REST ON MEMORY：IN SEOUL]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=206622</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=206622</guid>
+            <pubDate>Thu, 24 Mar 2022 15:17:25 GMT</pubDate>
+            <content:encoded><![CDATA[<td>
+                            <div class="show_infor">
+                                <div class="thumb_90x125  img">
+                                    <a href="#">
+                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/02/202202231119362513c9a6-771d-4e08-9a54-87dee836e4bf.jpg/melon/resize/90x125/strip/true" alt="">
+                                        <span class="frame"></span>
+                                    </a>
+                                </div>
+                                <p class="infor_text">
+                                    <span class="ico_wrap">
+                                        <span class="ico_list ico_list1">단독판매</span><span class="ico_list ico_list4"> 판매중</span></span>
+                                    <span class="show_title"><a href="/performance/index.htm?prodId=206622">레스트 온 메모리 단독 콘서트：REST ON MEMORY：IN SEOUL</a></span>
+                                </p>
+                            </div>
+                        </td>
+                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
+                            2022.03.27 - 2022.03.27</td>
+                        <td class="show_loc">지스페이스홀 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/02/202202231119362513c9a6-771d-4e08-9a54-87dee836e4bf.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
     </channel>
 </rss>
