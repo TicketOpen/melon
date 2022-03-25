@@ -4,9 +4,25 @@
         <title>멜론 티켓</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 25 Mar 2022 02:22:30 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Mar 2022 03:20:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[티키타카 콘서트：전유동 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5969</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5969</guid>
+            <pubDate>Fri, 25 Mar 2022 03:20:25 GMT</pubDate>
+            <content:encoded><![CDATA[2022.03.29(화) 19:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/03/20220324135104ae7d7e17-ae09-4233-a814-35f789f88cf7.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[87DANCE 단독 콘서트 ‘How can I forget you girl’：롤링 27주년 기념 공연 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5968</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5968</guid>
+            <pubDate>Fri, 25 Mar 2022 03:20:25 GMT</pubDate>
+            <content:encoded><![CDATA[2022.04.01(금) 20:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/03/20220324101051de7d7a9d-39d7-4114-97b1-e4bf0778fc8f.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
         <item>
             <title><![CDATA[2022 우예린 단독공연＿春；a tempo 티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5967</link>
@@ -70,22 +86,6 @@
             <pubDate>Thu, 24 Mar 2022 01:00:10 GMT</pubDate>
             <content:encoded><![CDATA[2022.03.25(금) 10:00]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/03/20220323130622bc551544-04d5-456f-9d21-8ee646579aa2.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[임헌일 단독 콘서트：롤링 27주년 기념 공연 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5957</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5957</guid>
-            <pubDate>Tue, 22 Mar 2022 03:25:46 GMT</pubDate>
-            <content:encoded><![CDATA[2022.03.29(화) 20:00]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/03/2022032111311103451a18-fecf-4ee1-9808-8b9bcec0d105.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[W24 정규 1집 ‘White Album’ 발매 기념 콘서트 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5956</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5956</guid>
-            <pubDate>Thu, 24 Mar 2022 06:18:38 GMT</pubDate>
-            <content:encoded><![CDATA[2022.03.23(수) 12:00]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/03/20220321112117ce94bf90-622e-41ff-b760-7e6db3fd9d7e.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
     </channel>
 </rss>
