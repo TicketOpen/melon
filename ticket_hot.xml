@@ -4,9 +4,17 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 25 Mar 2022 10:18:28 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Mar 2022 11:14:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[W24 정규 1집 ‘White Album’ 발매 기념 콘서트 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5974</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5974</guid>
+            <pubDate>Fri, 25 Mar 2022 11:14:06 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>22.03.28(월)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/03/2022032517371956b522fb-ee4a-4b91-af8e-ad722fcf49db.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
         <item>
             <title><![CDATA[［우주라이브］스킵잭 단독 콘서트 티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5960</link>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 25 Mar 2022 03:20:32 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>22.04.01(금)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/03/20220324101051de7d7a9d-39d7-4114-97b1-e4bf0778fc8f.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[［오픈일 변경］뮤지컬 〈레베카〉－천안 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5951</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5951</guid>
-            <pubDate>Fri, 18 Mar 2022 05:13:55 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>22.03.28(월)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/03/202203181056132ed42539-8247-40c4-93e0-07245aa6a65f.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
