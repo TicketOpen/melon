@@ -4,7 +4,7 @@
         <title>멜론 티켓</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 27 Mar 2022 02:44:19 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 27 Mar 2022 03:19:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Fri, 25 Mar 2022 11:13:59 GMT</pubDate>
             <content:encoded><![CDATA[2022.03.28(월) 20:00]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/03/2022032517371956b522fb-ee4a-4b91-af8e-ad722fcf49db.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[먼데이프로젝트 시즌5 청춘의 밤［차세대 단독 콘서트］티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5972</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5972</guid>
+            <pubDate>Sun, 27 Mar 2022 03:19:22 GMT</pubDate>
+            <content:encoded><![CDATA[2022.03.30(수) 20:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/03/20220324153125d9badcc4-06fe-465d-bc2c-57059e32696e.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
         <item>
             <title><![CDATA[Dreamcatcher 2nd Album［Apocalypse：Save us］Mini Concert 티켓 오픈 안내]]></title>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 24 Mar 2022 05:15:20 GMT</pubDate>
             <content:encoded><![CDATA[2022.03.29(화) 14:00]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/03/20220323133154757196cc-da0e-4434-ac85-7b00fcd678fd.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[먼데이프로젝트 시즌5 ORIGINAL［맥거핀 단독 콘서트］티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5963</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5963</guid>
-            <pubDate>Thu, 24 Mar 2022 03:22:03 GMT</pubDate>
-            <content:encoded><![CDATA[2022.03.31(목) 20:00]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/03/20220323132308f179e96e-3398-4fd5-a6f9-c65463328288.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
     </channel>
 </rss>
