@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 28 Mar 2022 02:56:27 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Mar 2022 03:31:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -56,6 +56,22 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/03/2022032517371956b522fb-ee4a-4b91-af8e-ad722fcf49db.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
         <item>
+            <title><![CDATA[METHOD 단독 콘서트：롤링 27주년 기념 공연 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5975</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5975</guid>
+            <pubDate>Mon, 28 Mar 2022 03:31:11 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>22.04.04(월)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/03/20220325150943dbf6ad1c-0a82-4f0d-91fd-9ab0abbc64f5.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[IDOL ARENA Vol．18 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5973</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5973</guid>
+            <pubDate>Mon, 28 Mar 2022 03:31:11 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>22.03.31(목)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/03/20220325111548498f3f54-cf3f-41e1-a1da-0bba58c17116.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
             <title><![CDATA[［우주라이브］스킵잭 단독 콘서트 티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5960</link>
             <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5960</guid>
@@ -70,22 +86,6 @@
             <pubDate>Thu, 24 Mar 2022 01:00:16 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>22.03.25(금)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/03/202203171442058909709c-0577-4faf-b7e6-c6dd2f57cc8d.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 〈더 테일 에이프릴 풀스〉 4차 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5964</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5964</guid>
-            <pubDate>Thu, 24 Mar 2022 05:15:27 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>22.03.29(화)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/03/20220323133154757196cc-da0e-4434-ac85-7b00fcd678fd.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[먼데이프로젝트 시즌5 청춘의 밤［온더달 단독 콘서트］티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5903</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5903</guid>
-            <pubDate>Thu, 24 Mar 2022 09:15:44 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>22.03.10(목)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/03/20220324180028e3f642a9-91e6-4222-b6cb-0f91114ea701.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
