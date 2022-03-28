@@ -4,7 +4,7 @@
         <title>멜론 티켓</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 28 Mar 2022 08:21:45 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Mar 2022 09:17:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Mon, 28 Mar 2022 06:18:34 GMT</pubDate>
             <content:encoded><![CDATA[2022.03.29(화) 16:00]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/03/20220328135216f9aa4639-06ee-46aa-a2b3-f9c72e1790b5.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[［Soldout smile］Showcase at 대구 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5976</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5976</guid>
+            <pubDate>Mon, 28 Mar 2022 09:17:05 GMT</pubDate>
+            <content:encoded><![CDATA[2022.03.29(화) 18:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/03/20220325160826d84f9816-aad2-4ffc-a90d-5666c02b1411.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
         <item>
             <title><![CDATA[METHOD 단독 콘서트：롤링 27주년 기념 공연 티켓 오픈 안내]]></title>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 25 Mar 2022 03:20:25 GMT</pubDate>
             <content:encoded><![CDATA[2022.03.29(화) 19:00]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/03/20220324135104ae7d7e17-ae09-4233-a814-35f789f88cf7.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[87DANCE 단독 콘서트 ‘How can I forget you girl’：롤링 27주년 기념 공연 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5968</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5968</guid>
-            <pubDate>Fri, 25 Mar 2022 03:20:25 GMT</pubDate>
-            <content:encoded><![CDATA[2022.04.01(금) 20:00]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/03/20220324101051de7d7a9d-39d7-4114-97b1-e4bf0778fc8f.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
     </channel>
 </rss>
