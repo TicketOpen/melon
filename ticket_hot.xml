@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 29 Mar 2022 04:19:43 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Mar 2022 05:16:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -64,6 +64,14 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/03/202203281355567eabbd59-fb89-4dec-93aa-467fb898dfb4.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
         <item>
+            <title><![CDATA[TRAP－FEST（트랩페스트）티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5977</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5977</guid>
+            <pubDate>Tue, 29 Mar 2022 05:16:11 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>22.04.01(금)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/03/202203281107461082ba8c-0fac-41cc-b5cb-9017607003ae.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
             <title><![CDATA[청춘페스티벌2022 | 오히려 좋아，가보자고 티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5966</link>
             <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5966</guid>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 25 Mar 2022 11:14:06 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>22.03.28(월)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/03/2022032517371956b522fb-ee4a-4b91-af8e-ad722fcf49db.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[［Soldout smile］Showcase at 대구 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5976</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5976</guid>
-            <pubDate>Mon, 28 Mar 2022 09:17:13 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>22.03.29(화)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/03/20220325160826d84f9816-aad2-4ffc-a90d-5666c02b1411.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
