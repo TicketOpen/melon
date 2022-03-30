@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 30 Mar 2022 02:55:19 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Mar 2022 03:30:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -72,20 +72,20 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/03/20220324135518a1e4016a-7588-444a-9337-3d934f0a464c.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
         <item>
+            <title><![CDATA[먼데이프로젝트 IN 라이브클럽［아디오스 오디오 단독 콘서트］티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5980</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5980</guid>
+            <pubDate>Wed, 30 Mar 2022 03:30:17 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>22.04.06(수)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/03/202203291155366e5f9ca0-c587-4dbe-b5ca-a6b54fbaa653.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
             <title><![CDATA[티키타카 콘서트：전유동 티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5969</link>
             <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5969</guid>
             <pubDate>Fri, 25 Mar 2022 03:20:32 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>22.03.29(화)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/03/20220324135104ae7d7e17-ae09-4233-a814-35f789f88cf7.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[임헌일 단독 콘서트：롤링 27주년 기념 공연 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5957</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5957</guid>
-            <pubDate>Mon, 28 Mar 2022 01:07:08 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>22.03.29(화)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/03/2022032111311103451a18-fecf-4ee1-9808-8b9bcec0d105.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
