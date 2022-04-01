@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 01 Apr 2022 09:14:41 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Apr 2022 10:17:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Fri, 01 Apr 2022 08:18:58 GMT</pubDate>
             <content:encoded><![CDATA[오픈일정 보기 &gt;]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/03/20220331170401fa355423-086f-4a8b-9ac9-63bf36a9419e.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[사비나앤드론즈 소극장 콘서트，결국 우리를 울게 할［The Lyrics］티켓 오픈 안내 (멜론 티켓)]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5987</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5987</guid>
+            <pubDate>Fri, 01 Apr 2022 10:17:20 GMT</pubDate>
+            <content:encoded><![CDATA[2022.04.06(수) 20:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/03/2022033116542441baab5e-ffa2-48a7-bc23-45026671ee08.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 〈프리다〉 마지막 티켓 오픈 안내 (멜론 티켓)]]></title>
@@ -80,18 +88,10 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/03/202203291155366e5f9ca0-c587-4dbe-b5ca-a6b54fbaa653.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 〈레베카〉－대전 추가 티켓 오픈 안내 (멜론 티켓)]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5979</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5979</guid>
-            <pubDate>Mon, 28 Mar 2022 06:18:34 GMT</pubDate>
-            <content:encoded><![CDATA[2022.03.29(화) 15:00]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/03/202203281355567eabbd59-fb89-4dec-93aa-467fb898dfb4.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
-        </item>
-        <item>
             <title><![CDATA[현대카드 Curated 73 글렌체크 〈Bleach Your Mind〉 티켓 오픈 안내 (멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식)]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5989</link>
             <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5989</guid>
-            <pubDate>Fri, 01 Apr 2022 09:14:34 GMT</pubDate>
+            <pubDate>Fri, 01 Apr 2022 09:14:26 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>22.04.06(수)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/04/202204010920457015b6a6-4182-43bd-b240-1797db9abda1.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
@@ -144,6 +144,14 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/03/20220331170401fa355423-086f-4a8b-9ac9-63bf36a9419e.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
         <item>
+            <title><![CDATA[사비나앤드론즈 소극장 콘서트，결국 우리를 울게 할［The Lyrics］티켓 오픈 안내 (멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식)]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5987</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5987</guid>
+            <pubDate>Fri, 01 Apr 2022 10:17:27 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>22.04.06(수)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/03/2022033116542441baab5e-ffa2-48a7-bc23-45026671ee08.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
             <title><![CDATA[먼데이프로젝트 시즌5 ORIGINAL［맥거핀 단독 콘서트］티켓 오픈 안내 (멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식)]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5963</link>
             <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5963</guid>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 28 Mar 2022 03:31:05 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>22.03.31(목)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/03/20220325111548498f3f54-cf3f-41e1-a1da-0bba58c17116.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[먼데이프로젝트 시즌5 청춘의 밤［나인티오원 단독 콘서트］티켓 오픈 안내 (멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식)]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5984</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5984</guid>
-            <pubDate>Thu, 31 Mar 2022 03:27:03 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>22.04.07(목)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/03/20220330095808ae5c02b3-9bce-4c22-a5af-2a396defc7b5.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
         <item>
             <title><![CDATA[너와 내가 만든 세상 제주전，‘아가，봄이 왔다’ 케테콜비츠 전 (멜론티켓 ─ 판매중)]]></title>
