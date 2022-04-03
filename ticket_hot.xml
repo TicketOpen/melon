@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 03 Apr 2022 22:14:19 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Apr 2022 23:14:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Thu, 31 Mar 2022 05:13:59 GMT</pubDate>
             <content:encoded><![CDATA[오픈일정 보기 &gt;]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/04/20220401145016b155e4b0-9e7f-41c0-896e-210c41a07795.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[에이프릴 세컨드 단독 콘서트 〈4월의 돌고래：Bloom〉 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5990</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5990</guid>
+            <pubDate>Sun, 03 Apr 2022 23:14:29 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>22.04.05(화)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/04/2022040111493520f2a0d4-cf5e-496e-bc10-992e05da4c48.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
         <item>
             <title><![CDATA[TRAP－FEST（트랩페스트）티켓 오픈 안내]]></title>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 30 Mar 2022 01:03:25 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>22.03.31(목)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/03/20220323132308f179e96e-3398-4fd5-a6f9-c65463328288.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[IDOL ARENA Vol．18 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5973</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5973</guid>
-            <pubDate>Wed, 30 Mar 2022 01:03:25 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>22.03.31(목)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/03/20220325111548498f3f54-cf3f-41e1-a1da-0bba58c17116.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
