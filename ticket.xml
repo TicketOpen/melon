@@ -4,7 +4,7 @@
         <title>멜론 티켓</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Apr 2022 08:17:48 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Apr 2022 09:14:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,22 @@
             <pubDate>Wed, 06 Apr 2022 08:17:33 GMT</pubDate>
             <content:encoded><![CDATA[2022.04.14(목) 14:00]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/04/2022040616134836c37301-d27a-4a49-b9df-680e58ea2df1.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[윤상 Curated 06 HAEPAARY 〈Born by Gorgeousness〉 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6001</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6001</guid>
+            <pubDate>Wed, 06 Apr 2022 09:14:35 GMT</pubDate>
+            <content:encoded><![CDATA[2022.04.08(금) 18:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/04/202204061036117f023c87-cc1b-43e1-87f0-2ac0a071a678.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[2022 구원찬 단독공연［object ‘0’］티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6000</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6000</guid>
+            <pubDate>Wed, 06 Apr 2022 09:14:35 GMT</pubDate>
+            <content:encoded><![CDATA[2022.04.13(수) 18:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/04/2022040514322651e51245-5d9d-4167-8390-db6a4ea6ab88.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
         <item>
             <title><![CDATA[SSHOWBOX with PURPLE WHALE 티켓 오픈 안내]]></title>
@@ -70,22 +86,6 @@
             <pubDate>Mon, 04 Apr 2022 10:16:23 GMT</pubDate>
             <content:encoded><![CDATA[2022.04.06(수) 11:00]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/04/202204041824101b9168e1-58eb-4294-a03e-e217f83c813c.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[현대카드 Curated 74 dosii 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5992</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5992</guid>
-            <pubDate>Mon, 04 Apr 2022 09:15:27 GMT</pubDate>
-            <content:encoded><![CDATA[2022.04.07(목) 18:00]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/04/20220404145155db02068b-7a50-480a-bf6f-7b4016029073.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[［우주라이브］밝은 밤 단독 콘서트 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5991</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5991</guid>
-            <pubDate>Mon, 04 Apr 2022 01:03:36 GMT</pubDate>
-            <content:encoded><![CDATA[2022.04.05(화) 10:00]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/04/2022040116130560476f5f-65ec-4459-8dd9-c020009093fa.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
     </channel>
 </rss>
