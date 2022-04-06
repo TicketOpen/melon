@@ -4,9 +4,17 @@
         <title>멜론 티켓</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Apr 2022 04:18:05 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Apr 2022 05:13:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[SSHOWBOX with PURPLE WHALE 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5999</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5999</guid>
+            <pubDate>Wed, 06 Apr 2022 05:13:32 GMT</pubDate>
+            <content:encoded><![CDATA[2022.04.08(금) 19:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/04/202204051159593c677b5b-c429-43b2-ac66-29dbb209eaf3.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
         <item>
             <title><![CDATA[먼데이프로젝트 시즌5 청춘의 밤［이제 단독 콘서트］티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5998</link>
@@ -78,14 +86,6 @@
             <pubDate>Sun, 03 Apr 2022 23:14:21 GMT</pubDate>
             <content:encoded><![CDATA[2022.04.05(화) 20:00]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/04/2022040111493520f2a0d4-cf5e-496e-bc10-992e05da4c48.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[현대카드 Curated 73 글렌체크 〈Bleach Your Mind〉 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5989</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5989</guid>
-            <pubDate>Fri, 01 Apr 2022 09:14:26 GMT</pubDate>
-            <content:encoded><![CDATA[2022.04.06(수) 18:00]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/04/202204010920457015b6a6-4182-43bd-b240-1797db9abda1.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
     </channel>
 </rss>
