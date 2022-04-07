@@ -4,9 +4,25 @@
         <title>멜론 티켓</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Apr 2022 02:51:44 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Apr 2022 03:26:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[먼데이프로젝트 시즌5 ORIGINAL［크리스탈 티 단독 콘서트］티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6004</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6004</guid>
+            <pubDate>Thu, 07 Apr 2022 03:26:46 GMT</pubDate>
+            <content:encoded><![CDATA[2022.04.15(금) 20:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/04/202204061634326a752ea2-bdd1-4f5c-a95f-da49bd38a6ee.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[정혜일 단독 콘서트：We Live In Ocean 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6003</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6003</guid>
+            <pubDate>Thu, 07 Apr 2022 03:26:46 GMT</pubDate>
+            <content:encoded><![CDATA[2022.04.08(금) 18:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/04/2022040617422957f4eda8-4de3-4ff4-b929-13e6e9e34b74.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
         <item>
             <title><![CDATA[뮤지컬 〈마타하리〉 1차 티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6002</link>
@@ -70,22 +86,6 @@
             <pubDate>Tue, 05 Apr 2022 03:26:52 GMT</pubDate>
             <content:encoded><![CDATA[2022.04.08(금) 18:00]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/04/202204041917499c867a36-f8de-4def-862a-c9cddda42c64.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[〈일간 이슬아〉 이슬아에게 배우는 새 마음으로 매일 글쓰기 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5994</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5994</guid>
-            <pubDate>Tue, 05 Apr 2022 00:59:57 GMT</pubDate>
-            <content:encoded><![CDATA[2022.04.05(화) 09:00]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/04/202204041852048a02ab1d-d14d-44f1-9665-f5106d17e741.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[서울시향과 함께하는 ‘오케스트라 여행’ 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5993</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5993</guid>
-            <pubDate>Mon, 04 Apr 2022 10:16:23 GMT</pubDate>
-            <content:encoded><![CDATA[2022.04.06(수) 11:00]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/04/202204041824101b9168e1-58eb-4294-a03e-e217f83c813c.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
     </channel>
 </rss>
