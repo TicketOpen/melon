@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Apr 2022 08:19:14 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Apr 2022 09:15:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -88,6 +88,14 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/04/202204041917499c867a36-f8de-4def-862a-c9cddda42c64.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
         <item>
+            <title><![CDATA[윤상 Curated 06 HAEPAARY 〈Born by Gorgeousness〉 티켓 오픈 안내 (멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식)]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6001</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6001</guid>
+            <pubDate>Wed, 06 Apr 2022 09:14:35 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>22.04.08(금)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/04/202204061036117f023c87-cc1b-43e1-87f0-2ac0a071a678.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
             <title><![CDATA[먼데이프로젝트 시즌5 청춘의 밤［나인티오원 단독 콘서트］티켓 오픈 안내 (멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식)]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5984</link>
             <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5984</guid>
@@ -142,14 +150,6 @@
             <pubDate>Wed, 06 Apr 2022 09:14:35 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>22.04.13(수)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/04/2022040514322651e51245-5d9d-4167-8390-db6a4ea6ab88.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[윤상 Curated 06 HAEPAARY 〈Born by Gorgeousness〉 티켓 오픈 안내 (멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식)]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6001</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6001</guid>
-            <pubDate>Wed, 06 Apr 2022 09:14:35 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>22.04.08(금)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/04/202204061036117f023c87-cc1b-43e1-87f0-2ac0a071a678.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
         <item>
             <title><![CDATA[현대카드 Curated 73 글렌체크 〈Bleach Your Mind〉 티켓 오픈 안내 (멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식)]]></title>
@@ -518,7 +518,7 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/03/20220316160325f3fc0089-d816-412d-8369-82470788b806.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
-            <title><![CDATA[W24 정규 1집 ‘White Album’ 발매 기념 콘서트 (멜론티켓 ─ 판매중)]]></title>
+            <title><![CDATA[W24 정규 1집 ‘White Album’ 발매 기념 콘서트 (멜론티켓 ─ 판매중)]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=206722</link>
             <guid>https://ticket.melon.com/performance/index.htm?prodId=206722</guid>
             <pubDate>Sun, 03 Apr 2022 15:14:52 GMT</pubDate>
@@ -533,7 +533,7 @@
                                 <p class="infor_text">
                                     <span class="ico_wrap">
                                         <span class="ico_list ico_list1">단독판매</span><span class="ico_list ico_list4"> 판매중</span></span>
-                                    <span class="show_title"><a href="/performance/index.htm?prodId=206722">W24&nbsp;정규 1집 ‘White Album’ 발매 기념 콘서트</a></span>
+                                    <span class="show_title"><a href="/performance/index.htm?prodId=206722">W24 정규 1집 ‘White Album’ 발매 기념 콘서트</a></span>
                                 </p>
                             </div>
                         </td>
