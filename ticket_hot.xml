@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Apr 2022 02:59:57 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Apr 2022 03:37:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -48,6 +48,22 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/04/202204061036117f023c87-cc1b-43e1-87f0-2ac0a071a678.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
         <item>
+            <title><![CDATA[HAPPY TOGETHER 밴디지X남메아리밴드 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6007</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6007</guid>
+            <pubDate>Fri, 08 Apr 2022 03:37:24 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>22.04.15(금)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/04/20220407151406fad7c0e3-3ce6-46dd-b0fa-bd5f599ba332.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[H a lot ＆ Lacuna：롤링 27주년 기념 공연 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6005</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6005</guid>
+            <pubDate>Fri, 08 Apr 2022 03:37:24 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>22.04.15(금)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/04/202204071143541dd9aa6f-04c1-4177-8f5a-65a82c3d27fa.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
             <title><![CDATA[먼데이프로젝트 시즌5 청춘의 밤［나인티오원 단독 콘서트］티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5984</link>
             <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5984</guid>
@@ -70,22 +86,6 @@
             <pubDate>Thu, 07 Apr 2022 03:26:52 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>22.04.15(금)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/04/202204061634326a752ea2-bdd1-4f5c-a95f-da49bd38a6ee.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[현대카드 Curated 73 글렌체크 〈Bleach Your Mind〉 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5989</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5989</guid>
-            <pubDate>Fri, 01 Apr 2022 09:14:34 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>22.04.06(수)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/04/202204010920457015b6a6-4182-43bd-b240-1797db9abda1.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[〈일간 이슬아〉 이슬아에게 배우는 새 마음으로 매일 글쓰기 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5994</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5994</guid>
-            <pubDate>Tue, 05 Apr 2022 01:00:04 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>22.04.05(화)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/04/202204041852048a02ab1d-d14d-44f1-9665-f5106d17e741.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
