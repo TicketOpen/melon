@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 판매중</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Apr 2022 04:19:20 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Apr 2022 07:16:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -308,6 +308,31 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/03/202203311646329a62325b-7129-400e-90ee-2f3e21e74158.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
+            <title><![CDATA[VIVIZ（비비지）공식 팬클럽 나비（Na．V）1기 추가모집]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=206649</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=206649</guid>
+            <pubDate>Mon, 11 Apr 2022 07:16:06 GMT</pubDate>
+            <content:encoded><![CDATA[<td>
+                            <div class="show_infor">
+                                <div class="thumb_90x125  img">
+                                    <a href="#">
+                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/04/202204111421062eaee19a-ce9e-4b81-9ff3-9129d8566cc0.jpg/melon/resize/90x125/strip/true" alt="">
+                                        <span class="frame"></span>
+                                    </a>
+                                </div>
+                                <p class="infor_text">
+                                    <span class="ico_wrap">
+                                        <span class="ico_list ico_list1">단독판매</span><span class="ico_list ico_list4"> 판매중</span></span>
+                                    <span class="show_title"><a href="/performance/index.htm?prodId=206649">VIVIZ（비비지）공식 팬클럽 나비（Na．V）1기 추가모집</a></span>
+                                </p>
+                            </div>
+                        </td>
+                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
+                            2022.04.13 - 2022.04.24</td>
+                        <td class="show_loc">- </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/04/202204111421062eaee19a-ce9e-4b81-9ff3-9129d8566cc0.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
             <title><![CDATA[2022 명연주자시리즈 〈정화 그리고 순환〉]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=206707</link>
             <guid>https://ticket.melon.com/performance/index.htm?prodId=206707</guid>
@@ -481,31 +506,6 @@
                             2022.04.16 - 2022.04.16</td>
                         <td class="show_loc">롤링홀 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/03/2022031513463259dcb70c-13e1-4317-b5c7-607566b7389b.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[정승수 밴드 단독 콘서트：Caffeine]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=206692</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=206692</guid>
-            <pubDate>Sun, 10 Apr 2022 15:15:12 GMT</pubDate>
-            <content:encoded><![CDATA[<td>
-                            <div class="show_infor">
-                                <div class="thumb_90x125  img">
-                                    <a href="#">
-                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/03/20220317142040705ed712-9570-440e-b612-f93278d24568.jpg/melon/resize/90x125/strip/true" alt="">
-                                        <span class="frame"></span>
-                                    </a>
-                                </div>
-                                <p class="infor_text">
-                                    <span class="ico_wrap">
-                                        <span class="ico_list ico_list1">단독판매</span><span class="ico_list ico_list4"> 판매중</span></span>
-                                    <span class="show_title"><a href="/performance/index.htm?prodId=206692">정승수 밴드 단독 콘서트：Caffeine</a></span>
-                                </p>
-                            </div>
-                        </td>
-                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
-                            2022.04.16 - 2022.04.16</td>
-                        <td class="show_loc">지스페이스홀 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/03/20220317142040705ed712-9570-440e-b612-f93278d24568.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
     </channel>
 </rss>
