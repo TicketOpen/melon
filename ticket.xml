@@ -4,7 +4,7 @@
         <title>멜론 티켓</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Apr 2022 21:13:29 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Apr 2022 22:14:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Mon, 11 Apr 2022 07:15:52 GMT</pubDate>
             <content:encoded><![CDATA[2022.04.12(화) 20:00]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/04/20220411132041cbe617d9-1044-434e-8e07-afb46a10b117.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[디어 슈베르트 （Dear Schubert）티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6018</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6018</guid>
+            <pubDate>Mon, 11 Apr 2022 22:14:30 GMT</pubDate>
+            <content:encoded><![CDATA[오픈일정 보기 &gt;]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/04/202204111200251906b171-6893-470d-9008-3706ca552a0e.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
         <item>
             <title><![CDATA[KAY BROWN 단독 콘서트 ‘VARIETY’：롤링 27주년 기념 공연 티켓 오픈 안내]]></title>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 11 Apr 2022 03:06:09 GMT</pubDate>
             <content:encoded><![CDATA[2022.04.13(수) 18:00]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/04/20220411100946c63582a7-15a9-4743-9d61-5b5989be938e.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[백형훈，권서경 콘서트－스프링 블랜드 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6010</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6010</guid>
-            <pubDate>Mon, 11 Apr 2022 03:06:09 GMT</pubDate>
-            <content:encoded><![CDATA[2022.04.11(월) 20:00]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/04/202204081125035d65ce3e-26ec-4111-baf4-c6a5761fae9c.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
     </channel>
 </rss>
