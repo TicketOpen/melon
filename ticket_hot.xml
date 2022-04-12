@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Apr 2022 08:18:50 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Apr 2022 09:14:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -64,14 +64,6 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/04/202204111453360b3bb99f-ec88-4ca6-9b1a-e809f618d711.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
         <item>
-            <title><![CDATA[트롯 데이 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6020</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6020</guid>
-            <pubDate>Mon, 11 Apr 2022 08:18:23 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>22.04.13(수)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/04/20220411132810f6378d64-02db-4d62-96b0-0fc710c7e80d.png/melon/resize/160x225/strip/true" length="0" type="image/png/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
             <title><![CDATA[2022 ESG Festival 〈어스어스 페스티벌〉 티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6019</link>
             <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6019</guid>
@@ -86,6 +78,14 @@
             <pubDate>Mon, 11 Apr 2022 03:06:16 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>22.04.11(월)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/04/20220411120622057bd3ca-b641-4fdb-9a71-dda05a5ffd4b.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[KAY BROWN 단독 콘서트 ‘VARIETY’：롤링 27주년 기념 공연 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6017</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6017</guid>
+            <pubDate>Tue, 12 Apr 2022 09:14:33 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>22.04.18(월)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/04/20220411093259154d8741-886f-40bb-b35f-bcd0a373f28f.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
