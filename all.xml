@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Apr 2022 14:14:17 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Apr 2022 15:16:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -368,31 +368,6 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/02/20220223150234df016085-5a20-448c-9a83-242cc8dbb191.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
-            <title><![CDATA[Dreamcatcher 2nd Album［Apocalypse：Save us］Mini Concert (멜론티켓 ─ 판매중)]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=206716</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=206716</guid>
-            <pubDate>Sat, 09 Apr 2022 15:16:00 GMT</pubDate>
-            <content:encoded><![CDATA[<td>
-                            <div class="show_infor">
-                                <div class="thumb_90x125  img">
-                                    <a href="#">
-                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/03/20220324102814dfa143e0-92c7-4a7a-9f53-127fef5b309c.jpg/melon/resize/90x125/strip/true" alt="">
-                                        <span class="frame"></span>
-                                    </a>
-                                </div>
-                                <p class="infor_text">
-                                    <span class="ico_wrap">
-                                        <span class="ico_list ico_list4"> 판매중</span></span>
-                                    <span class="show_title"><a href="/performance/index.htm?prodId=206716">Dreamcatcher 2nd Album［Apocalypse：Save us］Mini Concert</a></span>
-                                </p>
-                            </div>
-                        </td>
-                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
-                            2022.04.12 - 2022.04.12</td>
-                        <td class="show_loc">예스24 라이브홀 (구 악스코리아) </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/03/20220324102814dfa143e0-92c7-4a7a-9f53-127fef5b309c.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
             <title><![CDATA[장기하 단독 공연［공중부양］ (멜론티켓 ─ 판매중)]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=206733</link>
             <guid>https://ticket.melon.com/performance/index.htm?prodId=206733</guid>
@@ -666,6 +641,31 @@
                             2022.04.16 - 2022.04.16</td>
                         <td class="show_loc">홍대 우주정거장 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/03/20220321152002eff36d49-6ce7-40eb-8a79-f4419b7de87c.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[［Soldout smile］Showcase at 대구 (멜론티켓 ─ 판매중)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=206705</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=206705</guid>
+            <pubDate>Tue, 12 Apr 2022 15:16:50 GMT</pubDate>
+            <content:encoded><![CDATA[<td>
+                            <div class="show_infor">
+                                <div class="thumb_90x125  img">
+                                    <a href="#">
+                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/03/202203221120332f641155-d4c6-49e9-83ab-d910038a5c87.jpg/melon/resize/90x125/strip/true" alt="">
+                                        <span class="frame"></span>
+                                    </a>
+                                </div>
+                                <p class="infor_text">
+                                    <span class="ico_wrap">
+                                        <span class="ico_list ico_list1">단독판매</span><span class="ico_list ico_list4"> 판매중</span></span>
+                                    <span class="show_title"><a href="/performance/index.htm?prodId=206705">［Soldout smile］Showcase at 대구</a></span>
+                                </p>
+                            </div>
+                        </td>
+                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
+                            2022.04.16 - 2022.04.16</td>
+                        <td class="show_loc">대구클럽헤비(club Heavy) </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/03/202203221120332f641155-d4c6-49e9-83ab-d910038a5c87.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
     </channel>
 </rss>
