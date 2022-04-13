@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Apr 2022 14:25:23 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Apr 2022 15:16:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -418,31 +418,6 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/04/202204111421062eaee19a-ce9e-4b81-9ff3-9129d8566cc0.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
-            <title><![CDATA[2022 명연주자시리즈 〈정화 그리고 순환〉 (멜론티켓 ─ 판매중)]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=206707</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=206707</guid>
-            <pubDate>Sun, 10 Apr 2022 15:15:12 GMT</pubDate>
-            <content:encoded><![CDATA[<td>
-                            <div class="show_infor">
-                                <div class="thumb_90x125  img">
-                                    <a href="#">
-                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/03/2022032216561193870de9-9f95-4604-ba3c-0c43c082dcaa.jpg/melon/resize/90x125/strip/true" alt="">
-                                        <span class="frame"></span>
-                                    </a>
-                                </div>
-                                <p class="infor_text">
-                                    <span class="ico_wrap">
-                                        <span class="ico_list ico_list4"> 판매중</span></span>
-                                    <span class="show_title"><a href="/performance/index.htm?prodId=206707">2022 명연주자시리즈 〈정화 그리고 순환〉</a></span>
-                                </p>
-                            </div>
-                        </td>
-                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
-                            2022.04.13 - 2022.04.13</td>
-                        <td class="show_loc">세종문화회관 M씨어터</td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/03/2022032216561193870de9-9f95-4604-ba3c-0c43c082dcaa.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
             <title><![CDATA[뮤지컬 〈레베카〉－여수 (멜론티켓 ─ 판매중)]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=206594</link>
             <guid>https://ticket.melon.com/performance/index.htm?prodId=206594</guid>
@@ -666,6 +641,31 @@
                             2022.04.16 - 2022.04.16</td>
                         <td class="show_loc">대구클럽헤비(club Heavy) </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/03/202203221120332f641155-d4c6-49e9-83ab-d910038a5c87.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[2022 이진아 단독공연 ‘Everyday I Sing For Joy’ (멜론티켓 ─ 판매중)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=206709</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=206709</guid>
+            <pubDate>Wed, 13 Apr 2022 15:16:22 GMT</pubDate>
+            <content:encoded><![CDATA[<td>
+                            <div class="show_infor">
+                                <div class="thumb_90x125  img">
+                                    <a href="#">
+                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/03/2022032814103960239351-ca16-4327-9f08-e4d732ea586a.jpg/melon/resize/90x125/strip/true" alt="">
+                                        <span class="frame"></span>
+                                    </a>
+                                </div>
+                                <p class="infor_text">
+                                    <span class="ico_wrap">
+                                        <span class="ico_list ico_list1">단독판매</span><span class="ico_list ico_list4"> 판매중</span></span>
+                                    <span class="show_title"><a href="/performance/index.htm?prodId=206709">2022 이진아 단독공연 ‘Everyday I Sing For Joy’</a></span>
+                                </p>
+                            </div>
+                        </td>
+                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
+                            2022.04.16 - 2022.04.17</td>
+                        <td class="show_loc">서강대학교 메리홀 대극장</td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/03/2022032814103960239351-ca16-4327-9f08-e4d732ea586a.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
     </channel>
 </rss>
