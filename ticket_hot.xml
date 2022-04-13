@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Apr 2022 01:09:57 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Apr 2022 03:01:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -56,6 +56,14 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/04/202204111453360b3bb99f-ec88-4ca6-9b1a-e809f618d711.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
         <item>
+            <title><![CDATA[정석훈＆김준서：롤링 27주년 기념 공연 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6023</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6023</guid>
+            <pubDate>Wed, 13 Apr 2022 03:01:37 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>22.04.20(수)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/04/202204121648370205fe2d-57d8-4aa8-90a5-1ede094b4a10.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
             <title><![CDATA[N．Flying 소극장 콘서트：우만합－서울，부산，춘천 티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5985</link>
             <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=5985</guid>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 11 Apr 2022 07:15:58 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>22.04.12(화)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/04/20220411132041cbe617d9-1044-434e-8e07-afb46a10b117.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[［우주라이브］IDOL PALETTE Vol．19 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6009</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6009</guid>
-            <pubDate>Mon, 11 Apr 2022 03:06:16 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>22.04.11(월)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/04/20220411120622057bd3ca-b641-4fdb-9a71-dda05a5ffd4b.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
