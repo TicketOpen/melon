@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Apr 2022 08:19:57 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Apr 2022 09:15:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Thu, 14 Apr 2022 05:14:15 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>22.04.14(목)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/04/202204141405282b158a93-0136-4ab9-bb5e-d5a9dd687935.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[2022 오존 단독공연［Homecoming］티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6026</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6026</guid>
+            <pubDate>Thu, 14 Apr 2022 09:15:00 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>22.04.18(월)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/04/2022041316382902eb94fc-48de-4c76-94e3-b84c65bef829.png/melon/resize/160x225/strip/true" length="0" type="image/png/melon/resize/160x225/strip/true"/>
         </item>
         <item>
             <title><![CDATA[먼데이프로젝트 IN 라이브클럽［로쿠 단독 콘서트］티켓 오픈 안내]]></title>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 12 Apr 2022 05:13:57 GMT</pubDate>
             <content:encoded><![CDATA[오픈일정 보기 &gt;]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/04/202204111453360b3bb99f-ec88-4ca6-9b1a-e809f618d711.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[이츠 1st 정규앨범 “Afterglow” 발매기념 단독공연 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6024</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6024</guid>
-            <pubDate>Wed, 13 Apr 2022 05:13:55 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>22.04.19(화)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/04/202204121642142022bc43-9617-4ba4-9fad-8cdf2111edec.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>

@@ -4,7 +4,7 @@
         <title>멜론 티켓</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Apr 2022 08:19:57 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Apr 2022 09:15:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Thu, 14 Apr 2022 05:14:09 GMT</pubDate>
             <content:encoded><![CDATA[2022.04.14(목) 10:00]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/04/202204141405282b158a93-0136-4ab9-bb5e-d5a9dd687935.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[2022 오존 단독공연［Homecoming］티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6026</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6026</guid>
+            <pubDate>Thu, 14 Apr 2022 09:14:54 GMT</pubDate>
+            <content:encoded><![CDATA[2022.04.18(월) 18:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/04/2022041316382902eb94fc-48de-4c76-94e3-b84c65bef829.png/melon/resize/65x92/strip/true" length="0" type="image/png/melon/resize/65x92/strip/true"/>
         </item>
         <item>
             <title><![CDATA[먼데이프로젝트 IN 라이브클럽［로쿠 단독 콘서트］티켓 오픈 안내]]></title>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 11 Apr 2022 22:14:30 GMT</pubDate>
             <content:encoded><![CDATA[오픈일정 보기 &gt;]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/04/202204111200251906b171-6893-470d-9008-3706ca552a0e.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[KAY BROWN 단독 콘서트 ‘VARIETY’：롤링 27주년 기념 공연 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6017</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6017</guid>
-            <pubDate>Mon, 11 Apr 2022 03:06:09 GMT</pubDate>
-            <content:encoded><![CDATA[2022.04.18(월) 20:00]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/04/20220411093259154d8741-886f-40bb-b35f-bcd0a373f28f.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
     </channel>
 </rss>
