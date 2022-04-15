@@ -4,7 +4,7 @@
         <title>멜론 티켓</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Apr 2022 10:16:33 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Apr 2022 11:13:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Fri, 15 Apr 2022 09:14:31 GMT</pubDate>
             <content:encoded><![CDATA[2022.04.21(목) 16:00]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/04/202204151610201a55c397-1aa8-47ef-be6b-cef336011567.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[잭킹콩 싱글 발매기념 콘서트［Let’s hiking！］티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6037</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6037</guid>
+            <pubDate>Fri, 15 Apr 2022 11:12:58 GMT</pubDate>
+            <content:encoded><![CDATA[2022.04.18(월) 20:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/04/2022041509374422fff9d9-cb56-468d-866f-99838585b6c7.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
         <item>
             <title><![CDATA[SSHOWBOX with 사공 티켓 오픈 안내]]></title>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 15 Apr 2022 01:04:51 GMT</pubDate>
             <content:encoded><![CDATA[2022.04.15(금) 15:00]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/04/20220414154605e8276594-30a0-42a0-a513-da0c142bd8b1.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[설렘파이터 아이키의 THE MOMENT 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6028</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6028</guid>
-            <pubDate>Fri, 15 Apr 2022 01:04:51 GMT</pubDate>
-            <content:encoded><![CDATA[2022.04.15(금) 09:00]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/04/20220414154108e51337d0-ea91-40ea-8e45-8dfb24f4326b.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
     </channel>
 </rss>

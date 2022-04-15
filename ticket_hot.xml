@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Apr 2022 10:16:33 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Apr 2022 11:13:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -64,6 +64,14 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/04/2022041316382902eb94fc-48de-4c76-94e3-b84c65bef829.png/melon/resize/160x225/strip/true" length="0" type="image/png/melon/resize/160x225/strip/true"/>
         </item>
         <item>
+            <title><![CDATA[잭킹콩 싱글 발매기념 콘서트［Let’s hiking！］티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6037</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6037</guid>
+            <pubDate>Fri, 15 Apr 2022 11:13:06 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>22.04.18(월)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/04/2022041509374422fff9d9-cb56-468d-866f-99838585b6c7.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
             <title><![CDATA[SSHOWBOX with 사공 티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6036</link>
             <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6036</guid>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 15 Apr 2022 05:20:34 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>22.04.18(월)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/04/2022041418133710f03e0f-b5c6-407e-9b85-a0c8e8df3dff.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[W24 정규 1집 〈WHITE ALBUM〉 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6034</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6034</guid>
-            <pubDate>Fri, 15 Apr 2022 03:26:23 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>22.04.15(금)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/04/20220414174701b9d66453-23e0-42da-9c7c-b781c9ee04fd.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
