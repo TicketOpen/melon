@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 판매중</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Apr 2022 01:05:04 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Apr 2022 03:26:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -56,6 +56,31 @@
                             2021.06.22 - 2022.04.24</td>
                         <td class="show_loc">용산 전쟁기념관 특별전시실</td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2021/12/20211231160851160cfb99-e375-455c-9727-c9f63fdc2a17.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[〈The Color Spot：꿈속의 자연〉]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=206797</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=206797</guid>
+            <pubDate>Fri, 15 Apr 2022 03:26:29 GMT</pubDate>
+            <content:encoded><![CDATA[<td>
+                            <div class="show_infor">
+                                <div class="thumb_90x125  img">
+                                    <a href="#">
+                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/04/20220415111557ec0190ac-94a5-4e9c-a653-ad5e9866806e.jpg/melon/resize/90x125/strip/true" alt="">
+                                        <span class="frame"></span>
+                                    </a>
+                                </div>
+                                <p class="infor_text">
+                                    <span class="ico_wrap">
+                                        <span class="ico_list ico_list4"> 판매중</span></span>
+                                    <span class="show_title"><a href="/performance/index.htm?prodId=206797">〈The Color Spot：꿈속의 자연〉</a></span>
+                                </p>
+                            </div>
+                        </td>
+                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
+                            2022.01.11 - 2022.09.30</td>
+                        <td class="show_loc">와이즈파크 홍대점</td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/04/20220415111557ec0190ac-94a5-4e9c-a653-ad5e9866806e.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
             <title><![CDATA[어느 봄날，테레사 프레이타스 사진전]]></title>
@@ -481,31 +506,6 @@
                             2022.04.16 - 2022.04.16</td>
                         <td class="show_loc">대구클럽헤비(club Heavy) </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/03/202203221120332f641155-d4c6-49e9-83ab-d910038a5c87.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[2022 이진아 단독공연 ‘Everyday I Sing For Joy’]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=206709</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=206709</guid>
-            <pubDate>Wed, 13 Apr 2022 15:16:22 GMT</pubDate>
-            <content:encoded><![CDATA[<td>
-                            <div class="show_infor">
-                                <div class="thumb_90x125  img">
-                                    <a href="#">
-                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/03/2022032814103960239351-ca16-4327-9f08-e4d732ea586a.jpg/melon/resize/90x125/strip/true" alt="">
-                                        <span class="frame"></span>
-                                    </a>
-                                </div>
-                                <p class="infor_text">
-                                    <span class="ico_wrap">
-                                        <span class="ico_list ico_list1">단독판매</span><span class="ico_list ico_list4"> 판매중</span></span>
-                                    <span class="show_title"><a href="/performance/index.htm?prodId=206709">2022 이진아 단독공연 ‘Everyday I Sing For Joy’</a></span>
-                                </p>
-                            </div>
-                        </td>
-                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
-                            2022.04.16 - 2022.04.17</td>
-                        <td class="show_loc">서강대학교 메리홀 대극장</td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/03/2022032814103960239351-ca16-4327-9f08-e4d732ea586a.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
     </channel>
 </rss>
