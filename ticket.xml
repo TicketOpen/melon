@@ -4,7 +4,7 @@
         <title>멜론 티켓</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 16 Apr 2022 02:50:54 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Apr 2022 03:25:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Fri, 15 Apr 2022 09:14:31 GMT</pubDate>
             <content:encoded><![CDATA[2022.04.21(목) 16:00]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/04/202204151610201a55c397-1aa8-47ef-be6b-cef336011567.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[더더（THETHE）：EP 9．5TH DRAMATIC IRONY 2022 발매 기념 콘서트 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6038</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6038</guid>
+            <pubDate>Sat, 16 Apr 2022 03:25:15 GMT</pubDate>
+            <content:encoded><![CDATA[2022.04.18(월) 12:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/04/202204151057574c1a0d65-7186-4a30-ae05-b91018429b86.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
         <item>
             <title><![CDATA[잭킹콩 싱글 발매기념 콘서트［Let’s hiking！］티켓 오픈 안내]]></title>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 15 Apr 2022 01:04:51 GMT</pubDate>
             <content:encoded><![CDATA[2022.04.21(목) 14:00]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/04/202204141558311ce70984-d266-45e7-a1ac-e45af921eae2.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[솔로 탈출부터，연애 만렙까지！〈모두의지인 연애상담소〉 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6029</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6029</guid>
-            <pubDate>Fri, 15 Apr 2022 01:04:51 GMT</pubDate>
-            <content:encoded><![CDATA[2022.04.15(금) 15:00]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/04/20220414154605e8276594-30a0-42a0-a513-da0c142bd8b1.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
     </channel>
 </rss>
