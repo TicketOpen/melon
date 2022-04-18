@@ -4,9 +4,17 @@
         <title>멜론 티켓</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Apr 2022 04:22:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Apr 2022 05:15:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뮤지컬 〈레베카〉－인천 추가 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6045</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6045</guid>
+            <pubDate>Mon, 18 Apr 2022 05:14:58 GMT</pubDate>
+            <content:encoded><![CDATA[2022.04.19(화) 14:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/04/20220418114418af6edfab-7409-4a41-a021-6a21264eb882.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
         <item>
             <title><![CDATA[곽진언 소극장 콘서트－Op．1 티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6041</link>
@@ -14,6 +22,14 @@
             <pubDate>Fri, 15 Apr 2022 09:14:31 GMT</pubDate>
             <content:encoded><![CDATA[2022.04.21(목) 16:00]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/04/202204151610201a55c397-1aa8-47ef-be6b-cef336011567.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[Flight0521：THE FIX편 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6040</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6040</guid>
+            <pubDate>Mon, 18 Apr 2022 05:14:58 GMT</pubDate>
+            <content:encoded><![CDATA[2022.04.21(목) 20:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/04/20220415151037fac5bacb-f79e-4f79-a15f-9b605f55018a.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
         <item>
             <title><![CDATA[유지희 첫 단독 콘서트 ‘Where is blue？’：롤링 27주년 기념 공연 티켓 오픈 안내]]></title>
@@ -70,22 +86,6 @@
             <pubDate>Fri, 15 Apr 2022 05:20:28 GMT</pubDate>
             <content:encoded><![CDATA[2022.04.20(수) 15:00]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/04/202204141700271bd7ebd5-771a-4430-b761-58c92769a962.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[앙상블 콘서트：Strings Ⅱ 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6032</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6032</guid>
-            <pubDate>Thu, 14 Apr 2022 08:19:40 GMT</pubDate>
-            <content:encoded><![CDATA[2022.04.15(금) 16:00]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/04/20220414165935f81af0d4-6d84-4086-b6f1-1a4ca0e93acb.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[이길승콘서트 Old＆New［1집 B면］티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6031</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6031</guid>
-            <pubDate>Fri, 15 Apr 2022 03:26:16 GMT</pubDate>
-            <content:encoded><![CDATA[2022.04.22(금) 12:00]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/04/20220414160552aeb98350-9cab-41ee-8b55-b4273abdbe96.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
     </channel>
 </rss>
