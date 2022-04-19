@@ -4,9 +4,17 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Apr 2022 04:31:10 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Apr 2022 05:22:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2022 케이시 콘서트 〈May，Be〉 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6046</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6046</guid>
+            <pubDate>Tue, 19 Apr 2022 05:22:17 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>22.04.21(목)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/04/20220419130615db16b30c-946c-4303-a3d8-eaa57e23adda.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
         <item>
             <title><![CDATA[포르테 디 콰트로 콘서트 〈메타포닉〉－부산 추가 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6049</link>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 14 Apr 2022 09:15:00 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>22.04.18(월)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/04/2022041316382902eb94fc-48de-4c76-94e3-b84c65bef829.png/melon/resize/160x225/strip/true" length="0" type="image/png/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[N．Flying 소극장 콘서트：우만합－서울 앵콜 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6021</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6021</guid>
-            <pubDate>Mon, 18 Apr 2022 01:14:32 GMT</pubDate>
-            <content:encoded><![CDATA[오픈일정 보기 &gt;]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/04/202204111453360b3bb99f-ec88-4ca6-9b1a-e809f618d711.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>

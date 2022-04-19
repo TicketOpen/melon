@@ -4,7 +4,7 @@
         <title>멜론 티켓</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Apr 2022 04:31:10 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Apr 2022 05:22:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Tue, 19 Apr 2022 03:22:02 GMT</pubDate>
             <content:encoded><![CDATA[2022.04.19(화) 15:00]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/04/20220419104511528126d3-e65f-433e-a163-397083a8d4b9.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[2022 케이시 콘서트 〈May，Be〉 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6046</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6046</guid>
+            <pubDate>Tue, 19 Apr 2022 05:22:11 GMT</pubDate>
+            <content:encoded><![CDATA[2022.04.21(목) 20:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/04/20220419130615db16b30c-946c-4303-a3d8-eaa57e23adda.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 〈레베카〉－인천 추가 티켓 오픈 안내]]></title>
@@ -78,14 +86,6 @@
             <pubDate>Sat, 16 Apr 2022 03:25:15 GMT</pubDate>
             <content:encoded><![CDATA[2022.04.18(월) 12:00]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/04/202204151057574c1a0d65-7186-4a30-ae05-b91018429b86.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[잭킹콩 싱글 발매기념 콘서트［Let’s hiking！］티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6037</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6037</guid>
-            <pubDate>Fri, 15 Apr 2022 11:12:58 GMT</pubDate>
-            <content:encoded><![CDATA[2022.04.18(월) 20:00]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/04/2022041509374422fff9d9-cb56-468d-866f-99838585b6c7.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
     </channel>
 </rss>
