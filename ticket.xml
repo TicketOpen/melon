@@ -4,9 +4,17 @@
         <title>멜론 티켓</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Apr 2022 01:11:18 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Apr 2022 03:25:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[GYU HYUK 단독 콘서트：BLURRY DREAM 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6052</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6052</guid>
+            <pubDate>Thu, 21 Apr 2022 03:25:10 GMT</pubDate>
+            <content:encoded><![CDATA[2022.04.22(금) 18:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/04/202204211202337a7c039a-0eee-47e0-9a2e-152fc4bce99a.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
         <item>
             <title><![CDATA[카운터테너 최성훈 콘서트 〈Movement〉 앵콜 티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6051</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 18 Apr 2022 08:18:59 GMT</pubDate>
             <content:encoded><![CDATA[2022.04.22(금) 20:00]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/04/20220415174547fed6522d-ce22-44af-8b6b-c97822154a8a.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[The Last Thing Left－세이수미 3집 발매 기념 공연：부산 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6042</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6042</guid>
-            <pubDate>Mon, 18 Apr 2022 08:18:59 GMT</pubDate>
-            <content:encoded><![CDATA[2022.04.22(금) 20:00]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/04/2022041517410031666ceb-dfa9-4b89-919d-671d907b8bd4.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
     </channel>
 </rss>
