@@ -4,9 +4,17 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Apr 2022 01:12:38 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Apr 2022 03:43:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[정혜일 단독 콘서트：We Live In Ocean 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6003</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6003</guid>
+            <pubDate>Fri, 22 Apr 2022 03:43:22 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>22.04.08(금)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/04/20220422120125d6decfd6-309d-4895-aefc-a9bbbe88e609.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
         <item>
             <title><![CDATA[GYU HYUK 단독 콘서트：BLURRY DREAM 티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6052</link>
@@ -72,20 +80,12 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/04/2022041810315687967f56-4382-49af-a418-4a56805dd9fa.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
         <item>
-            <title><![CDATA[2022 케이시 콘서트 〈May，Be〉 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6046</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6046</guid>
-            <pubDate>Tue, 19 Apr 2022 05:22:17 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>22.04.21(목)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/04/20220419130615db16b30c-946c-4303-a3d8-eaa57e23adda.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[강백수 싱글 ‘회전초밥’ 발매 기념 공연：빙글빙글 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6050</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6050</guid>
-            <pubDate>Wed, 20 Apr 2022 03:47:48 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>22.04.20(수)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/04/202204191051324dda36a3-7809-4d48-94d8-0f28afd78d0e.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+            <title><![CDATA[블랙홀 단독 콘서트：롤링 27주년 기념 공연 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6053</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6053</guid>
+            <pubDate>Fri, 22 Apr 2022 03:43:22 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>22.04.28(목)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/04/202204211003562afeda07-3f71-4dea-a023-bdc2672fd166.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
