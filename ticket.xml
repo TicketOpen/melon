@@ -4,7 +4,7 @@
         <title>멜론 티켓</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Apr 2022 04:22:41 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Apr 2022 05:15:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Mon, 25 Apr 2022 03:11:40 GMT</pubDate>
             <content:encoded><![CDATA[2022.04.27(수) 19:00]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/04/202204250923246b8f512d-fd8c-411d-b9f7-05557f066ee3.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[우주락 in 우주라이브 콘서트 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6055</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6055</guid>
+            <pubDate>Mon, 25 Apr 2022 05:15:38 GMT</pubDate>
+            <content:encoded><![CDATA[2022.04.26(화) 14:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/04/20220422142422fe4ce569-f7de-40e4-8dbd-ce69d9ef6ba0.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
         <item>
             <title><![CDATA[5월의 우리－주윤하 소극장 공연 티켓 오픈 안내]]></title>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 20 Apr 2022 03:47:40 GMT</pubDate>
             <content:encoded><![CDATA[2022.04.27(수) 20:00]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/04/20220419091824bb6d7324-bd21-4cf0-97e9-ee53b19a3a96.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[2022 케이시 콘서트 〈May，Be〉 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6046</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6046</guid>
-            <pubDate>Tue, 19 Apr 2022 05:22:11 GMT</pubDate>
-            <content:encoded><![CDATA[2022.04.21(목) 20:00]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/04/20220419130615db16b30c-946c-4303-a3d8-eaa57e23adda.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
     </channel>
 </rss>
