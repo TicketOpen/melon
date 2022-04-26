@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Apr 2022 04:27:27 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Apr 2022 05:17:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Tue, 26 Apr 2022 01:15:45 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>22.04.22(금)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/04/202204141818351a929c80-7570-4f51-b562-71e21ab4e71f.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[Flight0528：9001편 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6059</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6059</guid>
+            <pubDate>Tue, 26 Apr 2022 05:17:28 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>22.04.29(금)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/04/2022042517411597e9a9bb-8d34-4912-9801-b2110016f5d0.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
         <item>
             <title><![CDATA[연극 〈오아시스〉 티켓 오픈 안내]]></title>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 25 Apr 2022 01:03:02 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>22.04.27(수)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/04/20220419092047c78b8f8f-b40a-4bec-b8d1-b8b665e1cb9b.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[티키타카 콘서트：더바이퍼스 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6057</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6057</guid>
-            <pubDate>Mon, 25 Apr 2022 03:11:46 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>22.04.27(수)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/04/202204250923246b8f512d-fd8c-411d-b9f7-05557f066ee3.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
