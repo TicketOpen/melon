@@ -4,7 +4,7 @@
         <title>멜론 티켓</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Apr 2022 03:41:11 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Apr 2022 04:40:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Wed, 27 Apr 2022 03:40:58 GMT</pubDate>
             <content:encoded><![CDATA[2022.04.27(수) 20:00]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/04/20220426172955249dc6b3-7ba6-4a8c-92d8-ec69fff957cf.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[하예동산 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6061</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6061</guid>
+            <pubDate>Wed, 27 Apr 2022 04:40:47 GMT</pubDate>
+            <content:encoded><![CDATA[2022.04.27(수) 13:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/04/202204261348132fef533a-090c-4512-a25e-b254189d8624.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
         <item>
             <title><![CDATA[먼데이프로젝트 IN 라이브클럽［신온유와 김강 단독 콘서트］티켓 오픈 안내]]></title>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 22 Apr 2022 03:43:15 GMT</pubDate>
             <content:encoded><![CDATA[2022.04.28(목) 20:00]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/04/202204211003562afeda07-3f71-4dea-a023-bdc2672fd166.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[GYU HYUK 단독 콘서트：BLURRY DREAM 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6052</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6052</guid>
-            <pubDate>Thu, 21 Apr 2022 03:25:10 GMT</pubDate>
-            <content:encoded><![CDATA[2022.04.22(금) 18:00]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/04/202204211202337a7c039a-0eee-47e0-9a2e-152fc4bce99a.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
     </channel>
 </rss>

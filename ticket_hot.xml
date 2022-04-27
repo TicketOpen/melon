@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Apr 2022 03:41:11 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Apr 2022 04:40:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Wed, 27 Apr 2022 03:41:04 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>22.04.27(수)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/04/20220426172955249dc6b3-7ba6-4a8c-92d8-ec69fff957cf.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[하예동산 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6061</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6061</guid>
+            <pubDate>Wed, 27 Apr 2022 04:40:53 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>22.04.27(수)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/04/202204261348132fef533a-090c-4512-a25e-b254189d8624.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
         <item>
             <title><![CDATA[먼데이프로젝트 IN 라이브클럽［신온유와 김강 단독 콘서트］티켓 오픈 안내]]></title>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 21 Apr 2022 01:11:10 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>22.04.22(금)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/04/2022041810315687967f56-4382-49af-a418-4a56805dd9fa.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[먼데이프로젝트 IN 라이브클럽［2단지 단독 콘서트］티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6047</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6047</guid>
-            <pubDate>Mon, 25 Apr 2022 01:03:02 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>22.04.27(수)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/04/20220419091824bb6d7324-bd21-4cf0-97e9-ee53b19a3a96.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
