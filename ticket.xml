@@ -4,9 +4,25 @@
         <title>멜론 티켓</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 02 May 2022 01:11:42 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 May 2022 03:53:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[우소연 1집 발매 기념 쇼케이스［못난이］티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6072</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6072</guid>
+            <pubDate>Mon, 02 May 2022 03:53:09 GMT</pubDate>
+            <content:encoded><![CDATA[2022.05.04(수) 12:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/04/202204291512268c5a8c03-0cb9-4e4a-9718-d7172f607ed1.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[하성운 공식 팬클럽 HA：NEUL 3기 추가모집 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6071</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6071</guid>
+            <pubDate>Mon, 02 May 2022 03:53:09 GMT</pubDate>
+            <content:encoded><![CDATA[2022.05.04(수) 19:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/04/20220429115116f09c34df-e9c3-455f-99da-fb7f225bba7c.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
         <item>
             <title><![CDATA[암호（AMHO）첫 단독 콘서트 〈리듬체인지〉 티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6070</link>
@@ -70,22 +86,6 @@
             <pubDate>Wed, 27 Apr 2022 05:26:07 GMT</pubDate>
             <content:encoded><![CDATA[2022.04.28(목) 15:00]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/04/20220427094807ce367838-f2c9-4bd3-baea-859057bd0fe8.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[크라잉넛＆해리빅버튼＆전자양 스탠딩 콘서트 ‘모두 일어나’ 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6062</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6062</guid>
-            <pubDate>Wed, 27 Apr 2022 03:40:58 GMT</pubDate>
-            <content:encoded><![CDATA[2022.04.27(수) 20:00]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/04/20220426172955249dc6b3-7ba6-4a8c-92d8-ec69fff957cf.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[하예동산 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6061</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6061</guid>
-            <pubDate>Wed, 27 Apr 2022 04:40:47 GMT</pubDate>
-            <content:encoded><![CDATA[2022.04.27(수) 13:00]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/04/202204261348132fef533a-090c-4512-a25e-b254189d8624.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
     </channel>
 </rss>
