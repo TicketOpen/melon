@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 03 May 2022 14:13:02 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 May 2022 15:16:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -443,31 +443,6 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/04/2022041113110416ddc96d-08ae-49b7-951f-9977dfcb0339.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
-            <title><![CDATA[솔로 탈출부터，연애 만렙까지！〈모두의지인 연애상담소〉 (멜론티켓 ─ 판매중)]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=206782</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=206782</guid>
-            <pubDate>Sat, 30 Apr 2022 15:15:28 GMT</pubDate>
-            <content:encoded><![CDATA[<td>
-                            <div class="show_infor">
-                                <div class="thumb_90x125  img">
-                                    <a href="#">
-                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/04/2022041317053156ea4c8c-123b-4e35-a92f-8e0be51f9ad6.jpg/melon/resize/90x125/strip/true" alt="">
-                                        <span class="frame"></span>
-                                    </a>
-                                </div>
-                                <p class="infor_text">
-                                    <span class="ico_wrap">
-                                        <span class="ico_list ico_list4"> 판매중</span></span>
-                                    <span class="show_title"><a href="/performance/index.htm?prodId=206782">솔로 탈출부터，연애 만렙까지！〈모두의지인 연애상담소〉</a></span>
-                                </p>
-                            </div>
-                        </td>
-                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
-                            2022.05.03 - 2022.05.03</td>
-                        <td class="show_loc">빅크 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/04/2022041317053156ea4c8c-123b-4e35-a92f-8e0be51f9ad6.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
             <title><![CDATA[뮤지컬 〈클림트〉 (멜론티켓 ─ 판매중)]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=206833</link>
             <guid>https://ticket.melon.com/performance/index.htm?prodId=206833</guid>
@@ -666,6 +641,31 @@
                             2022.05.06 - 2022.05.06</td>
                         <td class="show_loc">CJ아지트 광흥창 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/04/20220406103829cb19b71a-27cc-4281-8b29-19c0accf371e.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[마리슈x엔분의일 meets (멜론티켓 ─ 판매중)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=206759</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=206759</guid>
+            <pubDate>Tue, 03 May 2022 15:16:36 GMT</pubDate>
+            <content:encoded><![CDATA[<td>
+                            <div class="show_infor">
+                                <div class="thumb_90x125  img">
+                                    <a href="#">
+                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/04/202204071456440f6d3f6a-de6d-4fbe-99ba-c6f956bbae24.png/melon/resize/90x125/strip/true" alt="">
+                                        <span class="frame"></span>
+                                    </a>
+                                </div>
+                                <p class="infor_text">
+                                    <span class="ico_wrap">
+                                        <span class="ico_list ico_list1">단독판매</span><span class="ico_list ico_list4"> 판매중</span></span>
+                                    <span class="show_title"><a href="/performance/index.htm?prodId=206759">마리슈x엔분의일 meets</a></span>
+                                </p>
+                            </div>
+                        </td>
+                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
+                            2022.05.06 - 2022.05.06</td>
+                        <td class="show_loc">프리즘홀 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/04/202204071456440f6d3f6a-de6d-4fbe-99ba-c6f956bbae24.png/melon/resize/90x125/strip/true" length="0" type="image/png/melon/resize/90x125/strip/true"/>
         </item>
     </channel>
 </rss>
