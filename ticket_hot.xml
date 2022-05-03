@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 03 May 2022 07:15:01 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 May 2022 08:19:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -56,6 +56,14 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/04/20220429115116f09c34df-e9c3-455f-99da-fb7f225bba7c.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
         <item>
+            <title><![CDATA[티키타카 콘서트：바투 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6084</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6084</guid>
+            <pubDate>Tue, 03 May 2022 08:19:25 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>22.05.04(수)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/05/20220503103223583d6cfe-a673-4d7a-bc61-12b670ca2b52.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
             <title><![CDATA[뮤지컬 〈마타하리〉 2차 티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6082</link>
             <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6082</guid>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 02 May 2022 07:15:19 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>22.05.13(금)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/04/20220429170822caeeda9b-04fa-4572-beec-0d517c48348c.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[UNBOXING STAGE：아디오스오디오，터치드 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6074</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6074</guid>
-            <pubDate>Mon, 02 May 2022 07:15:19 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>22.05.13(금)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/04/20220429164802c03a6d5d-2c50-4e9e-93c3-e0386ec7737d.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
