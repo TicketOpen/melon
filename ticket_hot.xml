@@ -4,9 +4,17 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 09 May 2022 08:22:45 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 May 2022 09:16:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뮤지컬 〈웃는 남자〉 2차 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6098</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6098</guid>
+            <pubDate>Mon, 09 May 2022 09:16:20 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>22.05.17(화)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/05/202205091723167392ab91-2fc8-4966-8f42-607da4a9c20d.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
         <item>
             <title><![CDATA[RAPBEAT 2022 티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6091</link>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 06 May 2022 05:15:06 GMT</pubDate>
             <content:encoded><![CDATA[오픈일정 보기 &gt;]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/05/20220506115533188733de-1083-457a-8602-5931b846cdf3.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[2022 OnlyOneOf（온리원오브）Fan Party 〈OnlyOneOf yOu〉 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6095</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6095</guid>
-            <pubDate>Fri, 06 May 2022 05:15:06 GMT</pubDate>
-            <content:encoded><![CDATA[오픈일정 보기 &gt;]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/05/20220506115525bfe27473-b4ce-48a2-8a56-50432c9b7136.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
