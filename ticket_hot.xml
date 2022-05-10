@@ -4,9 +4,17 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 10 May 2022 04:19:29 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 May 2022 05:15:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뮤지컬 〈더 테일 에이프릴 풀스〉 시야제한석 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6100</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6100</guid>
+            <pubDate>Tue, 10 May 2022 05:14:57 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>22.05.12(목)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/05/2022051009345299b07d07-1b49-4d47-ab45-a9fde3f0d785.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
         <item>
             <title><![CDATA[2022 파라다이스 아트랩 페스티벌 티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6102</link>
@@ -48,6 +56,14 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/05/202205092039174afafe11-d350-4b05-98a2-7d2e340fbb36.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
         <item>
+            <title><![CDATA[우주락 in 우주라이브 2회 콘서트 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6101</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6101</guid>
+            <pubDate>Tue, 10 May 2022 05:14:57 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>22.05.11(수)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/05/2022051010184517c8779c-ba7d-4104-8e24-eae79923f1c9.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
             <title><![CDATA[RAPBEAT 2022 티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6091</link>
             <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6091</guid>
@@ -70,22 +86,6 @@
             <pubDate>Wed, 04 May 2022 05:17:58 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>22.05.09(월)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/05/20220504110001b40fc5a5-a3c2-4c2c-8b7c-cb220080a643.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[먼데이프로젝트 시즌5 청춘의 밤［더베인 단독 콘서트］티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6085</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6085</guid>
-            <pubDate>Mon, 09 May 2022 03:19:04 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>22.05.11(수)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/05/20220503113354a28c37f7-fa9a-4610-a26a-917ca5930f11.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[먼데이프로젝트 IN 라이브클럽［유다빈밴드 단독 콘서트］티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6086</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6086</guid>
-            <pubDate>Mon, 09 May 2022 03:19:04 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>22.05.11(수)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/05/20220503115306da482cb1-5e1c-4be1-a10b-5219234e89f6.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
