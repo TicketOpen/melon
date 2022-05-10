@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 10 May 2022 09:16:04 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 May 2022 10:17:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -53,7 +53,7 @@
             <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6099</guid>
             <pubDate>Mon, 09 May 2022 15:16:25 GMT</pubDate>
             <content:encoded><![CDATA[2022.05.13(금) 17:00]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/05/202205092039174afafe11-d350-4b05-98a2-7d2e340fbb36.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/05/20220510181803bd065151-a2f4-46bb-a3f2-208c1ee329f5.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 〈웃는 남자〉 2차 티켓 오픈 안내 (멜론 티켓)]]></title>
@@ -88,10 +88,18 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/05/20220506115525bfe27473-b4ce-48a2-8a56-50432c9b7136.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
         <item>
+            <title><![CDATA[GOT7 ‘HOMECOMING’ 2022 FANCON 티켓 오픈 안내 (멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식)]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6099</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6099</guid>
+            <pubDate>Mon, 09 May 2022 15:16:25 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>22.05.13(금)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/05/20220510181803bd065151-a2f4-46bb-a3f2-208c1ee329f5.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
             <title><![CDATA[“Stand Up 대한민국” 희망콘서트 in 진주 티켓 오픈 안내 (멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식)]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6104</link>
             <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6104</guid>
-            <pubDate>Tue, 10 May 2022 09:15:57 GMT</pubDate>
+            <pubDate>Tue, 10 May 2022 09:15:51 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>22.05.14(토)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/05/20220510163430f39e6d68-ab44-44f6-940c-c9b0087e3e78.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
@@ -142,14 +150,6 @@
             <pubDate>Mon, 09 May 2022 09:16:14 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>22.05.17(화)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/05/202205091723167392ab91-2fc8-4966-8f42-607da4a9c20d.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[GOT7 ‘HOMECOMING’ 2022 FANCON 티켓 오픈 안내 (멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식)]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6099</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6099</guid>
-            <pubDate>Mon, 09 May 2022 15:16:25 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>22.05.13(금)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/05/202205092039174afafe11-d350-4b05-98a2-7d2e340fbb36.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
         <item>
             <title><![CDATA[우주락 in 우주라이브 2회 콘서트 티켓 오픈 안내 (멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식)]]></title>
