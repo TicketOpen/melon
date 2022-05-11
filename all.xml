@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 11 May 2022 14:14:59 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 May 2022 15:16:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -418,31 +418,6 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/04/20220428112207b49e6479-ec01-47c0-b676-43f17c9765c5.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
-            <title><![CDATA[2022 TUNE UP 23기 쇼케이스 (멜론티켓 ─ 판매중)]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=206831</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=206831</guid>
-            <pubDate>Sat, 07 May 2022 15:15:58 GMT</pubDate>
-            <content:encoded><![CDATA[<td>
-                            <div class="show_infor">
-                                <div class="thumb_90x125  img">
-                                    <a href="#">
-                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/04/202204281021433098e7d8-36bb-4370-a207-89518cc6e303.jpg/melon/resize/90x125/strip/true" alt="">
-                                        <span class="frame"></span>
-                                    </a>
-                                </div>
-                                <p class="infor_text">
-                                    <span class="ico_wrap">
-                                        <span class="ico_list ico_list1">단독판매</span><span class="ico_list ico_list4"> 판매중</span></span>
-                                    <span class="show_title"><a href="/performance/index.htm?prodId=206831">2022 TUNE UP 23기 쇼케이스</a></span>
-                                </p>
-                            </div>
-                        </td>
-                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
-                            2022.05.11 - 2022.05.11</td>
-                        <td class="show_loc">CJ아지트 광흥창 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/04/202204281021433098e7d8-36bb-4370-a207-89518cc6e303.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
             <title><![CDATA[뮤지컬 〈레베카〉－진주 (멜론티켓 ─ 판매중)]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=206648</link>
             <guid>https://ticket.melon.com/performance/index.htm?prodId=206648</guid>
@@ -666,6 +641,31 @@
                             2022.05.14 - 2022.05.14</td>
                         <td class="show_loc">벨로주 홍대 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/04/20220412161643f7ec133c-50e2-40b0-a272-5509531f53d5.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[정석훈＆김준서：롤링 27주년 기념 공연 (멜론티켓 ─ 판매중)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=206777</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=206777</guid>
+            <pubDate>Wed, 11 May 2022 15:16:45 GMT</pubDate>
+            <content:encoded><![CDATA[<td>
+                            <div class="show_infor">
+                                <div class="thumb_90x125  img">
+                                    <a href="#">
+                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/04/20220412172503f8ae81ed-4d76-4b8a-bb1d-5c4a0392aec6.jpg/melon/resize/90x125/strip/true" alt="">
+                                        <span class="frame"></span>
+                                    </a>
+                                </div>
+                                <p class="infor_text">
+                                    <span class="ico_wrap">
+                                        <span class="ico_list ico_list1">단독판매</span><span class="ico_list ico_list4"> 판매중</span></span>
+                                    <span class="show_title"><a href="/performance/index.htm?prodId=206777">정석훈＆김준서：롤링 27주년 기념 공연</a></span>
+                                </p>
+                            </div>
+                        </td>
+                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
+                            2022.05.14 - 2022.05.15</td>
+                        <td class="show_loc">롤링홀 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/04/20220412172503f8ae81ed-4d76-4b8a-bb1d-5c4a0392aec6.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
     </channel>
 </rss>
