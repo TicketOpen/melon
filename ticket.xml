@@ -4,9 +4,25 @@
         <title>멜론 티켓</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 11 May 2022 01:20:37 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 May 2022 03:23:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[먼데이프로젝트 IN 라이브클럽［수연이 단독 콘서트］티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6106</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6106</guid>
+            <pubDate>Wed, 11 May 2022 03:23:30 GMT</pubDate>
+            <content:encoded><![CDATA[2022.05.18(수) 20:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/05/202205111010227b42534c-0459-43c4-8294-54ef9198a16d.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[먼데이프로젝트 시즌5 음악여행，쉼［전유동 단독 콘서트］티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6105</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6105</guid>
+            <pubDate>Wed, 11 May 2022 03:23:30 GMT</pubDate>
+            <content:encoded><![CDATA[2022.05.18(수) 20:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/05/202205101727489070e9c9-6ab1-4acb-ab87-b93636911cc5.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
         <item>
             <title><![CDATA[“Stand Up 대한민국” 희망콘서트 in 진주 티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6104</link>
@@ -70,22 +86,6 @@
             <pubDate>Fri, 06 May 2022 08:19:42 GMT</pubDate>
             <content:encoded><![CDATA[2022.05.10(화) 14:00]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/05/2022050612031035c8a0b5-42a9-4f72-a9e5-00e6c39718d8.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[2022 OnlyOneOf（온리원오브）Fan Party 〈OnlyOneOf yOu〉－Online 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6096</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6096</guid>
-            <pubDate>Fri, 06 May 2022 05:14:59 GMT</pubDate>
-            <content:encoded><![CDATA[오픈일정 보기 &gt;]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/05/20220506115533188733de-1083-457a-8602-5931b846cdf3.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[2022 OnlyOneOf（온리원오브）Fan Party 〈OnlyOneOf yOu〉 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6095</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6095</guid>
-            <pubDate>Fri, 06 May 2022 05:14:59 GMT</pubDate>
-            <content:encoded><![CDATA[오픈일정 보기 &gt;]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/05/20220506115525bfe27473-b4ce-48a2-8a56-50432c9b7136.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
     </channel>
 </rss>
