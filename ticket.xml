@@ -4,9 +4,17 @@
         <title>멜론 티켓</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 11 May 2022 08:21:35 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 May 2022 09:15:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[송희진 단독 콘서트 “Into the Forest” 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6107</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6107</guid>
+            <pubDate>Wed, 11 May 2022 09:15:14 GMT</pubDate>
+            <content:encoded><![CDATA[2022.05.16(월) 12:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/05/202205101920162b36c1f5-8f7f-44fb-899b-4382451b3f7b.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
         <item>
             <title><![CDATA[먼데이프로젝트 IN 라이브클럽［수연이 단독 콘서트］티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6106</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 09 May 2022 09:16:14 GMT</pubDate>
             <content:encoded><![CDATA[2022.05.17(화) 14:00]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/05/202205091723167392ab91-2fc8-4966-8f42-607da4a9c20d.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 〈리지〉 마지막 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6097</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6097</guid>
-            <pubDate>Fri, 06 May 2022 08:19:42 GMT</pubDate>
-            <content:encoded><![CDATA[2022.05.10(화) 14:00]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/05/2022050612031035c8a0b5-42a9-4f72-a9e5-00e6c39718d8.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
     </channel>
 </rss>
