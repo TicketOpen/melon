@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 12 May 2022 04:27:04 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 May 2022 05:24:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,6 +30,14 @@
             <pubDate>Mon, 09 May 2022 15:16:32 GMT</pubDate>
             <content:encoded><![CDATA[오픈일정 보기 &gt;]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/05/20220510181803bd065151-a2f4-46bb-a3f2-208c1ee329f5.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[［우주라이브］‘Wave’（취향상점，여름스웨터，마린）콘서트 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6110</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6110</guid>
+            <pubDate>Thu, 12 May 2022 05:24:39 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>22.05.16(월)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/05/2022051113305448b9270c-3c79-429b-bad0-27d544e0121a.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
         <item>
             <title><![CDATA[송용진 단독 콘서트 ‘노래 불러주는 남자’：롤링 27주년 기념 공연 티켓 오픈 안내]]></title>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 11 May 2022 03:23:38 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>22.05.18(수)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/05/202205101727489070e9c9-6ab1-4acb-ab87-b93636911cc5.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[송희진 단독 콘서트 “Into the Forest” 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6107</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6107</guid>
-            <pubDate>Wed, 11 May 2022 09:15:21 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>22.05.16(월)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/05/202205101920162b36c1f5-8f7f-44fb-899b-4382451b3f7b.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
