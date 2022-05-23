@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 23 May 2022 03:18:58 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 May 2022 04:32:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Sun, 22 May 2022 02:46:28 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>22.05.24(화)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/05/202205201653229d51b892-52d3-4202-aa1b-2fd715c68747.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[The Voice 시즌1 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6138</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6138</guid>
+            <pubDate>Mon, 23 May 2022 04:32:17 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>22.05.23(월)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/05/20220520145253887443e0-038d-4b06-a56d-abfd04ff8ef2.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
         <item>
             <title><![CDATA[키라라：그냥하는 단독공연 시즌 2－1 티켓 오픈 안내]]></title>
@@ -78,14 +86,6 @@
             <pubDate>Sun, 22 May 2022 02:46:28 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>22.05.31(화)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/05/20220519152030a6d31cca-1f7b-43f8-acef-c9ca033aba5e.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[우주락 in 우주라이브 3회 콘서트：크라잉넛 x 썬더스 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6132</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6132</guid>
-            <pubDate>Sun, 22 May 2022 02:46:28 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>22.05.23(월)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/05/202205191059411fd068c8-0038-452a-abe3-42c7c3a6c699.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
