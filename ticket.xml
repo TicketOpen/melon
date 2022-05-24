@@ -4,7 +4,7 @@
         <title>멜론 티켓</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 24 May 2022 08:20:59 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 May 2022 09:17:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Tue, 24 May 2022 05:22:35 GMT</pubDate>
             <content:encoded><![CDATA[2022.05.31(화) 14:00]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/05/202205241156054125a22d-8c9e-481a-86b0-4c6b178a6349.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[2022 JAY B ‘NOSTALGIC’ ON·OFFLINE FANCON 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6142</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6142</guid>
+            <pubDate>Tue, 24 May 2022 09:16:52 GMT</pubDate>
+            <content:encoded><![CDATA[오픈일정 보기 &gt;]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/05/20220524164004b86a5802-a372-4ab5-a83f-de8027224269.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
         <item>
             <title><![CDATA[프리즘브레이크 vol．12：로다운30 x 최항석과 부기몬스터 티켓 오픈 안내]]></title>
@@ -78,14 +86,6 @@
             <pubDate>Sun, 22 May 2022 02:46:21 GMT</pubDate>
             <content:encoded><![CDATA[2022.05.31(화) 11:00]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/05/20220519152030a6d31cca-1f7b-43f8-acef-c9ca033aba5e.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[SSHOWBOX with 블루파프리카 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6133</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6133</guid>
-            <pubDate>Sun, 22 May 2022 02:46:21 GMT</pubDate>
-            <content:encoded><![CDATA[2022.05.25(수) 19:00]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/05/202205191621347e81e805-90e8-437e-8b50-951f054b0942.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
     </channel>
 </rss>
