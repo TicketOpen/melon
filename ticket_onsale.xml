@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 판매중</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 24 May 2022 07:15:24 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 May 2022 08:20:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -231,6 +231,31 @@
                             2022.05.13 - 2022.08.07</td>
                         <td class="show_loc">서울숲 갤러리아포레 씨어터 1관</td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/04/2022042811414286c608a0-2029-4024-8d62-21a1939c4342.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[2022 파라다이스 아트랩 페스티벌]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=206876</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=206876</guid>
+            <pubDate>Tue, 24 May 2022 08:20:58 GMT</pubDate>
+            <content:encoded><![CDATA[<td>
+                            <div class="show_infor">
+                                <div class="thumb_90x125  img">
+                                    <a href="#">
+                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/05/20220510124238e3cb61eb-87de-4c83-bfed-2004e89ddc70.jpg/melon/resize/90x125/strip/true" alt="">
+                                        <span class="frame"></span>
+                                    </a>
+                                </div>
+                                <p class="infor_text">
+                                    <span class="ico_wrap">
+                                        <span class="ico_list ico_list4"> 판매중</span></span>
+                                    <span class="show_title"><a href="/performance/index.htm?prodId=206876">2022 파라다이스 아트랩 페스티벌</a></span>
+                                </p>
+                            </div>
+                        </td>
+                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
+                            2022.05.20 - 2022.05.29</td>
+                        <td class="show_loc">파라다이스시티 컬처파크 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/05/20220510124238e3cb61eb-87de-4c83-bfed-2004e89ddc70.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
             <title><![CDATA[먼데이프로젝트 시즌5 청춘의 밤［김현창 단독 콘서트］]]></title>
@@ -481,31 +506,6 @@
                             2022.05.28 - 2022.05.28</td>
                         <td class="show_loc">슈피겐홀 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/05/20220506115554d28d2f16-49ff-4014-9f12-336999412318.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[2022 OnlyOneOf（온리원오브）Fan Party 〈OnlyOneOf yOu〉－Online]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=206870</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=206870</guid>
-            <pubDate>Mon, 23 May 2022 15:17:13 GMT</pubDate>
-            <content:encoded><![CDATA[<td>
-                            <div class="show_infor">
-                                <div class="thumb_90x125  img">
-                                    <a href="#">
-                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/05/202205061155467e81f775-3e18-4194-a587-47ede1e59932.jpg/melon/resize/90x125/strip/true" alt="">
-                                        <span class="frame"></span>
-                                    </a>
-                                </div>
-                                <p class="infor_text">
-                                    <span class="ico_wrap">
-                                        <span class="ico_list ico_list1">단독판매</span><span class="ico_list ico_list4"> 판매중</span></span>
-                                    <span class="show_title"><a href="/performance/index.htm?prodId=206870">2022 OnlyOneOf（온리원오브）Fan Party 〈OnlyOneOf yOu〉－Online</a></span>
-                                </p>
-                            </div>
-                        </td>
-                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
-                            2022.05.28 - 2022.05.28</td>
-                        <td class="show_loc">추후공지 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/05/202205061155467e81f775-3e18-4194-a587-47ede1e59932.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
     </channel>
 </rss>
