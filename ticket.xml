@@ -4,9 +4,25 @@
         <title>멜론 티켓</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 24 May 2022 04:33:31 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 May 2022 05:22:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뮤지컬 〈마타하리〉 3차 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6143</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6143</guid>
+            <pubDate>Tue, 24 May 2022 05:22:35 GMT</pubDate>
+            <content:encoded><![CDATA[2022.05.31(화) 14:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/05/202205241156054125a22d-8c9e-481a-86b0-4c6b178a6349.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[프리즘브레이크 vol．12：로다운30 x 최항석과 부기몬스터 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6141</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6141</guid>
+            <pubDate>Tue, 24 May 2022 05:22:35 GMT</pubDate>
+            <content:encoded><![CDATA[2022.05.26(목) 19:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/05/202205240948309424ba7a-97bf-4ea7-8cdf-8ceec97fc37e.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
         <item>
             <title><![CDATA[노브레인 스탠딩 단독공연 ‘미친 듯 놀자’ 티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6140</link>
@@ -70,22 +86,6 @@
             <pubDate>Sun, 22 May 2022 02:46:21 GMT</pubDate>
             <content:encoded><![CDATA[2022.05.25(수) 19:00]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/05/202205191621347e81e805-90e8-437e-8b50-951f054b0942.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[우주락 in 우주라이브 3회 콘서트：크라잉넛 x 썬더스 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6132</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6132</guid>
-            <pubDate>Sun, 22 May 2022 02:46:21 GMT</pubDate>
-            <content:encoded><![CDATA[2022.05.23(월) 14:00]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/05/202205191059411fd068c8-0038-452a-abe3-42c7c3a6c699.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[YB와 함께하는 해양보호 캠페인 “Song of the Angry Whale WITH YB”：롤링홀 27주년 기념 공연 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6131</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6131</guid>
-            <pubDate>Sun, 22 May 2022 02:46:21 GMT</pubDate>
-            <content:encoded><![CDATA[2022.05.21(토) 20:00]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/05/20220521123538f175498c-3a78-426c-bb69-ed541037d85d.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
     </channel>
 </rss>
