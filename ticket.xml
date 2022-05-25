@@ -4,9 +4,25 @@
         <title>멜론 티켓</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 25 May 2022 01:14:49 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 May 2022 03:19:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[먼데이프로젝트 IN 라이브클럽［조희원 단독 콘서트］티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6145</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6145</guid>
+            <pubDate>Wed, 25 May 2022 03:18:59 GMT</pubDate>
+            <content:encoded><![CDATA[2022.06.03(금) 20:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/05/2022052417021457d6d948-d8be-4581-9292-c898b84582e7.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[티키타카 콘서트：엔분의일 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6144</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6144</guid>
+            <pubDate>Wed, 25 May 2022 03:18:59 GMT</pubDate>
+            <content:encoded><![CDATA[2022.05.27(금) 19:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/05/202205250950428f914a92-4a39-4b97-ad5f-1cc4c6322f2c.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
         <item>
             <title><![CDATA[뮤지컬 〈마타하리〉 3차 티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6143</link>
@@ -70,22 +86,6 @@
             <pubDate>Mon, 23 May 2022 03:18:43 GMT</pubDate>
             <content:encoded><![CDATA[2022.05.25(수) 13:00]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/05/20220520095605634c0439-bdae-4aa7-85ef-2117dba27b9b.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[투데이올드스니커즈 싱글 발매 기념 쇼케이스 ‘ROBOT－REPAIR SHOP’ 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6135</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6135</guid>
-            <pubDate>Sun, 22 May 2022 02:46:21 GMT</pubDate>
-            <content:encoded><![CDATA[2022.05.24(화) 18:00]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/05/202205201653229d51b892-52d3-4202-aa1b-2fd715c68747.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 〈전설의 리틀 농구단〉 워밍업＋전반전 티켓오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6134</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6134</guid>
-            <pubDate>Sun, 22 May 2022 02:46:21 GMT</pubDate>
-            <content:encoded><![CDATA[2022.05.31(화) 11:00]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/05/20220519152030a6d31cca-1f7b-43f8-acef-c9ca033aba5e.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
     </channel>
 </rss>
