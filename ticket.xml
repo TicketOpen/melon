@@ -4,9 +4,25 @@
         <title>멜론 티켓</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 25 May 2022 04:28:44 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 May 2022 05:19:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[데자부그룹 아티스트 ‘dsel（디젤）’ 콘서트 “2kzm．zip concert” 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6147</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6147</guid>
+            <pubDate>Wed, 25 May 2022 05:19:36 GMT</pubDate>
+            <content:encoded><![CDATA[2022.05.27(금) 14:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/05/202205241713283e1bbd89-52bc-4bb7-a207-652f44fe4725.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[스튜디오C［피싱걸스 단독 콘서트］티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6146</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6146</guid>
+            <pubDate>Wed, 25 May 2022 05:19:36 GMT</pubDate>
+            <content:encoded><![CDATA[2022.05.27(금) 19:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/05/2022052417082925bb3b8c-511b-4214-bf83-bcc7c39c2ee7.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
         <item>
             <title><![CDATA[먼데이프로젝트 IN 라이브클럽［조희원 단독 콘서트］티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6145</link>
@@ -70,22 +86,6 @@
             <pubDate>Mon, 23 May 2022 04:32:10 GMT</pubDate>
             <content:encoded><![CDATA[2022.05.23(월) 13:00]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/05/20220520145253887443e0-038d-4b06-a56d-abfd04ff8ef2.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[로키드 단독 콘서트：Perfume 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6137</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6137</guid>
-            <pubDate>Mon, 23 May 2022 03:18:43 GMT</pubDate>
-            <content:encoded><![CDATA[2022.05.24(화) 18:00]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/05/20220520095900b60fb1ea-c158-47f8-b37f-63f2c8acc235.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[스태리나잇뮤직 콘서트［별 볼 일 있는 밤 EP．1］티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6136</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6136</guid>
-            <pubDate>Mon, 23 May 2022 03:18:43 GMT</pubDate>
-            <content:encoded><![CDATA[2022.05.25(수) 13:00]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/05/20220520095605634c0439-bdae-4aa7-85ef-2117dba27b9b.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
     </channel>
 </rss>

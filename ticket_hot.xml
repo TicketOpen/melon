@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 25 May 2022 04:28:44 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 May 2022 05:19:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -40,6 +40,22 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/05/202205250950428f914a92-4a39-4b97-ad5f-1cc4c6322f2c.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
         <item>
+            <title><![CDATA[데자부그룹 아티스트 ‘dsel（디젤）’ 콘서트 “2kzm．zip concert” 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6147</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6147</guid>
+            <pubDate>Wed, 25 May 2022 05:19:44 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>22.05.27(금)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/05/202205241713283e1bbd89-52bc-4bb7-a207-652f44fe4725.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[스튜디오C［피싱걸스 단독 콘서트］티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6146</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6146</guid>
+            <pubDate>Wed, 25 May 2022 05:19:44 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>22.05.27(금)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/05/2022052417082925bb3b8c-511b-4214-bf83-bcc7c39c2ee7.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
             <title><![CDATA[먼데이프로젝트 IN 라이브클럽［조희원 단독 콘서트］티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6145</link>
             <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6145</guid>
@@ -70,22 +86,6 @@
             <pubDate>Sun, 22 May 2022 02:46:28 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>22.05.24(화)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/05/202205201653229d51b892-52d3-4202-aa1b-2fd715c68747.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 〈전설의 리틀 농구단〉 워밍업＋전반전 티켓오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6134</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6134</guid>
-            <pubDate>Tue, 24 May 2022 03:22:03 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>22.05.31(화)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/05/20220519152030a6d31cca-1f7b-43f8-acef-c9ca033aba5e.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[노브레인 스탠딩 단독공연 ‘미친 듯 놀자’ 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6140</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6140</guid>
-            <pubDate>Mon, 23 May 2022 09:16:25 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>22.05.26(목)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/05/202205201841089c9f0b39-da00-4c36-a7d0-697c6ef7ccbc.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
