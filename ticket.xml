@@ -4,9 +4,17 @@
         <title>멜론 티켓</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 27 May 2022 04:30:40 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 May 2022 05:20:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[연극 〈인형（들）의 집〉 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6156</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6156</guid>
+            <pubDate>Fri, 27 May 2022 05:19:50 GMT</pubDate>
+            <content:encoded><![CDATA[2022.06.03(금) 14:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/05/2022052713280418eb24e5-018f-4ff6-bd8a-7bc30116e509.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
         <item>
             <title><![CDATA[임용훈＆장태웅 듀오 단독공연 티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6155</link>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 25 May 2022 05:19:36 GMT</pubDate>
             <content:encoded><![CDATA[2022.05.27(금) 14:00]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/05/202205241713283e1bbd89-52bc-4bb7-a207-652f44fe4725.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[스튜디오C［피싱걸스 단독 콘서트］티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6146</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6146</guid>
-            <pubDate>Wed, 25 May 2022 05:19:36 GMT</pubDate>
-            <content:encoded><![CDATA[2022.05.27(금) 19:00]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/05/2022052417082925bb3b8c-511b-4214-bf83-bcc7c39c2ee7.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
     </channel>
 </rss>
