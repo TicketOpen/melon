@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 판매중</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 29 May 2022 23:15:29 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 May 2022 01:18:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -258,6 +258,31 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/05/2022050609512102dc3f41-de43-459c-bb2e-cf9263b2e1cd.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
+            <title><![CDATA[CRAVITY 공식 팬클럽 ‘LUVITY’ 2．5기 모집]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=206924</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=206924</guid>
+            <pubDate>Mon, 30 May 2022 01:18:48 GMT</pubDate>
+            <content:encoded><![CDATA[<td>
+                            <div class="show_infor">
+                                <div class="thumb_90x125  img">
+                                    <a href="#">
+                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/05/2022052419571874635bd1-49c2-400a-8698-b7de7355282a.jpg/melon/resize/90x125/strip/true" alt="">
+                                        <span class="frame"></span>
+                                    </a>
+                                </div>
+                                <p class="infor_text">
+                                    <span class="ico_wrap">
+                                        <span class="ico_list ico_list1">단독판매</span><span class="ico_list ico_list4"> 판매중</span></span>
+                                    <span class="show_title"><a href="/performance/index.htm?prodId=206924">CRAVITY 공식 팬클럽 ‘LUVITY’ 2．5기 모집</a></span>
+                                </p>
+                            </div>
+                        </td>
+                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
+                            2022.05.30 - 2022.06.05</td>
+                        <td class="show_loc">- </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/05/2022052419571874635bd1-49c2-400a-8698-b7de7355282a.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
             <title><![CDATA[W24 정규 1집 〈WHITE ALBUM〉]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=206793</link>
             <guid>https://ticket.melon.com/performance/index.htm?prodId=206793</guid>
@@ -481,31 +506,6 @@
                             2022.06.04 - 2022.06.04</td>
                         <td class="show_loc">스페이스 브릭 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/05/20220509150749e5bf8f97-c463-41b5-b2c1-117ece816f88.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[우주락 in 우주라이브 3회 콘서트：크라잉넛 x 썬더스]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=206912</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=206912</guid>
-            <pubDate>Sun, 29 May 2022 15:15:50 GMT</pubDate>
-            <content:encoded><![CDATA[<td>
-                            <div class="show_infor">
-                                <div class="thumb_90x125  img">
-                                    <a href="#">
-                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/05/20220518141456dce79ddc-4ab4-479c-af08-4ad01061941d.jpg/melon/resize/90x125/strip/true" alt="">
-                                        <span class="frame"></span>
-                                    </a>
-                                </div>
-                                <p class="infor_text">
-                                    <span class="ico_wrap">
-                                        <span class="ico_list ico_list4"> 판매중</span></span>
-                                    <span class="show_title"><a href="/performance/index.htm?prodId=206912">우주락 in 우주라이브 3회 콘서트：크라잉넛 x 썬더스</a></span>
-                                </p>
-                            </div>
-                        </td>
-                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
-                            2022.06.04 - 2022.06.04</td>
-                        <td class="show_loc">홍대 우주정거장 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/05/20220518141456dce79ddc-4ab4-479c-af08-4ad01061941d.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
     </channel>
 </rss>
