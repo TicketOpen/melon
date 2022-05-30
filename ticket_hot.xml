@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 30 May 2022 08:22:24 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 May 2022 09:18:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -72,20 +72,20 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/05/20220527174352cd162f02-cad9-468f-ac66-b7ff4802dd1c.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
         <item>
+            <title><![CDATA[세투－핫！SUMMER 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6162</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6162</guid>
+            <pubDate>Mon, 30 May 2022 09:18:05 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>22.05.30(월)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/05/20220527185139b8b53a95-34cf-4635-9709-b996578464a7.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
             <title><![CDATA[세종 어린이 시리즈 Ⅱ 가족음악극 〈백조마을의 차이콥스키〉 티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6159</link>
             <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6159</guid>
             <pubDate>Fri, 27 May 2022 08:25:16 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>22.06.03(금)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/05/20220527171758d7135fa4-07a1-4dd6-99ec-aa7e74ac488f.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[펫케어 페스티벌 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6158</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6158</guid>
-            <pubDate>Sun, 29 May 2022 23:15:20 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>22.05.30(월)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/05/202205271654384ab447a2-72e4-4bd6-b92c-e7f365053c06.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
