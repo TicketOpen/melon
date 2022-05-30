@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 판매중</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 30 May 2022 14:15:52 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 May 2022 15:18:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -231,31 +231,6 @@
                             2022.05.28 - 2022.08.15</td>
                         <td class="show_loc">샤롯데씨어터 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/04/202204051607456c0353bd-16bf-474a-9505-f0bc5cc0501f.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[먼데이프로젝트 시즌5 청춘의 밤［위수 단독 콘서트］]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=206866</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=206866</guid>
-            <pubDate>Sat, 28 May 2022 15:16:32 GMT</pubDate>
-            <content:encoded><![CDATA[<td>
-                            <div class="show_infor">
-                                <div class="thumb_90x125  img">
-                                    <a href="#">
-                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/05/2022050609512102dc3f41-de43-459c-bb2e-cf9263b2e1cd.jpg/melon/resize/90x125/strip/true" alt="">
-                                        <span class="frame"></span>
-                                    </a>
-                                </div>
-                                <p class="infor_text">
-                                    <span class="ico_wrap">
-                                        <span class="ico_list ico_list1">단독판매</span><span class="ico_list ico_list4"> 판매중</span></span>
-                                    <span class="show_title"><a href="/performance/index.htm?prodId=206866">먼데이프로젝트 시즌5 청춘의 밤［위수 단독 콘서트］</a></span>
-                                </p>
-                            </div>
-                        </td>
-                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
-                            2022.05.30 - 2022.05.30</td>
-                        <td class="show_loc">벨로주 홍대 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/05/2022050609512102dc3f41-de43-459c-bb2e-cf9263b2e1cd.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
             <title><![CDATA[CRAVITY 공식 팬클럽 ‘LUVITY’ 2．5기 모집]]></title>
@@ -506,6 +481,31 @@
                             2022.06.04 - 2022.06.04</td>
                         <td class="show_loc">스페이스 브릭 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/05/20220509150749e5bf8f97-c463-41b5-b2c1-117ece816f88.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[우주락 in 우주라이브 3회 콘서트：크라잉넛 x 썬더스]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=206912</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=206912</guid>
+            <pubDate>Mon, 30 May 2022 15:18:16 GMT</pubDate>
+            <content:encoded><![CDATA[<td>
+                            <div class="show_infor">
+                                <div class="thumb_90x125  img">
+                                    <a href="#">
+                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/05/20220518141456dce79ddc-4ab4-479c-af08-4ad01061941d.jpg/melon/resize/90x125/strip/true" alt="">
+                                        <span class="frame"></span>
+                                    </a>
+                                </div>
+                                <p class="infor_text">
+                                    <span class="ico_wrap">
+                                        <span class="ico_list ico_list4"> 판매중</span></span>
+                                    <span class="show_title"><a href="/performance/index.htm?prodId=206912">우주락 in 우주라이브 3회 콘서트：크라잉넛 x 썬더스</a></span>
+                                </p>
+                            </div>
+                        </td>
+                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
+                            2022.06.04 - 2022.06.04</td>
+                        <td class="show_loc">홍대 우주정거장 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/05/20220518141456dce79ddc-4ab4-479c-af08-4ad01061941d.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
     </channel>
 </rss>
