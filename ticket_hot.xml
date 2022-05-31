@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 31 May 2022 05:21:18 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 May 2022 06:20:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,14 +22,6 @@
             <pubDate>Thu, 26 May 2022 03:22:39 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>22.06.03(금)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/05/20220525171051df159a4a-f247-4462-bc67-e6c8c8d62bfb.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[먼데이프로젝트 시즌5 청춘의 밤［히미츠 단독 콘서트］티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6152</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6152</guid>
-            <pubDate>Mon, 30 May 2022 03:30:25 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>22.06.02(목)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/05/202205251722392f07bfac-1850-46aa-a41d-03c8a103b407.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
         <item>
             <title><![CDATA[먼데이프로젝트 시즌5 순간의 노래［안예은 단독 콘서트］티켓 오픈 안내]]></title>
@@ -86,6 +78,14 @@
             <pubDate>Mon, 30 May 2022 09:18:05 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>22.05.30(월)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/05/20220527185139b8b53a95-34cf-4635-9709-b996578464a7.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[세종 어린이 시리즈 Ⅱ 가족음악극 〈백조마을의 차이콥스키〉 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6159</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6159</guid>
+            <pubDate>Tue, 31 May 2022 06:20:16 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>22.06.03(금)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/05/20220527171758d7135fa4-07a1-4dd6-99ec-aa7e74ac488f.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
