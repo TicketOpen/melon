@@ -4,9 +4,17 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Jun 2022 23:16:37 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Jun 2022 01:17:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[NFT ART 101 Conference 2022 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6170</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6170</guid>
+            <pubDate>Thu, 02 Jun 2022 01:17:43 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>22.06.03(금)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/05/2022053118030068a76895-f249-4af2-99c4-a13939aac7f7.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
         <item>
             <title><![CDATA[이효숙연출의 제대로 프로젝트 1탄：한 여름밤의 꿈 티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6163</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 30 May 2022 03:30:25 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>22.06.07(화)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/05/2022052717553999183f13-991e-4a84-8be7-0878843a4719.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[2022 커피소년 여름 콘서트 ‘Mellow Diving’ 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6160</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6160</guid>
-            <pubDate>Mon, 30 May 2022 03:30:25 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>22.06.02(목)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/05/20220527174352cd162f02-cad9-468f-ac66-b7ff4802dd1c.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
