@@ -4,9 +4,25 @@
         <title>멜론 티켓</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Jun 2022 01:04:49 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Jun 2022 03:11:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[최전설 단독콘서트［전설의 사랑］티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6173</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6173</guid>
+            <pubDate>Fri, 03 Jun 2022 03:11:03 GMT</pubDate>
+            <content:encoded><![CDATA[2022.06.08(수) 18:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/06/2022060215372989f7143b-1a31-4963-9e4a-a3084cce4733.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[먼데이프로젝트 IN 라이브클럽［우물 단독 콘서트］티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6172</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6172</guid>
+            <pubDate>Fri, 03 Jun 2022 03:11:03 GMT</pubDate>
+            <content:encoded><![CDATA[2022.06.08(수) 20:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/06/202206021407237d45db83-5669-4b7f-b85d-87dd5b5def32.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
         <item>
             <title><![CDATA[곽진언 소극장 콘서트－Op．2 티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6171</link>
@@ -70,22 +86,6 @@
             <pubDate>Tue, 31 May 2022 09:15:31 GMT</pubDate>
             <content:encoded><![CDATA[2022.06.03(금) 20:00]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/05/20220530145852ce13762e-f56d-49a0-9fe0-f85a14c37b1c.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[이효숙연출의 제대로 프로젝트 1탄：한 여름밤의 꿈 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6163</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6163</guid>
-            <pubDate>Tue, 31 May 2022 05:21:02 GMT</pubDate>
-            <content:encoded><![CDATA[2022.06.03(금) 10:00]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/05/202205301410543604435b-c726-410f-9257-ff2861430854.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[세투－핫！SUMMER 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6162</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6162</guid>
-            <pubDate>Mon, 30 May 2022 09:17:58 GMT</pubDate>
-            <content:encoded><![CDATA[2022.05.30(월) 18:00]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/05/20220527185139b8b53a95-34cf-4635-9709-b996578464a7.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
     </channel>
 </rss>
