@@ -4,16 +4,24 @@
         <title>멜론 티켓</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Jun 2022 04:18:55 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Jun 2022 05:14:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뮤지컬 〈점박이 공룡대모험：뒤섞인 세계〉 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6174</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6174</guid>
+            <pubDate>Fri, 03 Jun 2022 05:14:15 GMT</pubDate>
+            <content:encoded><![CDATA[2022.06.08(수) 14:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/06/202206031044579ce80d84-4431-4b2a-b8cd-83beb3bfd5c6.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
         <item>
             <title><![CDATA[최전설 단독콘서트［전설의 사랑］티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6173</link>
             <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6173</guid>
             <pubDate>Fri, 03 Jun 2022 03:11:03 GMT</pubDate>
             <content:encoded><![CDATA[2022.06.08(수) 18:00]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/06/2022060215372989f7143b-1a31-4963-9e4a-a3084cce4733.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/06/2022060314140576c710a6-3422-4b9c-a870-83d1d681b3fb.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
         <item>
             <title><![CDATA[먼데이프로젝트 IN 라이브클럽［우물 단독 콘서트］티켓 오픈 안내]]></title>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 31 May 2022 09:15:31 GMT</pubDate>
             <content:encoded><![CDATA[2022.06.03(금) 18:00]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/05/20220530154223ce167a9e-8bd7-40fc-93db-5fb4a39a9321.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[오드트리 콘서트 〈푸른 저녁〉 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6164</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6164</guid>
-            <pubDate>Tue, 31 May 2022 09:15:31 GMT</pubDate>
-            <content:encoded><![CDATA[2022.06.03(금) 20:00]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/05/20220530145852ce13762e-f56d-49a0-9fe0-f85a14c37b1c.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
     </channel>
 </rss>
