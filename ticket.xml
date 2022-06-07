@@ -4,9 +4,25 @@
         <title>멜론 티켓</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Jun 2022 01:11:45 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Jun 2022 03:16:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[폴로다레드 단독 콘서트：POLODARED 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6182</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6182</guid>
+            <pubDate>Tue, 07 Jun 2022 03:16:28 GMT</pubDate>
+            <content:encoded><![CDATA[2022.06.08(수) 18:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/06/20220603174520075ccc2d-feca-48d4-82a4-da1a386421da.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[2022 온라인체험극－다크필드라디오 〈ETERNAL〉 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6181</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6181</guid>
+            <pubDate>Tue, 07 Jun 2022 03:16:28 GMT</pubDate>
+            <content:encoded><![CDATA[2022.06.09(목) 14:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/06/20220603173812be3ba8ef-c091-4f02-9aa3-002334a64d94.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
         <item>
             <title><![CDATA[우주락 in 우주라이브 4회 콘서트 티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6180</link>
@@ -16,11 +32,11 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/06/202206031732595787c82d-5bdc-4e88-ba61-a9b0c8b18a17.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
         <item>
-            <title><![CDATA[양방언 summer gig tour 2022 티켓 오픈 안내]]></title>
+            <title><![CDATA[［오픈일 변경］양방언 summer gig tour 2022 티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6178</link>
             <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6178</guid>
             <pubDate>Mon, 06 Jun 2022 09:14:24 GMT</pubDate>
-            <content:encoded><![CDATA[2022.06.07(화) 18:00]]></content:encoded>
+            <content:encoded><![CDATA[2022.06.08(수) 18:00]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/06/202206070909552f389128-37f2-4459-aac7-78ab046fac39.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
         <item>
@@ -70,22 +86,6 @@
             <pubDate>Fri, 03 Jun 2022 03:11:03 GMT</pubDate>
             <content:encoded><![CDATA[2022.06.08(수) 20:00]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/06/202206021407237d45db83-5669-4b7f-b85d-87dd5b5def32.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[곽진언 소극장 콘서트－Op．2 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6171</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6171</guid>
-            <pubDate>Thu, 02 Jun 2022 09:16:38 GMT</pubDate>
-            <content:encoded><![CDATA[2022.06.07(화) 17:00]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/06/20220602135253c1c158dd-6cbf-4dd9-ad4c-4a5cc7f48114.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[NFT ART 101 Conference 2022 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6170</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6170</guid>
-            <pubDate>Thu, 02 Jun 2022 01:17:37 GMT</pubDate>
-            <content:encoded><![CDATA[2022.06.03(금) 15:00]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/05/2022053118030068a76895-f249-4af2-99c4-a13939aac7f7.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
     </channel>
 </rss>
