@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 판매중</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Jun 2022 01:12:26 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Jun 2022 03:23:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -333,6 +333,31 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/03/202203241016599b6b37bf-d227-4798-be25-56d4189d4fe4.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
+            <title><![CDATA[Pervasive Light：Works from MoMA’s Media and Performance Collection]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=206980</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=206980</guid>
+            <pubDate>Thu, 09 Jun 2022 03:23:10 GMT</pubDate>
+            <content:encoded><![CDATA[<td>
+                            <div class="show_infor">
+                                <div class="thumb_90x125  img">
+                                    <a href="#">
+                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/06/2022060317092314cc222d-57ab-4c98-96f1-34802570bebc.jpg/melon/resize/90x125/strip/true" alt="">
+                                        <span class="frame"></span>
+                                    </a>
+                                </div>
+                                <p class="infor_text">
+                                    <span class="ico_wrap">
+                                        <span class="ico_list ico_list4"> 판매중</span></span>
+                                    <span class="show_title"><a href="/performance/index.htm?prodId=206980">Pervasive Light：Works from MoMA’s Media and Performance Collection</a></span>
+                                </p>
+                            </div>
+                        </td>
+                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
+                            2022.06.10 - 2022.09.25</td>
+                        <td class="show_loc">현대카드 스토리지 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/06/2022060317092314cc222d-57ab-4c98-96f1-34802570bebc.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
             <title><![CDATA[뮤지컬 〈웃는 남자〉]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=206790</link>
             <guid>https://ticket.melon.com/performance/index.htm?prodId=206790</guid>
@@ -481,31 +506,6 @@
                             2022.06.11 - 2022.06.11</td>
                         <td class="show_loc">라이브소극장락왕 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/05/20220512182943e619b85a-6e9a-420f-9a5c-3f99b5a2f0c4.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[강아솔 콘서트 〈충무에서〉]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=206911</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=206911</guid>
-            <pubDate>Tue, 07 Jun 2022 15:15:24 GMT</pubDate>
-            <content:encoded><![CDATA[<td>
-                            <div class="show_infor">
-                                <div class="thumb_90x125  img">
-                                    <a href="#">
-                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/05/20220518141036286a40cd-82c9-4ee5-ab10-454691b4ab86.jpg/melon/resize/90x125/strip/true" alt="">
-                                        <span class="frame"></span>
-                                    </a>
-                                </div>
-                                <p class="infor_text">
-                                    <span class="ico_wrap">
-                                        <span class="ico_list ico_list1">단독판매</span><span class="ico_list ico_list4"> 판매중</span></span>
-                                    <span class="show_title"><a href="/performance/index.htm?prodId=206911">강아솔 콘서트 〈충무에서〉</a></span>
-                                </p>
-                            </div>
-                        </td>
-                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
-                            2022.06.11 - 2022.06.12</td>
-                        <td class="show_loc">벨로주 홍대 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/05/20220518141036286a40cd-82c9-4ee5-ab10-454691b4ab86.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
     </channel>
 </rss>
