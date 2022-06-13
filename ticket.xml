@@ -4,9 +4,25 @@
         <title>멜론 티켓</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Jun 2022 04:36:25 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Jun 2022 05:21:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2022 THE신승훈SHOW 〈미소속에 비친 그대〉－부산 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6199</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6199</guid>
+            <pubDate>Mon, 13 Jun 2022 05:21:30 GMT</pubDate>
+            <content:encoded><![CDATA[2022.06.17(금) 18:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/06/20220613100530410befe2-86f0-403b-85dd-51c6bd16b018.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[2022 WONDER POOL PARTY（2022원더풀 풀 파티）티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6198</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6198</guid>
+            <pubDate>Mon, 13 Jun 2022 05:21:30 GMT</pubDate>
+            <content:encoded><![CDATA[2022.06.17(금) 14:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/06/20220610183030a837c9d6-271d-489d-92f1-fd9b6b8e774e.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
         <item>
             <title><![CDATA[YB 단독 콘서트 ‘LIGHTS：BURNS’ 티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6197</link>
@@ -70,22 +86,6 @@
             <pubDate>Thu, 09 Jun 2022 03:22:56 GMT</pubDate>
             <content:encoded><![CDATA[2022.06.10(금) 16:00]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/06/202206081309492aabd5b6-298a-44d9-82e4-7fce8fc6f6a2.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[TUNE UP STAGE［튠업 23기 선정기념 공연＃03．김제형 X 최유리］티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6189</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6189</guid>
-            <pubDate>Thu, 09 Jun 2022 03:22:56 GMT</pubDate>
-            <content:encoded><![CDATA[2022.06.10(금) 14:00]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/06/2022060810562115e49f3e-ace5-41ea-8fc6-476cefb88965.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[TUNE UP STAGE［튠업 23기 선정기념 공연＃02．곽태풍 X 윤지영］티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6188</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6188</guid>
-            <pubDate>Thu, 09 Jun 2022 03:22:56 GMT</pubDate>
-            <content:encoded><![CDATA[2022.06.10(금) 14:00]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/06/202206081041506a24bd47-8202-4598-8fb4-027aff45a4ba.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
     </channel>
 </rss>
