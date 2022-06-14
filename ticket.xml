@@ -4,9 +4,17 @@
         <title>멜론 티켓</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Jun 2022 07:14:53 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Jun 2022 08:20:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2022 신한 스퀘어브릿지 페스티벌 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6205</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6205</guid>
+            <pubDate>Tue, 14 Jun 2022 08:20:21 GMT</pubDate>
+            <content:encoded><![CDATA[2022.06.14(화) 18:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/06/20220614101206dee16325-38e2-4e02-adc7-038efc2c7ad7.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
         <item>
             <title><![CDATA[박기훈＆이의광 듀오 공연 티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6203</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 13 Jun 2022 03:28:54 GMT</pubDate>
             <content:encoded><![CDATA[2022.06.13(월) 16:00]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/06/20220610104729be998f77-20da-4a1e-a4ea-5fca5692f75b.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[온비 X 송세아 발매／출간 기념 콘서트 〈산책〉 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6194</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6194</guid>
-            <pubDate>Fri, 10 Jun 2022 03:18:49 GMT</pubDate>
-            <content:encoded><![CDATA[2022.06.13(월) 12:00]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/06/20220609161308dafb509a-3927-45ce-bb7f-0a0f6914b765.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
     </channel>
 </rss>
