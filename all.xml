@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Jun 2022 14:14:26 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Jun 2022 15:16:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -443,31 +443,6 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/04/20220415154828a339130f-d0a6-4e8b-a7d6-13dc897f6aac.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
-            <title><![CDATA[쁘띠 콘서트 〈가곡시대（詩臺）〉 (멜론티켓 ─ 판매중)]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=206708</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=206708</guid>
-            <pubDate>Sat, 11 Jun 2022 15:14:26 GMT</pubDate>
-            <content:encoded><![CDATA[<td>
-                            <div class="show_infor">
-                                <div class="thumb_90x125  img">
-                                    <a href="#">
-                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/05/202205261812447496de26-076b-416b-967d-ae4d1700e76b.jpg/melon/resize/90x125/strip/true" alt="">
-                                        <span class="frame"></span>
-                                    </a>
-                                </div>
-                                <p class="infor_text">
-                                    <span class="ico_wrap">
-                                        <span class="ico_list ico_list4"> 판매중</span></span>
-                                    <span class="show_title"><a href="/performance/index.htm?prodId=206708">쁘띠 콘서트 〈가곡시대（詩臺）〉</a></span>
-                                </p>
-                            </div>
-                        </td>
-                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
-                            2022.06.14 - 2022.06.15</td>
-                        <td class="show_loc">세종문화회관 체임버홀</td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/05/202205261812447496de26-076b-416b-967d-ae4d1700e76b.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
             <title><![CDATA[연극 〈인형들의 집〉 (멜론티켓 ─ 판매중)]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=206934</link>
             <guid>https://ticket.melon.com/performance/index.htm?prodId=206934</guid>
@@ -666,6 +641,31 @@
                             2022.06.18 - 2022.06.18</td>
                         <td class="show_loc">폼텍 웍스홀 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/05/20220517170215893057d8-e7ac-4a70-9d45-67a052074fd4.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[SSHOWBOX with 블루파프리카 (멜론티켓 ─ 판매중)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=206910</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=206910</guid>
+            <pubDate>Wed, 15 Jun 2022 15:16:00 GMT</pubDate>
+            <content:encoded><![CDATA[<td>
+                            <div class="show_infor">
+                                <div class="thumb_90x125  img">
+                                    <a href="#">
+                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/05/2022051916174598551122-20ef-46a3-80c4-db35565cce44.jpg/melon/resize/90x125/strip/true" alt="">
+                                        <span class="frame"></span>
+                                    </a>
+                                </div>
+                                <p class="infor_text">
+                                    <span class="ico_wrap">
+                                        <span class="ico_list ico_list1">단독판매</span><span class="ico_list ico_list4"> 판매중</span></span>
+                                    <span class="show_title"><a href="/performance/index.htm?prodId=206910">SSHOWBOX with 블루파프리카</a></span>
+                                </p>
+                            </div>
+                        </td>
+                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
+                            2022.06.18 - 2022.06.18</td>
+                        <td class="show_loc">KT&amp;G 상상마당 춘천 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/05/2022051916174598551122-20ef-46a3-80c4-db35565cce44.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
     </channel>
 </rss>
