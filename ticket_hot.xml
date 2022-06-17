@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Jun 2022 09:22:32 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Jun 2022 10:17:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -48,6 +48,14 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/06/20220616130634db7e2620-14b8-46ff-9a64-581e1db7a40e.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
         <item>
+            <title><![CDATA[김예지 TURNED 콘서트 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6218</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6218</guid>
+            <pubDate>Fri, 17 Jun 2022 10:17:17 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>22.06.20(월)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/06/202206161345414b9a5119-6c04-4bf2-a4c5-8bcab5278b6a.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
             <title><![CDATA[2022 WONHO FAMMEETING［OHHOHO TRIP］티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6219</link>
             <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6219</guid>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 16 Jun 2022 03:22:03 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>22.06.23(목)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/06/202206151148397abcaf3d-1c7e-4b1b-af9a-2d7f1432e64f.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[거위의 난2 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6207</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6207</guid>
-            <pubDate>Wed, 15 Jun 2022 01:17:50 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>22.06.16(목)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/06/20220615093630e910e5e5-52d2-498a-b5c3-8d9777641f53.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
