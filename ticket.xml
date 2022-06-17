@@ -4,9 +4,17 @@
         <title>멜론 티켓</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Jun 2022 23:15:33 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Jun 2022 01:08:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[우주락 in 우주라이브 5회 콘서트 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6216</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6216</guid>
+            <pubDate>Fri, 17 Jun 2022 01:08:23 GMT</pubDate>
+            <content:encoded><![CDATA[2022.06.20(월) 14:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/06/202206161439344a2cf29a-9645-4802-92c1-cfa7dbeaa0b2.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
         <item>
             <title><![CDATA[경서 첫 번째 단독 공연 〈오늘，여기〉 티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6215</link>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 14 Jun 2022 09:16:26 GMT</pubDate>
             <content:encoded><![CDATA[2022.06.15(수) 20:00]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/06/202206141750491181dcc4-3869-4cbf-a57d-57500571780e.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[2022 신한 스퀘어브릿지 페스티벌 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6205</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6205</guid>
-            <pubDate>Tue, 14 Jun 2022 08:20:21 GMT</pubDate>
-            <content:encoded><![CDATA[2022.06.14(화) 18:00]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/06/20220614101206dee16325-38e2-4e02-adc7-038efc2c7ad7.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
     </channel>
 </rss>
