@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Jun 2022 03:23:17 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Jun 2022 04:28:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -48,6 +48,14 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/06/20220616130634db7e2620-14b8-46ff-9a64-581e1db7a40e.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
         <item>
+            <title><![CDATA[2022 WONHO FAMMEETING［OHHOHO TRIP］티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6219</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6219</guid>
+            <pubDate>Fri, 17 Jun 2022 04:28:47 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>22.06.20(월)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/06/202206161653101bd83b8d-76a3-4502-8303-3fa327e34210.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
             <title><![CDATA[우주락 in 우주라이브 5회 콘서트 티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6216</link>
             <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6216</guid>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 15 Jun 2022 05:18:38 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>22.06.22(수)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/06/202206151100056d41b826-7287-441e-a6e4-2233d7324abd.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[팔칠댄스（87DANCE）단독 콘서트 ‘I will say I love You’ 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6208</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6208</guid>
-            <pubDate>Wed, 15 Jun 2022 03:37:34 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>22.06.22(수)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/06/20220615104429e249ae91-88a6-4a95-971d-0e50e38db9c4.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
