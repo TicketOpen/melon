@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Jun 2022 14:18:38 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Jun 2022 15:15:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -493,31 +493,6 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/06/20220603112026f3fb6af1-2276-4bb3-99ae-fd17ab3b9f42.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
-            <title><![CDATA[먼데이프로젝트 IN 라이브클럽［조희원 단독 콘서트］ (멜론티켓 ─ 판매중)]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=206925</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=206925</guid>
-            <pubDate>Sat, 18 Jun 2022 15:14:17 GMT</pubDate>
-            <content:encoded><![CDATA[<td>
-                            <div class="show_infor">
-                                <div class="thumb_90x125  img">
-                                    <a href="#">
-                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/05/2022052309024279ead919-1cda-4458-a308-8a9d980d02c9.jpg/melon/resize/90x125/strip/true" alt="">
-                                        <span class="frame"></span>
-                                    </a>
-                                </div>
-                                <p class="infor_text">
-                                    <span class="ico_wrap">
-                                        <span class="ico_list ico_list1">단독판매</span><span class="ico_list ico_list4"> 판매중</span></span>
-                                    <span class="show_title"><a href="/performance/index.htm?prodId=206925">먼데이프로젝트 IN 라이브클럽［조희원 단독 콘서트］</a></span>
-                                </p>
-                            </div>
-                        </td>
-                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
-                            2022.06.20 - 2022.06.20</td>
-                        <td class="show_loc">네스트나다 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/05/2022052309024279ead919-1cda-4458-a308-8a9d980d02c9.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
             <title><![CDATA[먼데이프로젝트 IN 라이브클럽［유다빈밴드 단독 콘서트］ (멜론티켓 ─ 판매중)]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=206861</link>
             <guid>https://ticket.melon.com/performance/index.htm?prodId=206861</guid>
@@ -666,6 +641,31 @@
                             2022.06.24 - 2022.06.24</td>
                         <td class="show_loc">KT&amp;G 상상마당 홍대 라이브홀 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/05/20220520165303da5bb43b-f8c1-45d4-88f1-7badd54bd3b3.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[프리즘브레이크 vol．12：로다운30 x 최항석과 부기몬스터 (멜론티켓 ─ 판매중)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=206928</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=206928</guid>
+            <pubDate>Mon, 20 Jun 2022 15:15:24 GMT</pubDate>
+            <content:encoded><![CDATA[<td>
+                            <div class="show_infor">
+                                <div class="thumb_90x125  img">
+                                    <a href="#">
+                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/05/20220524093641fc37ec24-ef4f-48d4-996d-76d11f92a457.jpg/melon/resize/90x125/strip/true" alt="">
+                                        <span class="frame"></span>
+                                    </a>
+                                </div>
+                                <p class="infor_text">
+                                    <span class="ico_wrap">
+                                        <span class="ico_list ico_list1">단독판매</span><span class="ico_list ico_list4"> 판매중</span></span>
+                                    <span class="show_title"><a href="/performance/index.htm?prodId=206928">프리즘브레이크 vol．12：로다운30 x 최항석과 부기몬스터</a></span>
+                                </p>
+                            </div>
+                        </td>
+                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
+                            2022.06.24 - 2022.06.24</td>
+                        <td class="show_loc">프리즘홀 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/05/20220524093641fc37ec24-ef4f-48d4-996d-76d11f92a457.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
     </channel>
 </rss>
