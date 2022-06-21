@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Jun 2022 10:22:45 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Jun 2022 11:17:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Tue, 21 Jun 2022 03:27:39 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>22.06.28(화)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/06/202206201540209e948381-d1a2-431c-8da0-8889d6415ace.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[이설아 단독 공연 “그대 오시네요” 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6226</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6226</guid>
+            <pubDate>Tue, 21 Jun 2022 11:17:27 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>22.06.24(금)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/06/20220620181933b00b24aa-52a1-44db-b469-98d09b77dd53.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
         <item>
             <title><![CDATA[PL（피엘）여름콘서트 Summer Diary 티켓 오픈 안내]]></title>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 16 Jun 2022 09:18:29 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>22.06.22(수)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/06/20220616130634db7e2620-14b8-46ff-9a64-581e1db7a40e.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[JUST B 1st Mini concert：JUST Be with you 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6217</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6217</guid>
-            <pubDate>Fri, 17 Jun 2022 09:22:24 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>22.06.24(금)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/06/20220616133859b5f3bbb6-78be-4bd0-bdd4-53c251518091.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
