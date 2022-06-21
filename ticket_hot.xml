@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Jun 2022 08:23:39 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Jun 2022 09:26:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,22 @@
             <pubDate>Tue, 21 Jun 2022 03:27:39 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>22.06.28(화)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/06/202206201540209e948381-d1a2-431c-8da0-8889d6415ace.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[PL（피엘）여름콘서트 Summer Diary 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6225</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6225</guid>
+            <pubDate>Tue, 21 Jun 2022 09:26:48 GMT</pubDate>
+            <content:encoded><![CDATA[오픈일정 보기 &gt;]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/06/20220620173737f742913f-8874-4bd7-b97f-954d8292e297.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[그 때 그 날，예빈나다 어쿠스틱 팬미팅 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6224</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6224</guid>
+            <pubDate>Tue, 21 Jun 2022 09:26:48 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>22.06.23(목)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/06/20220620172057bc848486-a135-4734-bf1b-7b9d74ce3687.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
         <item>
             <title><![CDATA[리치파이 재즈 UNLOCK 티켓 오픈 안내]]></title>
@@ -70,22 +86,6 @@
             <pubDate>Fri, 17 Jun 2022 09:22:24 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>22.06.24(금)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/06/20220616133859b5f3bbb6-78be-4bd0-bdd4-53c251518091.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[2022 강혜연 팬미팅：해바라기〈마음〉속에팅 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6220</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6220</guid>
-            <pubDate>Mon, 20 Jun 2022 03:13:48 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>22.06.21(화)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/06/2022061715412784194a6e-56b4-47eb-898a-d0ea64c59470.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[Wave to Earth 단독공연：Deep dive in Seoul 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6200</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6200</guid>
-            <pubDate>Fri, 17 Jun 2022 01:08:31 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>22.06.17(금)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/06/202206170910486937b676-fcc4-4daf-8b3d-fa06bbe602a0.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
