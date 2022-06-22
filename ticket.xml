@@ -4,9 +4,17 @@
         <title>멜론 티켓</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Jun 2022 08:21:35 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Jun 2022 09:14:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Letters from haebin 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6232</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6232</guid>
+            <pubDate>Wed, 22 Jun 2022 09:14:11 GMT</pubDate>
+            <content:encoded><![CDATA[2022.06.23(목) 20:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/06/2022062210211902ea057b-cd08-4082-b2fe-784b2a467665.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
         <item>
             <title><![CDATA[유채훈 첫 단독 콘서트 〈Podium〉－부산 티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6230</link>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 21 Jun 2022 01:16:43 GMT</pubDate>
             <content:encoded><![CDATA[2022.06.21(화) 10:00]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/06/20220620152157bdc5a53b-174b-4625-869c-0bb11af36d4d.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[양반들 기획공연 흐름 流 flow：여름 夏 summer 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6221</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6221</guid>
-            <pubDate>Mon, 20 Jun 2022 09:15:03 GMT</pubDate>
-            <content:encoded><![CDATA[2022.06.23(목) 20:00]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/06/2022062010580591fed308-85af-4c3a-9424-41ed903ec12b.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
     </channel>
 </rss>
