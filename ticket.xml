@@ -4,9 +4,25 @@
         <title>멜론 티켓</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Jun 2022 04:32:29 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Jun 2022 06:18:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[유채훈 첫 단독 콘서트 〈Podium〉－부산 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6230</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6230</guid>
+            <pubDate>Wed, 22 Jun 2022 06:18:31 GMT</pubDate>
+            <content:encoded><![CDATA[2022.06.28(화) 14:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/06/20220622101317616c4189-e7ca-43ac-9779-6122d52216a1.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 〈마타하리〉 마지막 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6229</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6229</guid>
+            <pubDate>Wed, 22 Jun 2022 06:18:31 GMT</pubDate>
+            <content:encoded><![CDATA[2022.06.30(목) 14:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/06/2022062118120805afd530-11b6-400e-be54-2e93d77ffa40.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
         <item>
             <title><![CDATA[우주락 in 우주라이브 6회 콘서트 티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6228</link>
@@ -70,22 +86,6 @@
             <pubDate>Mon, 20 Jun 2022 09:15:03 GMT</pubDate>
             <content:encoded><![CDATA[2022.06.23(목) 20:00]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/06/2022062010580591fed308-85af-4c3a-9424-41ed903ec12b.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[2022 강혜연 팬미팅：해바라기〈마음〉속에팅 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6220</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6220</guid>
-            <pubDate>Mon, 20 Jun 2022 03:13:40 GMT</pubDate>
-            <content:encoded><![CDATA[2022.06.21(화) 18:00]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/06/2022061715412784194a6e-56b4-47eb-898a-d0ea64c59470.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[2022 WONHO FAMMEETING［OHHOHO TRIP］티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6219</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6219</guid>
-            <pubDate>Fri, 17 Jun 2022 04:28:40 GMT</pubDate>
-            <content:encoded><![CDATA[2022.06.20(월) 20:00]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/06/202206161653101bd83b8d-76a3-4502-8303-3fa327e34210.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
     </channel>
 </rss>
