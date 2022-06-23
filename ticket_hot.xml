@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Jun 2022 03:29:43 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Jun 2022 04:33:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -64,6 +64,14 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/06/2022062117482233655945-99d9-4158-84a6-1e80a8453e07.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
         <item>
+            <title><![CDATA[빌리어코스티 정규 3집 PART．01：MONO 발매 기념 공연 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6233</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6233</guid>
+            <pubDate>Thu, 23 Jun 2022 04:33:10 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>22.06.30(목)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/06/202206221031192831b082-d256-4a49-b55c-ce8fbeec6ee1.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
             <title><![CDATA[Letters from haebin 티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6232</link>
             <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6232</guid>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 23 Jun 2022 03:29:35 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>22.06.29(수)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/06/20220622101752885ba54d-da56-42f6-b0be-9289d99b196a.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[양반들 기획공연 흐름 流 flow：여름 夏 summer 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6221</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6221</guid>
-            <pubDate>Mon, 20 Jun 2022 09:15:10 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>22.06.23(목)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/06/2022062010580591fed308-85af-4c3a-9424-41ed903ec12b.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
