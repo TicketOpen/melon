@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Jun 2022 08:21:23 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Jun 2022 09:15:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -38,6 +38,14 @@
             <pubDate>Thu, 23 Jun 2022 07:13:56 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>22.06.24(금)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/06/2022062311521414f884d0-f195-45e6-b819-0629f0f7b638.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[라이브 클럽 데이－블라인드 티켓 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6234</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6234</guid>
+            <pubDate>Thu, 23 Jun 2022 09:15:02 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>22.06.24(금)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/06/202206231159453c51554b-565f-484d-8ed6-ad6c30cb4d17.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 〈마타하리〉 마지막 티켓 오픈 안내]]></title>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 16 Jun 2022 09:18:29 GMT</pubDate>
             <content:encoded><![CDATA[오픈일정 보기 &gt;]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/06/20220616154718f026efb9-f6a0-424c-9dc6-e844c52f96a0.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[우주락 in 우주라이브 6회 콘서트 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6228</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6228</guid>
-            <pubDate>Wed, 22 Jun 2022 01:22:24 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>22.06.24(금)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/06/2022062117482233655945-99d9-4158-84a6-1e80a8453e07.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
