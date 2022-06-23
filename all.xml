@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Jun 2022 14:13:31 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Jun 2022 15:17:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -518,31 +518,6 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/05/202205270902248228d662-2313-47ac-a278-ba7f3e6c2872.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
-            <title><![CDATA[디어 슈베르트－트리오 판타지 TRIO FANTASY (멜론티켓 ─ 판매중)]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=206774</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=206774</guid>
-            <pubDate>Sun, 19 Jun 2022 15:14:06 GMT</pubDate>
-            <content:encoded><![CDATA[<td>
-                            <div class="show_infor">
-                                <div class="thumb_90x125  img">
-                                    <a href="#">
-                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/04/20220412153410965ef428-bead-488e-b0fc-9dd0e7a17ff4.jpg/melon/resize/90x125/strip/true" alt="">
-                                        <span class="frame"></span>
-                                    </a>
-                                </div>
-                                <p class="infor_text">
-                                    <span class="ico_wrap">
-                                        <span class="ico_list ico_list4"> 판매중</span></span>
-                                    <span class="show_title"><a href="/performance/index.htm?prodId=206774">디어 슈베르트－트리오 판타지 TRIO FANTASY</a></span>
-                                </p>
-                            </div>
-                        </td>
-                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
-                            2022.06.23 - 2022.06.23</td>
-                        <td class="show_loc">세종문화회관 체임버홀</td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/04/20220412153410965ef428-bead-488e-b0fc-9dd0e7a17ff4.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
             <title><![CDATA[투데이올드스니커즈 싱글 발매 기념 쇼케이스 ‘ROBOT－REPAIR SHOP’ (멜론티켓 ─ 판매중)]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=206918</link>
             <guid>https://ticket.melon.com/performance/index.htm?prodId=206918</guid>
@@ -666,6 +641,31 @@
                             2022.06.24 - 2022.06.24</td>
                         <td class="show_loc">세종문화회관 체임버홀</td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/04/20220412155115b33725cf-424f-4f84-916c-b4f25989102b.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[스태리나잇뮤직 콘서트［별 볼 일 있는 밤 EP．1］ (멜론티켓 ─ 판매중)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=206916</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=206916</guid>
+            <pubDate>Thu, 23 Jun 2022 15:17:24 GMT</pubDate>
+            <content:encoded><![CDATA[<td>
+                            <div class="show_infor">
+                                <div class="thumb_90x125  img">
+                                    <a href="#">
+                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/05/20220519103333589a8f6f-cdef-473f-8afe-22633a25a7dd.jpg/melon/resize/90x125/strip/true" alt="">
+                                        <span class="frame"></span>
+                                    </a>
+                                </div>
+                                <p class="infor_text">
+                                    <span class="ico_wrap">
+                                        <span class="ico_list ico_list1">단독판매</span><span class="ico_list ico_list4"> 판매중</span></span>
+                                    <span class="show_title"><a href="/performance/index.htm?prodId=206916">스태리나잇뮤직 콘서트［별 볼 일 있는 밤 EP．1］</a></span>
+                                </p>
+                            </div>
+                        </td>
+                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
+                            2022.06.25 - 2022.06.25</td>
+                        <td class="show_loc">생기스튜디오 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/05/20220519103333589a8f6f-cdef-473f-8afe-22633a25a7dd.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
     </channel>
 </rss>
