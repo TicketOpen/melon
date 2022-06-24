@@ -4,9 +4,25 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Jun 2022 05:20:24 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Jun 2022 06:19:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[두레 인디 페스타 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6235</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6235</guid>
+            <pubDate>Thu, 23 Jun 2022 07:13:56 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>22.06.24(금)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/06/2022062311521414f884d0-f195-45e6-b819-0629f0f7b638.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[휘성 X 커먼그라운드 콘서트 with 손에손에 뮤직 페스타 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6239</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6239</guid>
+            <pubDate>Fri, 24 Jun 2022 05:20:16 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>22.06.27(월)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/06/20220623164339bd540276-2064-4aa1-9148-cb0fcad5094b.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
         <item>
             <title><![CDATA[9001 단독 콘서트 〈I WAS A HERO〉 티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6241</link>
@@ -22,14 +38,6 @@
             <pubDate>Fri, 24 Jun 2022 05:20:16 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>22.06.27(월)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/06/20220623164621d287daf5-f588-4a6b-83cd-70e4d6eeca5d.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[휘성 X 커먼그라운드 콘서트 with 손에손에 뮤직 페스타 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6239</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6239</guid>
-            <pubDate>Fri, 24 Jun 2022 05:20:16 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>22.06.27(월)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/06/20220623164339bd540276-2064-4aa1-9148-cb0fcad5094b.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
         <item>
             <title><![CDATA[JK김동욱 X 커먼그라운드 콘서트 with 손에손에 뮤직 페스타 티켓 오픈 안내]]></title>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 23 Jun 2022 04:33:10 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>22.06.30(목)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/06/202206221031192831b082-d256-4a49-b55c-ce8fbeec6ee1.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[두레 인디 페스타 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6235</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6235</guid>
-            <pubDate>Thu, 23 Jun 2022 07:13:56 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>22.06.24(금)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/06/2022062311521414f884d0-f195-45e6-b819-0629f0f7b638.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
