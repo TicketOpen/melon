@@ -4,9 +4,25 @@
         <title>멜론 티켓</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Jun 2022 08:21:34 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Jun 2022 09:15:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[반얀트리 클럽 앤 스파 서울 풀파티 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6246</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6246</guid>
+            <pubDate>Fri, 24 Jun 2022 09:15:28 GMT</pubDate>
+            <content:encoded><![CDATA[오픈일정 보기 &gt;]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/06/202206241747367dbff723-d1a8-4de3-9d43-e2393d31afd7.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[현대카드 Curated 76 김목인 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6242</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6242</guid>
+            <pubDate>Fri, 24 Jun 2022 09:15:28 GMT</pubDate>
+            <content:encoded><![CDATA[2022.06.29(수) 18:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/06/2022062413572977cd0424-9c1b-4380-b689-9603ae172ead.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
         <item>
             <title><![CDATA[9001 단독 콘서트 〈I WAS A HERO〉 티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6241</link>
@@ -70,22 +86,6 @@
             <pubDate>Thu, 23 Jun 2022 09:14:54 GMT</pubDate>
             <content:encoded><![CDATA[2022.06.24(금) 14:00]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/06/202206231159453c51554b-565f-484d-8ed6-ad6c30cb4d17.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[빌리어코스티 정규 3집 PART．01：MONO 발매 기념 공연 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6233</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6233</guid>
-            <pubDate>Thu, 23 Jun 2022 04:33:02 GMT</pubDate>
-            <content:encoded><![CDATA[2022.06.30(목) 20:00]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/06/202206221031192831b082-d256-4a49-b55c-ce8fbeec6ee1.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[Letters from haebin 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6232</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6232</guid>
-            <pubDate>Wed, 22 Jun 2022 09:14:11 GMT</pubDate>
-            <content:encoded><![CDATA[2022.06.23(목) 20:00]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/06/2022062210211902ea057b-cd08-4082-b2fe-784b2a467665.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
     </channel>
 </rss>
