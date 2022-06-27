@@ -4,9 +4,17 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Jun 2022 04:48:45 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Jun 2022 05:26:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[The Whales 단독 공연 〈Nothing But you〉 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6247</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6247</guid>
+            <pubDate>Mon, 27 Jun 2022 05:26:23 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>22.06.28(화)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/06/20220627102524c6c6b0da-1118-4b26-ab77-f6c1224f2fe0.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
         <item>
             <title><![CDATA[ONEWE SPECIAL LIVE ‘시간을 담은 작은 방 And More…’ 티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6245</link>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 24 Jun 2022 05:20:16 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>22.07.01(금)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/06/20220623173412407cefaf-27a5-4c57-91bb-9e8fb79805c6.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[김준수 X 두번째달 콘서트 with 손에손에 뮤직 페스타 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6240</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6240</guid>
-            <pubDate>Fri, 24 Jun 2022 05:20:16 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>22.06.27(월)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/06/20220623164621d287daf5-f588-4a6b-83cd-70e4d6eeca5d.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
