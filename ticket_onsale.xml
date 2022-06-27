@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 판매중</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Jun 2022 14:15:45 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Jun 2022 15:33:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -283,31 +283,6 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/04/20220415154828a339130f-d0a6-4e8b-a7d6-13dc897f6aac.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
-            <title><![CDATA[연극 〈인형들의 집〉]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=206934</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=206934</guid>
-            <pubDate>Sun, 12 Jun 2022 15:14:38 GMT</pubDate>
-            <content:encoded><![CDATA[<td>
-                            <div class="show_infor">
-                                <div class="thumb_90x125  img">
-                                    <a href="#">
-                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/05/20220525113851837aec04-854f-4282-bd14-2954f8a1c115.jpg/melon/resize/90x125/strip/true" alt="">
-                                        <span class="frame"></span>
-                                    </a>
-                                </div>
-                                <p class="infor_text">
-                                    <span class="ico_wrap">
-                                        <span class="ico_list ico_list1">단독판매</span><span class="ico_list ico_list4"> 판매중</span></span>
-                                    <span class="show_title"><a href="/performance/index.htm?prodId=206934">연극 〈인형들의 집〉</a></span>
-                                </p>
-                            </div>
-                        </td>
-                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
-                            2022.06.16 - 2022.06.27</td>
-                        <td class="show_loc">우란2경 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/05/20220525113851837aec04-854f-4282-bd14-2954f8a1c115.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
             <title><![CDATA[2022 온라인체험극－다크필드라디오 〈ETERNAL〉]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=206971</link>
             <guid>https://ticket.melon.com/performance/index.htm?prodId=206971</guid>
@@ -331,56 +306,6 @@
                             2022.06.17 - 2022.07.03</td>
                         <td class="show_loc">다크필드라디오 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/06/20220603112026f3fb6af1-2276-4bb3-99ae-fd17ab3b9f42.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[먼데이프로젝트 시즌5 ORIGINAL［잭킹콩 단독 콘서트］]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=206957</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=206957</guid>
-            <pubDate>Sun, 26 Jun 2022 15:14:24 GMT</pubDate>
-            <content:encoded><![CDATA[<td>
-                            <div class="show_infor">
-                                <div class="thumb_90x125  img">
-                                    <a href="#">
-                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/05/20220531154737a7e8668d-906b-4d23-a9da-caa7e2bd2c6a.jpg/melon/resize/90x125/strip/true" alt="">
-                                        <span class="frame"></span>
-                                    </a>
-                                </div>
-                                <p class="infor_text">
-                                    <span class="ico_wrap">
-                                        <span class="ico_list ico_list1">단독판매</span><span class="ico_list ico_list4"> 판매중</span></span>
-                                    <span class="show_title"><a href="/performance/index.htm?prodId=206957">먼데이프로젝트 시즌5 ORIGINAL［잭킹콩 단독 콘서트］</a></span>
-                                </p>
-                            </div>
-                        </td>
-                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
-                            2022.06.27 - 2022.06.27</td>
-                        <td class="show_loc">플렉스 라운지 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/05/20220531154737a7e8668d-906b-4d23-a9da-caa7e2bd2c6a.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[먼데이프로젝트 IN 라이브클럽［우물 단독 콘서트］]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=206960</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=206960</guid>
-            <pubDate>Sun, 26 Jun 2022 15:14:24 GMT</pubDate>
-            <content:encoded><![CDATA[<td>
-                            <div class="show_infor">
-                                <div class="thumb_90x125  img">
-                                    <a href="#">
-                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/06/202206021002124cb5a73c-140e-4f39-be34-9e4a3236938f.jpg/melon/resize/90x125/strip/true" alt="">
-                                        <span class="frame"></span>
-                                    </a>
-                                </div>
-                                <p class="infor_text">
-                                    <span class="ico_wrap">
-                                        <span class="ico_list ico_list1">단독판매</span><span class="ico_list ico_list4"> 판매중</span></span>
-                                    <span class="show_title"><a href="/performance/index.htm?prodId=206960">먼데이프로젝트 IN 라이브클럽［우물 단독 콘서트］</a></span>
-                                </p>
-                            </div>
-                        </td>
-                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
-                            2022.06.27 - 2022.06.27</td>
-                        <td class="show_loc">네스트나다 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/06/202206021002124cb5a73c-140e-4f39-be34-9e4a3236938f.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
             <title><![CDATA[먼데이프로젝트 시즌5 순간의 노래［안예은 단독 콘서트］]]></title>
@@ -506,6 +431,81 @@
                             2022.07.01 - 2022.07.01</td>
                         <td class="show_loc">KT&amp;G 상상마당 홍대 라이브홀 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/06/20220607155853b026875f-b517-4bb5-a9b0-d9e15d883349.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[TUNE UP STAGE［튠업 23기 선정기념 공연＃01．ID：Earth X off the menu］]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=206984</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=206984</guid>
+            <pubDate>Mon, 27 Jun 2022 15:33:59 GMT</pubDate>
+            <content:encoded><![CDATA[<td>
+                            <div class="show_infor">
+                                <div class="thumb_90x125  img">
+                                    <a href="#">
+                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/06/20220608102816dbf37643-60b5-404e-9460-d42a12b76afd.jpg/melon/resize/90x125/strip/true" alt="">
+                                        <span class="frame"></span>
+                                    </a>
+                                </div>
+                                <p class="infor_text">
+                                    <span class="ico_wrap">
+                                        <span class="ico_list ico_list1">단독판매</span><span class="ico_list ico_list4"> 판매중</span></span>
+                                    <span class="show_title"><a href="/performance/index.htm?prodId=206984">TUNE UP STAGE［튠업 23기 선정기념 공연＃01．ID：Earth X off the menu］</a></span>
+                                </p>
+                            </div>
+                        </td>
+                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
+                            2022.07.01 - 2022.07.01</td>
+                        <td class="show_loc">CJ아지트 광흥창 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/06/20220608102816dbf37643-60b5-404e-9460-d42a12b76afd.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[키라라：그냥하는 단독공연 시즌 2－2]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=206994</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=206994</guid>
+            <pubDate>Mon, 27 Jun 2022 15:33:59 GMT</pubDate>
+            <content:encoded><![CDATA[<td>
+                            <div class="show_infor">
+                                <div class="thumb_90x125  img">
+                                    <a href="#">
+                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/06/20220613093844d4276f78-a826-4b8c-ad6d-dcdfc253ef0e.jpg/melon/resize/90x125/strip/true" alt="">
+                                        <span class="frame"></span>
+                                    </a>
+                                </div>
+                                <p class="infor_text">
+                                    <span class="ico_wrap">
+                                        <span class="ico_list ico_list1">단독판매</span><span class="ico_list ico_list4"> 판매중</span></span>
+                                    <span class="show_title"><a href="/performance/index.htm?prodId=206994">키라라：그냥하는 단독공연 시즌 2－2</a></span>
+                                </p>
+                            </div>
+                        </td>
+                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
+                            2022.07.01 - 2022.07.01</td>
+                        <td class="show_loc">프리즘홀 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/06/20220613093844d4276f78-a826-4b8c-ad6d-dcdfc253ef0e.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[유희열 Curated 19 적재 〈MIXTAPE〉]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=207001</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=207001</guid>
+            <pubDate>Mon, 27 Jun 2022 15:33:59 GMT</pubDate>
+            <content:encoded><![CDATA[<td>
+                            <div class="show_infor">
+                                <div class="thumb_90x125  img">
+                                    <a href="#">
+                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/06/20220620161930d0ebb406-ee1c-402c-89aa-f5e963a3365a.jpg/melon/resize/90x125/strip/true" alt="">
+                                        <span class="frame"></span>
+                                    </a>
+                                </div>
+                                <p class="infor_text">
+                                    <span class="ico_wrap">
+                                        <span class="ico_list ico_list1">단독판매</span><span class="ico_list ico_list4"> 판매중</span></span>
+                                    <span class="show_title"><a href="/performance/index.htm?prodId=207001">유희열 Curated 19 적재 〈MIXTAPE〉</a></span>
+                                </p>
+                            </div>
+                        </td>
+                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
+                            2022.07.01 - 2022.07.10</td>
+                        <td class="show_loc">현대카드 UNDERSTAGE, 언더스테이지 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/06/20220620161930d0ebb406-ee1c-402c-89aa-f5e963a3365a.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
     </channel>
 </rss>
