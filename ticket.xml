@@ -4,7 +4,7 @@
         <title>멜론 티켓</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Jun 2022 01:21:43 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Jun 2022 03:48:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,22 @@
             <pubDate>Fri, 24 Jun 2022 09:15:28 GMT</pubDate>
             <content:encoded><![CDATA[오픈일정 보기 &gt;]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/06/202206241747367dbff723-d1a8-4de3-9d43-e2393d31afd7.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[오추프로젝트 단독공연 〈여．추프로젝트〉＿문화정원아트홀 기획공연 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6244</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6244</guid>
+            <pubDate>Mon, 27 Jun 2022 03:47:59 GMT</pubDate>
+            <content:encoded><![CDATA[2022.07.01(금) 20:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/06/20220624143523e6f2a516-4159-4238-bcef-84c5dd21d23a.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[늘；RED 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6243</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6243</guid>
+            <pubDate>Mon, 27 Jun 2022 03:47:59 GMT</pubDate>
+            <content:encoded><![CDATA[2022.07.01(금) 12:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/06/202206241428377bee72ae-e607-403a-81c3-64492e75b287.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
         <item>
             <title><![CDATA[현대카드 Curated 76 김목인 티켓 오픈 안내]]></title>
@@ -70,22 +86,6 @@
             <pubDate>Fri, 24 Jun 2022 05:20:09 GMT</pubDate>
             <content:encoded><![CDATA[2022.06.27(월) 14:00]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/06/20220623163038e806c25d-b97e-4358-9881-b3035a6b69bc.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[두레 인디 페스타 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6235</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6235</guid>
-            <pubDate>Thu, 23 Jun 2022 07:13:49 GMT</pubDate>
-            <content:encoded><![CDATA[2022.06.24(금) 10:00]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/06/2022062311521414f884d0-f195-45e6-b819-0629f0f7b638.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[라이브 클럽 데이－블라인드 티켓 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6234</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6234</guid>
-            <pubDate>Thu, 23 Jun 2022 09:14:54 GMT</pubDate>
-            <content:encoded><![CDATA[2022.06.24(금) 14:00]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/06/202206231159453c51554b-565f-484d-8ed6-ad6c30cb4d17.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
     </channel>
 </rss>

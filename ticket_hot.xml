@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Jun 2022 01:21:43 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Jun 2022 03:48:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,22 @@
             <pubDate>Fri, 24 Jun 2022 09:15:35 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>22.06.29(수)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/06/2022062413572977cd0424-9c1b-4380-b689-9603ae172ead.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[늘；RED 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6243</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6243</guid>
+            <pubDate>Mon, 27 Jun 2022 03:48:07 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>22.07.01(금)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/06/202206241428377bee72ae-e607-403a-81c3-64492e75b287.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[오추프로젝트 단독공연 〈여．추프로젝트〉＿문화정원아트홀 기획공연 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6244</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6244</guid>
+            <pubDate>Mon, 27 Jun 2022 03:48:07 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>22.07.01(금)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/06/20220624143523e6f2a516-4159-4238-bcef-84c5dd21d23a.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
         <item>
             <title><![CDATA[반얀트리 클럽 앤 스파 서울 풀파티 티켓 오픈 안내]]></title>
@@ -70,22 +86,6 @@
             <pubDate>Fri, 24 Jun 2022 05:20:16 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>22.06.27(월)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/06/20220623164038a4e1ff5f-79fd-4528-bebd-e625115091df.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[몽니 정규 5집 ‘Firmament’ 발매 기념 콘서트 with 손에손에 뮤직 페스타 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6237</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6237</guid>
-            <pubDate>Fri, 24 Jun 2022 05:20:16 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>22.06.27(월)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/06/20220623163336fe96a04c-286d-4696-9f1a-52237f5764f8.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[산이 X 아웃사이더 X 가리온 콘서트 with 손에손에 뮤직 페스타 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6236</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6236</guid>
-            <pubDate>Fri, 24 Jun 2022 05:20:16 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>22.06.27(월)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/06/20220623163038e806c25d-b97e-4358-9881-b3035a6b69bc.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
