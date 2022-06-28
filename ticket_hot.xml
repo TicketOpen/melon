@@ -4,9 +4,25 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Jun 2022 07:13:58 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Jun 2022 08:21:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Wave to Earth 단독공연：Deep dive in Busan 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6201</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6201</guid>
+            <pubDate>Tue, 28 Jun 2022 08:21:37 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>22.06.17(금)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/06/20220617091029ca64f3b3-dd22-4d01-ae78-027ce352855c.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[Wave to Earth 단독공연：Deep dive in Seoul 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6200</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6200</guid>
+            <pubDate>Tue, 28 Jun 2022 08:21:37 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>22.06.17(금)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/06/202206170910486937b676-fcc4-4daf-8b3d-fa06bbe602a0.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
         <item>
             <title><![CDATA[우주라이브 콘서트［베뿌，하예지，은은］티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6253</link>
@@ -70,22 +86,6 @@
             <pubDate>Mon, 27 Jun 2022 04:48:37 GMT</pubDate>
             <content:encoded><![CDATA[오픈일정 보기 &gt;]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/06/20220624144706c0da632b-990e-47e4-a8d3-cf613a01f04c.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[현대카드 Curated 76 김목인 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6242</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6242</guid>
-            <pubDate>Fri, 24 Jun 2022 09:15:35 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>22.06.29(수)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/06/2022062413572977cd0424-9c1b-4380-b689-9603ae172ead.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[늘；RED 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6243</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6243</guid>
-            <pubDate>Mon, 27 Jun 2022 03:48:07 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>22.07.01(금)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/06/202206241428377bee72ae-e607-403a-81c3-64492e75b287.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
