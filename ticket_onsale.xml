@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 판매중</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Jul 2022 14:13:39 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Jul 2022 15:19:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -383,31 +383,6 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/06/20220623103048bb4610ad-d258-402a-8990-25b9f7051b96.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
-            <title><![CDATA[먼데이프로젝트 IN 라이브클럽［크리스피 단독 콘서트］]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=206982</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=206982</guid>
-            <pubDate>Sun, 03 Jul 2022 15:14:33 GMT</pubDate>
-            <content:encoded><![CDATA[<td>
-                            <div class="show_infor">
-                                <div class="thumb_90x125  img">
-                                    <a href="#">
-                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/06/202206071423362ca45a9b-0559-46ab-a91e-5dc53089dce9.jpg/melon/resize/90x125/strip/true" alt="">
-                                        <span class="frame"></span>
-                                    </a>
-                                </div>
-                                <p class="infor_text">
-                                    <span class="ico_wrap">
-                                        <span class="ico_list ico_list1">단독판매</span><span class="ico_list ico_list4"> 판매중</span></span>
-                                    <span class="show_title"><a href="/performance/index.htm?prodId=206982">먼데이프로젝트 IN 라이브클럽［크리스피 단독 콘서트］</a></span>
-                                </p>
-                            </div>
-                        </td>
-                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
-                            2022.07.04 - 2022.07.04</td>
-                        <td class="show_loc">공상온도 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/06/202206071423362ca45a9b-0559-46ab-a91e-5dc53089dce9.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
             <title><![CDATA[뮤지컬 〈전설의 리틀 농구단〉]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=206920</link>
             <guid>https://ticket.melon.com/performance/index.htm?prodId=206920</guid>
@@ -506,6 +481,31 @@
                             2022.07.08 - 2022.07.09</td>
                         <td class="show_loc">KT&amp;G 상상마당 홍대 라이브홀 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/06/202206170919145310c80c-291f-4e21-bc42-d96f750ade60.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[2022 신한 스퀘어브릿지 페스티벌（온라인）]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=207000</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=207000</guid>
+            <pubDate>Mon, 04 Jul 2022 15:19:57 GMT</pubDate>
+            <content:encoded><![CDATA[<td>
+                            <div class="show_infor">
+                                <div class="thumb_90x125  img">
+                                    <a href="#">
+                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/06/202206241743432fbd90d8-2eef-4a02-b6a4-092174d9572d.jpg/melon/resize/90x125/strip/true" alt="">
+                                        <span class="frame"></span>
+                                    </a>
+                                </div>
+                                <p class="infor_text">
+                                    <span class="ico_wrap">
+                                        <span class="ico_list ico_list4"> 판매중</span></span>
+                                    <span class="show_title"><a href="/performance/index.htm?prodId=207000">2022 신한 스퀘어브릿지 페스티벌（온라인）</a></span>
+                                </p>
+                            </div>
+                        </td>
+                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
+                            2022.07.08 - 2022.07.09</td>
+                        <td class="show_loc">유튜브 생중계 (신한 스퀘어브릿지 페스티벌) </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/06/202206241743432fbd90d8-2eef-4a02-b6a4-092174d9572d.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
     </channel>
 </rss>
