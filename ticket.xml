@@ -4,9 +4,17 @@
         <title>멜론 티켓</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Jul 2022 01:29:26 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Jul 2022 03:47:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[먼데이프로젝트 IN 라이브클럽［극동아시아타이거즈 단독 콘서트］티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6276</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6276</guid>
+            <pubDate>Wed, 06 Jul 2022 03:46:56 GMT</pubDate>
+            <content:encoded><![CDATA[2022.07.13(수) 20:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/07/20220705144031fb2ebc05-aeac-42fa-a6cf-066501b605ac.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
         <item>
             <title><![CDATA[“L E T T E R”［from ‘이츠’］Vol．1 티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6275</link>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 01 Jul 2022 11:12:37 GMT</pubDate>
             <content:encoded><![CDATA[2022.07.11(월) 20:00]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/06/2022063017561700a44fea-4aa4-4fc1-a82f-7f6e32002167.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 〈전설의 리틀 농구단〉 후반전 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6266</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6266</guid>
-            <pubDate>Fri, 01 Jul 2022 08:20:19 GMT</pubDate>
-            <content:encoded><![CDATA[2022.07.08(금) 14:00]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/06/20220630173916178e5037-b4f4-4270-b0ba-f55ca8c00d3e.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
     </channel>
 </rss>
