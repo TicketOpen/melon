@@ -4,9 +4,25 @@
         <title>멜론 티켓</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Jul 2022 01:23:32 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Jul 2022 03:46:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[밍기뉴 단독 콘서트 ‘나의 모든 이들에게，’ 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6284</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6284</guid>
+            <pubDate>Thu, 07 Jul 2022 03:46:24 GMT</pubDate>
+            <content:encoded><![CDATA[2022.07.14(목) 20:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/07/20220706182425c6537678-8797-4813-9683-1fc8c6feda4b.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[SSHOWBOX THE COLORS ＃1 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6283</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6283</guid>
+            <pubDate>Thu, 07 Jul 2022 03:46:24 GMT</pubDate>
+            <content:encoded><![CDATA[2022.07.07(목) 19:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/07/202207061814277b4112ff-18fd-49bb-96a9-c58c2b9d2334.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
         <item>
             <title><![CDATA[［원데이 클래스］실무 마케팅 특강 티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6282</link>
@@ -70,22 +86,6 @@
             <pubDate>Tue, 05 Jul 2022 09:14:37 GMT</pubDate>
             <content:encoded><![CDATA[2022.07.11(월) 18:00]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/07/2022070513370464bf2acd-36c5-4754-8dfc-0ab357736a89.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[빈센트블루 단독 콘서트 〈Blue Wood〉 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6274</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6274</guid>
-            <pubDate>Tue, 05 Jul 2022 05:19:05 GMT</pubDate>
-            <content:encoded><![CDATA[2022.07.12(화) 20:00]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/07/20220704163500a9a516f6-2a1e-416a-b97d-57c3aab05b6c.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[〈 Summer Night With Ailee 〉 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6273</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6273</guid>
-            <pubDate>Mon, 04 Jul 2022 09:15:16 GMT</pubDate>
-            <content:encoded><![CDATA[2022.07.06(수) 18:00]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/07/20220704145056cddbe06a-a113-4654-972f-62c75109b317.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
     </channel>
 </rss>
