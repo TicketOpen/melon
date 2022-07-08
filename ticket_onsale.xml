@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 판매중</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Jul 2022 14:25:28 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Jul 2022 15:24:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -408,31 +408,6 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/05/2022052615215160999cfa-4752-4523-895d-d7ba4773f5b8.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
-            <title><![CDATA[앰비규어스댄스컴퍼니 ‘무교육적 댄스’ ＿싱크넥스트22]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=206851</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=206851</guid>
-            <pubDate>Sun, 03 Jul 2022 15:14:33 GMT</pubDate>
-            <content:encoded><![CDATA[<td>
-                            <div class="show_infor">
-                                <div class="thumb_90x125  img">
-                                    <a href="#">
-                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/05/202205101020312350e42d-8713-45a7-882e-4b9ef65e69ce.jpg/melon/resize/90x125/strip/true" alt="">
-                                        <span class="frame"></span>
-                                    </a>
-                                </div>
-                                <p class="infor_text">
-                                    <span class="ico_wrap">
-                                        <span class="ico_list ico_list4"> 판매중</span></span>
-                                    <span class="show_title"><a href="/performance/index.htm?prodId=206851">앰비규어스댄스컴퍼니 ‘무교육적 댄스’ ＿싱크넥스트22</a></span>
-                                </p>
-                            </div>
-                        </td>
-                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
-                            2022.07.06 - 2022.07.08</td>
-                        <td class="show_loc">세종문화회관 S씨어터</td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/05/202205101020312350e42d-8713-45a7-882e-4b9ef65e69ce.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
             <title><![CDATA[연극 한 여름밤의 꿈]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=206952</link>
             <guid>https://ticket.melon.com/performance/index.htm?prodId=206952</guid>
@@ -506,6 +481,31 @@
                             2022.07.08 - 2022.07.09</td>
                         <td class="show_loc">유튜브 생중계 (신한 스퀘어브릿지 페스티벌) </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/06/202206241743432fbd90d8-2eef-4a02-b6a4-092174d9572d.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[앰비규어스댄스컴퍼니 ‘사우나 세미나’ ＿싱크넥스트22]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=206854</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=206854</guid>
+            <pubDate>Fri, 08 Jul 2022 15:24:32 GMT</pubDate>
+            <content:encoded><![CDATA[<td>
+                            <div class="show_infor">
+                                <div class="thumb_90x125  img">
+                                    <a href="#">
+                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/05/2022051010193940b5d8e7-ef67-4a2b-98fb-0a9f249611a0.jpg/melon/resize/90x125/strip/true" alt="">
+                                        <span class="frame"></span>
+                                    </a>
+                                </div>
+                                <p class="infor_text">
+                                    <span class="ico_wrap">
+                                        <span class="ico_list ico_list4"> 판매중</span></span>
+                                    <span class="show_title"><a href="/performance/index.htm?prodId=206854">앰비규어스댄스컴퍼니 ‘사우나 세미나’ ＿싱크넥스트22</a></span>
+                                </p>
+                            </div>
+                        </td>
+                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
+                            2022.07.09 - 2022.07.09</td>
+                        <td class="show_loc">세종문화회관 S씨어터</td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/05/2022051010193940b5d8e7-ef67-4a2b-98fb-0a9f249611a0.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
     </channel>
 </rss>
