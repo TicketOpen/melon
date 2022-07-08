@@ -4,7 +4,7 @@
         <title>멜론 티켓</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Jul 2022 04:37:29 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Jul 2022 05:22:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,22 @@
             <pubDate>Fri, 08 Jul 2022 01:25:45 GMT</pubDate>
             <content:encoded><![CDATA[2022.07.14(목) 14:00]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/07/20220708092341c5cab69e-bf70-4ac7-b8ca-172e8c549af3.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[노놀온더그라운드 with 메타씨어터 〈 이진아 / 김나영 / 죠지 / 황치열 〉 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6287</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6287</guid>
+            <pubDate>Fri, 08 Jul 2022 05:21:44 GMT</pubDate>
+            <content:encoded><![CDATA[오픈일정 보기 &gt;]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/07/20220708130442ff36e355-60cc-44fc-918e-d71fdc2474b4.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[HIPHOPPLAYA FESTIVAL 2022 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6286</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6286</guid>
+            <pubDate>Fri, 08 Jul 2022 05:21:44 GMT</pubDate>
+            <content:encoded><![CDATA[2022.07.12(화) 19:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/07/202207071422058e982080-db4f-4ef6-a25a-2e266f0f91b0.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
         <item>
             <title><![CDATA[2022 대구힙합페스티벌 티켓 오픈 안내]]></title>
@@ -70,22 +86,6 @@
             <pubDate>Wed, 06 Jul 2022 09:25:32 GMT</pubDate>
             <content:encoded><![CDATA[2022.07.08(금) 18:00]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/07/20220705170953eabae29d-1dfc-4214-99ff-5df92f2ee604.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[장혜진 Rooftop Live［소풍］티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6278</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6278</guid>
-            <pubDate>Wed, 06 Jul 2022 05:25:46 GMT</pubDate>
-            <content:encoded><![CDATA[2022.07.08(금) 14:00]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/07/20220706131715c118eeca-1d49-480f-8a0e-21db45b17127.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[유명해져 아니，유명해지지마 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6277</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6277</guid>
-            <pubDate>Wed, 06 Jul 2022 05:25:46 GMT</pubDate>
-            <content:encoded><![CDATA[2022.07.07(목) 14:00]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/07/202207051625370ea1ddf6-9fb1-4f76-931e-918374d195f1.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
     </channel>
 </rss>
