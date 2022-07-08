@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Jul 2022 01:26:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Jul 2022 03:41:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Wed, 06 Jul 2022 09:25:40 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>22.07.08(금)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/07/202207071634395d1610d7-345c-4e29-a0c5-9ea30a5889dc.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[2022 대구힙합페스티벌 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6285</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6285</guid>
+            <pubDate>Fri, 08 Jul 2022 03:41:21 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>22.07.13(수)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/07/2022070714135376479135-15d1-4185-9106-58b5d7eef802.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
         <item>
             <title><![CDATA[밍기뉴 단독 콘서트 ‘나의 모든 이들에게，’ 티켓 오픈 안내]]></title>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 05 Jul 2022 09:14:44 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>22.07.11(월)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/07/2022070513370464bf2acd-36c5-4754-8dfc-0ab357736a89.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[먼데이프로젝트 IN 라이브클럽［극동아시아타이거즈 단독 콘서트］티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6276</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6276</guid>
-            <pubDate>Wed, 06 Jul 2022 03:47:03 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>22.07.13(수)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/07/20220705144031fb2ebc05-aeac-42fa-a6cf-066501b605ac.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
