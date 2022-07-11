@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Jul 2022 06:20:14 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Jul 2022 07:14:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Mon, 11 Jul 2022 05:22:59 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>22.07.19(화)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/07/20220711135804d1c3d383-9ab8-4704-aadf-90afaf0bc955.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[2022 뮤직 앤 센트 콘서트 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6293</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6293</guid>
+            <pubDate>Mon, 11 Jul 2022 07:14:19 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>22.07.13(수)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/07/2022071110114597ead089-87c6-4f79-bdc5-78ac285749f3.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
         <item>
             <title><![CDATA[박시환 팬미팅 겸 미니 콘서트 티켓 오픈 안내]]></title>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 11 Jul 2022 05:22:59 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>22.07.12(화)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/07/20220708132356f0fd8c51-8578-4b51-a612-2482d3699801.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[［원데이 클래스］실무 마케팅 특강 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6282</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6282</guid>
-            <pubDate>Wed, 06 Jul 2022 09:25:40 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>22.07.08(금)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/07/202207071634395d1610d7-345c-4e29-a0c5-9ea30a5889dc.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
