@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 판매중</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Jul 2022 14:20:35 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Jul 2022 15:24:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -408,31 +408,6 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/06/202206021707106b4318a5-1e47-4792-8038-91eadacc5551.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
-            <title><![CDATA[먼데이프로젝트 시즌5 청춘의 밤［김마리 단독 콘서트］]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=207005</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=207005</guid>
-            <pubDate>Sat, 09 Jul 2022 15:16:11 GMT</pubDate>
-            <content:encoded><![CDATA[<td>
-                            <div class="show_infor">
-                                <div class="thumb_90x125  img">
-                                    <a href="#">
-                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/06/20220615104629e510e95b-e813-4a0d-866d-60fe6795da15.jpg/melon/resize/90x125/strip/true" alt="">
-                                        <span class="frame"></span>
-                                    </a>
-                                </div>
-                                <p class="infor_text">
-                                    <span class="ico_wrap">
-                                        <span class="ico_list ico_list1">단독판매</span><span class="ico_list ico_list4"> 판매중</span></span>
-                                    <span class="show_title"><a href="/performance/index.htm?prodId=207005">먼데이프로젝트 시즌5 청춘의 밤［김마리 단독 콘서트］</a></span>
-                                </p>
-                            </div>
-                        </td>
-                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
-                            2022.07.11 - 2022.07.11</td>
-                        <td class="show_loc">벨로주 홍대 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/06/20220615104629e510e95b-e813-4a0d-866d-60fe6795da15.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
             <title><![CDATA[무용 ‘자조방방 自照房房’＿싱크넥스트22]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=206841</link>
             <guid>https://ticket.melon.com/performance/index.htm?prodId=206841</guid>
@@ -506,6 +481,31 @@
                             2022.07.15 - 2022.07.16</td>
                         <td class="show_loc">세종문화회관 S씨어터</td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/05/2022051010160464dbcb99-019f-4b82-b4bf-69bcc55ab22d.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[EBS 어린이 뮤지컬 〈점박이 공룡대모험：뒤섞인 세계〉]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=206969</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=206969</guid>
+            <pubDate>Mon, 11 Jul 2022 15:24:15 GMT</pubDate>
+            <content:encoded><![CDATA[<td>
+                            <div class="show_infor">
+                                <div class="thumb_90x125  img">
+                                    <a href="#">
+                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/06/20220615144236f8cf431f-80f5-4a45-afc3-248fc2f389bf.jpg/melon/resize/90x125/strip/true" alt="">
+                                        <span class="frame"></span>
+                                    </a>
+                                </div>
+                                <p class="infor_text">
+                                    <span class="ico_wrap">
+                                        <span class="ico_list ico_list4"> 판매중</span></span>
+                                    <span class="show_title"><a href="/performance/index.htm?prodId=206969">EBS 어린이 뮤지컬 〈점박이 공룡대모험：뒤섞인 세계〉</a></span>
+                                </p>
+                            </div>
+                        </td>
+                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
+                            2022.07.16 - 2022.08.21</td>
+                        <td class="show_loc">백암아트홀 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/06/20220615144236f8cf431f-80f5-4a45-afc3-248fc2f389bf.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
     </channel>
 </rss>
