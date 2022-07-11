@@ -4,9 +4,17 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Jul 2022 01:21:49 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Jul 2022 03:36:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[박시환 팬미팅 겸 미니 콘서트 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6289</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6289</guid>
+            <pubDate>Mon, 11 Jul 2022 03:36:03 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>22.07.13(수)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/07/202207111042524bb922e8-838d-425b-9132-a7c944bce3bc.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
         <item>
             <title><![CDATA[HIPHOPPLAYA FESTIVAL 2022 티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6286</link>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 07 Jul 2022 01:23:24 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>22.07.08(금)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/07/2022070616542548b0c1e9-fc35-4939-8477-656d6336c441.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[장혜진 Rooftop Live［소풍］티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6278</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6278</guid>
-            <pubDate>Wed, 06 Jul 2022 05:25:53 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>22.07.08(금)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/07/20220706131715c118eeca-1d49-480f-8a0e-21db45b17127.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
