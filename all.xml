@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Jul 2022 14:23:32 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Jul 2022 15:26:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -568,31 +568,6 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/06/202206021707106b4318a5-1e47-4792-8038-91eadacc5551.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
-            <title><![CDATA[무용 ‘자조방방 自照房房’＿싱크넥스트22 (멜론티켓 ─ 판매중)]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=206841</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=206841</guid>
-            <pubDate>Sun, 10 Jul 2022 15:15:30 GMT</pubDate>
-            <content:encoded><![CDATA[<td>
-                            <div class="show_infor">
-                                <div class="thumb_90x125  img">
-                                    <a href="#">
-                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/05/202205101018059d32a7b8-7aeb-49fe-85fd-56d4ff9d5710.jpg/melon/resize/90x125/strip/true" alt="">
-                                        <span class="frame"></span>
-                                    </a>
-                                </div>
-                                <p class="infor_text">
-                                    <span class="ico_wrap">
-                                        <span class="ico_list ico_list4"> 판매중</span></span>
-                                    <span class="show_title"><a href="/performance/index.htm?prodId=206841">무용 ‘자조방방 自照房房’＿싱크넥스트22</a></span>
-                                </p>
-                            </div>
-                        </td>
-                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
-                            2022.07.12 - 2022.07.12</td>
-                        <td class="show_loc">세종문화회관 S씨어터</td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/05/202205101018059d32a7b8-7aeb-49fe-85fd-56d4ff9d5710.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
             <title><![CDATA[우주라이브［김국배와 손가락들］콘서트 (멜론티켓 ─ 판매중)]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=207081</link>
             <guid>https://ticket.melon.com/performance/index.htm?prodId=207081</guid>
@@ -666,6 +641,31 @@
                             2022.07.16 - 2022.08.21</td>
                         <td class="show_loc">백암아트홀 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/06/20220615144236f8cf431f-80f5-4a45-afc3-248fc2f389bf.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[Wave to Earth 단독공연：Deep dive in Busan (멜론티켓 ─ 판매중)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=206998</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=206998</guid>
+            <pubDate>Tue, 12 Jul 2022 15:26:44 GMT</pubDate>
+            <content:encoded><![CDATA[<td>
+                            <div class="show_infor">
+                                <div class="thumb_90x125  img">
+                                    <a href="#">
+                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/06/202206170911047ad620a8-c9f7-41f7-9e24-199835adc3c4.jpg/melon/resize/90x125/strip/true" alt="">
+                                        <span class="frame"></span>
+                                    </a>
+                                </div>
+                                <p class="infor_text">
+                                    <span class="ico_wrap">
+                                        <span class="ico_list ico_list1">단독판매</span><span class="ico_list ico_list4"> 판매중</span></span>
+                                    <span class="show_title"><a href="/performance/index.htm?prodId=206998">Wave to Earth 단독공연：Deep dive in Busan</a></span>
+                                </p>
+                            </div>
+                        </td>
+                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
+                            2022.07.16 - 2022.07.16</td>
+                        <td class="show_loc">KT&amp;G 상상마당 부산 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/06/202206170911047ad620a8-c9f7-41f7-9e24-199835adc3c4.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
     </channel>
 </rss>
