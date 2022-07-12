@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Jul 2022 23:14:58 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Jul 2022 01:24:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -85,7 +85,15 @@
             <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6285</guid>
             <pubDate>Fri, 08 Jul 2022 03:41:12 GMT</pubDate>
             <content:encoded><![CDATA[2022.07.13(수) 14:00]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/07/2022070714135376479135-15d1-4185-9106-58b5d7eef802.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/07/20220712095627ca6cdaf2-6a0d-4da7-b1ac-0434e1b35c74.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[2022 대구힙합페스티벌 티켓 오픈 안내 (멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식)]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6285</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6285</guid>
+            <pubDate>Fri, 08 Jul 2022 03:41:12 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>22.07.13(수)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/07/20220712095627ca6cdaf2-6a0d-4da7-b1ac-0434e1b35c74.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
         <item>
             <title><![CDATA[2022 뮤직 앤 센트 콘서트 티켓 오픈 안내 (멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식)]]></title>
@@ -150,14 +158,6 @@
             <pubDate>Sat, 09 Jul 2022 09:13:58 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>22.07.14(목)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/07/20220708150213c6d2c0a4-8ce2-40a0-a569-845a0daf3a28.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[2022 대구힙합페스티벌 티켓 오픈 안내 (멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식)]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6285</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6285</guid>
-            <pubDate>Fri, 08 Jul 2022 03:41:12 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>22.07.13(수)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/07/2022070714135376479135-15d1-4185-9106-58b5d7eef802.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
         <item>
             <title><![CDATA[Flight0813：나상현씨밴드편 티켓 오픈 안내 (멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식)]]></title>
