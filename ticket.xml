@@ -4,9 +4,17 @@
         <title>멜론 티켓</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Jul 2022 08:20:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Jul 2022 09:18:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김태균（TAKEWON）단독 콘서트－상업예술 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6298</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6298</guid>
+            <pubDate>Wed, 13 Jul 2022 09:18:25 GMT</pubDate>
+            <content:encoded><![CDATA[2022.07.20(수) 18:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/07/2022071219100962609408-a6a0-40eb-aba2-b1b50b23b072.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
         <item>
             <title><![CDATA[트랙제로 Alive－vol．1 숨은목소리 1편 티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6297</link>
@@ -22,6 +30,14 @@
             <pubDate>Wed, 13 Jul 2022 03:40:59 GMT</pubDate>
             <content:encoded><![CDATA[2022.07.15(금) 20:00]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/07/202207121138515947bee6-6c94-415b-847a-a9282f3a0c4e.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[8월의 크리스마스 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6295</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6295</guid>
+            <pubDate>Wed, 13 Jul 2022 09:18:25 GMT</pubDate>
+            <content:encoded><![CDATA[2022.07.14(목) 18:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/07/20220712112543e874da2d-be7c-4df2-8e8f-a83d2ba89fed.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 〈웃는 남자〉 마지막 티켓 오픈 안내]]></title>
@@ -70,22 +86,6 @@
             <pubDate>Mon, 11 Jul 2022 03:35:57 GMT</pubDate>
             <content:encoded><![CDATA[2022.07.13(수) 12:00]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/07/202207111042524bb922e8-838d-425b-9132-a7c944bce3bc.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 〈엘리자벳〉 10주년 기념공연 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6288</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6288</guid>
-            <pubDate>Fri, 08 Jul 2022 01:25:45 GMT</pubDate>
-            <content:encoded><![CDATA[2022.07.14(목) 14:00]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/07/20220708092341c5cab69e-bf70-4ac7-b8ca-172e8c549af3.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[노놀온더그라운드 with 메타씨어터 〈 이진아 / 김나영 / 죠지 / 황치열 〉 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6287</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6287</guid>
-            <pubDate>Fri, 08 Jul 2022 05:21:44 GMT</pubDate>
-            <content:encoded><![CDATA[오픈일정 보기 &gt;]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/07/20220708130442ff36e355-60cc-44fc-918e-d71fdc2474b4.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
     </channel>
 </rss>
