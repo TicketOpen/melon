@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Jul 2022 01:26:55 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Jul 2022 03:49:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,6 +30,14 @@
             <pubDate>Wed, 13 Jul 2022 08:19:52 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>22.07.14(목)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/07/20220712183358fbabe5b7-e076-4dc6-aadb-87086de0111a.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[Ordinary Holiday ＃1 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6299</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6299</guid>
+            <pubDate>Thu, 14 Jul 2022 03:49:41 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>22.07.18(월)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/07/20220713154143b4c7bcc1-d23a-4afc-b1fc-b525c443bb11.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
         <item>
             <title><![CDATA[김태균（TAKEWON）단독 콘서트－상업예술 티켓 오픈 안내]]></title>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 11 Jul 2022 03:36:03 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>22.07.13(수)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/07/202207111042524bb922e8-838d-425b-9132-a7c944bce3bc.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[HIPHOPPLAYA FESTIVAL 2022 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6286</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6286</guid>
-            <pubDate>Fri, 08 Jul 2022 05:21:52 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>22.07.12(화)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/07/202207071422058e982080-db4f-4ef6-a25a-2e266f0f91b0.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
