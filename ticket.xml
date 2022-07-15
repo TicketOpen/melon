@@ -4,7 +4,7 @@
         <title>멜론 티켓</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Jul 2022 03:54:49 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Jul 2022 05:02:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Fri, 15 Jul 2022 03:54:33 GMT</pubDate>
             <content:encoded><![CDATA[2022.07.18(월) 12:00]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/07/20220715105653644e0b7c-4eab-43cf-8bee-5b79e768da6a.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[Day one Sound Vol．1 〈류진〉 편 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6304</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6304</guid>
+            <pubDate>Fri, 15 Jul 2022 05:02:03 GMT</pubDate>
+            <content:encoded><![CDATA[2022.07.18(월) 20:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/07/2022071416372573bfc0b9-a8bb-4907-9d40-55f3c68764cd.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
         <item>
             <title><![CDATA[2022 울산서머페스티벌－쇼！음악중심 티켓 오픈 안내]]></title>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 13 Jul 2022 03:40:59 GMT</pubDate>
             <content:encoded><![CDATA[2022.07.15(금) 20:00]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/07/202207121138515947bee6-6c94-415b-847a-a9282f3a0c4e.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[8월의 크리스마스 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6295</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6295</guid>
-            <pubDate>Wed, 13 Jul 2022 09:18:25 GMT</pubDate>
-            <content:encoded><![CDATA[2022.07.14(목) 18:00]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/07/20220712112543e874da2d-be7c-4df2-8e8f-a83d2ba89fed.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
     </channel>
 </rss>
