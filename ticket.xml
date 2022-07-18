@@ -4,9 +4,17 @@
         <title>멜론 티켓</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Jul 2022 10:18:07 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Jul 2022 11:13:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[프레젠트프로젝트 〈SING SANG SONG：87DANCE 단독 콘서트 ‘BPM87’〉 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6311</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6311</guid>
+            <pubDate>Mon, 18 Jul 2022 11:13:10 GMT</pubDate>
+            <content:encoded><![CDATA[2022.07.19(화) 20:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/07/20220715161434b3b02daf-699b-416d-930d-adcd14b32230.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
         <item>
             <title><![CDATA[듀에토 Green Forest Concert 티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6310</link>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 15 Jul 2022 03:54:33 GMT</pubDate>
             <content:encoded><![CDATA[2022.07.17(일) 20:00]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/07/2022071411374394c4c27e-15b1-47c7-b1ca-92961976766a.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[지소쿠리 x 프랭클리：Nerd Party 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6301</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6301</guid>
-            <pubDate>Fri, 15 Jul 2022 03:54:33 GMT</pubDate>
-            <content:encoded><![CDATA[2022.07.18(월) 18:00]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/07/2022071411321472a3514f-f057-417c-a469-61b2bad5fc78.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
     </channel>
 </rss>
