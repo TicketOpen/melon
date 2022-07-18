@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 판매중</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Jul 2022 14:22:24 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Jul 2022 15:22:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -383,31 +383,6 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/06/202206271625051769aff7-d184-48ab-92cb-8b435552757d.png/melon/resize/90x125/strip/true" length="0" type="image/png/melon/resize/90x125/strip/true"/>
         </item>
         <item>
-            <title><![CDATA[먼데이프로젝트 시즌5 청춘의 밤［다린 단독 콘서트］]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=207006</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=207006</guid>
-            <pubDate>Sun, 17 Jul 2022 15:14:56 GMT</pubDate>
-            <content:encoded><![CDATA[<td>
-                            <div class="show_infor">
-                                <div class="thumb_90x125  img">
-                                    <a href="#">
-                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/06/20220615110412c4b4bed0-809a-445c-a670-f75b46ee81f5.jpg/melon/resize/90x125/strip/true" alt="">
-                                        <span class="frame"></span>
-                                    </a>
-                                </div>
-                                <p class="infor_text">
-                                    <span class="ico_wrap">
-                                        <span class="ico_list ico_list1">단독판매</span><span class="ico_list ico_list4"> 판매중</span></span>
-                                    <span class="show_title"><a href="/performance/index.htm?prodId=207006">먼데이프로젝트 시즌5 청춘의 밤［다린 단독 콘서트］</a></span>
-                                </p>
-                            </div>
-                        </td>
-                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
-                            2022.07.18 - 2022.07.18</td>
-                        <td class="show_loc">구름아래소극장 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/06/20220615110412c4b4bed0-809a-445c-a670-f75b46ee81f5.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
             <title><![CDATA[크리스티안 쿠리아 라이브 인 서울]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=206967</link>
             <guid>https://ticket.melon.com/performance/index.htm?prodId=206967</guid>
@@ -506,6 +481,31 @@
                             2022.07.22 - 2022.07.31</td>
                         <td class="show_loc">세종문화회관 M씨어터</td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/06/20220602175437d5914f8c-3b5b-4dab-869f-d5ab9150cc4e.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[2022 WONDER POOL PARTY（2022원더풀 풀 파티）]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=206990</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=206990</guid>
+            <pubDate>Mon, 18 Jul 2022 15:22:55 GMT</pubDate>
+            <content:encoded><![CDATA[<td>
+                            <div class="show_infor">
+                                <div class="thumb_90x125  img">
+                                    <a href="#">
+                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/06/20220628161657b33bf5f4-c53b-48b4-8cc6-9b4da1e26148.jpg/melon/resize/90x125/strip/true" alt="">
+                                        <span class="frame"></span>
+                                    </a>
+                                </div>
+                                <p class="infor_text">
+                                    <span class="ico_wrap">
+                                        <span class="ico_list ico_list1">단독판매</span><span class="ico_list ico_list4"> 판매중</span></span>
+                                    <span class="show_title"><a href="/performance/index.htm?prodId=206990">2022 WONDER POOL PARTY（2022원더풀 풀 파티）</a></span>
+                                </p>
+                            </div>
+                        </td>
+                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
+                            2022.07.22 - 2022.07.23</td>
+                        <td class="show_loc">인천 파라다이스시티 Hotel Paradise Outdoor Pool</td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/06/20220628161657b33bf5f4-c53b-48b4-8cc6-9b4da1e26148.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
     </channel>
 </rss>
