@@ -4,9 +4,17 @@
         <title>멜론 티켓</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Jul 2022 08:19:27 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Jul 2022 09:16:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[PEN＿MEETING VOL．1 WITH BAND HERD 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6313</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6313</guid>
+            <pubDate>Tue, 19 Jul 2022 09:16:39 GMT</pubDate>
+            <content:encoded><![CDATA[2022.07.22(금) 19:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/07/2022071911050678ab2398-f232-426e-93f2-59f9249c845e.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
         <item>
             <title><![CDATA[DREAM DRIVE－주윤하 소극장 공연 티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6312</link>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 15 Jul 2022 05:02:03 GMT</pubDate>
             <content:encoded><![CDATA[2022.07.18(월) 20:00]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/07/2022071416372573bfc0b9-a8bb-4907-9d40-55f3c68764cd.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[2022 울산서머페스티벌－쇼！음악중심 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6303</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6303</guid>
-            <pubDate>Fri, 15 Jul 2022 03:54:33 GMT</pubDate>
-            <content:encoded><![CDATA[2022.07.19(화) 20:00]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/07/202207191701240c1e9fa4-a004-4cc0-a387-9f61752756d6.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
     </channel>
 </rss>
