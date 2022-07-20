@@ -4,9 +4,17 @@
         <title>멜론 티켓</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Jul 2022 08:21:28 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Jul 2022 09:15:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[IAMMONEY + BUSYNESS MANE + KING SOUTH G Showcase 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6316</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6316</guid>
+            <pubDate>Wed, 20 Jul 2022 09:15:16 GMT</pubDate>
+            <content:encoded><![CDATA[2022.07.21(목) 18:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/07/202207191433041d053951-bf31-4dd2-a430-a8b707923d12.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
         <item>
             <title><![CDATA[먼데이프로젝트 시즌5 청춘의 밤［김사월 단독 콘서트］티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6315</link>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 15 Jul 2022 11:12:45 GMT</pubDate>
             <content:encoded><![CDATA[2022.07.18(월) 20:00]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/07/202207151326345f037131-e5d9-448d-bbf5-309edb5a76e9.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[2022 WONHO FANMEETING［OHHOHO TRIP］티켓 재오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6306</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6306</guid>
-            <pubDate>Fri, 15 Jul 2022 06:18:28 GMT</pubDate>
-            <content:encoded><![CDATA[2022.07.18(월) 20:00]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/07/202207141804295be236bd-7f04-4b81-8afa-4a588fc30644.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
     </channel>
 </rss>
