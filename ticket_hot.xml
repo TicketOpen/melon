@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Jul 2022 23:16:10 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Jul 2022 01:19:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Wed, 20 Jul 2022 07:14:43 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>22.07.01(금)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/06/20220627160358b357778e-63e3-4179-aee3-4c6a3981c491.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[우주라이브 〈원일，진서〉 콘서트 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6317</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6317</guid>
+            <pubDate>Thu, 21 Jul 2022 01:19:20 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>22.07.22(금)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/07/20220720135559bdfe8df4-9379-4332-9985-9cee750fe1ec.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
         <item>
             <title><![CDATA[PEN＿MEETING VOL．1 WITH BAND HERD 티켓 오픈 안내]]></title>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 18 Jul 2022 09:15:19 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>22.07.20(수)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/07/20220718135447e90232e6-13dd-4b50-b674-3c52e2ab03ae.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[프레젠트프로젝트 〈SING SANG SONG：87DANCE 단독 콘서트 ‘BPM87’〉 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6311</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6311</guid>
-            <pubDate>Mon, 18 Jul 2022 11:13:17 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>22.07.19(화)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/07/20220715161434b3b02daf-699b-416d-930d-adcd14b32230.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
