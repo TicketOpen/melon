@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 판매중</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Jul 2022 14:14:31 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Jul 2022 15:17:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -408,31 +408,6 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/06/2022061013405787ef65a6-bcff-4076-8941-dbdd68f7b98f.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
-            <title><![CDATA[WSG워너비 콘서트]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=207095</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=207095</guid>
-            <pubDate>Sun, 17 Jul 2022 15:14:56 GMT</pubDate>
-            <content:encoded><![CDATA[<td>
-                            <div class="show_infor">
-                                <div class="thumb_90x125  img">
-                                    <a href="#">
-                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/07/2022071217015543dfbc2c-2aff-4202-9476-f412d38005a2.jpg/melon/resize/90x125/strip/true" alt="">
-                                        <span class="frame"></span>
-                                    </a>
-                                </div>
-                                <p class="infor_text">
-                                    <span class="ico_wrap">
-                                        <span class="ico_list ico_list1">단독판매</span><span class="ico_list ico_list4"> 판매중</span></span>
-                                    <span class="show_title"><a href="/performance/index.htm?prodId=207095">WSG워너비 콘서트</a></span>
-                                </p>
-                            </div>
-                        </td>
-                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
-                            2022.07.21 - 2022.07.21</td>
-                        <td class="show_loc">장충체육관 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/07/2022071217015543dfbc2c-2aff-4202-9476-f412d38005a2.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
             <title><![CDATA[가족음악극 ‘백조마을의 차이콥스키’]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=206947</link>
             <guid>https://ticket.melon.com/performance/index.htm?prodId=206947</guid>
@@ -506,6 +481,31 @@
                             2022.07.22 - 2022.07.22</td>
                         <td class="show_loc">LIVE CLUB DAY </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/06/2022062309205421378ed2-a066-405c-bd09-90aee3b540cb.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[라이브 클럽 데이－일반 티켓]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=207054</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=207054</guid>
+            <pubDate>Thu, 21 Jul 2022 15:17:20 GMT</pubDate>
+            <content:encoded><![CDATA[<td>
+                            <div class="show_infor">
+                                <div class="thumb_90x125  img">
+                                    <a href="#">
+                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/06/20220628175323738d7e9e-c517-4c67-ae49-8a4949505012.jpg/melon/resize/90x125/strip/true" alt="">
+                                        <span class="frame"></span>
+                                    </a>
+                                </div>
+                                <p class="infor_text">
+                                    <span class="ico_wrap">
+                                        <span class="ico_list ico_list1">단독판매</span><span class="ico_list ico_list4"> 판매중</span></span>
+                                    <span class="show_title"><a href="/performance/index.htm?prodId=207054">라이브 클럽 데이－일반 티켓</a></span>
+                                </p>
+                            </div>
+                        </td>
+                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
+                            2022.07.22 - 2022.07.22</td>
+                        <td class="show_loc">LIVE CLUB DAY </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/06/20220628175323738d7e9e-c517-4c67-ae49-8a4949505012.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
     </channel>
 </rss>
