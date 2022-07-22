@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 판매중</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Jul 2022 14:15:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Jul 2022 15:16:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -483,29 +483,29 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/06/20220628161657b33bf5f4-c53b-48b4-8cc6-9b4da1e26148.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
-            <title><![CDATA[라이브 클럽 데이－블라인드 티켓]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=207031</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=207031</guid>
-            <pubDate>Tue, 19 Jul 2022 15:23:00 GMT</pubDate>
+            <title><![CDATA[스마일러브위크엔드]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=206978</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=206978</guid>
+            <pubDate>Fri, 22 Jul 2022 15:16:45 GMT</pubDate>
             <content:encoded><![CDATA[<td>
                             <div class="show_infor">
                                 <div class="thumb_90x125  img">
                                     <a href="#">
-                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/06/2022062309205421378ed2-a066-405c-bd09-90aee3b540cb.jpg/melon/resize/90x125/strip/true" alt="">
+                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/06/20220621100725c8d25516-c922-4c5a-af77-45dd8f706132.jpg/melon/resize/90x125/strip/true" alt="">
                                         <span class="frame"></span>
                                     </a>
                                 </div>
                                 <p class="infor_text">
                                     <span class="ico_wrap">
-                                        <span class="ico_list ico_list1">단독판매</span><span class="ico_list ico_list4"> 판매중</span></span>
-                                    <span class="show_title"><a href="/performance/index.htm?prodId=207031">라이브 클럽 데이－블라인드 티켓</a></span>
+                                        <span class="ico_list ico_list4"> 판매중</span></span>
+                                    <span class="show_title"><a href="/performance/index.htm?prodId=206978">스마일러브위크엔드</a></span>
                                 </p>
                             </div>
                         </td>
                         <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
-                            2022.07.22 - 2022.07.22</td>
-                        <td class="show_loc">LIVE CLUB DAY </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/06/2022062309205421378ed2-a066-405c-bd09-90aee3b540cb.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+                            2022.07.23 - 2022.07.23</td>
+                        <td class="show_loc">서울 노들섬 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/06/20220621100725c8d25516-c922-4c5a-af77-45dd8f706132.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
     </channel>
 </rss>
