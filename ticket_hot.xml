@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Jul 2022 08:21:46 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Jul 2022 09:15:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Mon, 25 Jul 2022 05:25:56 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>22.07.25(월)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/07/20220722150210b25fcf13-b94f-42a0-8748-02e6dad5ef8c.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[동행 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6331</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6331</guid>
+            <pubDate>Mon, 25 Jul 2022 09:15:26 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>22.07.25(월)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/07/20220722170731953c9865-3ee7-4532-9961-f82ea77e9f5c.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
         <item>
             <title><![CDATA[먼데이프로젝트 시즌5 청춘의 밤［히미츠 단독 콘서트］티켓 오픈 안내]]></title>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 25 Jul 2022 03:44:57 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>22.07.28(목)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/07/202207221451534cfcd390-8bf3-426a-b982-b9bfc2779997.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[카코포니 피아노 단독공연 〈숨의 여름〉 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6329</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6329</guid>
-            <pubDate>Mon, 25 Jul 2022 03:44:57 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>22.08.01(월)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/07/2022072214573542025fca-3da9-43a3-9a60-66edd98d3a54.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
