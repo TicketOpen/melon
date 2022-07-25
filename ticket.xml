@@ -4,9 +4,25 @@
         <title>멜론 티켓</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Jul 2022 01:19:30 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Jul 2022 03:45:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[카코포니 피아노 단독공연 〈숨의 여름〉 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6329</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6329</guid>
+            <pubDate>Mon, 25 Jul 2022 03:44:49 GMT</pubDate>
+            <content:encoded><![CDATA[2022.08.01(월) 12:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/07/2022072214573542025fca-3da9-43a3-9a60-66edd98d3a54.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[TUNE UP STAGE：Dear My Playlist 튠업 스테이지：디어 마이 플레이리스트 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6328</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6328</guid>
+            <pubDate>Mon, 25 Jul 2022 03:44:49 GMT</pubDate>
+            <content:encoded><![CDATA[2022.07.28(목) 14:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/07/202207221451534cfcd390-8bf3-426a-b982-b9bfc2779997.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
         <item>
             <title><![CDATA[우주라이브［우자앤쉐인，최첨단맨］콘서트 티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6327</link>
@@ -70,22 +86,6 @@
             <pubDate>Thu, 21 Jul 2022 05:26:38 GMT</pubDate>
             <content:encoded><![CDATA[2022.07.26(화) 14:00]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/07/202207201506527317179e-ab90-4171-bb9d-19dd3859a1f4.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[먼데이프로젝트 시즌5 청춘의 밤［히미츠 단독 콘서트］티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6319</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6319</guid>
-            <pubDate>Thu, 21 Jul 2022 03:39:07 GMT</pubDate>
-            <content:encoded><![CDATA[2022.07.28(목) 20:00]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/07/20220720141429f057dcb6-092e-4111-aa9c-d0c17e3266d7.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[먼데이프로젝트 시즌5 청춘의 밤［리도어 단독 콘서트］티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6318</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6318</guid>
-            <pubDate>Thu, 21 Jul 2022 03:39:07 GMT</pubDate>
-            <content:encoded><![CDATA[2022.07.28(목) 20:00]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/07/2022072113015976b6518f-5f7b-45ee-9dd6-8f94403fd812.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
     </channel>
 </rss>
