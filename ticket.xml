@@ -4,9 +4,17 @@
         <title>멜론 티켓</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Jul 2022 01:44:20 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Jul 2022 04:03:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[키라라：그냥하는 단독공연 시즌 2－3 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6332</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6332</guid>
+            <pubDate>Tue, 26 Jul 2022 04:03:10 GMT</pubDate>
+            <content:encoded><![CDATA[2022.07.29(금) 18:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/07/20220725131949e5d33677-c6e4-4aae-af82-5e8de873a5eb.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
         <item>
             <title><![CDATA[동행 티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6331</link>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 22 Jul 2022 05:24:07 GMT</pubDate>
             <content:encoded><![CDATA[2022.07.26(화) 14:00]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/07/2022072111455474351abd-b1df-4b26-934e-19b41b87d198.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[TONE STUDIO LIVE 〈9와 숫자들〉 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6322</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6322</guid>
-            <pubDate>Thu, 21 Jul 2022 10:16:53 GMT</pubDate>
-            <content:encoded><![CDATA[2022.07.27(수) 20:00]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/07/20220720161543c221f92c-42c5-47cf-b89a-d15300a49116.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
     </channel>
 </rss>

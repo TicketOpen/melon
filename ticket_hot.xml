@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Jul 2022 01:44:20 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Jul 2022 04:03:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Mon, 25 Jul 2022 05:25:56 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>22.07.25(월)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/07/20220722150210b25fcf13-b94f-42a0-8748-02e6dad5ef8c.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[키라라：그냥하는 단독공연 시즌 2－3 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6332</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6332</guid>
+            <pubDate>Tue, 26 Jul 2022 04:03:17 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>22.07.29(금)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/07/20220725131949e5d33677-c6e4-4aae-af82-5e8de873a5eb.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
         <item>
             <title><![CDATA[동행 티켓 오픈 안내]]></title>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 22 Jul 2022 06:20:58 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>22.07.25(월)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/07/202207221347443f2eac33-bb7e-4066-af2a-fceed796d8b4.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[TUNE UP STAGE：Dear My Playlist 튠업 스테이지：디어 마이 플레이리스트 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6328</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6328</guid>
-            <pubDate>Mon, 25 Jul 2022 03:44:57 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>22.07.28(목)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/07/202207221451534cfcd390-8bf3-426a-b982-b9bfc2779997.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
