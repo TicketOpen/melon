@@ -4,9 +4,25 @@
         <title>멜론 티켓</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Jul 2022 01:25:16 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Jul 2022 03:48:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[프리즘브레이크 vol．13：더보울스 x 코토바 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6336</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6336</guid>
+            <pubDate>Wed, 27 Jul 2022 03:48:01 GMT</pubDate>
+            <content:encoded><![CDATA[2022.08.01(월) 19:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/07/20220726171509dab71130-5275-458d-aef5-6cf3b88ec1fa.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[재즈; 정지수의 시선（Jazz; Jisu’s Gaze）티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6335</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6335</guid>
+            <pubDate>Wed, 27 Jul 2022 03:48:01 GMT</pubDate>
+            <content:encoded><![CDATA[2022.07.28(목) 18:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/07/2022072614403658ef70ae-d08e-479b-8b23-a3f35ead1553.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
         <item>
             <title><![CDATA[인플래닛 레이블 콘 2022 티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6334</link>
@@ -70,22 +86,6 @@
             <pubDate>Mon, 25 Jul 2022 01:19:15 GMT</pubDate>
             <content:encoded><![CDATA[2022.07.26(화) 14:00]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/07/2022072214460668bfdfbb-8139-4d61-a3bc-fceb24de77e9.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[두레 인디 페스타 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6326</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6326</guid>
-            <pubDate>Fri, 22 Jul 2022 06:20:52 GMT</pubDate>
-            <content:encoded><![CDATA[2022.07.25(월) 10:00]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/07/202207221347443f2eac33-bb7e-4066-af2a-fceed796d8b4.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[숲세권 라이브：엔분의일 단독 공연 “anemone” 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6325</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6325</guid>
-            <pubDate>Fri, 22 Jul 2022 11:13:40 GMT</pubDate>
-            <content:encoded><![CDATA[2022.07.25(월) 20:00]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/07/20220721155307545ae809-3f4b-4be6-aa8d-d9a5bb645944.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
     </channel>
 </rss>
