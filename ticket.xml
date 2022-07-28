@@ -4,9 +4,17 @@
         <title>멜론 티켓</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Jul 2022 10:17:34 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Jul 2022 11:14:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[프레젠트프로젝트 〈이제 단독 콘서트 ‘바다로’〉 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6341</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6341</guid>
+            <pubDate>Thu, 28 Jul 2022 11:13:50 GMT</pubDate>
+            <content:encoded><![CDATA[2022.08.03(수) 20:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/07/202207271613269380c54f-e686-4173-99f0-576fed70a9e8.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
         <item>
             <title><![CDATA[송예빈 첫 번째 팬미팅：우리라는 이야기의 첫 페이지 티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6340</link>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 26 Jul 2022 04:03:10 GMT</pubDate>
             <content:encoded><![CDATA[2022.07.29(금) 18:00]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/07/20220725131949e5d33677-c6e4-4aae-af82-5e8de873a5eb.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[동행 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6331</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6331</guid>
-            <pubDate>Mon, 25 Jul 2022 09:15:18 GMT</pubDate>
-            <content:encoded><![CDATA[2022.07.25(월) 18:00]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/07/20220722170731953c9865-3ee7-4532-9961-f82ea77e9f5c.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
     </channel>
 </rss>
