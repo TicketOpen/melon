@@ -4,9 +4,25 @@
         <title>멜론 티켓</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Jul 2022 04:48:17 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Jul 2022 05:26:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[SSHOWBOX with 위수 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6344</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6344</guid>
+            <pubDate>Fri, 29 Jul 2022 05:26:35 GMT</pubDate>
+            <content:encoded><![CDATA[2022.08.01(월) 19:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/07/202207281514570d762d93-8938-40f1-b695-9ec5a7e652d7.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[참솜 소극장 단독공연 ‘summer chamsom’ 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6343</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6343</guid>
+            <pubDate>Fri, 29 Jul 2022 05:26:35 GMT</pubDate>
+            <content:encoded><![CDATA[2022.08.01(월) 18:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/07/2022072815102981354521-5f99-4500-a4dc-94fadf2fc9d9.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
         <item>
             <title><![CDATA[YB 단독 콘서트 ‘LIGHTS：BURNS’－Encore 티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6342</link>
@@ -70,22 +86,6 @@
             <pubDate>Wed, 27 Jul 2022 03:48:01 GMT</pubDate>
             <content:encoded><![CDATA[2022.07.28(목) 18:00]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/07/2022072614403658ef70ae-d08e-479b-8b23-a3f35ead1553.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[인플래닛 레이블 콘 2022 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6334</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6334</guid>
-            <pubDate>Tue, 26 Jul 2022 09:16:45 GMT</pubDate>
-            <content:encoded><![CDATA[2022.08.01(월) 18:00]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/07/2022072611444903e04db6-e738-485b-86a0-2d04703d50c4.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[현대카드 Curated 78 Israel Jazz Night 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6333</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6333</guid>
-            <pubDate>Tue, 26 Jul 2022 09:16:45 GMT</pubDate>
-            <content:encoded><![CDATA[2022.07.27(수) 18:00]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/07/202207271311374fa3fe12-40ed-4c41-a5df-5ceb9d838efb.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
     </channel>
 </rss>
