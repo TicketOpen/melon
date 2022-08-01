@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 01 Aug 2022 09:17:43 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Aug 2022 10:18:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -16,7 +16,7 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/07/202207291824321b733b51-a551-48f4-a540-0ae598a98572.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
         <item>
-            <title><![CDATA[미켈란젤로 티켓 오픈 안내 (멜론 티켓)]]></title>
+            <title><![CDATA[유태성 앨범 발매 공연［미켈란젤로］티켓 오픈 안내 (멜론 티켓)]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6347</link>
             <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6347</guid>
             <pubDate>Mon, 01 Aug 2022 05:51:06 GMT</pubDate>
@@ -88,6 +88,14 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/07/2022072710551734092122-6b7d-473d-be66-ff24c818b6d3.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
         <item>
+            <title><![CDATA[유태성 앨범 발매 공연［미켈란젤로］티켓 오픈 안내 (멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식)]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6347</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6347</guid>
+            <pubDate>Mon, 01 Aug 2022 05:51:06 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>22.08.03(수)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/07/20220729160345a250e286-cb80-4198-b5ae-085c6d44a97e.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
             <title><![CDATA[재즈; 정지수의 시선（Jazz; Jisu’s Gaze）티켓 오픈 안내 (멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식)]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6335</link>
             <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6335</guid>
@@ -110,14 +118,6 @@
             <pubDate>Mon, 01 Aug 2022 04:03:17 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>22.08.03(수)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/08/2022080109281731c35924-7f08-4e82-93f5-d9159d45925f.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[미켈란젤로 티켓 오픈 안내 (멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식)]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6347</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6347</guid>
-            <pubDate>Mon, 01 Aug 2022 05:51:06 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>22.08.03(수)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/07/20220729160345a250e286-cb80-4198-b5ae-085c6d44a97e.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
         <item>
             <title><![CDATA[숲세권 라이브：엔분의일 단독 공연 “anemone” 티켓 오픈 안내 (멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식)]]></title>
