@@ -4,7 +4,7 @@
         <title>멜론 티켓</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 Aug 2022 10:18:41 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Aug 2022 11:13:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Tue, 02 Aug 2022 05:40:52 GMT</pubDate>
             <content:encoded><![CDATA[2022.08.09(화) 14:00]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/08/202208021342109f027537-2af0-4170-b18f-acae03a5e452.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[weplay Ep．2：김예지 편［Lively 온＆오프라인 병행 공연］티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6351</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6351</guid>
+            <pubDate>Tue, 02 Aug 2022 11:13:11 GMT</pubDate>
+            <content:encoded><![CDATA[2022.08.05(금) 20:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/08/20220801160308de4e1d54-77e3-4900-8cb5-14efb61c4b3c.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
         <item>
             <title><![CDATA[솔루션스＆라쿠나：Talks On Music＃12 티켓 오픈 안내]]></title>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 29 Jul 2022 05:26:35 GMT</pubDate>
             <content:encoded><![CDATA[2022.08.01(월) 18:00]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/07/2022072815102981354521-5f99-4500-a4dc-94fadf2fc9d9.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[YB 단독 콘서트 ‘LIGHTS：BURNS’－Encore 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6342</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6342</guid>
-            <pubDate>Fri, 29 Jul 2022 03:50:03 GMT</pubDate>
-            <content:encoded><![CDATA[2022.08.03(수) 20:00]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/07/20220728151508802a4187-7440-4d56-9c69-47edd566c466.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
     </channel>
 </rss>

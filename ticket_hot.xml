@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 Aug 2022 10:18:41 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Aug 2022 11:13:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,6 +30,14 @@
             <pubDate>Tue, 02 Aug 2022 04:05:47 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>22.08.09(화)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/08/20220801102753500aed35-5633-4ce1-90fc-c91ded2301c4.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[weplay Ep．2：김예지 편［Lively 온＆오프라인 병행 공연］티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6351</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6351</guid>
+            <pubDate>Tue, 02 Aug 2022 11:13:17 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>22.08.05(금)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/08/20220801160308de4e1d54-77e3-4900-8cb5-14efb61c4b3c.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 〈엘리자벳〉 10주년 기념공연 2차 티켓 오픈 안내]]></title>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 01 Aug 2022 04:03:23 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>22.08.03(수)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/08/2022080109281731c35924-7f08-4e82-93f5-d9159d45925f.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[숲세권 라이브：엔분의일 단독 공연 “anemone” 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6345</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6345</guid>
-            <pubDate>Fri, 29 Jul 2022 11:14:06 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>22.08.01(월)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/07/202207281643060c195aa3-3408-45e9-a65d-85171cf944c9.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
