@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 01 Aug 2022 23:17:38 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Aug 2022 01:45:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,6 +30,14 @@
             <pubDate>Mon, 01 Aug 2022 05:51:12 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>22.08.03(수)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/07/202207291824321b733b51-a551-48f4-a540-0ae598a98572.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[우주라이브［오브제 3주년］콘서트 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6349</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6349</guid>
+            <pubDate>Tue, 02 Aug 2022 01:45:37 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>22.08.03(수)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/08/2022080110233400949862-5289-46c4-81ce-805ef518865b.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
         <item>
             <title><![CDATA[2022 김나영 데뷔 10주년 팬미팅［우리 만나영］티켓 오픈 안내]]></title>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 27 Jul 2022 07:15:24 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>22.07.04(월)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/06/2022062715270695ab8a0c-e8d2-490f-9172-e4454be71c29.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[프레젠트프로젝트 〈이제 단독 콘서트 ‘바다로’〉 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6341</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6341</guid>
-            <pubDate>Thu, 28 Jul 2022 11:13:57 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>22.08.03(수)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/07/202207271613269380c54f-e686-4173-99f0-576fed70a9e8.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>

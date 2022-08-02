@@ -4,9 +4,17 @@
         <title>멜론 티켓</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 01 Aug 2022 23:17:38 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Aug 2022 01:45:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[우주라이브［오브제 3주년］콘서트 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6349</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6349</guid>
+            <pubDate>Tue, 02 Aug 2022 01:45:30 GMT</pubDate>
+            <content:encoded><![CDATA[2022.08.03(수) 14:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/08/2022080110233400949862-5289-46c4-81ce-805ef518865b.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
         <item>
             <title><![CDATA[WONHO OFFICIAL FANCLUB 2ND ‘위니 WENEE’ 모집 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6348</link>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 28 Jul 2022 03:39:11 GMT</pubDate>
             <content:encoded><![CDATA[2022.08.01(월) 12:00]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/07/20220727131953b4393522-2d65-4dc3-818b-a8eae5921e89.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[The Poles 단독 콘서트：Goin’ High 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6339</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6339</guid>
-            <pubDate>Thu, 28 Jul 2022 03:39:11 GMT</pubDate>
-            <content:encoded><![CDATA[2022.08.04(목) 20:00]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/07/2022072710551734092122-6b7d-473d-be66-ff24c818b6d3.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
     </channel>
 </rss>
