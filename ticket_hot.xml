@@ -4,9 +4,17 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 03 Aug 2022 05:01:18 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Aug 2022 06:18:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2022 IU CONCERT 〈The Golden Hour：오렌지 태양 아래〉 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6360</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6360</guid>
+            <pubDate>Wed, 03 Aug 2022 06:18:26 GMT</pubDate>
+            <content:encoded><![CDATA[오픈일정 보기 &gt;]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/08/202208031053526a326f2a-9a1d-4762-b7fe-1128385f67d2.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
         <item>
             <title><![CDATA[안다영 단독 공연 〈20 to 22 was a babel〉 티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6352</link>
@@ -40,6 +48,14 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/08/20220803130609e25604e5-0f6f-41b8-9d84-6256dcd251b8.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
         <item>
+            <title><![CDATA[30：The Frost On Your Kids SHOWCASE 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6357</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6357</guid>
+            <pubDate>Wed, 03 Aug 2022 06:18:26 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>22.08.05(금)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/08/20220802173100cac64520-73db-4958-8f6c-64a00e428a70.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
             <title><![CDATA[유태성 앨범 발매 공연［미켈란젤로］티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6347</link>
             <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6347</guid>
@@ -70,22 +86,6 @@
             <pubDate>Wed, 03 Aug 2022 03:52:16 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>22.08.10(수)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/08/202208021544409ab70a74-5613-413b-a6f1-f2a9eedabb26.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[우주라이브［오브제 3주년］콘서트 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6349</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6349</guid>
-            <pubDate>Tue, 02 Aug 2022 01:45:37 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>22.08.03(수)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/08/2022080110233400949862-5289-46c4-81ce-805ef518865b.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[솔루션스＆라쿠나：Talks On Music＃12 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6350</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6350</guid>
-            <pubDate>Tue, 02 Aug 2022 04:05:47 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>22.08.09(화)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/08/20220801102753500aed35-5633-4ce1-90fc-c91ded2301c4.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>

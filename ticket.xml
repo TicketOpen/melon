@@ -4,9 +4,25 @@
         <title>멜론 티켓</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 03 Aug 2022 05:01:18 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Aug 2022 06:18:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2022 IU CONCERT 〈The Golden Hour：오렌지 태양 아래〉 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6360</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6360</guid>
+            <pubDate>Wed, 03 Aug 2022 06:18:21 GMT</pubDate>
+            <content:encoded><![CDATA[오픈일정 보기 &gt;]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/08/202208031053526a326f2a-9a1d-4762-b7fe-1128385f67d2.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[30：The Frost On Your Kids SHOWCASE 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6357</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6357</guid>
+            <pubDate>Wed, 03 Aug 2022 06:18:21 GMT</pubDate>
+            <content:encoded><![CDATA[2022.08.05(금) 14:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/08/20220802173100cac64520-73db-4958-8f6c-64a00e428a70.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
         <item>
             <title><![CDATA[먼데이프로젝트 IN 라이브클럽［화노 단독 콘서트］티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6356</link>
@@ -70,22 +86,6 @@
             <pubDate>Tue, 02 Aug 2022 01:45:30 GMT</pubDate>
             <content:encoded><![CDATA[2022.08.03(수) 14:00]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/08/2022080110233400949862-5289-46c4-81ce-805ef518865b.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[WONHO OFFICIAL FANCLUB 2ND ‘위니 WENEE’ 모집 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6348</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6348</guid>
-            <pubDate>Mon, 01 Aug 2022 05:51:06 GMT</pubDate>
-            <content:encoded><![CDATA[2022.08.03(수) 14:00]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/07/202207291824321b733b51-a551-48f4-a540-0ae598a98572.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[유태성 앨범 발매 공연［미켈란젤로］티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6347</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6347</guid>
-            <pubDate>Mon, 01 Aug 2022 05:51:06 GMT</pubDate>
-            <content:encoded><![CDATA[2022.08.03(수) 14:00]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/07/20220729160345a250e286-cb80-4198-b5ae-085c6d44a97e.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
     </channel>
 </rss>
