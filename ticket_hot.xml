@@ -4,9 +4,17 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 04 Aug 2022 04:41:22 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Aug 2022 05:28:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[weplay Ep．2：김예지 편［Lively 온＆오프라인 병행 공연］티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6351</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6351</guid>
+            <pubDate>Thu, 04 Aug 2022 05:28:20 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>22.08.05(금)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/08/202208041406307fe78b76-3307-48ce-822e-97aaf97e79c5.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
         <item>
             <title><![CDATA[뉴페스타 2022 티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6365</link>
@@ -14,6 +22,14 @@
             <pubDate>Thu, 04 Aug 2022 03:24:37 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>22.08.09(화)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/08/20220804105334e9282641-f2e3-49e8-b69a-b51820958d14.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[김슬옹 1st Fanmeeting 〈Better Know〉 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6364</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6364</guid>
+            <pubDate>Thu, 04 Aug 2022 05:28:21 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>22.08.09(화)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/08/202208031750065e554b02-811e-4a30-a4a7-58b17239b400.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
         <item>
             <title><![CDATA[먼데이프로젝트 시즌5 청춘의 밤［크리스피 단독 콘서트］티켓 오픈 안내]]></title>
@@ -70,22 +86,6 @@
             <pubDate>Wed, 03 Aug 2022 06:18:26 GMT</pubDate>
             <content:encoded><![CDATA[오픈일정 보기 &gt;]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/08/202208031053526a326f2a-9a1d-4762-b7fe-1128385f67d2.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[안다영 단독 공연 〈20 to 22 was a babel〉 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6352</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6352</guid>
-            <pubDate>Wed, 03 Aug 2022 03:52:16 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>22.08.05(금)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/08/202208021134047748b3bc-6f5c-4271-803b-68b6755f6768.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[Digital Dawn 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6302</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6302</guid>
-            <pubDate>Wed, 03 Aug 2022 05:01:10 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>22.07.17(일)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/07/2022071411374394c4c27e-15b1-47c7-b1ca-92961976766a.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>

@@ -4,7 +4,7 @@
         <title>멜론 티켓</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 04 Aug 2022 04:41:22 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Aug 2022 05:28:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Thu, 04 Aug 2022 03:24:31 GMT</pubDate>
             <content:encoded><![CDATA[2022.08.09(화) 10:00]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/08/20220804105334e9282641-f2e3-49e8-b69a-b51820958d14.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[김슬옹 1st Fanmeeting 〈Better Know〉 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6364</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6364</guid>
+            <pubDate>Thu, 04 Aug 2022 05:28:14 GMT</pubDate>
+            <content:encoded><![CDATA[2022.08.09(화) 14:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/08/202208031750065e554b02-811e-4a30-a4a7-58b17239b400.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
         <item>
             <title><![CDATA[칠보장 1st EP ‘칼－세이건’ 쇼케이스 티켓 오픈 안내]]></title>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 03 Aug 2022 03:52:08 GMT</pubDate>
             <content:encoded><![CDATA[2022.08.10(수) 19:00]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/08/20220802161513f9ac3f56-25ec-4f8d-8f8c-8a4b2cb28fd1.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[먼데이프로젝트 시즌5 청춘의 밤［잭킹콩 단독 콘서트］티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6355</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6355</guid>
-            <pubDate>Wed, 03 Aug 2022 03:52:08 GMT</pubDate>
-            <content:encoded><![CDATA[2022.08.10(수) 20:00]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/08/202208021544409ab70a74-5613-413b-a6f1-f2a9eedabb26.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
     </channel>
 </rss>
