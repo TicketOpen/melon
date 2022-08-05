@@ -4,7 +4,7 @@
         <title>멜론 티켓</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 Aug 2022 03:42:08 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Aug 2022 04:43:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Fri, 05 Aug 2022 03:41:55 GMT</pubDate>
             <content:encoded><![CDATA[2022.08.10(수) 19:00]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/08/202208041736480d24fe3a-54cb-47e5-b654-4d2fc5124a40.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[숲세권 라이브：전유동 단독 공연 “Platanus” 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6366</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6366</guid>
+            <pubDate>Fri, 05 Aug 2022 04:42:51 GMT</pubDate>
+            <content:encoded><![CDATA[2022.08.09(화) 20:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/08/20220804114353d84297e3-45be-427e-8fc3-b3b2aedccd46.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
         <item>
             <title><![CDATA[뉴페스타 2022 티켓 오픈 안내]]></title>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 03 Aug 2022 09:14:50 GMT</pubDate>
             <content:encoded><![CDATA[2022.08.04(목) 18:00]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/08/202208021811331ac465ab-f855-4145-bbb6-f3cee9b723b4.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[30：The Frost On Your Kids SHOWCASE 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6357</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6357</guid>
-            <pubDate>Wed, 03 Aug 2022 06:18:21 GMT</pubDate>
-            <content:encoded><![CDATA[2022.08.05(금) 14:00]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/08/20220802173100cac64520-73db-4958-8f6c-64a00e428a70.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
     </channel>
 </rss>
