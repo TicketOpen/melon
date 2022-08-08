@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 Aug 2022 04:33:31 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Aug 2022 05:19:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Mon, 08 Aug 2022 03:38:07 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>22.08.09(화)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/08/20220805173632046307a4-92dd-43e9-949d-149eb3cc276d.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[把酒問月（파주문월）with cott 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6373</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6373</guid>
+            <pubDate>Mon, 08 Aug 2022 05:19:50 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>22.08.11(목)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/08/202208081024389d836ef3-d88b-43e8-bb9e-213b6569650d.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
         <item>
             <title><![CDATA[김슬옹 1st Fanmeeting 〈Better Know〉 티켓 오픈 안내]]></title>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 04 Aug 2022 05:28:20 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>22.08.05(금)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/08/202208041406307fe78b76-3307-48ce-822e-97aaf97e79c5.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[숲세권 라이브：전유동 단독 공연 “Platanus” 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6366</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6366</guid>
-            <pubDate>Fri, 05 Aug 2022 04:42:57 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>22.08.09(화)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/08/20220804114353d84297e3-45be-427e-8fc3-b3b2aedccd46.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
