@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 Aug 2022 14:16:14 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Aug 2022 15:17:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -493,31 +493,6 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/07/20220729182419b6f10ef3-0fc3-4598-aea0-cfa8ab6631d2.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
-            <title><![CDATA[2022 울산서머페스티벌－쇼！음악중심 (멜론티켓 ─ 판매중)]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=207108</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=207108</guid>
-            <pubDate>Sat, 06 Aug 2022 15:14:55 GMT</pubDate>
-            <content:encoded><![CDATA[<td>
-                            <div class="show_infor">
-                                <div class="thumb_90x125  img">
-                                    <a href="#">
-                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/07/2022071917005303fafc00-e0c5-47b9-8202-895ee41dcf48.jpg/melon/resize/90x125/strip/true" alt="">
-                                        <span class="frame"></span>
-                                    </a>
-                                </div>
-                                <p class="infor_text">
-                                    <span class="ico_wrap">
-                                        <span class="ico_list ico_list1">단독판매</span><span class="ico_list ico_list4"> 판매중</span></span>
-                                    <span class="show_title"><a href="/performance/index.htm?prodId=207108">2022 울산서머페스티벌－쇼！음악중심</a></span>
-                                </p>
-                            </div>
-                        </td>
-                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
-                            2022.08.08 - 2022.08.08</td>
-                        <td class="show_loc">울산종합운동장 보조경기장 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/07/2022071917005303fafc00-e0c5-47b9-8202-895ee41dcf48.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
             <title><![CDATA[Ordinary Holiday ＃1 (멜론티켓 ─ 판매중)]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=207100</link>
             <guid>https://ticket.melon.com/performance/index.htm?prodId=207100</guid>
@@ -666,6 +641,31 @@
                             2022.08.12 - 2022.08.12</td>
                         <td class="show_loc">구름아래소극장 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/07/202207151557292d51f36a-f98e-4373-912e-930c92bd4486.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[키라라：그냥하는 단독공연 시즌 2－3 (멜론티켓 ─ 판매중)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=207143</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=207143</guid>
+            <pubDate>Mon, 08 Aug 2022 15:17:27 GMT</pubDate>
+            <content:encoded><![CDATA[<td>
+                            <div class="show_infor">
+                                <div class="thumb_90x125  img">
+                                    <a href="#">
+                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/07/202207251014044e853da9-38a8-4105-9d16-6c8126a96438.jpg/melon/resize/90x125/strip/true" alt="">
+                                        <span class="frame"></span>
+                                    </a>
+                                </div>
+                                <p class="infor_text">
+                                    <span class="ico_wrap">
+                                        <span class="ico_list ico_list1">단독판매</span><span class="ico_list ico_list4"> 판매중</span></span>
+                                    <span class="show_title"><a href="/performance/index.htm?prodId=207143">키라라：그냥하는 단독공연 시즌 2－3</a></span>
+                                </p>
+                            </div>
+                        </td>
+                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
+                            2022.08.12 - 2022.08.12</td>
+                        <td class="show_loc">프리즘홀 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/07/202207251014044e853da9-38a8-4105-9d16-6c8126a96438.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
     </channel>
 </rss>
