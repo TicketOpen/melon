@@ -4,7 +4,7 @@
         <title>멜론 티켓</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 Aug 2022 01:26:46 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Aug 2022 03:42:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Mon, 08 Aug 2022 09:15:06 GMT</pubDate>
             <content:encoded><![CDATA[2022.08.10(수) 14:00]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/08/202208081728348e22413b-9361-4302-889a-1934b61eb82a.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[유해인 X 이사라［YOU＆I］티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6375</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6375</guid>
+            <pubDate>Tue, 09 Aug 2022 03:41:53 GMT</pubDate>
+            <content:encoded><![CDATA[2022.08.10(수) 12:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/08/20220808143214b0db99d9-6022-4722-a958-dcf61664be17.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
         <item>
             <title><![CDATA[이영훈 2022 단독공연 〈오늘의 안녕〉 티켓 오픈 안내]]></title>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 05 Aug 2022 09:16:43 GMT</pubDate>
             <content:encoded><![CDATA[2022.08.12(금) 20:00]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/08/20220804141453b885181f-bc04-4138-9410-ede2bc36a1ec.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[숲세권 라이브：전유동 단독 공연 “Platanus” 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6366</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6366</guid>
-            <pubDate>Fri, 05 Aug 2022 04:42:51 GMT</pubDate>
-            <content:encoded><![CDATA[2022.08.09(화) 20:00]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/08/20220804114353d84297e3-45be-427e-8fc3-b3b2aedccd46.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
     </channel>
 </rss>
