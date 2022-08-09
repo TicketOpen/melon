@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 Aug 2022 04:38:32 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Aug 2022 05:22:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Mon, 08 Aug 2022 09:15:13 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>22.08.10(수)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/08/202208081728348e22413b-9361-4302-889a-1934b61eb82a.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[把酒問月（파주문월）with 좋아서하는밴드 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6376</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6376</guid>
+            <pubDate>Tue, 09 Aug 2022 05:22:26 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>22.08.12(금)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/08/2022080816190179f52465-705e-4028-a0cc-fb20739b823a.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
         <item>
             <title><![CDATA[유해인 X 이사라［YOU＆I］티켓 오픈 안내]]></title>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 08 Aug 2022 01:19:01 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>22.08.10(수)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/08/202208051628394a699604-af45-4ced-8416-c7de7c0eb1e1.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[백형훈 팬미팅 〈인사〉 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6369</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6369</guid>
-            <pubDate>Fri, 05 Aug 2022 10:16:34 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>22.08.09(화)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/08/202208051448059338cb88-af76-47a2-8c00-5dc57a09514b.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
