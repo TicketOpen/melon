@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 10 Aug 2022 09:15:34 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Aug 2022 10:16:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,6 +30,14 @@
             <pubDate>Wed, 10 Aug 2022 01:18:07 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>22.08.12(금)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/08/20220804141453b885181f-bc04-4138-9410-ede2bc36a1ec.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[TONE STUDIO LIVE 〈송예린〉 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6379</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6379</guid>
+            <pubDate>Wed, 10 Aug 2022 10:16:43 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>22.08.17(수)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/08/202208091800551050a2b3-eda4-4661-bb1c-96a924aa02fa.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 〈오션스〉 쇼케이스 티켓 오픈 안내]]></title>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 08 Aug 2022 05:19:50 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>22.08.11(목)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/08/202208081024389d836ef3-d88b-43e8-bb9e-213b6569650d.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[이영훈 2022 단독공연 〈오늘의 안녕〉 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6374</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6374</guid>
-            <pubDate>Mon, 08 Aug 2022 09:15:13 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>22.08.11(목)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/08/202208080955318897dd6f-9e30-4d1c-9bbb-d444519ce5f6.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
