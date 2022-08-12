@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 판매중</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 12 Aug 2022 14:14:43 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Aug 2022 15:17:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -383,31 +383,6 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/07/20220722153619b718b952-83a1-40e4-878d-a088e2450820.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
-            <title><![CDATA[키라라：그냥하는 단독공연 시즌 2－3]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=207143</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=207143</guid>
-            <pubDate>Mon, 08 Aug 2022 15:17:27 GMT</pubDate>
-            <content:encoded><![CDATA[<td>
-                            <div class="show_infor">
-                                <div class="thumb_90x125  img">
-                                    <a href="#">
-                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/07/202207251014044e853da9-38a8-4105-9d16-6c8126a96438.jpg/melon/resize/90x125/strip/true" alt="">
-                                        <span class="frame"></span>
-                                    </a>
-                                </div>
-                                <p class="infor_text">
-                                    <span class="ico_wrap">
-                                        <span class="ico_list ico_list1">단독판매</span><span class="ico_list ico_list4"> 판매중</span></span>
-                                    <span class="show_title"><a href="/performance/index.htm?prodId=207143">키라라：그냥하는 단독공연 시즌 2－3</a></span>
-                                </p>
-                            </div>
-                        </td>
-                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
-                            2022.08.12 - 2022.08.12</td>
-                        <td class="show_loc">프리즘홀 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/07/202207251014044e853da9-38a8-4105-9d16-6c8126a96438.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
             <title><![CDATA[174회 정기연주 〈5인 5색 합창 콘서트〉]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=207066</link>
             <guid>https://ticket.melon.com/performance/index.htm?prodId=207066</guid>
@@ -431,31 +406,6 @@
                             2022.08.12 - 2022.08.13</td>
                         <td class="show_loc">세종문화회관 체임버홀</td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/07/20220711094115513dccb9-fe5c-41d6-ba3a-d847ad9bc0c0.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[밍기뉴 단독 콘서트 ‘나의 모든 이들에게，’]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=207080</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=207080</guid>
-            <pubDate>Thu, 11 Aug 2022 01:13:55 GMT</pubDate>
-            <content:encoded><![CDATA[<td>
-                            <div class="show_infor">
-                                <div class="thumb_90x125  img">
-                                    <a href="#">
-                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/07/20220706152110cc199cc5-a591-4b24-b458-e8bc50eee49d.jpg/melon/resize/90x125/strip/true" alt="">
-                                        <span class="frame"></span>
-                                    </a>
-                                </div>
-                                <p class="infor_text">
-                                    <span class="ico_wrap">
-                                        <span class="ico_list ico_list1">단독판매</span><span class="ico_list ico_list4"> 판매중</span></span>
-                                    <span class="show_title"><a href="/performance/index.htm?prodId=207080">밍기뉴 단독 콘서트 ‘나의 모든 이들에게，’</a></span>
-                                </p>
-                            </div>
-                        </td>
-                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
-                            2022.08.12 - 2022.08.12</td>
-                        <td class="show_loc">롤링홀 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/07/20220706152110cc199cc5-a591-4b24-b458-e8bc50eee49d.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
             <title><![CDATA[숲세권 라이브：엔분의일 단독 공연 “anemone”]]></title>
@@ -506,6 +456,56 @@
                             2022.08.13 - 2022.08.14</td>
                         <td class="show_loc">톤 스튜디오 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/07/20220725144311fb74c241-2ebf-4fd4-a3a9-6faac7f8cb93.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[Flight0813：나상현씨밴드편]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=207093</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=207093</guid>
+            <pubDate>Fri, 12 Aug 2022 15:17:15 GMT</pubDate>
+            <content:encoded><![CDATA[<td>
+                            <div class="show_infor">
+                                <div class="thumb_90x125  img">
+                                    <a href="#">
+                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/07/20220708131745709462e3-8d14-4fd2-8390-5a56d7eda18f.jpg/melon/resize/90x125/strip/true" alt="">
+                                        <span class="frame"></span>
+                                    </a>
+                                </div>
+                                <p class="infor_text">
+                                    <span class="ico_wrap">
+                                        <span class="ico_list ico_list1">단독판매</span><span class="ico_list ico_list4"> 판매중</span></span>
+                                    <span class="show_title"><a href="/performance/index.htm?prodId=207093">Flight0813：나상현씨밴드편</a></span>
+                                </p>
+                            </div>
+                        </td>
+                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
+                            2022.08.13 - 2022.08.13</td>
+                        <td class="show_loc">구름아래소극장 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/07/20220708131745709462e3-8d14-4fd2-8390-5a56d7eda18f.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[신인류 단독 콘서트]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=207099</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=207099</guid>
+            <pubDate>Fri, 12 Aug 2022 15:17:15 GMT</pubDate>
+            <content:encoded><![CDATA[<td>
+                            <div class="show_infor">
+                                <div class="thumb_90x125  img">
+                                    <a href="#">
+                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/07/202207121133165710ed2d-22ba-40b8-8ffa-f44204f378c1.jpg/melon/resize/90x125/strip/true" alt="">
+                                        <span class="frame"></span>
+                                    </a>
+                                </div>
+                                <p class="infor_text">
+                                    <span class="ico_wrap">
+                                        <span class="ico_list ico_list1">단독판매</span><span class="ico_list ico_list4"> 판매중</span></span>
+                                    <span class="show_title"><a href="/performance/index.htm?prodId=207099">신인류 단독 콘서트</a></span>
+                                </p>
+                            </div>
+                        </td>
+                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
+                            2022.08.13 - 2022.08.13</td>
+                        <td class="show_loc">CJ아지트 광흥창 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/07/202207121133165710ed2d-22ba-40b8-8ffa-f44204f378c1.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
     </channel>
 </rss>
