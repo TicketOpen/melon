@@ -4,9 +4,25 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 12 Aug 2022 06:19:35 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Aug 2022 07:14:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[유해인 X 이사라［YOU＆I］티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6375</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6375</guid>
+            <pubDate>Tue, 09 Aug 2022 03:42:00 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>22.08.10(수)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/08/20220808143214b0db99d9-6022-4722-a958-dcf61664be17.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[2022 MONSTA X 〈NO LIMIT〉 TOUR IN SEOUL 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6389</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6389</guid>
+            <pubDate>Fri, 12 Aug 2022 07:14:12 GMT</pubDate>
+            <content:encoded><![CDATA[오픈일정 보기 &gt;]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/08/2022081214583911f017e2-048a-4195-b33f-e45e9af89e90.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
         <item>
             <title><![CDATA[2022 케이윌 전국투어［HERE AND NOW］－성남 티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6387</link>
@@ -70,22 +86,6 @@
             <pubDate>Fri, 12 Aug 2022 05:16:32 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>22.08.13(토)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/08/202208111453007e7201e3-882d-40d5-aa2a-1b313e2f4c82.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[이영훈 2022 단독공연 〈오늘의 안녕〉 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6374</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6374</guid>
-            <pubDate>Thu, 11 Aug 2022 05:15:11 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>22.08.11(목)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/08/202208080955318897dd6f-9e30-4d1c-9bbb-d444519ce5f6.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[유해인 X 이사라［YOU＆I］티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6375</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6375</guid>
-            <pubDate>Tue, 09 Aug 2022 03:42:00 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>22.08.10(수)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/08/20220808143214b0db99d9-6022-4722-a958-dcf61664be17.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
