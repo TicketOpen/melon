@@ -4,9 +4,17 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 12 Aug 2022 07:14:19 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Aug 2022 08:19:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김주원의 탱고발레 〈3 Minutes：Su tiempo 그녀의 시간〉 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6392</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6392</guid>
+            <pubDate>Fri, 12 Aug 2022 08:19:31 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>22.08.17(수)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/08/202208121706483317e938-9cff-4dbe-ba55-abaffcaf5d01.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
         <item>
             <title><![CDATA[유해인 X 이사라［YOU＆I］티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6375</link>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 11 Aug 2022 03:16:58 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>22.08.16(화)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/08/2022081016084774cb4244-bc1f-4ef0-916e-69cff659a034.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[단지，룬이 오면 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6384</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6384</guid>
-            <pubDate>Fri, 12 Aug 2022 05:16:32 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>22.08.13(토)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/08/202208111453007e7201e3-882d-40d5-aa2a-1b313e2f4c82.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
