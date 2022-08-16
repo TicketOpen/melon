@@ -4,7 +4,7 @@
         <title>멜론 티켓</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 16 Aug 2022 04:38:43 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Aug 2022 05:18:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -38,6 +38,14 @@
             <pubDate>Tue, 16 Aug 2022 03:43:28 GMT</pubDate>
             <content:encoded><![CDATA[2022.08.23(화) 20:00]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/08/20220816095402d3fe7579-4977-4e8d-93d0-4ada5bef2a27.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[JAYCI YUCCA：THE LAST BOY’s CONCERT with DJ＆Band 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6390</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6390</guid>
+            <pubDate>Tue, 16 Aug 2022 05:17:50 GMT</pubDate>
+            <content:encoded><![CDATA[2022.08.19(금) 18:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/08/20220812161830b2e90005-baed-416b-8694-ded5c7315b4d.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
         <item>
             <title><![CDATA[2022 MONSTA X 〈NO LIMIT〉 TOUR IN SEOUL 티켓 오픈 안내]]></title>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 12 Aug 2022 05:16:25 GMT</pubDate>
             <content:encoded><![CDATA[오픈일정 보기 &gt;]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/08/202208112108175baedbc5-00a6-4809-821e-338267539e9d.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[단지，룬이 오면 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6384</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6384</guid>
-            <pubDate>Fri, 12 Aug 2022 05:16:25 GMT</pubDate>
-            <content:encoded><![CDATA[2022.08.13(토) 14:00]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/08/202208111453007e7201e3-882d-40d5-aa2a-1b313e2f4c82.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
     </channel>
 </rss>
