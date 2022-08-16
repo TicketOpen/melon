@@ -4,7 +4,7 @@
         <title>멜론 티켓</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 16 Aug 2022 01:39:45 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Aug 2022 03:43:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,6 +30,14 @@
             <pubDate>Fri, 12 Aug 2022 08:19:25 GMT</pubDate>
             <content:encoded><![CDATA[2022.08.17(수) 14:00]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/08/202208121706483317e938-9cff-4dbe-ba55-abaffcaf5d01.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[맥거핀 단독 콘서트 ‘Mac Night’ 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6391</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6391</guid>
+            <pubDate>Tue, 16 Aug 2022 03:43:28 GMT</pubDate>
+            <content:encoded><![CDATA[2022.08.23(화) 20:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/08/20220816095402d3fe7579-4977-4e8d-93d0-4ada5bef2a27.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
         <item>
             <title><![CDATA[2022 MONSTA X 〈NO LIMIT〉 TOUR IN SEOUL 티켓 오픈 안내]]></title>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 12 Aug 2022 05:16:25 GMT</pubDate>
             <content:encoded><![CDATA[2022.08.13(토) 14:00]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/08/202208111453007e7201e3-882d-40d5-aa2a-1b313e2f4c82.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[먼데이프로젝트 시즌5 청춘의 밤［박소은 단독 콘서트］티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6383</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6383</guid>
-            <pubDate>Thu, 11 Aug 2022 03:16:50 GMT</pubDate>
-            <content:encoded><![CDATA[2022.08.18(목) 20:00]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/08/202208110939108b33fa1f-fa87-437a-aeae-52d59e3aaa9c.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
     </channel>
 </rss>

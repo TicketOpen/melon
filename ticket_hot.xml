@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 16 Aug 2022 01:39:45 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Aug 2022 03:43:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,6 +30,14 @@
             <pubDate>Fri, 12 Aug 2022 07:14:12 GMT</pubDate>
             <content:encoded><![CDATA[오픈일정 보기 &gt;]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/08/2022081214583911f017e2-048a-4195-b33f-e45e9af89e90.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[맥거핀 단독 콘서트 ‘Mac Night’ 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6391</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6391</guid>
+            <pubDate>Tue, 16 Aug 2022 03:43:36 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>22.08.23(화)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/08/20220816095402d3fe7579-4977-4e8d-93d0-4ada5bef2a27.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
         <item>
             <title><![CDATA[김주원의 탱고발레 〈3 Minutes：Su tiempo 그녀의 시간〉 티켓 오픈 안내]]></title>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 12 Aug 2022 05:16:32 GMT</pubDate>
             <content:encoded><![CDATA[오픈일정 보기 &gt;]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/08/20220811210828568d27c2-d36f-4b99-a7d8-caceb5aeed22.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[把酒問月（파주문월）with cott 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6373</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6373</guid>
-            <pubDate>Mon, 08 Aug 2022 05:19:50 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>22.08.11(목)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/08/20220812133837866deee2-4b18-405f-8498-5d4183b9aca9.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
