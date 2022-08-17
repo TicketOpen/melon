@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 판매중</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 17 Aug 2022 14:19:36 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Aug 2022 15:17:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -233,31 +233,6 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/06/20220615144236f8cf431f-80f5-4a45-afc3-248fc2f389bf.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
-            <title><![CDATA[WONHO OFFICIAL FANCLUB 2ND ‘위니 WENEE’ 모집]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=207162</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=207162</guid>
-            <pubDate>Wed, 03 Aug 2022 05:01:18 GMT</pubDate>
-            <content:encoded><![CDATA[<td>
-                            <div class="show_infor">
-                                <div class="thumb_90x125  img">
-                                    <a href="#">
-                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/07/20220729182419b6f10ef3-0fc3-4598-aea0-cfa8ab6631d2.jpg/melon/resize/90x125/strip/true" alt="">
-                                        <span class="frame"></span>
-                                    </a>
-                                </div>
-                                <p class="infor_text">
-                                    <span class="ico_wrap">
-                                        <span class="ico_list ico_list1">단독판매</span><span class="ico_list ico_list4"> 판매중</span></span>
-                                    <span class="show_title"><a href="/performance/index.htm?prodId=207162">WONHO OFFICIAL FANCLUB 2ND ‘위니 WENEE’ 모집</a></span>
-                                </p>
-                            </div>
-                        </td>
-                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
-                            2022.08.03 - 2022.08.17</td>
-                        <td class="show_loc">- </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/07/20220729182419b6f10ef3-0fc3-4598-aea0-cfa8ab6631d2.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
             <title><![CDATA[카와이 서울 2022]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=207153</link>
             <guid>https://ticket.melon.com/performance/index.htm?prodId=207153</guid>
@@ -281,31 +256,6 @@
                             2022.08.10 - 2022.08.21</td>
                         <td class="show_loc">더현대 서울 지하 1층 이벤트 홀 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/07/20220728103920b2868e62-0d86-4ff9-9299-4173a3c6d2a9.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[먼데이프로젝트 시즌5 청춘의 밤［리도어 단독 콘서트］]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=207124</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=207124</guid>
-            <pubDate>Sun, 14 Aug 2022 15:15:23 GMT</pubDate>
-            <content:encoded><![CDATA[<td>
-                            <div class="show_infor">
-                                <div class="thumb_90x125  img">
-                                    <a href="#">
-                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/07/20220721091437bd5c3c97-54bb-411f-84ec-3e1aa5114cd8.jpg/melon/resize/90x125/strip/true" alt="">
-                                        <span class="frame"></span>
-                                    </a>
-                                </div>
-                                <p class="infor_text">
-                                    <span class="ico_wrap">
-                                        <span class="ico_list ico_list1">단독판매</span><span class="ico_list ico_list4"> 판매중</span></span>
-                                    <span class="show_title"><a href="/performance/index.htm?prodId=207124">먼데이프로젝트 시즌5 청춘의 밤［리도어 단독 콘서트］</a></span>
-                                </p>
-                            </div>
-                        </td>
-                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
-                            2022.08.17 - 2022.08.17</td>
-                        <td class="show_loc">KT&amp;G 상상마당 홍대 라이브홀 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/07/20220721091437bd5c3c97-54bb-411f-84ec-3e1aa5114cd8.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
             <title><![CDATA[지소쿠리 x 프랭클리：Nerd Party]]></title>
@@ -506,6 +456,56 @@
                             2022.08.19 - 2022.08.19</td>
                         <td class="show_loc">홍대 우주정거장 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/08/2022080110052840da21b1-6a98-4b16-8530-8a05af7d74ed.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[＋82BLOCK CYPHER SEASON 1 CONCERT]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=207193</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=207193</guid>
+            <pubDate>Wed, 17 Aug 2022 15:17:56 GMT</pubDate>
+            <content:encoded><![CDATA[<td>
+                            <div class="show_infor">
+                                <div class="thumb_90x125  img">
+                                    <a href="#">
+                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/08/202208051603350845b97c-7df1-47e2-b901-04d7e5c891c0.jpg/melon/resize/90x125/strip/true" alt="">
+                                        <span class="frame"></span>
+                                    </a>
+                                </div>
+                                <p class="infor_text">
+                                    <span class="ico_wrap">
+                                        <span class="ico_list ico_list1">단독판매</span><span class="ico_list ico_list4"> 판매중</span></span>
+                                    <span class="show_title"><a href="/performance/index.htm?prodId=207193">＋82BLOCK CYPHER SEASON 1 CONCERT</a></span>
+                                </p>
+                            </div>
+                        </td>
+                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
+                            2022.08.19 - 2022.08.19</td>
+                        <td class="show_loc">스페이스 브릭 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/08/202208051603350845b97c-7df1-47e2-b901-04d7e5c891c0.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 `원더보이`＿싱크넥스트22]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=207068</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=207068</guid>
+            <pubDate>Wed, 17 Aug 2022 15:17:56 GMT</pubDate>
+            <content:encoded><![CDATA[<td>
+                            <div class="show_infor">
+                                <div class="thumb_90x125  img">
+                                    <a href="#">
+                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/07/20220714095310a89f29b7-bacd-4aef-a9ec-f67edfd20abd.jpg/melon/resize/90x125/strip/true" alt="">
+                                        <span class="frame"></span>
+                                    </a>
+                                </div>
+                                <p class="infor_text">
+                                    <span class="ico_wrap">
+                                        <span class="ico_list ico_list4"> 판매중</span></span>
+                                    <span class="show_title"><a href="/performance/index.htm?prodId=207068">뮤지컬 `원더보이`＿싱크넥스트22</a></span>
+                                </p>
+                            </div>
+                        </td>
+                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
+                            2022.08.19 - 2022.08.27</td>
+                        <td class="show_loc">세종문화회관 S씨어터</td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/07/20220714095310a89f29b7-bacd-4aef-a9ec-f67edfd20abd.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
     </channel>
 </rss>
