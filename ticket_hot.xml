@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 17 Aug 2022 23:16:23 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Aug 2022 01:39:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -48,14 +48,6 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/08/20220816185254c4b8b98e-a701-4498-a6b2-71ebee9715aa.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
         <item>
-            <title><![CDATA[［BRAVISSIMO in ITALY：김호중 화보집＆특별 전시회］한정판 패키지 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6394</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6394</guid>
-            <pubDate>Tue, 16 Aug 2022 01:39:37 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>22.08.19(금)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/08/20220812192231401ac6b0-6d02-45b4-8fce-56d7f000f88d.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
             <title><![CDATA[2022 케이윌 전국투어［HERE AND NOW］－대전 티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6388</link>
             <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6388</guid>
@@ -86,6 +78,14 @@
             <pubDate>Fri, 12 Aug 2022 08:19:31 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>22.08.17(수)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/08/202208121706483317e938-9cff-4dbe-ba55-abaffcaf5d01.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[MLB 홈런더비 X 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6393</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6393</guid>
+            <pubDate>Thu, 18 Aug 2022 01:39:38 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>22.08.16(화)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/08/20220812172038d8252b54-c269-434b-a0cc-22c39cc7999a.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
