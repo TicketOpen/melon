@@ -4,9 +4,17 @@
         <title>멜론 티켓</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 22 Aug 2022 01:21:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Aug 2022 03:58:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뮤지컬 〈엘리자벳〉 10주년 기념공연 3차 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6407</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6407</guid>
+            <pubDate>Mon, 22 Aug 2022 03:58:01 GMT</pubDate>
+            <content:encoded><![CDATA[2022.08.30(화) 14:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/08/202208221106072b8a61fa-64f4-4511-9f17-a61a84cf51a6.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
         <item>
             <title><![CDATA[이희문 쏭폼스토리즈 ‘강남오아시스’ 티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6405</link>
@@ -14,6 +22,14 @@
             <pubDate>Fri, 19 Aug 2022 07:14:29 GMT</pubDate>
             <content:encoded><![CDATA[2022.08.25(목) 14:00]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/08/20220819160526d49ea0f9-0cac-4a7c-b773-a478c31705ab.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[옹성우 공식 팬클럽［위로（WELO）］3기 모집 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6404</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6404</guid>
+            <pubDate>Mon, 22 Aug 2022 03:58:01 GMT</pubDate>
+            <content:encoded><![CDATA[2022.08.29(월) 12:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/08/20220819142300cf3afa4a-e417-47d9-976f-05315b6aedc1.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
         <item>
             <title><![CDATA[BULGOGIDISCO 단독공연［사실은 난 말야］티켓 오픈 안내]]></title>
@@ -70,22 +86,6 @@
             <pubDate>Tue, 16 Aug 2022 09:13:29 GMT</pubDate>
             <content:encoded><![CDATA[2022.08.19(금) 18:00]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/08/202208121845255d4a7476-7175-4312-b58c-52fdeb704fc4.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[MLB 홈런더비 X 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6393</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6393</guid>
-            <pubDate>Tue, 16 Aug 2022 01:39:29 GMT</pubDate>
-            <content:encoded><![CDATA[2022.08.16(화) 12:00]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/08/20220812172038d8252b54-c269-434b-a0cc-22c39cc7999a.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[김주원의 탱고발레 〈3 Minutes：Su tiempo 그녀의 시간〉 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6392</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6392</guid>
-            <pubDate>Fri, 12 Aug 2022 08:19:25 GMT</pubDate>
-            <content:encoded><![CDATA[2022.08.17(수) 14:00]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/08/202208121706483317e938-9cff-4dbe-ba55-abaffcaf5d01.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
     </channel>
 </rss>
