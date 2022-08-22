@@ -4,7 +4,7 @@
         <title>멜론 티켓</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 22 Aug 2022 03:58:16 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Aug 2022 05:11:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Mon, 22 Aug 2022 03:58:01 GMT</pubDate>
             <content:encoded><![CDATA[2022.08.30(화) 14:00]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/08/202208221106072b8a61fa-64f4-4511-9f17-a61a84cf51a6.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[US EARTH FESTIVAL ESG festival 2022（어스어스 페스티벌）티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6406</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6406</guid>
+            <pubDate>Mon, 22 Aug 2022 05:11:35 GMT</pubDate>
+            <content:encoded><![CDATA[2022.08.24(수) 14:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/08/20220822105811eed54c6a-9358-470f-a278-9566b66c0e6e.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
         <item>
             <title><![CDATA[이희문 쏭폼스토리즈 ‘강남오아시스’ 티켓 오픈 안내]]></title>
@@ -30,6 +38,14 @@
             <pubDate>Mon, 22 Aug 2022 03:58:01 GMT</pubDate>
             <content:encoded><![CDATA[2022.08.29(월) 12:00]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/08/20220819142300cf3afa4a-e417-47d9-976f-05315b6aedc1.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[숲세권 라이브：조소정 단독 공연 “Lily of the valley” 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6402</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6402</guid>
+            <pubDate>Mon, 22 Aug 2022 05:11:35 GMT</pubDate>
+            <content:encoded><![CDATA[2022.08.29(월) 20:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/08/20220819114416f9930f32-287f-4579-b9be-192fe68f199a.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
         <item>
             <title><![CDATA[BULGOGIDISCO 단독공연［사실은 난 말야］티켓 오픈 안내]]></title>
@@ -70,22 +86,6 @@
             <pubDate>Wed, 17 Aug 2022 03:56:35 GMT</pubDate>
             <content:encoded><![CDATA[2022.08.19(금) 18:00]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/08/20220816151541279e9416-ae7c-4c2c-b0a8-3698998b24c1.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[먼데이프로젝트 시즌5 청춘의 밤［팔칠댄스 단독 콘서트］티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6396</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6396</guid>
-            <pubDate>Wed, 17 Aug 2022 03:56:35 GMT</pubDate>
-            <content:encoded><![CDATA[2022.08.24(수) 20:00]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/08/2022081615054413052e6d-fe78-480e-b2e7-183300c525a1.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[KIF 케이팝 아이돌 페스티벌 송도 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6395</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6395</guid>
-            <pubDate>Tue, 16 Aug 2022 09:13:29 GMT</pubDate>
-            <content:encoded><![CDATA[2022.08.19(금) 18:00]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/08/202208121845255d4a7476-7175-4312-b58c-52fdeb704fc4.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
     </channel>
 </rss>
