@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 판매중</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 22 Aug 2022 05:11:50 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Aug 2022 06:22:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -333,31 +333,6 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/08/20220810145857cdadd297-bc5c-4352-90ce-45736da6e6c0.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 〈엘리자벳〉 10주년 기념공연]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=207083</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=207083</guid>
-            <pubDate>Sun, 21 Aug 2022 15:15:08 GMT</pubDate>
-            <content:encoded><![CDATA[<td>
-                            <div class="show_infor">
-                                <div class="thumb_90x125  img">
-                                    <a href="#">
-                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/07/2022071111381916e8d06a-949c-47f6-a9d5-dc871e2f8b18.jpg/melon/resize/90x125/strip/true" alt="">
-                                        <span class="frame"></span>
-                                    </a>
-                                </div>
-                                <p class="infor_text">
-                                    <span class="ico_wrap">
-                                        <span class="ico_list ico_list4"> 판매중</span></span>
-                                    <span class="show_title"><a href="/performance/index.htm?prodId=207083">뮤지컬 〈엘리자벳〉 10주년 기념공연</a></span>
-                                </p>
-                            </div>
-                        </td>
-                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
-                            2022.08.25 - 2022.11.13</td>
-                        <td class="show_loc">블루스퀘어 신한카드홀(구 인터파크홀)</td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/07/2022071111381916e8d06a-949c-47f6-a9d5-dc871e2f8b18.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
             <title><![CDATA[프리즘브레이크 vol．13：더보울스 x 코토바]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=207147</link>
             <guid>https://ticket.melon.com/performance/index.htm?prodId=207147</guid>
@@ -506,6 +481,31 @@
                             2022.08.27 - 2022.08.27</td>
                         <td class="show_loc">벨로주 홍대 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/07/2022072717081467ad0722-44dc-4b0b-8417-67c3b3231753.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[숲세권 라이브：전유동 단독 공연 “Platanus”]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=207184</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=207184</guid>
+            <pubDate>Mon, 22 Aug 2022 06:22:52 GMT</pubDate>
+            <content:encoded><![CDATA[<td>
+                            <div class="show_infor">
+                                <div class="thumb_90x125  img">
+                                    <a href="#">
+                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/08/2022080318304257387f8f-b303-44cf-8ddb-75fb2c0c8827.jpg/melon/resize/90x125/strip/true" alt="">
+                                        <span class="frame"></span>
+                                    </a>
+                                </div>
+                                <p class="infor_text">
+                                    <span class="ico_wrap">
+                                        <span class="ico_list ico_list1">단독판매</span><span class="ico_list ico_list4"> 판매중</span></span>
+                                    <span class="show_title"><a href="/performance/index.htm?prodId=207184">숲세권 라이브：전유동 단독 공연 “Platanus”</a></span>
+                                </p>
+                            </div>
+                        </td>
+                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
+                            2022.08.27 - 2022.08.27</td>
+                        <td class="show_loc">숲세권 라이브 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/08/2022080318304257387f8f-b303-44cf-8ddb-75fb2c0c8827.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
     </channel>
 </rss>
