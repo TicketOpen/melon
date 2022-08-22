@@ -4,7 +4,7 @@
         <title>멜론 티켓</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 22 Aug 2022 08:19:44 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Aug 2022 09:15:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -38,6 +38,14 @@
             <pubDate>Mon, 22 Aug 2022 03:58:01 GMT</pubDate>
             <content:encoded><![CDATA[2022.08.29(월) 12:00]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/08/20220819142300cf3afa4a-e417-47d9-976f-05315b6aedc1.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[STOP＆PLAY：1set，1ho，정해일]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6403</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6403</guid>
+            <pubDate>Mon, 22 Aug 2022 09:14:58 GMT</pubDate>
+            <content:encoded><![CDATA[2022.08.26(금) 19:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/08/20220819114949a23fe996-4597-4079-a73c-e3ce46765d02.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
         <item>
             <title><![CDATA[숲세권 라이브：조소정 단독 공연 “Lily of the valley” 티켓 오픈 안내]]></title>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 17 Aug 2022 08:19:51 GMT</pubDate>
             <content:encoded><![CDATA[2022.08.19(금) 19:00]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/08/20220816164135761787d2-2243-4fc5-b307-03846d6ce4a8.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[키라라：그냥하는 단독공연 시즌 2－4 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6397</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6397</guid>
-            <pubDate>Wed, 17 Aug 2022 03:56:35 GMT</pubDate>
-            <content:encoded><![CDATA[2022.08.19(금) 18:00]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/08/20220816151541279e9416-ae7c-4c2c-b0a8-3698998b24c1.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
     </channel>
 </rss>
