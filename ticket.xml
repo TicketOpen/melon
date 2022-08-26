@@ -4,9 +4,17 @@
         <title>멜론 티켓</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 Aug 2022 01:26:36 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Aug 2022 04:16:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이은결［더 일루션－마스터피스］－부산 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6421</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6421</guid>
+            <pubDate>Fri, 26 Aug 2022 04:15:57 GMT</pubDate>
+            <content:encoded><![CDATA[2022.08.31(수) 14:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/08/20220826110718c2b8a032-1078-427b-b052-dfc8362c7dc1.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
         <item>
             <title><![CDATA[뮤지컬 〈어차피 혼자〉 2차 티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6417</link>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 24 Aug 2022 04:06:09 GMT</pubDate>
             <content:encoded><![CDATA[2022.08.31(수) 20:00]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/08/202208231408200ebb7464-b6ef-43b9-8b1c-46a2b02ac744.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[TONE STUDIO LIVE 〈OurR〉 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6408</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6408</guid>
-            <pubDate>Tue, 23 Aug 2022 10:17:14 GMT</pubDate>
-            <content:encoded><![CDATA[2022.08.30(화) 20:00]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/08/2022082216093268e6c00c-50f2-4f15-b442-5cb7fce13b3a.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
     </channel>
 </rss>
