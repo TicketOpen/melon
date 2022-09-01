@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 01 Sep 2022 09:15:48 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Sep 2022 10:17:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -38,6 +38,14 @@
             <pubDate>Thu, 01 Sep 2022 07:18:14 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>22.09.05(월)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/08/2022083118360085a773ac-260a-478b-9295-60058753ebc1.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[TONE STUDIO LIVE 〈초승〉 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6433</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6433</guid>
+            <pubDate>Thu, 01 Sep 2022 10:17:34 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>22.09.07(수)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/09/202209010951319db5417c-686e-45b3-bd85-22374d2bba18.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
         <item>
             <title><![CDATA[청춘아레나 대구 | 이제 다시 시작이다 티켓 오픈 안내]]></title>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 29 Aug 2022 06:05:14 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>22.09.02(금)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/08/20220826143339fe284fc2-16bb-4d25-8c85-83807cef568c.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[ROLLING PROJECT：CMYK #2［Hwanho & Creespy & OFF．E］티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6423</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6423</guid>
-            <pubDate>Mon, 29 Aug 2022 01:49:10 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>22.09.05(월)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/08/2022082618244058a96f30-54e2-4a3e-b721-61c061a4bada.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>

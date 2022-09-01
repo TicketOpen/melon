@@ -4,7 +4,7 @@
         <title>멜론 티켓</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 01 Sep 2022 09:15:48 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Sep 2022 10:17:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Thu, 01 Sep 2022 09:15:35 GMT</pubDate>
             <content:encoded><![CDATA[2022.09.02(금) 12:00]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/09/202209011709401140ce45-fb41-45ac-a09c-df0475277661.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[TONE STUDIO LIVE 〈초승〉 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6433</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6433</guid>
+            <pubDate>Thu, 01 Sep 2022 10:17:27 GMT</pubDate>
+            <content:encoded><![CDATA[2022.09.07(수) 20:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/09/202209010951319db5417c-686e-45b3-bd85-22374d2bba18.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
         <item>
             <title><![CDATA[〈도도어스 정규 앨범 발매 쇼케이스〉 멸종의 기원]]></title>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 29 Aug 2022 09:16:06 GMT</pubDate>
             <content:encoded><![CDATA[2022.09.01(목) 18:00]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/08/20220829162737ac47c847-3b13-4aaf-92bf-d804624ac9a7.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[2022 류준열 팬미팅 〈JUNYEOL‘s HOME〉 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6424</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6424</guid>
-            <pubDate>Mon, 29 Aug 2022 06:05:07 GMT</pubDate>
-            <content:encoded><![CDATA[2022.08.31(수) 14:00]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/08/202208262012143cb1cdd2-5b5c-493c-9685-ef14a08cabfc.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
     </channel>
 </rss>
