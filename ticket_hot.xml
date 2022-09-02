@@ -4,9 +4,17 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 02 Sep 2022 06:00:32 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Sep 2022 06:45:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2022 BEST LINE－UP CONCERT 1010 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6438</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6438</guid>
+            <pubDate>Fri, 02 Sep 2022 06:45:39 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>22.09.07(수)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/09/2022090215330947afc111-1f69-4d35-80c9-9601ff3ff448.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
         <item>
             <title><![CDATA[TONE STUDIO LIVE 〈초승〉 티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6433</link>
@@ -48,6 +56,14 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/08/2022083118360085a773ac-260a-478b-9295-60058753ebc1.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
         <item>
+            <title><![CDATA[2022 상상유니브 집현전 Festival 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6434</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6434</guid>
+            <pubDate>Fri, 02 Sep 2022 06:45:39 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>22.09.02(금)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/09/20220901165821217d8fbd-17ce-4ca3-8daf-462129a5dc07.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
             <title><![CDATA[청춘아레나 대구 | 이제 다시 시작이다 티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6429</link>
             <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6429</guid>
@@ -70,22 +86,6 @@
             <pubDate>Tue, 30 Aug 2022 04:21:18 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>22.09.02(금)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/08/20220829182556e4ebd535-b1e4-4eb8-8370-e642406e6ee9.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[이은결［더 일루션－마스터피스］－부산 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6421</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6421</guid>
-            <pubDate>Fri, 26 Aug 2022 04:16:04 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>22.08.31(수)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/08/20220826110718c2b8a032-1078-427b-b052-dfc8362c7dc1.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[〈With Mate〉 김영소＆김준서 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6422</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6422</guid>
-            <pubDate>Mon, 29 Aug 2022 06:05:14 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>22.09.02(금)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/08/20220826143339fe284fc2-16bb-4d25-8c85-83807cef568c.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
