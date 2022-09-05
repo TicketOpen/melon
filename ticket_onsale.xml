@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 판매중</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 05 Sep 2022 08:19:57 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Sep 2022 09:16:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -458,6 +458,31 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/08/2022082516583976dbab4a-2c8f-4796-bd5e-b8f5b1404d36.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
+            <title><![CDATA[2022 IU CONCERT 〈The Golden Hour：오렌지 태양 아래〉]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=207126</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=207126</guid>
+            <pubDate>Mon, 05 Sep 2022 09:16:40 GMT</pubDate>
+            <content:encoded><![CDATA[<td>
+                            <div class="show_infor">
+                                <div class="thumb_90x125  img">
+                                    <a href="#">
+                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/08/2022081115003052ef3ded-81f4-450b-8a60-3e0444da6d9f.jpg/melon/resize/90x125/strip/true" alt="">
+                                        <span class="frame"></span>
+                                    </a>
+                                </div>
+                                <p class="infor_text">
+                                    <span class="ico_wrap">
+                                        <span class="ico_list ico_list1">단독판매</span><span class="ico_list ico_list4"> 판매중</span></span>
+                                    <span class="show_title"><a href="/performance/index.htm?prodId=207126">2022 IU CONCERT 〈The Golden Hour：오렌지 태양 아래〉</a></span>
+                                </p>
+                            </div>
+                        </td>
+                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
+                            2022.09.17 - 2022.09.18</td>
+                        <td class="show_loc">잠실종합운동장 올림픽주경기장</td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/08/2022081115003052ef3ded-81f4-450b-8a60-3e0444da6d9f.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
             <title><![CDATA[2022 김경호 전국투어콘서트 IN 청주]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=207183</link>
             <guid>https://ticket.melon.com/performance/index.htm?prodId=207183</guid>
@@ -481,31 +506,6 @@
                             2022.09.17 - 2022.09.17</td>
                         <td class="show_loc">CJB미디어센터 에덴아트홀 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/08/20220803180250d9f76dcd-cec3-44da-82ed-e39f6289d6c1.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[김두루미]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=207187</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=207187</guid>
-            <pubDate>Sun, 04 Sep 2022 15:15:32 GMT</pubDate>
-            <content:encoded><![CDATA[<td>
-                            <div class="show_infor">
-                                <div class="thumb_90x125  img">
-                                    <a href="#">
-                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/08/20220804143530cba13a0b-541f-476f-af9c-bfb3f90adb1e.jpg/melon/resize/90x125/strip/true" alt="">
-                                        <span class="frame"></span>
-                                    </a>
-                                </div>
-                                <p class="infor_text">
-                                    <span class="ico_wrap">
-                                        <span class="ico_list ico_list1">단독판매</span><span class="ico_list ico_list4"> 판매중</span></span>
-                                    <span class="show_title"><a href="/performance/index.htm?prodId=207187">김두루미</a></span>
-                                </p>
-                            </div>
-                        </td>
-                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
-                            2022.09.17 - 2022.09.17</td>
-                        <td class="show_loc">스튜디오 까에 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/08/20220804143530cba13a0b-541f-476f-af9c-bfb3f90adb1e.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
     </channel>
 </rss>

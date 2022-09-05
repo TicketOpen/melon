@@ -4,9 +4,17 @@
         <title>멜론 티켓</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 05 Sep 2022 08:19:57 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Sep 2022 09:16:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[위수 단독 콘서트：afterimage 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6440</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6440</guid>
+            <pubDate>Mon, 05 Sep 2022 09:16:25 GMT</pubDate>
+            <content:encoded><![CDATA[2022.09.06(화) 20:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/09/202209051319497d195004-eaca-4211-9265-0bd6e369c2ba.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
         <item>
             <title><![CDATA[프리티브라운 3rd CONCERT ‘ONE FINE DAY’（프리티브라운 세번째 콘서트 원파인데이）티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6439</link>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 01 Sep 2022 04:04:43 GMT</pubDate>
             <content:encoded><![CDATA[2022.09.08(목) 20:00]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/08/20220831141505f78b64ee-938b-402d-9bd1-a0f8a9f789c4.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[먼데이프로젝트 시즌5 청춘의 밤［참솜 단독 콘서트］티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6430</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6430</guid>
-            <pubDate>Wed, 31 Aug 2022 04:32:45 GMT</pubDate>
-            <content:encoded><![CDATA[2022.09.07(수) 20:00]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/08/2022083018173464d4ebd1-f10b-43e7-aff9-d04153ac07d0.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
     </channel>
 </rss>
