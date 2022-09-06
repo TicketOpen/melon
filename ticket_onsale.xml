@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 판매중</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 06 Sep 2022 04:22:06 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 06 Sep 2022 06:13:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -333,31 +333,6 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/08/20220816095420597c0412-d640-4ead-b6f9-1a1a3b1f648f.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
-            <title><![CDATA[KIF 케이팝 아이돌 페스티벌 송도]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=207223</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=207223</guid>
-            <pubDate>Sun, 04 Sep 2022 15:15:32 GMT</pubDate>
-            <content:encoded><![CDATA[<td>
-                            <div class="show_infor">
-                                <div class="thumb_90x125  img">
-                                    <a href="#">
-                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/08/20220816143109f0b03964-adfd-42f9-a035-350f2f1f799d.jpg/melon/resize/90x125/strip/true" alt="">
-                                        <span class="frame"></span>
-                                    </a>
-                                </div>
-                                <p class="infor_text">
-                                    <span class="ico_wrap">
-                                        <span class="ico_list ico_list1">단독판매</span><span class="ico_list ico_list4"> 판매중</span></span>
-                                    <span class="show_title"><a href="/performance/index.htm?prodId=207223">KIF 케이팝 아이돌 페스티벌 송도</a></span>
-                                </p>
-                            </div>
-                        </td>
-                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
-                            2022.09.16 - 2022.09.18</td>
-                        <td class="show_loc">송도 달빛축제공원 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/08/20220816143109f0b03964-adfd-42f9-a035-350f2f1f799d.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
             <title><![CDATA[리슨어게인 페스티벌 2022 〈Listen Again Festival 2022〉]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=207227</link>
             <guid>https://ticket.melon.com/performance/index.htm?prodId=207227</guid>
@@ -506,6 +481,31 @@
                             2022.09.17 - 2022.09.17</td>
                         <td class="show_loc">스튜디오 까에 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/08/20220804143530cba13a0b-541f-476f-af9c-bfb3f90adb1e.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[JAYCI YUCCA：THE LAST BOY’s CONCERT with DJ＆Band]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=207215</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=207215</guid>
+            <pubDate>Tue, 06 Sep 2022 06:13:48 GMT</pubDate>
+            <content:encoded><![CDATA[<td>
+                            <div class="show_infor">
+                                <div class="thumb_90x125  img">
+                                    <a href="#">
+                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/08/2022082514004918cf0a63-025e-4523-86e7-8f38b62631a1.jpg/melon/resize/90x125/strip/true" alt="">
+                                        <span class="frame"></span>
+                                    </a>
+                                </div>
+                                <p class="infor_text">
+                                    <span class="ico_wrap">
+                                        <span class="ico_list ico_list1">단독판매</span><span class="ico_list ico_list4"> 판매중</span></span>
+                                    <span class="show_title"><a href="/performance/index.htm?prodId=207215">JAYCI YUCCA：THE LAST BOY’s CONCERT with DJ＆Band</a></span>
+                                </p>
+                            </div>
+                        </td>
+                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
+                            2022.09.17 - 2022.09.30</td>
+                        <td class="show_loc">KT&amp;G 상상마당 홍대 라이브홀 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/08/2022082514004918cf0a63-025e-4523-86e7-8f38b62631a1.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
     </channel>
 </rss>
