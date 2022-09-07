@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 07 Sep 2022 10:22:39 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Sep 2022 11:14:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -38,6 +38,14 @@
             <pubDate>Wed, 07 Sep 2022 06:13:41 GMT</pubDate>
             <content:encoded><![CDATA[오픈일정 보기 &gt;]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/09/20220906183905b8bec3b6-3e58-42b7-80a9-9845c5c86270.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[프레젠트프로젝트 〈SING SANG SONG：BOYHOOD 단독 콘서트〉 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6454</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6454</guid>
+            <pubDate>Wed, 07 Sep 2022 11:14:41 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>22.09.15(목)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/09/202209061756329467290b-c5bf-4394-bbcc-36cce7e9b4e8.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
         <item>
             <title><![CDATA[ORIGINAL DEMO ver 브로콜리너마저 티켓 오픈 안내]]></title>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 07 Sep 2022 06:13:41 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>22.09.13(화)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/09/202209061423382b60c6bc-a8ef-49b1-9c51-afbacba78b21.png/melon/resize/160x225/strip/true" length="0" type="image/png/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[먼데이프로젝트 시즌5 청춘의 밤［강아솔 단독 콘서트］티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6445</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6445</guid>
-            <pubDate>Wed, 07 Sep 2022 04:23:46 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>22.09.14(수)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/09/202209061357208ff3566b-d21e-4431-85d0-8accc8529e9f.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
