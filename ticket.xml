@@ -4,9 +4,17 @@
         <title>멜론 티켓</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 08 Sep 2022 10:19:33 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Sep 2022 11:14:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[프레젠트프로젝트 〈O．O．O 단독 콘서트 ‘Another Blue’〉 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6460</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6460</guid>
+            <pubDate>Thu, 08 Sep 2022 11:14:33 GMT</pubDate>
+            <content:encoded><![CDATA[2022.09.16(금) 20:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/09/2022090715471396b2d0b0-6379-4535-8f6b-4d077667803b.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
         <item>
             <title><![CDATA[프리즘브레이크 vol．14：서울전자음악단 x 콩코드 티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6459</link>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 07 Sep 2022 06:13:34 GMT</pubDate>
             <content:encoded><![CDATA[오픈일정 보기 &gt;]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/09/20220906183905b8bec3b6-3e58-42b7-80a9-9845c5c86270.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[ORIGINAL DEMO ver 브로콜리너마저 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6450</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6450</guid>
-            <pubDate>Wed, 07 Sep 2022 08:23:03 GMT</pubDate>
-            <content:encoded><![CDATA[2022.09.14(수) 18:00]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/09/2022090617575062c8199a-ef89-46e9-8490-6323b25fe490.png/melon/resize/65x92/strip/true" length="0" type="image/png/melon/resize/65x92/strip/true"/>
         </item>
     </channel>
 </rss>
