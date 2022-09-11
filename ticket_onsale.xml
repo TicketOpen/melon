@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 판매중</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 11 Sep 2022 14:14:36 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 11 Sep 2022 15:16:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -81,31 +81,6 @@
                             2022.06.10 - 2022.09.25</td>
                         <td class="show_loc">현대카드 스토리지 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/06/2022060317092314cc222d-57ab-4c98-96f1-34802570bebc.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[옹성우 공식 팬클럽［위로（WELO）］3기 모집]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=207234</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=207234</guid>
-            <pubDate>Thu, 08 Sep 2022 22:16:48 GMT</pubDate>
-            <content:encoded><![CDATA[<td>
-                            <div class="show_infor">
-                                <div class="thumb_90x125  img">
-                                    <a href="#">
-                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/08/2022081914380974aff435-3942-447d-b5cd-f2354f8ca9d7.jpg/melon/resize/90x125/strip/true" alt="">
-                                        <span class="frame"></span>
-                                    </a>
-                                </div>
-                                <p class="infor_text">
-                                    <span class="ico_wrap">
-                                        <span class="ico_list ico_list1">단독판매</span><span class="ico_list ico_list4"> 판매중</span></span>
-                                    <span class="show_title"><a href="/performance/index.htm?prodId=207234">옹성우 공식 팬클럽［위로（WELO）］3기 모집</a></span>
-                                </p>
-                            </div>
-                        </td>
-                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
-                            2022.08.29 - 2022.09.11</td>
-                        <td class="show_loc">- </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/08/2022081914380974aff435-3942-447d-b5cd-f2354f8ca9d7.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 〈엘리자벳〉 10주년 기념공연]]></title>
@@ -506,6 +481,31 @@
                             2022.09.17 - 2022.09.17</td>
                         <td class="show_loc">엠팟홀 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/08/20220830095930df402f05-47a5-44cf-ba9f-552cb0574108.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[2022 케니 지（Kenny G）월드투어 내한공연－서울]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=206988</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=206988</guid>
+            <pubDate>Sun, 11 Sep 2022 15:16:57 GMT</pubDate>
+            <content:encoded><![CDATA[<td>
+                            <div class="show_infor">
+                                <div class="thumb_90x125  img">
+                                    <a href="#">
+                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/06/2022061016372460727efc-ce5a-4319-823f-9004b677656e.jpg/melon/resize/90x125/strip/true" alt="">
+                                        <span class="frame"></span>
+                                    </a>
+                                </div>
+                                <p class="infor_text">
+                                    <span class="ico_wrap">
+                                        <span class="ico_list ico_list4"> 판매중</span></span>
+                                    <span class="show_title"><a href="/performance/index.htm?prodId=206988">2022 케니 지（Kenny G）월드투어 내한공연－서울</a></span>
+                                </p>
+                            </div>
+                        </td>
+                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
+                            2022.09.17 - 2022.09.17</td>
+                        <td class="show_loc">세종대학교 대양홀</td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/06/2022061016372460727efc-ce5a-4319-823f-9004b677656e.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
     </channel>
 </rss>
