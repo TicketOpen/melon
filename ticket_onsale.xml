@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 판매중</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 12 Sep 2022 14:22:23 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 12 Sep 2022 15:19:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -156,31 +156,6 @@
                             2022.09.06 - 2022.11.20</td>
                         <td class="show_loc">홍익대학교 대학로 아트센터 대극장</td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/06/20220629132720ba378a87-a044-4737-8729-40d2733cc841.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[REFRESH 2022]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=207254</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=207254</guid>
-            <pubDate>Mon, 12 Sep 2022 14:22:23 GMT</pubDate>
-            <content:encoded><![CDATA[<td>
-                            <div class="show_infor">
-                                <div class="thumb_90x125  img">
-                                    <a href="#">
-                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/08/20220829174030f5f7099d-7d02-4c1e-8489-21808e039303.jpg/melon/resize/90x125/strip/true" alt="">
-                                        <span class="frame"></span>
-                                    </a>
-                                </div>
-                                <p class="infor_text">
-                                    <span class="ico_wrap">
-                                        <span class="ico_list ico_list1">단독판매</span><span class="ico_list ico_list4"> 판매중</span></span>
-                                    <span class="show_title"><a href="/performance/index.htm?prodId=207254">REFRESH 2022</a></span>
-                                </p>
-                            </div>
-                        </td>
-                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
-                            2022.09.12 - 2022.09.12</td>
-                        <td class="show_loc">프리즘홀 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/08/20220829174030f5f7099d-7d02-4c1e-8489-21808e039303.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
             <title><![CDATA[2022 케니 지（Kenny G）월드투어 내한공연－부산]]></title>
@@ -506,6 +481,31 @@
                             2022.09.17 - 2022.09.17</td>
                         <td class="show_loc">세종대학교 대양홀</td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/06/2022061016372460727efc-ce5a-4319-823f-9004b677656e.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[〈도도어스 정규 앨범 발매 쇼케이스〉 멸종의 기원]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=207266</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=207266</guid>
+            <pubDate>Mon, 12 Sep 2022 15:19:22 GMT</pubDate>
+            <content:encoded><![CDATA[<td>
+                            <div class="show_infor">
+                                <div class="thumb_90x125  img">
+                                    <a href="#">
+                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/09/20220901181333692b9ec3-aa02-4ada-b17b-55f740c0cd80.jpg/melon/resize/90x125/strip/true" alt="">
+                                        <span class="frame"></span>
+                                    </a>
+                                </div>
+                                <p class="infor_text">
+                                    <span class="ico_wrap">
+                                        <span class="ico_list ico_list1">단독판매</span><span class="ico_list ico_list4"> 판매중</span></span>
+                                    <span class="show_title"><a href="/performance/index.htm?prodId=207266">〈도도어스 정규 앨범 발매 쇼케이스〉 멸종의 기원</a></span>
+                                </p>
+                            </div>
+                        </td>
+                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
+                            2022.09.17 - 2022.09.17</td>
+                        <td class="show_loc">벨로주 홍대 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/09/20220901181333692b9ec3-aa02-4ada-b17b-55f740c0cd80.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
     </channel>
 </rss>
