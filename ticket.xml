@@ -4,9 +4,17 @@
         <title>멜론 티켓</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 13 Sep 2022 04:19:12 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Sep 2022 06:11:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[US EARTH FESTIVAL ESG festival 2022（어스어스 페스티벌）공식 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6465</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6465</guid>
+            <pubDate>Tue, 13 Sep 2022 06:11:13 GMT</pubDate>
+            <content:encoded><![CDATA[2022.09.15(목) 14:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/09/202209130957447ad582b8-abdd-4666-bf47-3c8ad84ab82e.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
         <item>
             <title><![CDATA[PPCX 피터팬컴플렉스 콘서트 ‘20’ 티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6463</link>
@@ -14,6 +22,14 @@
             <pubDate>Mon, 12 Sep 2022 20:17:57 GMT</pubDate>
             <content:encoded><![CDATA[2022.09.14(수) 18:00]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/09/20220908165642d6121eea-44cd-4da9-a3b9-66a4fb871eae.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[밴드 uni（유니）X 솔루션스 조인 클럽콘서트 ‘Re:born’ 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6462</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6462</guid>
+            <pubDate>Tue, 13 Sep 2022 06:11:13 GMT</pubDate>
+            <content:encoded><![CDATA[2022.09.16(금) 14:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/09/20220908112720185b146f-abb5-4f9a-9f17-3a5d60eb9779.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
         <item>
             <title><![CDATA[［사과단과 함께하는 표은지 가을 팬미팅］	티켓 오픈 안내]]></title>
@@ -70,22 +86,6 @@
             <pubDate>Mon, 12 Sep 2022 20:17:57 GMT</pubDate>
             <content:encoded><![CDATA[2022.09.15(목) 20:00]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/09/202209071145275cc17765-dfb9-4146-b353-07783ae19deb.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[프레젠트프로젝트 〈SING SANG SONG：BOYHOOD 단독 콘서트〉 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6454</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6454</guid>
-            <pubDate>Mon, 12 Sep 2022 20:17:57 GMT</pubDate>
-            <content:encoded><![CDATA[2022.09.15(목) 20:00]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/09/202209061756329467290b-c5bf-4394-bbcc-36cce7e9b4e8.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[N Lounge Party－인제 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6453</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6453</guid>
-            <pubDate>Mon, 12 Sep 2022 20:17:57 GMT</pubDate>
-            <content:encoded><![CDATA[2022.09.07(수) 14:00]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/09/202209061644039b5a954e-c3f3-4167-82b8-938db12c5352.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
     </channel>
 </rss>
