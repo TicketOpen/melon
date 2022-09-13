@@ -4,7 +4,7 @@
         <title>멜론 티켓</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 13 Sep 2022 08:21:22 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Sep 2022 09:18:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Tue, 13 Sep 2022 06:11:13 GMT</pubDate>
             <content:encoded><![CDATA[2022.09.15(목) 14:00]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/09/202209130957447ad582b8-abdd-4666-bf47-3c8ad84ab82e.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[2022 더베인 단독콘서트［파란］티켓 오픈 공지]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6464</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6464</guid>
+            <pubDate>Tue, 13 Sep 2022 09:18:09 GMT</pubDate>
+            <content:encoded><![CDATA[오픈일정 보기 &gt;]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/09/20220913141602dc759c7b-084b-4a59-9198-87658f27ee00.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
         <item>
             <title><![CDATA[PPCX 피터팬컴플렉스 콘서트 ‘20’ 티켓 오픈 안내]]></title>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 12 Sep 2022 20:17:57 GMT</pubDate>
             <content:encoded><![CDATA[2022.09.15(목) 20:00]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/09/20220907144610c2c6ab40-38b2-46ef-b5b4-6ef116f12a34.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[먼데이프로젝트 IN 라이브클럽［이고도 단독 콘서트］티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6456</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6456</guid>
-            <pubDate>Mon, 12 Sep 2022 20:17:57 GMT</pubDate>
-            <content:encoded><![CDATA[2022.09.15(목) 19:00]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/09/20220907115646a36f215d-26a4-45d7-8a89-57f6da2ec5e1.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
     </channel>
 </rss>
