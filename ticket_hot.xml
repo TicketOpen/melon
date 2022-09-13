@@ -4,9 +4,17 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 13 Sep 2022 01:46:13 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Sep 2022 04:19:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[［사과단과 함께하는 표은지 가을 팬미팅］	티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6461</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6461</guid>
+            <pubDate>Tue, 13 Sep 2022 04:19:05 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>22.09.15(목)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/09/2022090811145885adc685-c92a-4bc8-9633-2066c7111a71.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
         <item>
             <title><![CDATA[PPCX 피터팬컴플렉스 콘서트 ‘20’ 티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6463</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 12 Sep 2022 20:18:05 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>22.09.15(목)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/09/202209071145275cc17765-dfb9-4146-b353-07783ae19deb.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[해리 포터와 아즈카반의 죄수™ 인 콘서트 －발코니석 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6449</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6449</guid>
-            <pubDate>Mon, 12 Sep 2022 20:18:05 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>22.09.08(목)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/09/202209071139143bf5ea50-fada-4962-bf13-6057d4b79e4a.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
