@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 판매중</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 15 Sep 2022 14:23:09 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Sep 2022 15:18:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -156,31 +156,6 @@
                             2022.09.06 - 2022.11.20</td>
                         <td class="show_loc">홍익대학교 대학로 아트센터 대극장</td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/06/20220629132720ba378a87-a044-4737-8729-40d2733cc841.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[2022 케니 지（Kenny G）월드투어 내한공연－부산]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=206989</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=206989</guid>
-            <pubDate>Wed, 14 Sep 2022 20:19:28 GMT</pubDate>
-            <content:encoded><![CDATA[<td>
-                            <div class="show_infor">
-                                <div class="thumb_90x125  img">
-                                    <a href="#">
-                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/06/20220610165529e6d24205-b01f-4d6f-9cef-7d38b5a95014.jpg/melon/resize/90x125/strip/true" alt="">
-                                        <span class="frame"></span>
-                                    </a>
-                                </div>
-                                <p class="infor_text">
-                                    <span class="ico_wrap">
-                                        <span class="ico_list ico_list4"> 판매중</span></span>
-                                    <span class="show_title"><a href="/performance/index.htm?prodId=206989">2022 케니 지（Kenny G）월드투어 내한공연－부산</a></span>
-                                </p>
-                            </div>
-                        </td>
-                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
-                            2022.09.15 - 2022.09.15</td>
-                        <td class="show_loc">부산시민회관 대극장</td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/06/20220610165529e6d24205-b01f-4d6f-9cef-7d38b5a95014.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
             <title><![CDATA[맥거핀 단독 콘서트 ‘Mac Night’]]></title>
@@ -506,6 +481,31 @@
                             2022.09.17 - 2022.09.17</td>
                         <td class="show_loc">벨로주 홍대 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/09/20220901181333692b9ec3-aa02-4ada-b17b-55f740c0cd80.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[HIPHOPPLAYA FESTIVAL 2022]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=207085</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=207085</guid>
+            <pubDate>Thu, 15 Sep 2022 15:18:22 GMT</pubDate>
+            <content:encoded><![CDATA[<td>
+                            <div class="show_infor">
+                                <div class="thumb_90x125  img">
+                                    <a href="#">
+                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/07/202207281808371c337e94-ea95-4e10-8419-b09b78a0dacd.jpg/melon/resize/90x125/strip/true" alt="">
+                                        <span class="frame"></span>
+                                    </a>
+                                </div>
+                                <p class="infor_text">
+                                    <span class="ico_wrap">
+                                        <span class="ico_list ico_list4"> 판매중</span></span>
+                                    <span class="show_title"><a href="/performance/index.htm?prodId=207085">HIPHOPPLAYA FESTIVAL 2022</a></span>
+                                </p>
+                            </div>
+                        </td>
+                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
+                            2022.09.17 - 2022.09.18</td>
+                        <td class="show_loc">서울 난지한강공원 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/07/202207281808371c337e94-ea95-4e10-8419-b09b78a0dacd.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
     </channel>
 </rss>
