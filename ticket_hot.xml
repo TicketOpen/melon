@@ -4,17 +4,9 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 16 Sep 2022 06:03:40 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Sep 2022 07:26:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[TONE STUDIO LIVE 〈9（송재경）〉：고고학 써클 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6476</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6476</guid>
-            <pubDate>Fri, 16 Sep 2022 06:03:32 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>22.09.21(수)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/09/202209151717397594b9b3-2888-47cd-b136-9178b5a2f691.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
         <item>
             <title><![CDATA[TONE STUDIO LIVE 〈초승〉 티켓 추가 회차（25일）오픈안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6475</link>
@@ -22,6 +14,22 @@
             <pubDate>Fri, 16 Sep 2022 06:03:32 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>22.09.20(화)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/09/202209151646028de61469-f910-4bd2-88d4-1b2cdf7ebb3f.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[먼데이프로젝트 시즌5 순간의 노래［밍기뉴 단독 콘서트］티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6458</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6458</guid>
+            <pubDate>Fri, 16 Sep 2022 07:26:40 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>22.09.16(금)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/09/202209071447294bf1910b-6c0f-4d48-bed2-972dc77c608b.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[TONE STUDIO LIVE 〈9（송재경）〉：고고학 써클 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6476</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6476</guid>
+            <pubDate>Fri, 16 Sep 2022 06:03:32 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>22.09.21(수)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/09/202209151717397594b9b3-2888-47cd-b136-9178b5a2f691.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
         <item>
             <title><![CDATA[청춘아레나 인천 | 이제 다시 시작이다 티켓 오픈 안내]]></title>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 14 Sep 2022 20:19:21 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>22.09.19(월)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/09/2022091317372731a97fd6-723c-462f-b234-a265fb7823fe.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[Flight1008：Low Hanging Fruits편 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6469</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6469</guid>
-            <pubDate>Wed, 14 Sep 2022 20:19:21 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>22.09.14(수)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/09/20220913182634bb38b89a-831a-46b1-87ad-bb5f54a96b63.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
