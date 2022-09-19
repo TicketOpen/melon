@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 판매중</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 19 Sep 2022 01:49:48 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Sep 2022 04:26:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -208,6 +208,31 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/08/2022082514004918cf0a63-025e-4523-86e7-8f38b62631a1.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
+            <title><![CDATA[옹성우 공식 팬클럽［위로（WELO）］3기 추가모집]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=207234</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=207234</guid>
+            <pubDate>Mon, 19 Sep 2022 04:26:44 GMT</pubDate>
+            <content:encoded><![CDATA[<td>
+                            <div class="show_infor">
+                                <div class="thumb_90x125  img">
+                                    <a href="#">
+                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/09/20220919111629f17a8c5a-2c0a-4ef4-8676-fa640287ab77.jpg/melon/resize/90x125/strip/true" alt="">
+                                        <span class="frame"></span>
+                                    </a>
+                                </div>
+                                <p class="infor_text">
+                                    <span class="ico_wrap">
+                                        <span class="ico_list ico_list1">단독판매</span><span class="ico_list ico_list4"> 판매중</span></span>
+                                    <span class="show_title"><a href="/performance/index.htm?prodId=207234">옹성우 공식 팬클럽［위로（WELO）］3기 추가모집</a></span>
+                                </p>
+                            </div>
+                        </td>
+                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
+                            2022.09.19 - 2022.09.25</td>
+                        <td class="show_loc">- </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/09/20220919111629f17a8c5a-2c0a-4ef4-8676-fa640287ab77.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
             <title><![CDATA[먼데이프로젝트 시즌5［크리스탈 티 단독 콘서트 ‘Neverland’］]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=207244</link>
             <guid>https://ticket.melon.com/performance/index.htm?prodId=207244</guid>
@@ -356,31 +381,6 @@
                             2022.09.23 - 2022.09.25</td>
                         <td class="show_loc">엘리시안 강촌 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/08/20220829104951455e4c93-ca1e-40bd-b342-92194f910574.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[T．G．I．F2022（greenglowgrow）]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=207255</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=207255</guid>
-            <pubDate>Sat, 17 Sep 2022 15:17:09 GMT</pubDate>
-            <content:encoded><![CDATA[<td>
-                            <div class="show_infor">
-                                <div class="thumb_90x125  img">
-                                    <a href="#">
-                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/08/2022082919464559c93e4e-31c8-48b2-8864-1a6cd1d2522c.jpg/melon/resize/90x125/strip/true" alt="">
-                                        <span class="frame"></span>
-                                    </a>
-                                </div>
-                                <p class="infor_text">
-                                    <span class="ico_wrap">
-                                        <span class="ico_list ico_list1">단독판매</span><span class="ico_list ico_list4"> 판매중</span></span>
-                                    <span class="show_title"><a href="/performance/index.htm?prodId=207255">T．G．I．F2022（greenglowgrow）</a></span>
-                                </p>
-                            </div>
-                        </td>
-                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
-                            2022.09.23 - 2022.09.25</td>
-                        <td class="show_loc">동상힐링캠핑장 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/08/2022082919464559c93e4e-31c8-48b2-8864-1a6cd1d2522c.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
             <title><![CDATA[MADDYXP 앨범발매 단독콘서트［BARIDEGI］]]></title>
