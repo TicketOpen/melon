@@ -4,9 +4,17 @@
         <title>멜론 티켓</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 19 Sep 2022 08:26:13 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Sep 2022 09:21:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[조민웅 팬미팅＇Amore Mio＇티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6493</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6493</guid>
+            <pubDate>Mon, 19 Sep 2022 09:21:19 GMT</pubDate>
+            <content:encoded><![CDATA[2022.09.20(화) 20:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/09/20220916180622956e8423-11f5-4fbd-9c3f-0ef8343f02a1.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
         <item>
             <title><![CDATA[옹성우 공식 팬클럽［위로（WELO）］3기 추가모집 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6491</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 19 Sep 2022 04:26:29 GMT</pubDate>
             <content:encoded><![CDATA[2022.09.19(월) 12:00]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/09/20220916111506fca6c718-5773-4d1c-80a1-c847724a8263.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[2022 카즈미 타테이시 트리오 내한공연－지브리，재즈를 만나다－（광주）티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6482</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6482</guid>
-            <pubDate>Mon, 19 Sep 2022 04:26:29 GMT</pubDate>
-            <content:encoded><![CDATA[2022.09.19(월) 12:00]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/09/202209161108558e97038a-e60c-4bb7-a12d-e8c2e53f633b.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
     </channel>
 </rss>
