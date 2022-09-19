@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 19 Sep 2022 14:25:13 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Sep 2022 15:18:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -393,31 +393,6 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/09/20220919111629f17a8c5a-2c0a-4ef4-8676-fa640287ab77.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
-            <title><![CDATA[먼데이프로젝트 시즌5［크리스탈 티 단독 콘서트 ‘Neverland’］ (멜론티켓 ─ 판매중)]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=207244</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=207244</guid>
-            <pubDate>Sat, 17 Sep 2022 15:17:09 GMT</pubDate>
-            <content:encoded><![CDATA[<td>
-                            <div class="show_infor">
-                                <div class="thumb_90x125  img">
-                                    <a href="#">
-                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/08/20220825180008bfec04c7-519c-4ab6-8bc2-0f718c1dce1a.jpg/melon/resize/90x125/strip/true" alt="">
-                                        <span class="frame"></span>
-                                    </a>
-                                </div>
-                                <p class="infor_text">
-                                    <span class="ico_wrap">
-                                        <span class="ico_list ico_list1">단독판매</span><span class="ico_list ico_list4"> 판매중</span></span>
-                                    <span class="show_title"><a href="/performance/index.htm?prodId=207244">먼데이프로젝트 시즌5［크리스탈 티 단독 콘서트 ‘Neverland’］</a></span>
-                                </p>
-                            </div>
-                        </td>
-                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
-                            2022.09.19 - 2022.09.19</td>
-                        <td class="show_loc">케이티엔지 상상마당 라이브홀 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/08/20220825180008bfec04c7-519c-4ab6-8bc2-0f718c1dce1a.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
             <title><![CDATA[오페라 〈로미오와 줄리엣〉 (멜론티켓 ─ 판매중)]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=207161</link>
             <guid>https://ticket.melon.com/performance/index.htm?prodId=207161</guid>
@@ -666,6 +641,31 @@
                             2022.09.24 - 2022.09.24</td>
                         <td class="show_loc">KT&amp;G 상상마당 춘천 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/09/202209161344297e474db7-0f11-4abd-95b3-92c25c3f629d.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[프리티브라운 3rd CONCERT ‘ONE FINE DAY’（프리티브라운 세번째 콘서트 원파인데이） (멜론티켓 ─ 판매중)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=207272</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=207272</guid>
+            <pubDate>Mon, 19 Sep 2022 15:18:34 GMT</pubDate>
+            <content:encoded><![CDATA[<td>
+                            <div class="show_infor">
+                                <div class="thumb_90x125  img">
+                                    <a href="#">
+                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/09/202209031659455545f8f4-c351-40b8-b0f0-b69f1738e228.jpg/melon/resize/90x125/strip/true" alt="">
+                                        <span class="frame"></span>
+                                    </a>
+                                </div>
+                                <p class="infor_text">
+                                    <span class="ico_wrap">
+                                        <span class="ico_list ico_list1">단독판매</span><span class="ico_list ico_list4"> 판매중</span></span>
+                                    <span class="show_title"><a href="/performance/index.htm?prodId=207272">프리티브라운 3rd CONCERT ‘ONE FINE DAY’（프리티브라운 세번째 콘서트 원파인데이）</a></span>
+                                </p>
+                            </div>
+                        </td>
+                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
+                            2022.09.24 - 2022.09.24</td>
+                        <td class="show_loc">클럽온에어 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/09/202209031659455545f8f4-c351-40b8-b0f0-b69f1738e228.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
     </channel>
 </rss>
