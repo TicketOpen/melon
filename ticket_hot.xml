@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 22 Sep 2022 01:44:06 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 22 Sep 2022 04:13:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Thu, 22 Sep 2022 01:43:59 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>22.09.29(목)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/09/202209211103136fdb2282-de22-46f8-b2f7-d0893494314b.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[TUNE UP STAGE：RED C CONCERT 튠업 스테이지：RED C 콘서트 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6506</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6506</guid>
+            <pubDate>Thu, 22 Sep 2022 04:13:13 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>22.09.23(금)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/09/20220921144501d2eb60d5-315a-4e35-8e9b-a682a1968a8e.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
         <item>
             <title><![CDATA[2022 LOONA 1st WORLD TOUR［LOONATHEWORLD］IN SEOUL 티켓 오픈 안내]]></title>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 21 Sep 2022 09:19:58 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>22.09.22(목)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/09/202209201752363f7bfb4a-0a0d-411b-b040-1aa0b9361d20.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[2022 BASEUS CREW 〈Based on us：우리를 기반으로〉 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6498</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6498</guid>
-            <pubDate>Wed, 21 Sep 2022 10:19:27 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>22.09.23(금)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/09/2022092017123210c6ed5f-3e53-4a43-9989-5c590abc7059.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
