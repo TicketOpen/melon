@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 22 Sep 2022 06:01:51 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 22 Sep 2022 07:30:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Thu, 22 Sep 2022 06:01:44 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>22.09.26(월)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/09/2022092213445556ef8422-3734-4a11-a87d-3632fe994e8e.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 〈어차피 혼자〉 3차 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6511</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6511</guid>
+            <pubDate>Thu, 22 Sep 2022 07:30:01 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>22.09.27(화)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/09/20220922113054a978cc23-0c76-4f83-b097-caaa99ae9f5c.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 〈엘리자벳〉 10주년 기념공연 마지막 티켓 오픈 안내]]></title>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 21 Sep 2022 04:22:05 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>22.09.28(수)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/09/202209211042431bfdbf9d-4533-4bdd-9f49-52a0f4cab56b.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[키라라：그냥하는 단독공연 시즌 2－5 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6500</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6500</guid>
-            <pubDate>Wed, 21 Sep 2022 04:22:05 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>22.09.23(금)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/09/20220920175638a7d864b7-c62a-4cb2-a3f2-b8677556c0b4.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
