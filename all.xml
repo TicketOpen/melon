@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 23 Sep 2022 14:28:30 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Sep 2022 15:19:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -338,31 +338,6 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/08/20220803175556f8c19a72-7402-43a3-89dd-6ae08a20f5de.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
-            <title><![CDATA[안병웅 단독 콘서트 ‘Sittin in a Saucer’ (멜론티켓 ─ 판매중)]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=207238</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=207238</guid>
-            <pubDate>Sat, 17 Sep 2022 15:17:09 GMT</pubDate>
-            <content:encoded><![CDATA[<td>
-                            <div class="show_infor">
-                                <div class="thumb_90x125  img">
-                                    <a href="#">
-                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/08/20220823140538c45c2d7c-5647-480d-944e-4d717696cb99.jpg/melon/resize/90x125/strip/true" alt="">
-                                        <span class="frame"></span>
-                                    </a>
-                                </div>
-                                <p class="infor_text">
-                                    <span class="ico_wrap">
-                                        <span class="ico_list ico_list1">단독판매</span><span class="ico_list ico_list4"> 판매중</span></span>
-                                    <span class="show_title"><a href="/performance/index.htm?prodId=207238">안병웅 단독 콘서트 ‘Sittin in a Saucer’</a></span>
-                                </p>
-                            </div>
-                        </td>
-                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
-                            2022.09.23 - 2022.09.23</td>
-                        <td class="show_loc">롤링홀 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/08/20220823140538c45c2d7c-5647-480d-944e-4d717696cb99.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
             <title><![CDATA[Flight092324：Crackshot편 (멜론티켓 ─ 판매중)]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=207245</link>
             <guid>https://ticket.melon.com/performance/index.htm?prodId=207245</guid>
@@ -411,31 +386,6 @@
                             2022.09.23 - 2022.09.25</td>
                         <td class="show_loc">엘리시안 강촌 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/08/20220829104951455e4c93-ca1e-40bd-b342-92194f910574.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[MADDYXP 앨범발매 단독콘서트［BARIDEGI］ (멜론티켓 ─ 판매중)]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=207256</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=207256</guid>
-            <pubDate>Sun, 18 Sep 2022 15:17:18 GMT</pubDate>
-            <content:encoded><![CDATA[<td>
-                            <div class="show_infor">
-                                <div class="thumb_90x125  img">
-                                    <a href="#">
-                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/09/202209131653273a957649-a020-4a84-88ef-e595e08d994f.jpg/melon/resize/90x125/strip/true" alt="">
-                                        <span class="frame"></span>
-                                    </a>
-                                </div>
-                                <p class="infor_text">
-                                    <span class="ico_wrap">
-                                        <span class="ico_list ico_list1">단독판매</span><span class="ico_list ico_list4"> 판매중</span></span>
-                                    <span class="show_title"><a href="/performance/index.htm?prodId=207256">MADDYXP 앨범발매 단독콘서트［BARIDEGI］</a></span>
-                                </p>
-                            </div>
-                        </td>
-                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
-                            2022.09.23 - 2022.09.23</td>
-                        <td class="show_loc">프리즘홀 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/09/202209131653273a957649-a020-4a84-88ef-e595e08d994f.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
             <title><![CDATA[빌리어코스티 카페콘서트 〈EDITION ＃5．5〉 (멜론티켓 ─ 판매중)]]></title>
@@ -586,6 +536,56 @@
                             2022.09.24 - 2022.09.24</td>
                         <td class="show_loc">인제 스피디움 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/09/20220913141553bea5f21f-b38c-4ba1-b2c6-a48d192712a4.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[2022 류준열 팬미팅 〈JUNYEOL‘s HOME〉 (멜론티켓 ─ 판매중)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=207251</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=207251</guid>
+            <pubDate>Fri, 23 Sep 2022 15:19:18 GMT</pubDate>
+            <content:encoded><![CDATA[<td>
+                            <div class="show_infor">
+                                <div class="thumb_90x125  img">
+                                    <a href="#">
+                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/08/20220826150657b7152715-cb3f-4c15-83e3-8d9e9d2d83e0.jpg/melon/resize/90x125/strip/true" alt="">
+                                        <span class="frame"></span>
+                                    </a>
+                                </div>
+                                <p class="infor_text">
+                                    <span class="ico_wrap">
+                                        <span class="ico_list ico_list1">1열보유</span><span class="ico_list ico_list4"> 판매중</span></span>
+                                    <span class="show_title"><a href="/performance/index.htm?prodId=207251">2022 류준열 팬미팅 〈JUNYEOL‘s HOME〉</a></span>
+                                </p>
+                            </div>
+                        </td>
+                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
+                            2022.09.25 - 2022.09.25</td>
+                        <td class="show_loc">예스24 라이브홀 (구 악스코리아) </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/08/20220826150657b7152715-cb3f-4c15-83e3-8d9e9d2d83e0.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[정서주 1st 앨범 발매 기념 콘서트 〈꽃들에게〉 (멜론티켓 ─ 판매중)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=207275</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=207275</guid>
+            <pubDate>Fri, 23 Sep 2022 15:19:18 GMT</pubDate>
+            <content:encoded><![CDATA[<td>
+                            <div class="show_infor">
+                                <div class="thumb_90x125  img">
+                                    <a href="#">
+                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/09/202209051353269afa2f7b-4710-472f-97c7-d4ca771b349e.jpg/melon/resize/90x125/strip/true" alt="">
+                                        <span class="frame"></span>
+                                    </a>
+                                </div>
+                                <p class="infor_text">
+                                    <span class="ico_wrap">
+                                        <span class="ico_list ico_list1">단독판매</span><span class="ico_list ico_list4"> 판매중</span></span>
+                                    <span class="show_title"><a href="/performance/index.htm?prodId=207275">정서주 1st 앨범 발매 기념 콘서트 〈꽃들에게〉</a></span>
+                                </p>
+                            </div>
+                        </td>
+                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
+                            2022.09.25 - 2022.09.25</td>
+                        <td class="show_loc">광운대 동해문화예술회관 소극장</td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/09/202209051353269afa2f7b-4710-472f-97c7-d4ca771b349e.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
     </channel>
 </rss>
