@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 판매중</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 23 Sep 2022 05:59:38 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Sep 2022 06:54:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -181,6 +181,31 @@
                             2022.09.16 - 2022.10.03</td>
                         <td class="show_loc">서경대학교 공연예술센터 스콘1관</td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/08/2022082516583976dbab4a-2c8f-4796-bd5e-b8f5b1404d36.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[2022 IU CONCERT 〈The Golden Hour：오렌지 태양 아래〉]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=207126</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=207126</guid>
+            <pubDate>Fri, 23 Sep 2022 06:54:09 GMT</pubDate>
+            <content:encoded><![CDATA[<td>
+                            <div class="show_infor">
+                                <div class="thumb_90x125  img">
+                                    <a href="#">
+                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/08/2022081115003052ef3ded-81f4-450b-8a60-3e0444da6d9f.jpg/melon/resize/90x125/strip/true" alt="">
+                                        <span class="frame"></span>
+                                    </a>
+                                </div>
+                                <p class="infor_text">
+                                    <span class="ico_wrap">
+                                        <span class="ico_list ico_list1">단독판매</span><span class="ico_list ico_list4"> 판매중</span></span>
+                                    <span class="show_title"><a href="/performance/index.htm?prodId=207126">2022 IU CONCERT 〈The Golden Hour：오렌지 태양 아래〉</a></span>
+                                </p>
+                            </div>
+                        </td>
+                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
+                            2022.09.17 - 2022.09.18</td>
+                        <td class="show_loc">잠실종합운동장 올림픽주경기장</td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/08/2022081115003052ef3ded-81f4-450b-8a60-3e0444da6d9f.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
             <title><![CDATA[JAYCI YUCCA：THE LAST BOY’s CONCERT with DJ＆Band]]></title>
@@ -481,31 +506,6 @@
                             2022.09.24 - 2022.09.24</td>
                         <td class="show_loc">클럽온에어 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/09/202209031659455545f8f4-c351-40b8-b0f0-b69f1738e228.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[N Lounge Party－인제]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=207286</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=207286</guid>
-            <pubDate>Thu, 22 Sep 2022 15:18:48 GMT</pubDate>
-            <content:encoded><![CDATA[<td>
-                            <div class="show_infor">
-                                <div class="thumb_90x125  img">
-                                    <a href="#">
-                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/09/20220913141553bea5f21f-b38c-4ba1-b2c6-a48d192712a4.jpg/melon/resize/90x125/strip/true" alt="">
-                                        <span class="frame"></span>
-                                    </a>
-                                </div>
-                                <p class="infor_text">
-                                    <span class="ico_wrap">
-                                        <span class="ico_list ico_list1">단독판매</span><span class="ico_list ico_list4"> 판매중</span></span>
-                                    <span class="show_title"><a href="/performance/index.htm?prodId=207286">N Lounge Party－인제</a></span>
-                                </p>
-                            </div>
-                        </td>
-                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
-                            2022.09.24 - 2022.09.24</td>
-                        <td class="show_loc">인제 스피디움 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/09/20220913141553bea5f21f-b38c-4ba1-b2c6-a48d192712a4.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
     </channel>
 </rss>
