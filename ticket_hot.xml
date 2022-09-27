@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 27 Sep 2022 01:43:30 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Sep 2022 04:09:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Tue, 27 Sep 2022 01:43:22 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>22.09.27(화)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/09/2022092710195151c103a5-f71a-4351-be50-27bc233f1d21.png/melon/resize/160x225/strip/true" length="0" type="image/png/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[원더우먼 페스티벌 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6524</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6524</guid>
+            <pubDate>Tue, 27 Sep 2022 04:09:14 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>22.09.27(화)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/09/2022092614402178d1ad92-6516-4cac-b4df-bee703bf296a.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
         <item>
             <title><![CDATA[2022 양다일 콘서트 D．I．LAND，again 티켓 오픈 안내]]></title>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 26 Sep 2022 09:21:56 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>22.09.29(목)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/09/20220923165137feee31f9-4bbd-4645-935f-9d78493903bf.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[ONLINE CONCERT 내전 앞 내 눈 2 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6520</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6520</guid>
-            <pubDate>Mon, 26 Sep 2022 09:21:56 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>22.09.30(금)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/09/20220923165954f3cb0a03-63ab-4980-b69c-909ab6da4fd6.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
