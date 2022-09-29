@@ -4,9 +4,17 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 29 Sep 2022 01:47:37 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 29 Sep 2022 04:18:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[백아 단독 콘서트 ‘반짝이는 것은 모두’ 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6540</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6540</guid>
+            <pubDate>Thu, 29 Sep 2022 04:17:55 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>22.10.06(목)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/09/2022092909371247f267f3-5339-42a0-8996-e70af526707f.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
         <item>
             <title><![CDATA[가수 이예준 단독 공연 ‘미친 소리’ 티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6538</link>
@@ -22,6 +30,14 @@
             <pubDate>Thu, 29 Sep 2022 01:47:30 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>22.09.30(금)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/09/202209231636505dadd19f-7362-4db5-a68d-ddc9f8e4bde2.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[먼데이프로젝트 시즌5 음악여행，쉼［이제 단독 콘서트］티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6539</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6539</guid>
+            <pubDate>Thu, 29 Sep 2022 04:17:55 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>22.10.06(목)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/09/202209281704432812f077-3931-4b5b-848b-24fdc253f829.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
         <item>
             <title><![CDATA[모던판소리공작소 촘촘 단독 콘서트 ‘귀귀묘묘’ 티켓 오픈 안내]]></title>
@@ -70,22 +86,6 @@
             <pubDate>Wed, 28 Sep 2022 06:06:16 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>22.09.28(수)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/09/20220927115919c76b73f5-76a6-4f18-808d-138fd485cef8.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[범진 첫번째 단독콘서트［첫번째 인사］티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6527</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6527</guid>
-            <pubDate>Wed, 28 Sep 2022 04:16:55 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>22.09.29(목)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/09/2022092718133943c21c6e-83ad-4258-a8d2-5d032faa89bb.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[숲세권 라이브：서온 단독 공연 “Gerbera” 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6537</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6537</guid>
-            <pubDate>Wed, 28 Sep 2022 04:16:55 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>22.10.04(화)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/09/202209271955454966986d-cfe3-4ab8-b37c-28610be3575a.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
