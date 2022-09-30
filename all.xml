@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 29 Sep 2022 23:22:18 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 30 Sep 2022 02:05:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -338,6 +338,31 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/09/202209201439544f13d0e0-09b4-4960-a9ac-8e2e0465235f.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
+            <title><![CDATA[프랑코 폰타나：컬러 인 라이프 (멜론티켓 ─ 판매중)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=207379</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=207379</guid>
+            <pubDate>Fri, 30 Sep 2022 02:05:48 GMT</pubDate>
+            <content:encoded><![CDATA[<td>
+                            <div class="show_infor">
+                                <div class="thumb_90x125  img">
+                                    <a href="#">
+                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/09/2022092911383419866293-4561-4a1c-919b-adc94918ff8d.jpg/melon/resize/90x125/strip/true" alt="">
+                                        <span class="frame"></span>
+                                    </a>
+                                </div>
+                                <p class="infor_text">
+                                    <span class="ico_wrap">
+                                        <span class="ico_list ico_list4"> 판매중</span></span>
+                                    <span class="show_title"><a href="/performance/index.htm?prodId=207379">프랑코&nbsp;폰타나：컬러 인 라이프</a></span>
+                                </p>
+                            </div>
+                        </td>
+                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
+                            2022.09.30 - 2023.03.01</td>
+                        <td class="show_loc">마이아트뮤지엄 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/09/2022092911383419866293-4561-4a1c-919b-adc94918ff8d.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
             <title><![CDATA[현대카드 Curated 78 Israel Jazz Night (멜론티켓 ─ 판매중)]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=207144</link>
             <guid>https://ticket.melon.com/performance/index.htm?prodId=207144</guid>
@@ -561,31 +586,6 @@
                             2022.10.03 - 2022.10.03</td>
                         <td class="show_loc">KBS 부산홀 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/08/20220810131842d33a0a45-9526-4a91-b418-a458d5778706.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[청춘아레나 대구 | 이제 다시 시작이다 (멜론티켓 ─ 판매중)]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=207258</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=207258</guid>
-            <pubDate>Thu, 29 Sep 2022 15:19:54 GMT</pubDate>
-            <content:encoded><![CDATA[<td>
-                            <div class="show_infor">
-                                <div class="thumb_90x125  img">
-                                    <a href="#">
-                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/09/20220913103321d62345c7-3550-41f5-abf5-cab7226d40d8.jpg/melon/resize/90x125/strip/true" alt="">
-                                        <span class="frame"></span>
-                                    </a>
-                                </div>
-                                <p class="infor_text">
-                                    <span class="ico_wrap">
-                                        <span class="ico_list ico_list4"> 판매중</span></span>
-                                    <span class="show_title"><a href="/performance/index.htm?prodId=207258">청춘아레나 대구 | 이제 다시 시작이다</a></span>
-                                </p>
-                            </div>
-                        </td>
-                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
-                            2022.10.03 - 2022.10.03</td>
-                        <td class="show_loc">대구스타디움 보조경기장</td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/09/20220913103321d62345c7-3550-41f5-abf5-cab7226d40d8.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
     </channel>
 </rss>
