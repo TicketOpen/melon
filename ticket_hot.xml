@@ -1,8 +1,91 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://ticket.melon.com/csoon/index.htm#orderType=0&amp;pageIndex=1&amp;schGcode=GENRE_ALL&amp;schText=&amp;schDt=</id>
-    <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
-    <updated>2022-10-05T21:16:08.109Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Wed, 05 Oct 2022 22:19:46 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[숲세권 라이브：맥거핀 단독 공연 “Sunflower” 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6548</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6548</guid>
+            <pubDate>Wed, 05 Oct 2022 22:19:39 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>22.10.11(화)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/10/20221004153845749bb3c3-2df3-4396-9515-fdd15259a4ce.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[Dreamcatcher（드림캐쳐）7th Mini Album［Apocalypse：Follow us］컴백 쇼케이스 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6545</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6545</guid>
+            <pubDate>Wed, 05 Oct 2022 22:19:39 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>22.10.06(목)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/10/2022100412221384e25c60-58b1-4bcb-9f23-d000cf6402aa.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[곽진언 소극장 콘서트－Op．4 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6546</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6546</guid>
+            <pubDate>Wed, 05 Oct 2022 22:19:39 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>22.10.11(화)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/10/20221004151446ec8b3946-e22a-4d40-80b7-97b9e170d08c.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[2022 온라인체험극－다크필드라디오 〈ETERNAL〉	티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6547</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6547</guid>
+            <pubDate>Wed, 05 Oct 2022 22:19:39 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>22.10.07(금)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/10/20221004152207148a694a-399d-49c0-82ff-59721a0bb586.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[신현빈 단독 공연 〈두번째 판〉 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6549</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6549</guid>
+            <pubDate>Wed, 05 Oct 2022 22:19:39 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>22.10.07(금)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/10/202210041602461127fdca-bf2c-491b-b1a7-e6c348cc4cd2.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[트랙제로 Alive－vol．7 떄론 노래가 없어 아름다운 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6550</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6550</guid>
+            <pubDate>Wed, 05 Oct 2022 22:19:39 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>22.10.06(목)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/10/202210050948090dc90cb8-f66f-40af-845a-99373415b1ac.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[먼데이프로젝트 시즌5 음악여행，쉼［이제 단독 콘서트］티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6539</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6539</guid>
+            <pubDate>Wed, 05 Oct 2022 22:19:39 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>22.10.06(목)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/09/202209281704432812f077-3931-4b5b-848b-24fdc253f829.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[백아 단독 콘서트 ‘반짝이는 것은 모두’ 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6540</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6540</guid>
+            <pubDate>Wed, 05 Oct 2022 22:19:39 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>22.10.06(목)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/09/2022092909371247f267f3-5339-42a0-8996-e70af526707f.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[2022 론 브랜튼의 재즈에 빠진 가을！티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6541</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6541</guid>
+            <pubDate>Wed, 05 Oct 2022 22:19:39 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>22.09.30(금)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/09/20220930143054cc3db60e-35dc-4093-ba8d-56491b16c27e.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[jisokuryClub：나랑 같이 놀…아주라 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6542</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6542</guid>
+            <pubDate>Wed, 05 Oct 2022 22:19:39 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>22.10.07(금)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/09/2022093015102127e67b5d-e75f-403a-8cd9-bfacb35434e7.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+    </channel>
+</rss>
