@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 05 Oct 2022 03:38:46 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Oct 2022 04:47:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,6 +30,14 @@
             <pubDate>Wed, 05 Oct 2022 03:38:40 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>22.10.07(금)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/10/20221004152207148a694a-399d-49c0-82ff-59721a0bb586.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[숲세권 라이브：맥거린 단독 공연 “Sunflower” 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6548</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6548</guid>
+            <pubDate>Wed, 05 Oct 2022 04:47:21 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>22.10.11(화)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/10/20221004153845749bb3c3-2df3-4396-9515-fdd15259a4ce.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
         <item>
             <title><![CDATA[먼데이프로젝트 시즌5 음악여행，쉼［이제 단독 콘서트］티켓 오픈 안내]]></title>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 04 Oct 2022 05:44:17 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>22.10.12(수)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/09/20220930155336d2841f6f-b860-4cce-92c8-b550e58cfe09.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[솔루션스＆아월：My Song for You VOL．14 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6489</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6489</guid>
-            <pubDate>Mon, 03 Oct 2022 21:16:33 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>22.09.21(수)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/09/20220929160035498a958f-1d8e-4434-8dc0-52f31e0ec862.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
