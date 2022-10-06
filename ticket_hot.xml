@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 06 Oct 2022 06:26:52 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Oct 2022 07:22:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Wed, 05 Oct 2022 22:19:39 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>22.10.06(목)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/10/202210050948090dc90cb8-f66f-40af-845a-99373415b1ac.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 〈어차피 혼자〉 4차 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6552</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6552</guid>
+            <pubDate>Thu, 06 Oct 2022 07:22:48 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>22.10.11(화)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/10/202210061019153df83828-1094-4610-a376-0cbcaf79d433.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
         <item>
             <title><![CDATA[［우주라이브］‘Obze’ 3rd ANNIVERSARY 티켓 오픈 안내]]></title>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 05 Oct 2022 22:19:39 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>22.10.06(목)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/09/2022092909371247f267f3-5339-42a0-8996-e70af526707f.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[2022 론 브랜튼의 재즈에 빠진 가을！티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6541</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6541</guid>
-            <pubDate>Wed, 05 Oct 2022 22:19:39 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>22.09.30(금)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/09/20220930143054cc3db60e-35dc-4093-ba8d-56491b16c27e.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
