@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 07 Oct 2022 08:22:40 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Oct 2022 09:21:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -38,6 +38,14 @@
             <pubDate>Fri, 07 Oct 2022 05:34:33 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>22.10.12(수)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/10/20221006161351348fee0e-c652-42ab-bcd9-892ea9543f7a.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[THE ORDINARY 디 오디너리 앵콜 콘서트 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6560</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6560</guid>
+            <pubDate>Fri, 07 Oct 2022 09:21:37 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>22.10.14(금)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/10/202210061640572eb5fd4d-a618-4e61-a040-6f73b2bcd1a7.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
         <item>
             <title><![CDATA[Aimfest Seoul 2022 티켓 오픈 안내]]></title>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 05 Oct 2022 22:19:39 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>22.10.11(화)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/10/20221004153845749bb3c3-2df3-4396-9515-fdd15259a4ce.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[Dreamcatcher（드림캐쳐）7th Mini Album［Apocalypse：Follow us］컴백 쇼케이스 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6545</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6545</guid>
-            <pubDate>Wed, 05 Oct 2022 22:19:39 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>22.10.06(목)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/10/2022100412221384e25c60-58b1-4bcb-9f23-d000cf6402aa.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
