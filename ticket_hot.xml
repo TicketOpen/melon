@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 07 Oct 2022 09:21:44 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Oct 2022 10:21:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Thu, 06 Oct 2022 01:25:20 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>22.10.07(금)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/10/20221007160846b18f030f-3962-4ee3-b030-4b9fce973ea1.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[Arcadia；Eternal Warmth 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6559</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6559</guid>
+            <pubDate>Fri, 07 Oct 2022 10:21:20 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>22.10.12(수)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/10/202210071335501f8d8c23-2848-418f-a677-bb40efadbe6e.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
         <item>
             <title><![CDATA[2022 SF9 LIVE FANTASY #4 DELIGHT IN SEOUL 티켓 오픈 안내]]></title>
@@ -48,6 +56,14 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/10/202210061640572eb5fd4d-a618-4e61-a040-6f73b2bcd1a7.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
         <item>
+            <title><![CDATA[이글루베이 단독 콘서트［코스모스］티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6561</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6561</guid>
+            <pubDate>Fri, 07 Oct 2022 10:21:20 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>22.10.12(수)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/10/2022100614372553c0bd11-bab8-4a9c-84e4-ec82d003dfea.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
             <title><![CDATA[Aimfest Seoul 2022 티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6555</link>
             <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6555</guid>
@@ -70,22 +86,6 @@
             <pubDate>Thu, 06 Oct 2022 07:22:48 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>22.10.11(화)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/10/202210061019153df83828-1094-4610-a376-0cbcaf79d433.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[구원찬 단독공연 〈Object〉 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6553</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6553</guid>
-            <pubDate>Thu, 06 Oct 2022 10:21:12 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>22.10.13(목)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/10/20221006120329736d08c5-3739-4295-9ca0-a199a84c60c5.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[숲세권 라이브：맥거핀 단독 공연 “Sunflower” 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6548</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6548</guid>
-            <pubDate>Wed, 05 Oct 2022 22:19:39 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>22.10.11(화)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/10/20221004153845749bb3c3-2df3-4396-9515-fdd15259a4ce.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
