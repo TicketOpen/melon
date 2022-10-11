@@ -4,9 +4,17 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 11 Oct 2022 08:27:25 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Oct 2022 09:23:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2022 이병우 기타 솔로콘서트 〈2022 Byeong Woo Lee Guitar Solo Concert〉]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6556</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6556</guid>
+            <pubDate>Tue, 11 Oct 2022 09:23:39 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>22.10.12(수)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/10/202210111753267f394cdc-f089-4576-8954-72751073b35e.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
         <item>
             <title><![CDATA[뮤지컬 〈엘리자벳〉 10주년 기념공연－수원 티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6568</link>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 11 Oct 2022 08:27:18 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>22.10.12(수)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/10/202210071335501f8d8c23-2848-418f-a677-bb40efadbe6e.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[2022 SF9 LIVE FANTASY #4 DELIGHT IN SEOUL 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6557</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6557</guid>
-            <pubDate>Tue, 11 Oct 2022 08:27:18 GMT</pubDate>
-            <content:encoded><![CDATA[오픈일정 보기 &gt;]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/10/2022100612012535c6d2ad-bb87-40fe-ae7e-a18de0e4e910.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
