@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 11 Oct 2022 14:30:52 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Oct 2022 15:22:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -288,31 +288,6 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/08/202208121741003c788bb4-6d10-45fd-993b-5755f2f9ab3a.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
-            <title><![CDATA[Dreamcatcher（드림캐쳐）7th Mini Album［Apocalypse：Follow us］컴백 쇼케이스 (멜론티켓 ─ 판매중)]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=207385</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=207385</guid>
-            <pubDate>Tue, 11 Oct 2022 08:27:24 GMT</pubDate>
-            <content:encoded><![CDATA[<td>
-                            <div class="show_infor">
-                                <div class="thumb_90x125  img">
-                                    <a href="#">
-                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/10/20221004122243575e8efa-b299-4d8e-8f26-aaf3970a82ec.jpg/melon/resize/90x125/strip/true" alt="">
-                                        <span class="frame"></span>
-                                    </a>
-                                </div>
-                                <p class="infor_text">
-                                    <span class="ico_wrap">
-                                        <span class="ico_list ico_list1">단독판매</span><span class="ico_list ico_list4"> 판매중</span></span>
-                                    <span class="show_title"><a href="/performance/index.htm?prodId=207385">Dreamcatcher（드림캐쳐）7th Mini Album［Apocalypse：Follow us］컴백 쇼케이스	</a></span>
-                                </p>
-                            </div>
-                        </td>
-                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
-                            2022.10.11 - 2022.10.11</td>
-                        <td class="show_loc">건국대 새천년관 대공연장 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/10/20221004122243575e8efa-b299-4d8e-8f26-aaf3970a82ec.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
             <title><![CDATA[하리보 골드베렌 100주년 생일 기념전－얼리버드 (멜론티켓 ─ 판매중)]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=207249</link>
             <guid>https://ticket.melon.com/performance/index.htm?prodId=207249</guid>
@@ -586,6 +561,31 @@
                             2022.10.15 - 2022.10.15</td>
                         <td class="show_loc">H-스테이지 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/09/20220916162354f5831f56-3e57-4989-ba7d-0364a0e4e99d.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[숲세권 라이브：펜텐 단독 공연 “Rose Of Sharon” (멜론티켓 ─ 판매중)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=207334</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=207334</guid>
+            <pubDate>Tue, 11 Oct 2022 15:22:00 GMT</pubDate>
+            <content:encoded><![CDATA[<td>
+                            <div class="show_infor">
+                                <div class="thumb_90x125  img">
+                                    <a href="#">
+                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/09/20220919161848c17988f6-a1de-4284-aeb1-4b411ad8fe4c.jpg/melon/resize/90x125/strip/true" alt="">
+                                        <span class="frame"></span>
+                                    </a>
+                                </div>
+                                <p class="infor_text">
+                                    <span class="ico_wrap">
+                                        <span class="ico_list ico_list1">단독판매</span><span class="ico_list ico_list4"> 판매중</span></span>
+                                    <span class="show_title"><a href="/performance/index.htm?prodId=207334">숲세권 라이브：펜텐 단독 공연 “Rose Of Sharon”</a></span>
+                                </p>
+                            </div>
+                        </td>
+                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
+                            2022.10.15 - 2022.10.15</td>
+                        <td class="show_loc">숲세권 라이브 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/09/20220919161848c17988f6-a1de-4284-aeb1-4b411ad8fe4c.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
     </channel>
 </rss>
