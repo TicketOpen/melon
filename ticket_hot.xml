@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 12 Oct 2022 07:26:40 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Oct 2022 08:22:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Tue, 11 Oct 2022 08:27:18 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>22.10.14(금)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/10/20221007190633600370ac-69e4-4027-b99c-cc204368913a.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[DREAMCATCHER［Apocalypse：Broken Halloween］2022 World Tour 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6579</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6579</guid>
+            <pubDate>Wed, 12 Oct 2022 08:22:34 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>22.10.14(금)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/10/202210121433567a928cd1-89b2-4fcc-8c5b-0ed35204b8fe.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
         <item>
             <title><![CDATA[2022 이병우 기타 솔로콘서트 〈2022 Byeong Woo Lee Guitar Solo Concert〉]]></title>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 11 Oct 2022 08:27:18 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>22.10.12(수)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/10/20221007131129d929464a-068f-4c68-a59a-3f5d4d3688ea.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 〈엘리자벳〉 10주년 기념공연－천안	티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6566</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6566</guid>
-            <pubDate>Tue, 11 Oct 2022 08:27:18 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>22.10.14(금)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/10/202210071742069c5b2eb5-9439-48e1-884e-be032c7b65a3.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
