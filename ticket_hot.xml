@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 15 Oct 2022 04:12:55 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 15 Oct 2022 05:45:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Thu, 13 Oct 2022 20:20:10 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>22.10.17(월)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/10/2022101413152609aa41f1-9e2a-4f43-848c-88e728d59c7c.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[ABTB 3집 발매공연 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6593</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6593</guid>
+            <pubDate>Sat, 15 Oct 2022 05:45:37 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>22.10.20(목)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/10/202210141136245ac67d82-0aa4-499a-a51b-4f7d3ed5de85.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
         <item>
             <title><![CDATA[제55회 라이브 클럽 데이－일반 티켓 오픈 안내]]></title>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 13 Oct 2022 20:20:10 GMT</pubDate>
             <content:encoded><![CDATA[오픈일정 보기 &gt;]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/10/20221012172610e26aa1a6-4c7b-46af-bdf3-b6a715187d09.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[2022 Wave to Earth 단독공연［floral field 0．2］티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6576</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6576</guid>
-            <pubDate>Thu, 13 Oct 2022 20:20:10 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>22.10.19(수)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/10/202210111749178e53d521-5bd1-43ef-9ba6-e811ef2de4d5.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
