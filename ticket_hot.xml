@@ -4,9 +4,17 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 18 Oct 2022 04:18:40 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Oct 2022 06:09:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2022 김범수 콘서트 명품이즈백－부산 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6599</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6599</guid>
+            <pubDate>Tue, 18 Oct 2022 06:09:34 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>22.10.24(월)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/10/20221014172028e53f6e1c-ed62-4a3c-a9f9-0bc2665ea66a.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
         <item>
             <title><![CDATA[프레젠트프로젝트 〈SING SANG SONG：이민혁 단독 콘서트〉 티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6600</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 17 Oct 2022 04:31:10 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>22.10.21(금)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/10/2022101413445073685b21-8f40-4f72-b343-276863604828.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[ABTB 3집 발매공연 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6593</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6593</guid>
-            <pubDate>Sat, 15 Oct 2022 05:45:37 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>22.10.20(목)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/10/202210141136245ac67d82-0aa4-499a-a51b-4f7d3ed5de85.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
