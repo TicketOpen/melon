@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 19 Oct 2022 10:26:31 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Oct 2022 11:19:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Wed, 19 Oct 2022 06:11:47 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>22.10.21(금)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/10/202210191431450476ef20-41cb-46be-85fd-61f8bd78a9b1.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[2022 신지훈 단독 콘서트 ‘Winter Neverland’ 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6603</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6603</guid>
+            <pubDate>Wed, 19 Oct 2022 11:19:50 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>22.10.24(월)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/10/20221019104924edcab6de-0864-4f52-94ef-c406c8943197.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
         <item>
             <title><![CDATA[2022 김범수 콘서트 명품이즈백－부산 티켓 오픈 안내]]></title>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 17 Oct 2022 09:30:40 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>22.10.18(화)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/10/20221014152611a905cc81-cd06-48e3-aa52-53c1588194d4.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[MMA2022（멜론뮤직어워드）티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6596</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6596</guid>
-            <pubDate>Mon, 17 Oct 2022 06:14:43 GMT</pubDate>
-            <content:encoded><![CDATA[오픈일정 보기 &gt;]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/10/202210141651453208eaf4-1f6b-496e-864e-014797e1dbcd.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
