@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 판매중</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 19 Oct 2022 14:34:40 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Oct 2022 15:22:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -283,31 +283,6 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/09/20220905094620e5c59a8b-e52f-4eb7-9e93-b1ce7217104b.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
-            <title><![CDATA[먼데이프로젝트 시즌5 음악여행，쉼［버둥 단독 콘서트］]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=207310</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=207310</guid>
-            <pubDate>Sat, 15 Oct 2022 15:18:44 GMT</pubDate>
-            <content:encoded><![CDATA[<td>
-                            <div class="show_infor">
-                                <div class="thumb_90x125  img">
-                                    <a href="#">
-                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/09/2022091413193145bae0a9-c260-4283-ac1c-51bf32deadd7.jpg/melon/resize/90x125/strip/true" alt="">
-                                        <span class="frame"></span>
-                                    </a>
-                                </div>
-                                <p class="infor_text">
-                                    <span class="ico_wrap">
-                                        <span class="ico_list ico_list1">단독판매</span><span class="ico_list ico_list4"> 판매중</span></span>
-                                    <span class="show_title"><a href="/performance/index.htm?prodId=207310">먼데이프로젝트 시즌5 음악여행，쉼［버둥 단독 콘서트］</a></span>
-                                </p>
-                            </div>
-                        </td>
-                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
-                            2022.10.18 - 2022.10.19</td>
-                        <td class="show_loc">클럽온에어 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/09/2022091413193145bae0a9-c260-4283-ac1c-51bf32deadd7.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
             <title><![CDATA[트랙제로 Alive－vol．7 때론 노래가 없어 아름다운]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=207391</link>
             <guid>https://ticket.melon.com/performance/index.htm?prodId=207391</guid>
@@ -506,6 +481,31 @@
                             2022.10.22 - 2022.10.23</td>
                         <td class="show_loc">KBS창원홀 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/08/202208171141027f742f29-22f0-4dba-ad91-4d153e356973.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[2022 AWESOME MUSIC FESTIVAL（2022 어썸뮤직페스티벌）]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=207277</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=207277</guid>
+            <pubDate>Wed, 19 Oct 2022 15:22:16 GMT</pubDate>
+            <content:encoded><![CDATA[<td>
+                            <div class="show_infor">
+                                <div class="thumb_90x125  img">
+                                    <a href="#">
+                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/09/2022091917423533e86c0d-aaa3-400d-81ad-3fb3b31c28c8.jpg/melon/resize/90x125/strip/true" alt="">
+                                        <span class="frame"></span>
+                                    </a>
+                                </div>
+                                <p class="infor_text">
+                                    <span class="ico_wrap">
+                                        <span class="ico_list ico_list4"> 판매중</span></span>
+                                    <span class="show_title"><a href="/performance/index.htm?prodId=207277">2022 AWESOME MUSIC FESTIVAL（2022 어썸뮤직페스티벌）</a></span>
+                                </p>
+                            </div>
+                        </td>
+                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
+                            2022.10.22 - 2022.10.23</td>
+                        <td class="show_loc">서울 난지한강공원 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/09/2022091917423533e86c0d-aaa3-400d-81ad-3fb3b31c28c8.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
     </channel>
 </rss>
