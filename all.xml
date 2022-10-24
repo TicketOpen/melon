@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 24 Oct 2022 14:40:22 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Oct 2022 15:24:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -363,31 +363,6 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/09/20220905094620e5c59a8b-e52f-4eb7-9e93-b1ce7217104b.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
-            <title><![CDATA[먼데이프로젝트 시즌5 음악여행，쉼［이제 단독 콘서트］ (멜론티켓 ─ 판매중)]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=207377</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=207377</guid>
-            <pubDate>Mon, 24 Oct 2022 13:58:44 GMT</pubDate>
-            <content:encoded><![CDATA[<td>
-                            <div class="show_infor">
-                                <div class="thumb_90x125  img">
-                                    <a href="#">
-                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/09/202209281711119c2f5dcf-ccd6-4330-9c7d-31db88053c9e.jpg/melon/resize/90x125/strip/true" alt="">
-                                        <span class="frame"></span>
-                                    </a>
-                                </div>
-                                <p class="infor_text">
-                                    <span class="ico_wrap">
-                                        <span class="ico_list ico_list1">단독판매</span><span class="ico_list ico_list4"> 판매중</span></span>
-                                    <span class="show_title"><a href="/performance/index.htm?prodId=207377">먼데이프로젝트 시즌5 음악여행，쉼［이제 단독 콘서트］</a></span>
-                                </p>
-                            </div>
-                        </td>
-                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
-                            2022.10.24 - 2022.10.24</td>
-                        <td class="show_loc">클럽온에어 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/09/202209281711119c2f5dcf-ccd6-4330-9c7d-31db88053c9e.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
             <title><![CDATA[이희문 쏭폼스토리즈 ‘강남오아시스’ (멜론티켓 ─ 판매중)]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=207235</link>
             <guid>https://ticket.melon.com/performance/index.htm?prodId=207235</guid>
@@ -586,6 +561,31 @@
                             2022.10.29 - 2022.10.29</td>
                         <td class="show_loc">숲세권 라이브 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/10/20221004165320cb583b99-8bfd-4950-af8e-4e04ddd803bc.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[신현빈 단독 공연 〈두번째 판〉 (멜론티켓 ─ 판매중)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=207388</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=207388</guid>
+            <pubDate>Mon, 24 Oct 2022 15:24:09 GMT</pubDate>
+            <content:encoded><![CDATA[<td>
+                            <div class="show_infor">
+                                <div class="thumb_90x125  img">
+                                    <a href="#">
+                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/10/202210041617253f4de666-98e8-40a7-a7a0-d82f4633ef98.jpg/melon/resize/90x125/strip/true" alt="">
+                                        <span class="frame"></span>
+                                    </a>
+                                </div>
+                                <p class="infor_text">
+                                    <span class="ico_wrap">
+                                        <span class="ico_list ico_list1">단독판매</span><span class="ico_list ico_list4"> 판매중</span></span>
+                                    <span class="show_title"><a href="/performance/index.htm?prodId=207388">신현빈 단독 공연 〈두번째 판〉</a></span>
+                                </p>
+                            </div>
+                        </td>
+                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
+                            2022.10.29 - 2022.10.29</td>
+                        <td class="show_loc">폼텍 웍스홀 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/10/202210041617253f4de666-98e8-40a7-a7a0-d82f4633ef98.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
     </channel>
 </rss>
