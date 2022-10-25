@@ -4,9 +4,25 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 25 Oct 2022 04:26:26 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Oct 2022 06:13:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[MMA2022（멜론뮤직어워드）티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6596</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6596</guid>
+            <pubDate>Tue, 25 Oct 2022 06:12:58 GMT</pubDate>
+            <content:encoded><![CDATA[오픈일정 보기 &gt;]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/10/20221025141254ce217a59-55a3-4bb9-98de-bc94a582cc9e.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[Flight1120：화노편 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6619</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6619</guid>
+            <pubDate>Tue, 25 Oct 2022 06:12:58 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>22.10.28(금)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/10/2022102513171908a6973a-7c4c-4d35-b555-6c11f14de34d.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
         <item>
             <title><![CDATA[2022 남지현 팬미팅 〈어서 와요，우리 집에！〉 티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6617</link>
@@ -70,22 +86,6 @@
             <pubDate>Mon, 24 Oct 2022 23:20:57 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>22.10.24(월)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/10/20221020144816ec4dd734-7282-46b4-8a59-689516c803a4.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[동이혼（DIH）단독콘서트：NOT ENOUGH 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6611</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6611</guid>
-            <pubDate>Mon, 24 Oct 2022 23:20:57 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>22.10.24(월)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/10/202210201032103f7d9505-5afc-4459-8281-cb1478acfd61.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[2022 적재 전국투어 ‘The LIGHTS’－부산 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6612</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6612</guid>
-            <pubDate>Mon, 24 Oct 2022 23:20:57 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>22.10.26(수)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/10/202210201542250f431ade-c1cb-4522-b40f-f5c4f83548f2.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
