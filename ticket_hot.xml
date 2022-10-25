@@ -4,9 +4,17 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 24 Oct 2022 23:21:04 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Oct 2022 01:50:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2022 남지현 팬미팅 〈어서 와요，우리 집에！〉 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6617</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6617</guid>
+            <pubDate>Tue, 25 Oct 2022 01:49:53 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>22.11.01(화)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/10/20221024191303cca61e8b-5c37-4e0b-a7d3-c35200656fe6.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
         <item>
             <title><![CDATA[2022 MJ LIVE 마이클 잭슨 Tribute Concert KOREA TOUR－울산 티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6614</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 24 Oct 2022 23:20:57 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>22.10.27(목)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/10/202210201521445eb865f0-8b79-498a-a67c-1228be13b389.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[2022－23 엠씨더맥스 이수 콘서트 ‘겨울나기’－광주 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6605</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6605</guid>
-            <pubDate>Mon, 24 Oct 2022 23:20:57 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>22.10.27(목)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/10/20221020150833808e2df7-340a-4874-9f77-0e49a44b3462.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
