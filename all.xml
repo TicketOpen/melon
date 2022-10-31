@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 31 Oct 2022 14:26:25 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 31 Oct 2022 15:18:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -313,31 +313,6 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/10/202210121324282ba41fd7-0b2a-41e1-9f66-d12674c1bbf8.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
-            <title><![CDATA[2022 온라인체험극－다크필드라디오 〈ETERNAL〉 (멜론티켓 ─ 판매중)]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=207381</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=207381</guid>
-            <pubDate>Mon, 31 Oct 2022 05:32:33 GMT</pubDate>
-            <content:encoded><![CDATA[<td>
-                            <div class="show_infor">
-                                <div class="thumb_90x125  img">
-                                    <a href="#">
-                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/10/20221005112136e731ca02-4f49-4376-89b9-4ca8e556e2e4.jpg/melon/resize/90x125/strip/true" alt="">
-                                        <span class="frame"></span>
-                                    </a>
-                                </div>
-                                <p class="infor_text">
-                                    <span class="ico_wrap">
-                                        <span class="ico_list ico_list1">단독판매</span><span class="ico_list ico_list4"> 판매중</span></span>
-                                    <span class="show_title"><a href="/performance/index.htm?prodId=207381">2022 온라인체험극－다크필드라디오 〈ETERNAL〉</a></span>
-                                </p>
-                            </div>
-                        </td>
-                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
-                            2022.10.14 - 2022.10.31</td>
-                        <td class="show_loc">다크필드라디오 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/10/20221005112136e731ca02-4f49-4376-89b9-4ca8e556e2e4.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
             <title><![CDATA[이희문 쏭폼스토리즈 ‘강남오아시스’ (멜론티켓 ─ 판매중)]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=207235</link>
             <guid>https://ticket.melon.com/performance/index.htm?prodId=207235</guid>
@@ -586,6 +561,31 @@
                             2022.11.05 - 2022.11.05</td>
                         <td class="show_loc">톤 스튜디오 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/10/20221013163819c77bec5a-a007-4649-a5dd-c5615e56023f.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[2022 케이윌 전국투어［HERE AND NOW］－성남 (멜론티켓 ─ 판매중)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=207214</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=207214</guid>
+            <pubDate>Mon, 31 Oct 2022 15:18:00 GMT</pubDate>
+            <content:encoded><![CDATA[<td>
+                            <div class="show_infor">
+                                <div class="thumb_90x125  img">
+                                    <a href="#">
+                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/08/202208191003317e02cb7a-bff7-42a1-902e-83f0df8c6d62.jpg/melon/resize/90x125/strip/true" alt="">
+                                        <span class="frame"></span>
+                                    </a>
+                                </div>
+                                <p class="infor_text">
+                                    <span class="ico_wrap">
+                                        <span class="ico_list ico_list4"> 판매중</span></span>
+                                    <span class="show_title"><a href="/performance/index.htm?prodId=207214">2022 케이윌 전국투어［HERE AND NOW］－성남</a></span>
+                                </p>
+                            </div>
+                        </td>
+                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
+                            2022.11.05 - 2022.11.06</td>
+                        <td class="show_loc">성남아트센터 오페라하우스</td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/08/202208191003317e02cb7a-bff7-42a1-902e-83f0df8c6d62.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
     </channel>
 </rss>
