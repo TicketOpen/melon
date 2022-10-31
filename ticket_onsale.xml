@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 판매중</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 31 Oct 2022 08:25:16 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 31 Oct 2022 09:19:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -308,31 +308,6 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/08/2022080120233364e4f131-72ec-4462-809b-b999eb358399.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
-            <title><![CDATA[Live SUM 2022 vol．2]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=207433</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=207433</guid>
-            <pubDate>Mon, 31 Oct 2022 05:32:33 GMT</pubDate>
-            <content:encoded><![CDATA[<td>
-                            <div class="show_infor">
-                                <div class="thumb_90x125  img">
-                                    <a href="#">
-                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/10/20221014174453440a0d4c-e4b4-4d9a-850e-52d2342fbf2f.jpg/melon/resize/90x125/strip/true" alt="">
-                                        <span class="frame"></span>
-                                    </a>
-                                </div>
-                                <p class="infor_text">
-                                    <span class="ico_wrap">
-                                        <span class="ico_list ico_list1">단독판매</span><span class="ico_list ico_list4"> 판매중</span></span>
-                                    <span class="show_title"><a href="/performance/index.htm?prodId=207433">Live SUM 2022 vol．2</a></span>
-                                </p>
-                            </div>
-                        </td>
-                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
-                            2022.11.04 - 2022.11.04</td>
-                        <td class="show_loc">롤링홀 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/10/20221014174453440a0d4c-e4b4-4d9a-850e-52d2342fbf2f.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
             <title><![CDATA[윤딴딴 첫 정규 앨범 발매 기념 쇼케이스 〈옛사랑에게〉]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=207460</link>
             <guid>https://ticket.melon.com/performance/index.htm?prodId=207460</guid>
@@ -506,6 +481,31 @@
                             2022.11.05 - 2022.11.05</td>
                         <td class="show_loc">웨스트브릿지 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/10/202210111859171e7cf145-6ef5-444d-93b8-7db5bd800b3f.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[TONE STUDIO LIVE 〈HEN〉]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=207427</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=207427</guid>
+            <pubDate>Mon, 31 Oct 2022 09:19:47 GMT</pubDate>
+            <content:encoded><![CDATA[<td>
+                            <div class="show_infor">
+                                <div class="thumb_90x125  img">
+                                    <a href="#">
+                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/10/20221013163819c77bec5a-a007-4649-a5dd-c5615e56023f.jpg/melon/resize/90x125/strip/true" alt="">
+                                        <span class="frame"></span>
+                                    </a>
+                                </div>
+                                <p class="infor_text">
+                                    <span class="ico_wrap">
+                                        <span class="ico_list ico_list1">단독판매</span><span class="ico_list ico_list4"> 판매중</span></span>
+                                    <span class="show_title"><a href="/performance/index.htm?prodId=207427">TONE STUDIO LIVE 〈HEN〉</a></span>
+                                </p>
+                            </div>
+                        </td>
+                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
+                            2022.11.05 - 2022.11.05</td>
+                        <td class="show_loc">톤 스튜디오 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/10/20221013163819c77bec5a-a007-4649-a5dd-c5615e56023f.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
     </channel>
 </rss>
