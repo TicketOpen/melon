@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 판매중</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 02 Nov 2022 14:23:32 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Nov 2022 15:18:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -258,31 +258,6 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/08/202208191604093e59b647-b1a6-41e3-a641-2d51787c1ab2.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
-            <title><![CDATA[서울시합창단 M컬렉션 시리즈II 〈시그널〉]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=207170</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=207170</guid>
-            <pubDate>Tue, 01 Nov 2022 18:21:50 GMT</pubDate>
-            <content:encoded><![CDATA[<td>
-                            <div class="show_infor">
-                                <div class="thumb_90x125  img">
-                                    <a href="#">
-                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/08/2022080120233364e4f131-72ec-4462-809b-b999eb358399.jpg/melon/resize/90x125/strip/true" alt="">
-                                        <span class="frame"></span>
-                                    </a>
-                                </div>
-                                <p class="infor_text">
-                                    <span class="ico_wrap">
-                                        <span class="ico_list ico_list4"> 판매중</span></span>
-                                    <span class="show_title"><a href="/performance/index.htm?prodId=207170">서울시합창단 M컬렉션 시리즈II 〈시그널〉</a></span>
-                                </p>
-                            </div>
-                        </td>
-                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
-                            2022.11.02 - 2022.11.02</td>
-                        <td class="show_loc">세종문화회관 M씨어터</td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/08/2022080120233364e4f131-72ec-4462-809b-b999eb358399.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
             <title><![CDATA[윤딴딴 첫 정규 앨범 발매 기념 쇼케이스 〈옛사랑에게〉]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=207460</link>
             <guid>https://ticket.melon.com/performance/index.htm?prodId=207460</guid>
@@ -506,6 +481,31 @@
                             2022.11.05 - 2022.11.06</td>
                         <td class="show_loc">성남아트센터 오페라하우스</td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/08/202208191003317e02cb7a-bff7-42a1-902e-83f0df8c6d62.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[2022 KCM 단독 콘서트＇아름답던 별들의 밤＇]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=207331</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=207331</guid>
+            <pubDate>Wed, 02 Nov 2022 15:18:50 GMT</pubDate>
+            <content:encoded><![CDATA[<td>
+                            <div class="show_infor">
+                                <div class="thumb_90x125  img">
+                                    <a href="#">
+                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/09/2022091917335914f3e4a6-1fbb-4888-a48d-928c42b9b5b4.jpeg/melon/resize/90x125/strip/true" alt="">
+                                        <span class="frame"></span>
+                                    </a>
+                                </div>
+                                <p class="infor_text">
+                                    <span class="ico_wrap">
+                                        <span class="ico_list ico_list1">단독판매</span><span class="ico_list ico_list4"> 판매중</span></span>
+                                    <span class="show_title"><a href="/performance/index.htm?prodId=207331">2022 KCM 단독 콘서트＇아름답던 별들의 밤＇</a></span>
+                                </p>
+                            </div>
+                        </td>
+                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
+                            2022.11.05 - 2022.11.06</td>
+                        <td class="show_loc">연세대학교 백주년기념관 콘서트홀</td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/09/2022091917335914f3e4a6-1fbb-4888-a48d-928c42b9b5b4.jpeg/melon/resize/90x125/strip/true" length="0" type="image/jpeg/melon/resize/90x125/strip/true"/>
         </item>
     </channel>
 </rss>
