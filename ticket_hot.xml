@@ -4,17 +4,9 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 01 Nov 2022 23:18:42 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Nov 2022 01:40:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[[오픈변경] 먼데이프로젝트 IN 라이브클럽 ［OAH！단독 콘서트］티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6623</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6623</guid>
-            <pubDate>Tue, 01 Nov 2022 18:21:43 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>22.11.08(화)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/10/2022102518193196197bf4-3ec1-4ffa-9965-af66fb591b62.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
         <item>
             <title><![CDATA[CIKI 단독 공연 ‘길었던 우리의 불행을 아무래도’ 티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6638</link>
@@ -22,6 +14,14 @@
             <pubDate>Tue, 01 Nov 2022 18:21:43 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>22.11.03(목)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/10/2022103118404224b3db77-37a2-4f7b-8cd5-beef248cc26b.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[[오픈변경] 먼데이프로젝트 IN 라이브클럽 ［OAH！단독 콘서트］티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6623</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6623</guid>
+            <pubDate>Tue, 01 Nov 2022 18:21:43 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>22.11.08(화)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/10/2022102518193196197bf4-3ec1-4ffa-9965-af66fb591b62.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
         <item>
             <title><![CDATA[[오픈변경] SAAY 단독 콘서트：mise－en－scène 티켓 오픈 안내]]></title>
