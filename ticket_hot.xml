@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 03 Nov 2022 04:37:23 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Nov 2022 05:22:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,6 +30,14 @@
             <pubDate>Wed, 02 Nov 2022 10:19:13 GMT</pubDate>
             <content:encoded><![CDATA[오픈일정 보기 &gt;]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/10/2022102813105110dec628-fcf5-4a05-964d-bc3817fbf5a7.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 〈이프덴〉 1차 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6646</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6646</guid>
+            <pubDate>Thu, 03 Nov 2022 05:21:59 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>22.11.09(수)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/11/20221102152328fb79fcd4-d1e3-4307-9f9c-2220a3f08684.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
         <item>
             <title><![CDATA[WATSON，THE MAESTRO－알버트 왓슨 사진전 티켓 오픈 안내]]></title>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 01 Nov 2022 18:21:43 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>22.11.03(목)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/10/2022103118404224b3db77-37a2-4f7b-8cd5-beef248cc26b.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[FRankly：Back to school 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6641</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6641</guid>
-            <pubDate>Wed, 02 Nov 2022 03:56:39 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>22.11.03(목)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/11/202211011816359b6d71f0-7d7e-43b4-af66-51f60201cf2e.png/melon/resize/160x225/strip/true" length="0" type="image/png/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
