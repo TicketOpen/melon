@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 04 Nov 2022 14:14:42 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Nov 2022 15:17:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -338,56 +338,6 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/08/202208191604093e59b647-b1a6-41e3-a641-2d51787c1ab2.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
-            <title><![CDATA[윤딴딴 첫 정규 앨범 발매 기념 쇼케이스 〈옛사랑에게〉 (멜론티켓 ─ 판매중)]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=207460</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=207460</guid>
-            <pubDate>Tue, 01 Nov 2022 18:21:50 GMT</pubDate>
-            <content:encoded><![CDATA[<td>
-                            <div class="show_infor">
-                                <div class="thumb_90x125  img">
-                                    <a href="#">
-                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/10/20221021155440900f5ec8-facc-4a1a-84b3-e7a6885823a6.jpg/melon/resize/90x125/strip/true" alt="">
-                                        <span class="frame"></span>
-                                    </a>
-                                </div>
-                                <p class="infor_text">
-                                    <span class="ico_wrap">
-                                        <span class="ico_list ico_list1">단독판매</span><span class="ico_list ico_list4"> 판매중</span></span>
-                                    <span class="show_title"><a href="/performance/index.htm?prodId=207460">윤딴딴 첫 정규 앨범 발매 기념 쇼케이스 〈옛사랑에게〉</a></span>
-                                </p>
-                            </div>
-                        </td>
-                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
-                            2022.11.04 - 2022.11.04</td>
-                        <td class="show_loc">웨스트브릿지 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/10/20221021155440900f5ec8-facc-4a1a-84b3-e7a6885823a6.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[2022 카즈미 타테이시 트리오 내한공연－지브리，재즈를 만나다－（서울 강남） (멜론티켓 ─ 판매중)]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=207307</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=207307</guid>
-            <pubDate>Tue, 01 Nov 2022 18:21:50 GMT</pubDate>
-            <content:encoded><![CDATA[<td>
-                            <div class="show_infor">
-                                <div class="thumb_90x125  img">
-                                    <a href="#">
-                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/09/2022091411543074ca116a-5c93-48b1-a6bf-adb0f3f46f6a.jpg/melon/resize/90x125/strip/true" alt="">
-                                        <span class="frame"></span>
-                                    </a>
-                                </div>
-                                <p class="infor_text">
-                                    <span class="ico_wrap">
-                                        <span class="ico_list ico_list4"> 판매중</span></span>
-                                    <span class="show_title"><a href="/performance/index.htm?prodId=207307">2022 카즈미 타테이시 트리오 내한공연－지브리，재즈를 만나다－（서울 강남）</a></span>
-                                </p>
-                            </div>
-                        </td>
-                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
-                            2022.11.04 - 2022.11.04</td>
-                        <td class="show_loc">광림아트센터 장천홀</td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/09/2022091411543074ca116a-5c93-48b1-a6bf-adb0f3f46f6a.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
             <title><![CDATA[곽진언 소극장 콘서트－Op．4 (멜론티켓 ─ 판매중)]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=207386</link>
             <guid>https://ticket.melon.com/performance/index.htm?prodId=207386</guid>
@@ -586,6 +536,56 @@
                             2022.11.05 - 2022.11.06</td>
                         <td class="show_loc">연세대학교 백주년기념관 콘서트홀</td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/09/2022091917335914f3e4a6-1fbb-4888-a48d-928c42b9b5b4.jpeg/melon/resize/90x125/strip/true" length="0" type="image/jpeg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[계절과 작별하기 전에－주윤하 소극장 공연 (멜론티켓 ─ 판매중)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=207396</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=207396</guid>
+            <pubDate>Fri, 04 Nov 2022 15:17:33 GMT</pubDate>
+            <content:encoded><![CDATA[<td>
+                            <div class="show_infor">
+                                <div class="thumb_90x125  img">
+                                    <a href="#">
+                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/10/2022100616183549fbaadc-e199-4123-8721-6b756bdcb4ce.jpg/melon/resize/90x125/strip/true" alt="">
+                                        <span class="frame"></span>
+                                    </a>
+                                </div>
+                                <p class="infor_text">
+                                    <span class="ico_wrap">
+                                        <span class="ico_list ico_list1">단독판매</span><span class="ico_list ico_list4"> 판매중</span></span>
+                                    <span class="show_title"><a href="/performance/index.htm?prodId=207396">계절과 작별하기 전에－주윤하 소극장 공연</a></span>
+                                </p>
+                            </div>
+                        </td>
+                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
+                            2022.11.06 - 2022.11.06</td>
+                        <td class="show_loc">살롱 문보우 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/10/2022100616183549fbaadc-e199-4123-8721-6b756bdcb4ce.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[2022 카즈미 타테이시 트리오 내한공연－지브리，재즈를 만나다－（인천） (멜론티켓 ─ 판매중)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=207308</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=207308</guid>
+            <pubDate>Fri, 04 Nov 2022 15:17:33 GMT</pubDate>
+            <content:encoded><![CDATA[<td>
+                            <div class="show_infor">
+                                <div class="thumb_90x125  img">
+                                    <a href="#">
+                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/09/2022091412015807d76d34-43b1-40b4-bc41-08ce8bd7048a.jpg/melon/resize/90x125/strip/true" alt="">
+                                        <span class="frame"></span>
+                                    </a>
+                                </div>
+                                <p class="infor_text">
+                                    <span class="ico_wrap">
+                                        <span class="ico_list ico_list4"> 판매중</span></span>
+                                    <span class="show_title"><a href="/performance/index.htm?prodId=207308">2022 카즈미 타테이시 트리오 내한공연－지브리，재즈를 만나다－（인천）</a></span>
+                                </p>
+                            </div>
+                        </td>
+                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
+                            2022.11.06 - 2022.11.06</td>
+                        <td class="show_loc">인천종합문화예술회관 소공연장</td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/09/2022091412015807d76d34-43b1-40b4-bc41-08ce8bd7048a.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
     </channel>
 </rss>
