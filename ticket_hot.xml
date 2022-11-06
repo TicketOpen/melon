@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 06 Nov 2022 06:19:07 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 06 Nov 2022 07:14:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Fri, 04 Nov 2022 09:15:40 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>22.11.07(월)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/11/2022110417300749be7a4f-daec-4336-8ea2-9ea1b21de408.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[The Poles 단독공연 ‘The High Tide Club FOREVER！’ 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6650</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6650</guid>
+            <pubDate>Sun, 06 Nov 2022 07:14:30 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>22.11.09(수)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/11/2022110415520743d0c8d6-347e-4a57-a86b-c130f629f834.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
         <item>
             <title><![CDATA[한문철TV 개국 기념 콘서트 티켓 오픈 안내]]></title>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 03 Nov 2022 05:21:59 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>22.11.09(수)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/11/20221102152328fb79fcd4-d1e3-4307-9f9c-2220a3f08684.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[WATSON，THE MAESTRO－알버트 왓슨 사진전 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6643</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6643</guid>
-            <pubDate>Wed, 02 Nov 2022 03:56:39 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>22.11.04(금)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/11/202211021100397a7ee5d5-8a4c-4588-a4c9-5b716cbdf216.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
