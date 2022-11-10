@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 10 Nov 2022 08:22:41 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Nov 2022 09:16:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -38,6 +38,14 @@
             <pubDate>Wed, 09 Nov 2022 13:43:37 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>22.11.16(수)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/11/20221108183929e1f53487-2ab2-4b4f-a958-8827018cde44.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[MAMAMOO WORLD TOUR 〈MY CON〉－SEOUL 시야제한석 추가 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6684</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6684</guid>
+            <pubDate>Thu, 10 Nov 2022 09:16:50 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>22.11.14(월)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/11/202211101141507b48c21d-1be4-47c1-8584-8b2995a27b29.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
         <item>
             <title><![CDATA[프롬 정규 3집 〈Mood，sunday〉 발매기념 쇼케이스 콘서트 티켓 오픈 안내]]></title>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 09 Nov 2022 13:43:37 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>22.11.17(목)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/11/20221108165803eb9e4634-9359-4070-abed-8ff959eca4a3.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[2022 엔분의일：Outro 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6675</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6675</guid>
-            <pubDate>Wed, 09 Nov 2022 13:43:37 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>22.11.14(월)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/11/202211081602094eb4ca1e-6783-4f43-9025-4e141a1894ad.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
