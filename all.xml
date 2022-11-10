@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 10 Nov 2022 14:30:02 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Nov 2022 15:15:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -388,31 +388,6 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/11/202211011542106ff93235-a9b2-4811-a0c0-307d8d441bad.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
-            <title><![CDATA[2022 카즈미 타테이시 트리오 내한공연－지브리，재즈를 만나다－（대구） (멜론티켓 ─ 판매중)]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=207315</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=207315</guid>
-            <pubDate>Wed, 09 Nov 2022 13:43:43 GMT</pubDate>
-            <content:encoded><![CDATA[<td>
-                            <div class="show_infor">
-                                <div class="thumb_90x125  img">
-                                    <a href="#">
-                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/09/20220914170500c945d79d-cee2-44d6-8f41-19af364a221c.jpg/melon/resize/90x125/strip/true" alt="">
-                                        <span class="frame"></span>
-                                    </a>
-                                </div>
-                                <p class="infor_text">
-                                    <span class="ico_wrap">
-                                        <span class="ico_list ico_list4"> 판매중</span></span>
-                                    <span class="show_title"><a href="/performance/index.htm?prodId=207315">2022 카즈미 타테이시 트리오 내한공연－지브리，재즈를 만나다－（대구）</a></span>
-                                </p>
-                            </div>
-                        </td>
-                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
-                            2022.11.10 - 2022.11.10</td>
-                        <td class="show_loc">아양아트센터 아양홀</td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/09/20220914170500c945d79d-cee2-44d6-8f41-19af364a221c.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
             <title><![CDATA[ABTB 3집 발매공연 (멜론티켓 ─ 판매중)]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=207422</link>
             <guid>https://ticket.melon.com/performance/index.htm?prodId=207422</guid>
@@ -586,6 +561,31 @@
                             2022.11.12 - 2022.11.12</td>
                         <td class="show_loc">CJ아지트 광흥창 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/10/20221019142913fa7a6bd3-8d08-4f3d-b7c0-4f179e2d115f.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[위아더나잇 LIVE 2022：03 미래를 사랑해 (멜론티켓 ─ 판매중)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=207263</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=207263</guid>
+            <pubDate>Thu, 10 Nov 2022 15:15:58 GMT</pubDate>
+            <content:encoded><![CDATA[<td>
+                            <div class="show_infor">
+                                <div class="thumb_90x125  img">
+                                    <a href="#">
+                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/08/20220831133206e6af9853-d3ef-4216-a873-c0897737e7de.jpg/melon/resize/90x125/strip/true" alt="">
+                                        <span class="frame"></span>
+                                    </a>
+                                </div>
+                                <p class="infor_text">
+                                    <span class="ico_wrap">
+                                        <span class="ico_list ico_list1">단독판매</span><span class="ico_list ico_list4"> 판매중</span></span>
+                                    <span class="show_title"><a href="/performance/index.htm?prodId=207263">위아더나잇 LIVE 2022：03 미래를 사랑해</a></span>
+                                </p>
+                            </div>
+                        </td>
+                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
+                            2022.11.12 - 2022.11.12</td>
+                        <td class="show_loc">케이티앤지 상상마당 부산 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/08/20220831133206e6af9853-d3ef-4216-a873-c0897737e7de.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
     </channel>
 </rss>
