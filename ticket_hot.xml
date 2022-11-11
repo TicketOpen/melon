@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 11 Nov 2022 05:20:51 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Nov 2022 06:23:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Fri, 11 Nov 2022 05:20:45 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>22.11.14(월)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/11/202211111305242697b4e5-4929-4984-bbd7-165e113f4b0a.png/melon/resize/160x225/strip/true" length="0" type="image/png/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[파란，미완의 이야기 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6687</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6687</guid>
+            <pubDate>Fri, 11 Nov 2022 06:23:23 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>22.11.18(금)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/11/20221110143813ebc55f37-a9de-473e-bd31-248f338488ae.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
         <item>
             <title><![CDATA[정석훈 단독 공연 〈Koon’s Cloud〉 티켓 오픈 안내]]></title>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 10 Nov 2022 20:17:56 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>22.11.15(화)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/11/2022110817233470f2d1f1-8e4f-48cd-9025-e04e2f387e31.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[신재범 팬 미팅 〈우주，라이크〉 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6671</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6671</guid>
-            <pubDate>Thu, 10 Nov 2022 20:17:56 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>22.11.14(월)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/11/20221107150956088867d4-4121-4948-95a1-130ff1415639.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
