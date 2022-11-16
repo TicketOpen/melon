@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 16 Nov 2022 03:15:33 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Nov 2022 05:19:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Wed, 16 Nov 2022 03:15:25 GMT</pubDate>
             <content:encoded><![CDATA[오픈일정 보기 &gt;]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/11/20221115162441e05210ab-a71d-43f3-a58f-2403caf42f0b.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[밴드 uni（유니）첫 단독콘서트 Dive into The World！티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6710</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6710</guid>
+            <pubDate>Wed, 16 Nov 2022 05:19:03 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>22.11.21(월)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/11/20221115190530c9ab00ae-441a-46e0-a9bd-9bc794a676ef.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
         <item>
             <title><![CDATA[먼데이프로젝트 시즌5 청춘의 밤［우물 단독 콘서트］티켓 오픈 안내]]></title>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 15 Nov 2022 05:13:59 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>22.11.17(목)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/11/20221114163340302603fd-7e84-4827-8ade-cd7b28702fbb.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 〈웨스트 사이드 스토리〉 3차 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6705</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6705</guid>
-            <pubDate>Tue, 15 Nov 2022 05:13:59 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>22.11.23(수)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/11/202211150936278c5a271a-8dff-44b6-ade7-316c2bd29c13.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
