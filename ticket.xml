@@ -1,8 +1,91 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://ticket.melon.com/csoon/index.htm</id>
-    <title>멜론 티켓</title>
-    <updated>2022-11-17T04:18:26.924Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>멜론 티켓</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Thu, 17 Nov 2022 05:15:25 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[싱어송라이터 이민규 EP［Love Playlist］발매 기념 단독콘서트 Love and Songs 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6717</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6717</guid>
+            <pubDate>Thu, 17 Nov 2022 05:15:09 GMT</pubDate>
+            <content:encoded><![CDATA[2022.11.25(금) 18:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/11/202211161820091dac501f-9e54-4400-82d8-df01264b373c.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[먼데이프로젝트 시즌5［로우행잉프루츠 단독 콘서트 ‘My Universe’］티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6716</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6716</guid>
+            <pubDate>Thu, 17 Nov 2022 05:15:09 GMT</pubDate>
+            <content:encoded><![CDATA[2022.11.24(목) 20:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/11/2022111618132723e5b5b4-fd4a-4c3b-8ef4-771dc13b4e85.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[먼데이프로젝트 시즌5［허드 단독 콘서트 ‘HERD－CHRISTMAS’］티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6715</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6715</guid>
+            <pubDate>Thu, 17 Nov 2022 05:15:09 GMT</pubDate>
+            <content:encoded><![CDATA[2022.11.24(목) 19:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/11/202211161300366ca47a5b-bff4-4857-9048-9fade7f8ea7c.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[현대카드 Curated 81 김준휘 Time 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6714</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6714</guid>
+            <pubDate>Thu, 17 Nov 2022 05:15:09 GMT</pubDate>
+            <content:encoded><![CDATA[2022.11.19(토) 12:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/11/202211161754157c72a4f9-b3f8-4d68-97fe-8c9b494f611e.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[Jean Christopher Cholet X Soojin Suh 콘서트 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6713</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6713</guid>
+            <pubDate>Thu, 17 Nov 2022 05:15:09 GMT</pubDate>
+            <content:encoded><![CDATA[2022.11.21(월) 11:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/11/202211161507495cbd4d81-6338-4766-87cf-ca36d61e92ae.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[러블레스 〈낙과〉 발매 기념 단독 공연 티켓 오픈]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6712</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6712</guid>
+            <pubDate>Thu, 17 Nov 2022 05:15:09 GMT</pubDate>
+            <content:encoded><![CDATA[2022.11.22(화) 20:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/11/2022111610182432c26a5d-b542-4c39-92c5-bf96ac3504b3.png/melon/resize/65x92/strip/true" length="0" type="image/png/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[Questions From Our Night －한로로＆숨비 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6711</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6711</guid>
+            <pubDate>Thu, 17 Nov 2022 05:15:09 GMT</pubDate>
+            <content:encoded><![CDATA[2022.11.18(금) 18:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/11/20221115175754fcb30e95-7c42-4b52-a219-854e8b02135e.png/melon/resize/65x92/strip/true" length="0" type="image/png/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[밴드 uni（유니）첫 단독콘서트 Dive into The World！티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6710</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6710</guid>
+            <pubDate>Thu, 17 Nov 2022 05:15:09 GMT</pubDate>
+            <content:encoded><![CDATA[2022.11.21(월) 14:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/11/20221115190530c9ab00ae-441a-46e0-a9bd-9bc794a676ef.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[먼데이프로젝트 시즌5 청춘의 밤［우물 단독 콘서트］티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6709</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6709</guid>
+            <pubDate>Thu, 17 Nov 2022 05:15:09 GMT</pubDate>
+            <content:encoded><![CDATA[2022.11.24(목) 21:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/11/2022111518085843a1f3ed-6f59-47d7-b681-13b64fb7d9e4.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[먼데이프로젝트 시즌5 청춘의 밤［맥거핀 단독 콘서트］티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6708</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6708</guid>
+            <pubDate>Thu, 17 Nov 2022 05:15:09 GMT</pubDate>
+            <content:encoded><![CDATA[2022.11.23(수) 20:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/11/202211151602275a661d0d-8c41-414f-950f-ad283e4592f2.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+    </channel>
+</rss>
