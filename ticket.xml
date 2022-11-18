@@ -4,16 +4,24 @@
         <title>멜론 티켓</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 18 Nov 2022 06:19:49 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Nov 2022 07:14:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2022 소수빈 연말공연 〈Merry Christmasoo〉 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6726</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6726</guid>
+            <pubDate>Fri, 18 Nov 2022 07:14:06 GMT</pubDate>
+            <content:encoded><![CDATA[2022.11.23(수) 14:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/11/20221118110738e57ac4c8-e015-48e6-bac8-54c0f09fd9fa.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
         <item>
             <title><![CDATA[2022 전동석 콘서트 〈두 번째 선물－기다림〉 티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6725</link>
             <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6725</guid>
             <pubDate>Fri, 18 Nov 2022 06:19:31 GMT</pubDate>
             <content:encoded><![CDATA[2022.11.22(화) 15:00]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/11/202211171542144aa4d15e-5dfe-4e9a-942a-f2b8c5166947.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/11/202211181609572b98ef98-5808-4451-a060-67981b5a2963.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 〈이프덴〉 2차 티켓 오픈 안내]]></title>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 17 Nov 2022 14:14:51 GMT</pubDate>
             <content:encoded><![CDATA[2022.11.25(금) 18:00]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/11/202211161820091dac501f-9e54-4400-82d8-df01264b373c.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[먼데이프로젝트 시즌5［로우행잉프루츠 단독 콘서트 ‘My Universe’］티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6716</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6716</guid>
-            <pubDate>Thu, 17 Nov 2022 14:14:51 GMT</pubDate>
-            <content:encoded><![CDATA[2022.11.24(목) 20:00]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/11/2022111618132723e5b5b4-fd4a-4c3b-8ef4-771dc13b4e85.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
     </channel>
 </rss>
