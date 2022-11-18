@@ -4,9 +4,17 @@
         <title>멜론 티켓</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 18 Nov 2022 05:15:04 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Nov 2022 06:19:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2022 전동석 콘서트 〈두 번째 선물－기다림〉 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6725</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6725</guid>
+            <pubDate>Fri, 18 Nov 2022 06:19:31 GMT</pubDate>
+            <content:encoded><![CDATA[2022.11.22(화) 15:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/11/202211171542144aa4d15e-5dfe-4e9a-942a-f2b8c5166947.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
         <item>
             <title><![CDATA[뮤지컬 〈이프덴〉 2차 티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6724</link>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 17 Nov 2022 14:14:51 GMT</pubDate>
             <content:encoded><![CDATA[2022.11.24(목) 20:00]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/11/2022111618132723e5b5b4-fd4a-4c3b-8ef4-771dc13b4e85.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[먼데이프로젝트 시즌5［허드 단독 콘서트 ‘HERD－CHRISTMAS’］티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6715</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6715</guid>
-            <pubDate>Thu, 17 Nov 2022 14:14:51 GMT</pubDate>
-            <content:encoded><![CDATA[2022.11.24(목) 19:00]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/11/202211161300366ca47a5b-bff4-4857-9048-9fade7f8ea7c.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
     </channel>
 </rss>
