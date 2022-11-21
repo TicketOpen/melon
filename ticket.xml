@@ -4,9 +4,17 @@
         <title>멜론 티켓</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 21 Nov 2022 01:16:39 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Nov 2022 03:15:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Year－end new－song 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6733</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6733</guid>
+            <pubDate>Mon, 21 Nov 2022 03:14:59 GMT</pubDate>
+            <content:encoded><![CDATA[2022.11.23(수) 20:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/11/20221118165406a357c7b9-ff61-43df-a5bc-eac7dab9b3c7.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
         <item>
             <title><![CDATA[2022－23 엠씨더맥스 이수 콘서트 ‘겨울나기’－대구 티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6732</link>
@@ -78,14 +86,6 @@
             <pubDate>Sun, 20 Nov 2022 05:13:58 GMT</pubDate>
             <content:encoded><![CDATA[2022.11.21(월) 20:00]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/11/20221117102657f6ba6df5-4b4c-4523-9b43-fe4cbe72e11c.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[SUPERNOVA！FINAL 너드커넥션 단독 공연 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6721</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6721</guid>
-            <pubDate>Sun, 20 Nov 2022 05:13:58 GMT</pubDate>
-            <content:encoded><![CDATA[2022.11.22(화) 20:00]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/11/20221117140538cf2f0999-9f9b-4109-a3db-d3f201e31541.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
     </channel>
 </rss>
