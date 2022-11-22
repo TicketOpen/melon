@@ -1,8 +1,91 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://ticket.melon.com/csoon/index.htm</id>
-    <title>멜론 티켓</title>
-    <updated>2022-11-22T16:20:49.902Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>멜론 티켓</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Tue, 22 Nov 2022 17:16:38 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[브로콜리너마저 2022년의 우리들－어디에 있더라도 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6744</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6744</guid>
+            <pubDate>Tue, 22 Nov 2022 17:16:18 GMT</pubDate>
+            <content:encoded><![CDATA[2022.11.25(금) 20:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/11/2022112118294369b0aa8d-877d-4e60-af7e-38b3622ca760.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[김주환 〈CANDY〉 쇼케이스 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6743</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6743</guid>
+            <pubDate>Tue, 22 Nov 2022 17:16:18 GMT</pubDate>
+            <content:encoded><![CDATA[2022.11.22(화) 19:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/11/202211211332202b78e6e4-3094-4c7d-a416-314e8156b670.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[이글루베이 콘서트［사계서울］티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6742</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6742</guid>
+            <pubDate>Tue, 22 Nov 2022 17:16:18 GMT</pubDate>
+            <content:encoded><![CDATA[2022.11.25(금) 19:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/11/20221122155506ed8fb1bc-6093-472b-9fed-2048cec8d05d.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[장기하 Curated 15 머드 더 스튜던트：현실주의자들 죽이는 피터팬 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6741</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6741</guid>
+            <pubDate>Tue, 22 Nov 2022 17:16:18 GMT</pubDate>
+            <content:encoded><![CDATA[2022.11.25(금) 14:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/11/20221122115457ddb16445-f593-4741-a450-d9f0895f08d6.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[음악극〈브릴리언트〉 찬란하게 빛나던 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6740</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6740</guid>
+            <pubDate>Tue, 22 Nov 2022 17:16:18 GMT</pubDate>
+            <content:encoded><![CDATA[2022.11.25(금) 11:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/11/20221122113333b5955d22-db65-4a5a-8008-169ba87ad4da.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[2022 THE CRY X－MAS 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6738</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6738</guid>
+            <pubDate>Tue, 22 Nov 2022 17:16:18 GMT</pubDate>
+            <content:encoded><![CDATA[2022.11.24(목) 14:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/11/20221121175810f9d55ad9-92e4-44e5-8335-d26146acbbca.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[조형우 소극장 콘서트 〈Be My Guest〉 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6737</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6737</guid>
+            <pubDate>Tue, 22 Nov 2022 17:16:18 GMT</pubDate>
+            <content:encoded><![CDATA[2022.11.28(월) 18:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/11/20221121180953f1092b70-a224-49a8-9f02-2857f9b41591.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[2022 주은 FANMEETING 〈JU：mp〉 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6736</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6736</guid>
+            <pubDate>Tue, 22 Nov 2022 17:16:18 GMT</pubDate>
+            <content:encoded><![CDATA[2022.11.24(목) 20:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/11/202211181747361e8ee0a7-dc7c-4748-875e-e425c5297891.png/melon/resize/65x92/strip/true" length="0" type="image/png/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[냥 딜리버리：그＿냥의 전국 음악 배달 서비스 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6735</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6735</guid>
+            <pubDate>Tue, 22 Nov 2022 17:16:18 GMT</pubDate>
+            <content:encoded><![CDATA[2022.11.24(목) 20:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/11/20221122131707420d1e9a-bbb2-4b92-8e21-81945245a5d7.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[2022 정우의［Frame］티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6734</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6734</guid>
+            <pubDate>Tue, 22 Nov 2022 17:16:18 GMT</pubDate>
+            <content:encoded><![CDATA[2022.11.25(금) 18:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/11/2022112111245733e2803a-2dca-4539-89e7-7754f7ae3df2.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+    </channel>
+</rss>
