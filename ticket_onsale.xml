@@ -1,8 +1,511 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://ticket.melon.com/place/ajax/list_album.htm</id>
-    <title>멜론티켓 ─ 판매중</title>
-    <updated>2022-11-23T04:17:30.654Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://ticket.melon.com/place/ajax/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>멜론티켓 ─ 판매중</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Wed, 23 Nov 2022 05:13:58 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[치유의 기술 / Technique of Healing－부산]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=206655</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=206655</guid>
+            <pubDate>Wed, 23 Nov 2022 05:13:57 GMT</pubDate>
+            <content:encoded><![CDATA[<td>
+                            <div class="show_infor">
+                                <div class="thumb_90x125  img">
+                                    <a href="#">
+                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/03/2022030715241512eef925-8c62-493e-8b87-6087b341f7cd.jpg/melon/resize/90x125/strip/true" alt="">
+                                        <span class="frame"></span>
+                                    </a>
+                                </div>
+                                <p class="infor_text">
+                                    <span class="ico_wrap">
+                                        <span class="ico_list ico_list4"> 판매중</span></span>
+                                    <span class="show_title"><a href="/performance/index.htm?prodId=206655">치유의 기술 / Technique of Healing－부산</a></span>
+                                </p>
+                            </div>
+                        </td>
+                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
+                            2022.03.26 - 2023.05.07</td>
+                        <td class="show_loc">뮤지엄 원 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/03/2022030715241512eef925-8c62-493e-8b87-6087b341f7cd.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 〈빨래〉]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=206887</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=206887</guid>
+            <pubDate>Wed, 23 Nov 2022 05:13:57 GMT</pubDate>
+            <content:encoded><![CDATA[<td>
+                            <div class="show_infor">
+                                <div class="thumb_90x125  img">
+                                    <a href="#">
+                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/05/202205121140139c622517-e9b8-4ae1-9df1-3988bca599d1.jpg/melon/resize/90x125/strip/true" alt="">
+                                        <span class="frame"></span>
+                                    </a>
+                                </div>
+                                <p class="infor_text">
+                                    <span class="ico_wrap">
+                                        <span class="ico_list ico_list4"> 판매중</span></span>
+                                    <span class="show_title"><a href="/performance/index.htm?prodId=206887">뮤지컬 〈빨래〉</a></span>
+                                </p>
+                            </div>
+                        </td>
+                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
+                            2022.06.10 - 2023.01.29</td>
+                        <td class="show_loc">대학로 유니플렉스 2관</td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/05/202205121140139c622517-e9b8-4ae1-9df1-3988bca599d1.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[W24 정규 1집 〈WHITE ALBUM〉]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=206793</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=206793</guid>
+            <pubDate>Wed, 23 Nov 2022 05:13:57 GMT</pubDate>
+            <content:encoded><![CDATA[<td>
+                            <div class="show_infor">
+                                <div class="thumb_90x125  img">
+                                    <a href="#">
+                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/04/20220415100819b4348c90-a4aa-412f-bc6f-4ae50058bc2e.jpg/melon/resize/90x125/strip/true" alt="">
+                                        <span class="frame"></span>
+                                    </a>
+                                </div>
+                                <p class="infor_text">
+                                    <span class="ico_wrap">
+                                        <span class="ico_list ico_list1">단독판매</span><span class="ico_list ico_list4"> 판매중</span></span>
+                                    <span class="show_title"><a href="/performance/index.htm?prodId=206793">W24 정규 1집 〈WHITE ALBUM〉</a></span>
+                                </p>
+                            </div>
+                        </td>
+                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
+                            2022.08.31 - 2022.12.31</td>
+                        <td class="show_loc">- </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/04/20220415100819b4348c90-a4aa-412f-bc6f-4ae50058bc2e.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[프랑코 폰타나：컬러 인 라이프－얼리버드]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=207338</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=207338</guid>
+            <pubDate>Wed, 23 Nov 2022 05:13:57 GMT</pubDate>
+            <content:encoded><![CDATA[<td>
+                            <div class="show_infor">
+                                <div class="thumb_90x125  img">
+                                    <a href="#">
+                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/09/202209201439544f13d0e0-09b4-4960-a9ac-8e2e0465235f.jpg/melon/resize/90x125/strip/true" alt="">
+                                        <span class="frame"></span>
+                                    </a>
+                                </div>
+                                <p class="infor_text">
+                                    <span class="ico_wrap">
+                                        <span class="ico_list ico_list4"> 판매중</span></span>
+                                    <span class="show_title"><a href="/performance/index.htm?prodId=207338">프랑코&nbsp;폰타나：컬러 인 라이프－얼리버드</a></span>
+                                </p>
+                            </div>
+                        </td>
+                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
+                            2022.09.30 - 2023.03.01</td>
+                        <td class="show_loc">마이아트뮤지엄 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/09/202209201439544f13d0e0-09b4-4960-a9ac-8e2e0465235f.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[프랑코 폰타나：컬러 인 라이프]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=207379</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=207379</guid>
+            <pubDate>Wed, 23 Nov 2022 05:13:57 GMT</pubDate>
+            <content:encoded><![CDATA[<td>
+                            <div class="show_infor">
+                                <div class="thumb_90x125  img">
+                                    <a href="#">
+                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/09/2022092911383419866293-4561-4a1c-919b-adc94918ff8d.jpg/melon/resize/90x125/strip/true" alt="">
+                                        <span class="frame"></span>
+                                    </a>
+                                </div>
+                                <p class="infor_text">
+                                    <span class="ico_wrap">
+                                        <span class="ico_list ico_list4"> 판매중</span></span>
+                                    <span class="show_title"><a href="/performance/index.htm?prodId=207379">프랑코&nbsp;폰타나：컬러 인 라이프</a></span>
+                                </p>
+                            </div>
+                        </td>
+                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
+                            2022.09.30 - 2023.03.01</td>
+                        <td class="show_loc">마이아트뮤지엄 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/09/2022092911383419866293-4561-4a1c-919b-adc94918ff8d.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[하리보 골드베렌 100주년 생일 기념전－얼리버드]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=207249</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=207249</guid>
+            <pubDate>Wed, 23 Nov 2022 05:13:57 GMT</pubDate>
+            <content:encoded><![CDATA[<td>
+                            <div class="show_infor">
+                                <div class="thumb_90x125  img">
+                                    <a href="#">
+                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/09/20220922142914bce602eb-6b0f-4963-b84b-fc2cc7bbe6d4.jpg/melon/resize/90x125/strip/true" alt="">
+                                        <span class="frame"></span>
+                                    </a>
+                                </div>
+                                <p class="infor_text">
+                                    <span class="ico_wrap">
+                                        <span class="ico_list ico_list4"> 판매중</span></span>
+                                    <span class="show_title"><a href="/performance/index.htm?prodId=207249">하리보 골드베렌 100주년 생일 기념전－얼리버드</a></span>
+                                </p>
+                            </div>
+                        </td>
+                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
+                            2022.10.13 - 2022.11.30</td>
+                        <td class="show_loc">안녕 인사동 B1 인사센트럴뮤지엄 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/09/20220922142914bce602eb-6b0f-4963-b84b-fc2cc7bbe6d4.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[하리보 골드베렌 100주년 생일 기념전]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=207416</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=207416</guid>
+            <pubDate>Wed, 23 Nov 2022 05:13:57 GMT</pubDate>
+            <content:encoded><![CDATA[<td>
+                            <div class="show_infor">
+                                <div class="thumb_90x125  img">
+                                    <a href="#">
+                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/10/202210121324282ba41fd7-0b2a-41e1-9f66-d12674c1bbf8.jpg/melon/resize/90x125/strip/true" alt="">
+                                        <span class="frame"></span>
+                                    </a>
+                                </div>
+                                <p class="infor_text">
+                                    <span class="ico_wrap">
+                                        <span class="ico_list ico_list4"> 판매중</span></span>
+                                    <span class="show_title"><a href="/performance/index.htm?prodId=207416">하리보 골드베렌 100주년 생일 기념전</a></span>
+                                </p>
+                            </div>
+                        </td>
+                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
+                            2022.10.13 - 2023.03.12</td>
+                        <td class="show_loc">안녕 인사동 B1 인사센트럴뮤지엄 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/10/202210121324282ba41fd7-0b2a-41e1-9f66-d12674c1bbf8.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 〈웨스트 사이드 스토리〉]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=207296</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=207296</guid>
+            <pubDate>Wed, 23 Nov 2022 05:13:57 GMT</pubDate>
+            <content:encoded><![CDATA[<td>
+                            <div class="show_infor">
+                                <div class="thumb_90x125  img">
+                                    <a href="#">
+                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/09/202209071858267b4b3416-0656-4711-b7c2-956ff6449d64.jpg/melon/resize/90x125/strip/true" alt="">
+                                        <span class="frame"></span>
+                                    </a>
+                                </div>
+                                <p class="infor_text">
+                                    <span class="ico_wrap">
+                                        <span class="ico_list ico_list1">1열보유</span><span class="ico_list ico_list4"> 판매중</span></span>
+                                    <span class="show_title"><a href="/performance/index.htm?prodId=207296">뮤지컬 〈웨스트 사이드 스토리〉</a></span>
+                                </p>
+                            </div>
+                        </td>
+                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
+                            2022.11.17 - 2023.02.26</td>
+                        <td class="show_loc">충무아트센터 대극장</td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/09/202209071858267b4b3416-0656-4711-b7c2-956ff6449d64.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[［얼리버드 2차］헬가스텐첼 사진전]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=207469</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=207469</guid>
+            <pubDate>Wed, 23 Nov 2022 05:13:57 GMT</pubDate>
+            <content:encoded><![CDATA[<td>
+                            <div class="show_infor">
+                                <div class="thumb_90x125  img">
+                                    <a href="#">
+                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/10/202210261718365303c3c7-4e50-4b41-9265-ee704fe9bcdc.jpg/melon/resize/90x125/strip/true" alt="">
+                                        <span class="frame"></span>
+                                    </a>
+                                </div>
+                                <p class="infor_text">
+                                    <span class="ico_wrap">
+                                        <span class="ico_list ico_list4"> 판매중</span></span>
+                                    <span class="show_title"><a href="/performance/index.htm?prodId=207469">［얼리버드 2차］헬가스텐첼 사진전</a></span>
+                                </p>
+                            </div>
+                        </td>
+                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
+                            2022.11.18 - 2022.12.31</td>
+                        <td class="show_loc">롯데컬쳐스퀘어 CxC Art Museum </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/10/202210261718365303c3c7-4e50-4b41-9265-ee704fe9bcdc.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[헬가스텐첼 사진전]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=207583</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=207583</guid>
+            <pubDate>Wed, 23 Nov 2022 05:13:57 GMT</pubDate>
+            <content:encoded><![CDATA[<td>
+                            <div class="show_infor">
+                                <div class="thumb_90x125  img">
+                                    <a href="#">
+                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/11/202211171608490eba859d-1b55-4c4f-99f6-241cadaaec0c.jpg/melon/resize/90x125/strip/true" alt="">
+                                        <span class="frame"></span>
+                                    </a>
+                                </div>
+                                <p class="infor_text">
+                                    <span class="ico_wrap">
+                                        <span class="ico_list ico_list4"> 판매중</span></span>
+                                    <span class="show_title"><a href="/performance/index.htm?prodId=207583">헬가스텐첼 사진전</a></span>
+                                </p>
+                            </div>
+                        </td>
+                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
+                            2022.11.18 - 2023.03.01</td>
+                        <td class="show_loc">롯데컬쳐스퀘어 CxC Art Museum </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/11/202211171608490eba859d-1b55-4c4f-99f6-241cadaaec0c.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 〈알로하，나의 엄마들〉]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=207342</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=207342</guid>
+            <pubDate>Wed, 23 Nov 2022 05:13:57 GMT</pubDate>
+            <content:encoded><![CDATA[<td>
+                            <div class="show_infor">
+                                <div class="thumb_90x125  img">
+                                    <a href="#">
+                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/10/20221028175034d48b4b04-902b-473d-85ee-8b1cdd2544c2.jpg/melon/resize/90x125/strip/true" alt="">
+                                        <span class="frame"></span>
+                                    </a>
+                                </div>
+                                <p class="infor_text">
+                                    <span class="ico_wrap">
+                                        <span class="ico_list ico_list4"> 판매중</span></span>
+                                    <span class="show_title"><a href="/performance/index.htm?prodId=207342">뮤지컬 〈알로하，나의&nbsp;엄마들〉</a></span>
+                                </p>
+                            </div>
+                        </td>
+                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
+                            2022.11.22 - 2022.12.11</td>
+                        <td class="show_loc">세종문화회관 M씨어터</td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/10/20221028175034d48b4b04-902b-473d-85ee-8b1cdd2544c2.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 〈엘리자벳〉 10주년 기념공연－부산]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=207356</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=207356</guid>
+            <pubDate>Wed, 23 Nov 2022 05:13:57 GMT</pubDate>
+            <content:encoded><![CDATA[<td>
+                            <div class="show_infor">
+                                <div class="thumb_90x125  img">
+                                    <a href="#">
+                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/09/2022092711082493fe8228-59a4-44c2-95f9-da022eeb364e.jpg/melon/resize/90x125/strip/true" alt="">
+                                        <span class="frame"></span>
+                                    </a>
+                                </div>
+                                <p class="infor_text">
+                                    <span class="ico_wrap">
+                                        <span class="ico_list ico_list4"> 판매중</span></span>
+                                    <span class="show_title"><a href="/performance/index.htm?prodId=207356">뮤지컬 〈엘리자벳〉 10주년 기념공연－부산</a></span>
+                                </p>
+                            </div>
+                        </td>
+                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
+                            2022.11.22 - 2022.11.27</td>
+                        <td class="show_loc">드림씨어터 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/09/2022092711082493fe8228-59a4-44c2-95f9-da022eeb364e.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[일레인 〈2〉 발매기념 단독콘서트]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=207570</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=207570</guid>
+            <pubDate>Wed, 23 Nov 2022 05:13:57 GMT</pubDate>
+            <content:encoded><![CDATA[<td>
+                            <div class="show_infor">
+                                <div class="thumb_90x125  img">
+                                    <a href="#">
+                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/11/20221116134749bc960513-4ac2-4767-8722-d701a262c584.jpg/melon/resize/90x125/strip/true" alt="">
+                                        <span class="frame"></span>
+                                    </a>
+                                </div>
+                                <p class="infor_text">
+                                    <span class="ico_wrap">
+                                        <span class="ico_list ico_list1">단독판매</span><span class="ico_list ico_list4"> 판매중</span></span>
+                                    <span class="show_title"><a href="/performance/index.htm?prodId=207570">일레인 〈2〉 발매기념 단독콘서트</a></span>
+                                </p>
+                            </div>
+                        </td>
+                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
+                            2022.11.24 - 2022.11.24</td>
+                        <td class="show_loc">CJ아지트 광흥창 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/11/20221116134749bc960513-4ac2-4767-8722-d701a262c584.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[배두훈 팬미팅 MY DEAR]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=207445</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=207445</guid>
+            <pubDate>Wed, 23 Nov 2022 05:13:57 GMT</pubDate>
+            <content:encoded><![CDATA[<td>
+                            <div class="show_infor">
+                                <div class="thumb_90x125  img">
+                                    <a href="#">
+                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/10/20221019132008fc940cc5-4c0c-4530-afe0-c1e551d57d87.jpg/melon/resize/90x125/strip/true" alt="">
+                                        <span class="frame"></span>
+                                    </a>
+                                </div>
+                                <p class="infor_text">
+                                    <span class="ico_wrap">
+                                        <span class="ico_list ico_list1">단독판매</span><span class="ico_list ico_list4"> 판매중</span></span>
+                                    <span class="show_title"><a href="/performance/index.htm?prodId=207445">배두훈 팬미팅 MY DEAR</a></span>
+                                </p>
+                            </div>
+                        </td>
+                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
+                            2022.11.25 - 2022.11.25</td>
+                        <td class="show_loc">건국대 새천년관 대공연장 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/10/20221019132008fc940cc5-4c0c-4530-afe0-c1e551d57d87.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[더 토핑]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=207169</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=207169</guid>
+            <pubDate>Wed, 23 Nov 2022 05:13:57 GMT</pubDate>
+            <content:encoded><![CDATA[<td>
+                            <div class="show_infor">
+                                <div class="thumb_90x125  img">
+                                    <a href="#">
+                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/10/2022103116394211c87a13-c144-4aca-b8ee-de88734193bd.jpg/melon/resize/90x125/strip/true" alt="">
+                                        <span class="frame"></span>
+                                    </a>
+                                </div>
+                                <p class="infor_text">
+                                    <span class="ico_wrap">
+                                        <span class="ico_list ico_list4"> 판매중</span></span>
+                                    <span class="show_title"><a href="/performance/index.htm?prodId=207169">더 토핑</a></span>
+                                </p>
+                            </div>
+                        </td>
+                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
+                            2022.11.25 - 2022.11.27</td>
+                        <td class="show_loc">세종문화회관 S씨어터</td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/10/2022103116394211c87a13-c144-4aca-b8ee-de88734193bd.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[작은평화의 밤]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=207504</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=207504</guid>
+            <pubDate>Wed, 23 Nov 2022 05:13:57 GMT</pubDate>
+            <content:encoded><![CDATA[<td>
+                            <div class="show_infor">
+                                <div class="thumb_90x125  img">
+                                    <a href="#">
+                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/11/20221103154338b0651eb2-38d2-428f-bcf1-c7620dd04ce8.jpg/melon/resize/90x125/strip/true" alt="">
+                                        <span class="frame"></span>
+                                    </a>
+                                </div>
+                                <p class="infor_text">
+                                    <span class="ico_wrap">
+                                        <span class="ico_list ico_list1">단독판매</span><span class="ico_list ico_list4"> 판매중</span></span>
+                                    <span class="show_title"><a href="/performance/index.htm?prodId=207504">작은평화의 밤</a></span>
+                                </p>
+                            </div>
+                        </td>
+                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
+                            2022.11.25 - 2022.11.25</td>
+                        <td class="show_loc">롤링홀 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/11/20221103154338b0651eb2-38d2-428f-bcf1-c7620dd04ce8.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[카코포니 단독공연 〈황홀한 실종〉]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=207524</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=207524</guid>
+            <pubDate>Wed, 23 Nov 2022 05:13:57 GMT</pubDate>
+            <content:encoded><![CDATA[<td>
+                            <div class="show_infor">
+                                <div class="thumb_90x125  img">
+                                    <a href="#">
+                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/11/20221108134659f120ba42-f91f-4d70-8c91-536ff59881b7.jpg/melon/resize/90x125/strip/true" alt="">
+                                        <span class="frame"></span>
+                                    </a>
+                                </div>
+                                <p class="infor_text">
+                                    <span class="ico_wrap">
+                                        <span class="ico_list ico_list1">단독판매</span><span class="ico_list ico_list4"> 판매중</span></span>
+                                    <span class="show_title"><a href="/performance/index.htm?prodId=207524">카코포니 단독공연 〈황홀한 실종〉</a></span>
+                                </p>
+                            </div>
+                        </td>
+                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
+                            2022.11.25 - 2022.11.25</td>
+                        <td class="show_loc">CJ아지트 광흥창 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/11/20221108134659f120ba42-f91f-4d70-8c91-536ff59881b7.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[THE ORDINARY 디 오디너리 앵콜 콘서트]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=207397</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=207397</guid>
+            <pubDate>Wed, 23 Nov 2022 05:13:57 GMT</pubDate>
+            <content:encoded><![CDATA[<td>
+                            <div class="show_infor">
+                                <div class="thumb_90x125  img">
+                                    <a href="#">
+                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/10/20221012165528ca43f33f-2792-466d-8c81-489765d3d752.jpg/melon/resize/90x125/strip/true" alt="">
+                                        <span class="frame"></span>
+                                    </a>
+                                </div>
+                                <p class="infor_text">
+                                    <span class="ico_wrap">
+                                        <span class="ico_list ico_list4"> 판매중</span></span>
+                                    <span class="show_title"><a href="/performance/index.htm?prodId=207397">THE ORDINARY 디 오디너리 앵콜 콘서트</a></span>
+                                </p>
+                            </div>
+                        </td>
+                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
+                            2022.11.26 - 2022.11.26</td>
+                        <td class="show_loc">KBS아레나 (구88체육관) </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/10/20221012165528ca43f33f-2792-466d-8c81-489765d3d752.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[MMA2022（멜론뮤직어워드）]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=207434</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=207434</guid>
+            <pubDate>Wed, 23 Nov 2022 05:13:57 GMT</pubDate>
+            <content:encoded><![CDATA[<td>
+                            <div class="show_infor">
+                                <div class="thumb_90x125  img">
+                                    <a href="#">
+                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/10/202210261054470ad7b4b6-9a18-4f99-8974-c4827e81e050.jpg/melon/resize/90x125/strip/true" alt="">
+                                        <span class="frame"></span>
+                                    </a>
+                                </div>
+                                <p class="infor_text">
+                                    <span class="ico_wrap">
+                                        <span class="ico_list ico_list1">단독판매</span><span class="ico_list ico_list4"> 판매중</span></span>
+                                    <span class="show_title"><a href="/performance/index.htm?prodId=207434">MMA2022（멜론뮤직어워드）</a></span>
+                                </p>
+                            </div>
+                        </td>
+                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
+                            2022.11.26 - 2022.11.26</td>
+                        <td class="show_loc">고척스카이돔 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/10/202210261054470ad7b4b6-9a18-4f99-8974-c4827e81e050.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[2022 남지현 팬미팅 〈어서 와요，우리 집에！〉]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=207464</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=207464</guid>
+            <pubDate>Wed, 23 Nov 2022 05:13:57 GMT</pubDate>
+            <content:encoded><![CDATA[<td>
+                            <div class="show_infor">
+                                <div class="thumb_90x125  img">
+                                    <a href="#">
+                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/10/2022102419024583fa1c1c-1659-466f-92e3-0b85320851dc.jpg/melon/resize/90x125/strip/true" alt="">
+                                        <span class="frame"></span>
+                                    </a>
+                                </div>
+                                <p class="infor_text">
+                                    <span class="ico_wrap">
+                                        <span class="ico_list ico_list1">단독판매</span><span class="ico_list ico_list4"> 판매중</span></span>
+                                    <span class="show_title"><a href="/performance/index.htm?prodId=207464">2022 남지현 팬미팅 〈어서 와요，우리 집에！〉 </a></span>
+                                </p>
+                            </div>
+                        </td>
+                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
+                            2022.11.26 - 2022.11.26</td>
+                        <td class="show_loc">성신여대 운정그린캠퍼스 대강당</td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/10/2022102419024583fa1c1c-1659-466f-92e3-0b85320851dc.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+    </channel>
+</rss>
