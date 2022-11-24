@@ -4,9 +4,25 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Nov 2022 04:17:47 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Nov 2022 05:13:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[먼데이프로젝트 시즌5 음악여행，쉼［정튠 크리스마스 단독 콘서트］티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6754</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6754</guid>
+            <pubDate>Thu, 24 Nov 2022 05:13:39 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>22.12.01(목)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/11/2022112310511883745161-3478-43a9-9239-014450335d5a.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[밴드 웨더보트 첫 번째 단독 콘서트－An Extraordinary Day 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6756</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6756</guid>
+            <pubDate>Thu, 24 Nov 2022 05:13:39 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>22.12.02(금)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/11/20221123161452e9480ed6-cbad-4056-8cdf-52d32f48d4a1.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
         <item>
             <title><![CDATA[PAIR PLAY：Vol．3 어바웃x김새녘 티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6755</link>
@@ -70,22 +86,6 @@
             <pubDate>Thu, 24 Nov 2022 02:51:51 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>22.11.22(화)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/11/202211211332202b78e6e4-3094-4c7d-a416-314e8156b670.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[브로콜리너마저 2022년의 우리들－어디에 있더라도 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6744</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6744</guid>
-            <pubDate>Thu, 24 Nov 2022 02:51:51 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>22.11.25(금)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/11/2022112118294369b0aa8d-877d-4e60-af7e-38b3622ca760.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[먼데이프로젝트 시즌 5 ORIGINAL［아디오스 오디오 단독 콘서트］티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6745</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6745</guid>
-            <pubDate>Thu, 24 Nov 2022 02:51:51 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>22.11.30(수)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/11/20221122191015a6bbbe7e-cf14-4245-8b68-a80d6d6ec73e.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
