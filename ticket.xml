@@ -4,9 +4,17 @@
         <title>멜론 티켓</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Nov 2022 07:13:58 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Nov 2022 08:18:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2022 아시안 팝 스테이지 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6759</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6759</guid>
+            <pubDate>Thu, 24 Nov 2022 08:18:08 GMT</pubDate>
+            <content:encoded><![CDATA[2022.11.29(화) 14:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/11/202211241700216e3cf64f-cd23-4849-8b93-1ddf3cf2a828.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
         <item>
             <title><![CDATA[밴드 웨더보트 첫 번째 단독 콘서트－An Extraordinary Day 티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6756</link>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 24 Nov 2022 02:51:44 GMT</pubDate>
             <content:encoded><![CDATA[2022.12.06(화) 20:00]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/11/202211221727518c9a90ff-a7e0-454e-8d1d-62488d133eff.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[먼데이프로젝트 IN 라이브클럽［투데이올드스니커즈 단독 콘서트］티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6747</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6747</guid>
-            <pubDate>Thu, 24 Nov 2022 02:51:44 GMT</pubDate>
-            <content:encoded><![CDATA[2022.12.01(목) 19:00]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/11/202211221154214660bfe3-3d2d-46f5-8376-344c25d57e33.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
     </channel>
 </rss>
