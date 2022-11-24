@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Nov 2022 10:16:12 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Nov 2022 11:13:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -38,6 +38,14 @@
             <pubDate>Thu, 24 Nov 2022 03:24:32 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>22.11.28(월)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/11/20221123154254a67fa15c-93c2-4fad-8643-7f55393583fe.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[HeMeets 연말 단독 콘서트 ‘OFFICE＆DOWNTOWN’ 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6758</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6758</guid>
+            <pubDate>Thu, 24 Nov 2022 11:13:00 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>22.11.28(월)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/11/20221124095421023d9319-09d7-4c4a-89ef-71c4e345a889.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
         <item>
             <title><![CDATA[O．O．O 2022년 연말 단독 공연〈Out Of〉 티켓 오픈 안내]]></title>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 24 Nov 2022 03:24:32 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>22.11.25(금)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/11/20221123113244c79d1398-4206-40ea-965b-1bb571eb3cee.png/melon/resize/160x225/strip/true" length="0" type="image/png/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[장기하 Curated 15 머드 더 스튜던트：현실주의자들 죽이는 피터팬 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6741</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6741</guid>
-            <pubDate>Thu, 24 Nov 2022 02:51:51 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>22.11.25(금)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/11/20221122115457ddb16445-f593-4741-a450-d9f0895f08d6.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
