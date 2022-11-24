@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Nov 2022 09:14:37 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Nov 2022 10:16:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -38,6 +38,14 @@
             <pubDate>Thu, 24 Nov 2022 03:24:32 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>22.11.28(월)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/11/20221123154254a67fa15c-93c2-4fad-8643-7f55393583fe.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[O．O．O 2022년 연말 단독 공연〈Out Of〉 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6757</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6757</guid>
+            <pubDate>Thu, 24 Nov 2022 10:16:02 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>22.11.28(월)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/11/20221123180132452b212b-f28b-47d5-9316-275a57d4ff7b.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
         <item>
             <title><![CDATA[음악극〈브릴리언트〉 찬란하게 빛나던 티켓 오픈 안내]]></title>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 24 Nov 2022 02:51:51 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>22.11.25(금)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/11/20221122115457ddb16445-f593-4741-a450-d9f0895f08d6.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[이글루베이 콘서트［사계서울］티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6742</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6742</guid>
-            <pubDate>Thu, 24 Nov 2022 02:51:51 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>22.11.25(금)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/11/20221122155506ed8fb1bc-6093-472b-9fed-2048cec8d05d.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
