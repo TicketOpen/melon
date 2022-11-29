@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 29 Nov 2022 04:17:47 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Nov 2022 05:13:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -77,7 +77,7 @@
             <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6768</guid>
             <pubDate>Mon, 28 Nov 2022 23:14:45 GMT</pubDate>
             <content:encoded><![CDATA[2022.11.30(수) 20:00]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/11/202211251734144f3ef870-f3f7-4a6b-9e53-88caf124784e.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/11/202211291403543721e11b-781c-4510-b5a0-5c7fa9da9e02.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
         <item>
             <title><![CDATA[안예은단독콘서트 제6회（안밀린）오타쿠리스마스 티켓 오픈 안내 (멜론 티켓)]]></title>
@@ -86,6 +86,14 @@
             <pubDate>Mon, 28 Nov 2022 23:14:45 GMT</pubDate>
             <content:encoded><![CDATA[2022.12.01(목) 19:00]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/11/20221125134556d27fe92e-cd85-4d9c-9a62-7f532357393f.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[2022 잭킹콩 단독공연［JKC Exhibition：Four Seasons］티켓 오픈 안내 (멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식)]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6768</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6768</guid>
+            <pubDate>Mon, 28 Nov 2022 23:14:45 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>22.11.30(수)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/11/202211291403543721e11b-781c-4510-b5a0-5c7fa9da9e02.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
         <item>
             <title><![CDATA[우주라이브［테종，신경우］콘서트 티켓 오픈 안내 (멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식)]]></title>
@@ -126,14 +134,6 @@
             <pubDate>Mon, 28 Nov 2022 23:14:45 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>22.11.29(화)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/11/20221125175206230c65a4-8f15-47ed-a50e-17e6cb2240f0.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[2022 잭킹콩 단독공연［JKC Exhibition：Four Seasons］티켓 오픈 안내 (멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식)]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6768</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6768</guid>
-            <pubDate>Mon, 28 Nov 2022 23:14:45 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>22.11.30(수)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/11/202211251734144f3ef870-f3f7-4a6b-9e53-88caf124784e.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
         <item>
             <title><![CDATA[함보경 개인전：두근두근 티켓 오픈 안내 (멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식)]]></title>
