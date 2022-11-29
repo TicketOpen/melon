@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 29 Nov 2022 01:10:07 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Nov 2022 02:51:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -48,6 +48,14 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/11/202211251734144f3ef870-f3f7-4a6b-9e53-88caf124784e.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
         <item>
+            <title><![CDATA[함보경 개인전：두근두근 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6776</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6776</guid>
+            <pubDate>Tue, 29 Nov 2022 02:51:18 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>22.11.29(화)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/11/202211281132485bb53472-069b-43cb-a4ac-0f4003d60b27.png/melon/resize/160x225/strip/true" length="0" type="image/png/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
             <title><![CDATA[박성현 프로 팬미팅：남달라와 함께하는 남다른 ‘LOCKER ROOM 5’ 티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6774</link>
             <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6774</guid>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 28 Nov 2022 23:14:51 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>22.12.02(금)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/11/2022112518241324c3191a-5a53-4230-a0c9-69db01541f09.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[2022 임한별 콘서트 ‘Christmas Eve－ning Star’ 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6762</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6762</guid>
-            <pubDate>Mon, 28 Nov 2022 23:14:51 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>22.12.05(월)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/11/2022112415070989e19170-772d-4362-956a-c898db86b0e2.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>

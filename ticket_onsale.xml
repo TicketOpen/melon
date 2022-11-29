@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 판매중</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 29 Nov 2022 01:10:07 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Nov 2022 02:51:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -283,6 +283,31 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/10/20221028175034d48b4b04-902b-473d-85ee-8b1cdd2544c2.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
+            <title><![CDATA[함보경 개인전：두근두근]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=207628</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=207628</guid>
+            <pubDate>Tue, 29 Nov 2022 02:51:29 GMT</pubDate>
+            <content:encoded><![CDATA[<td>
+                            <div class="show_infor">
+                                <div class="thumb_90x125  img">
+                                    <a href="#">
+                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/11/202211281127068f0beadf-0cc1-400e-83b1-b94bea561765.png/melon/resize/90x125/strip/true" alt="">
+                                        <span class="frame"></span>
+                                    </a>
+                                </div>
+                                <p class="infor_text">
+                                    <span class="ico_wrap">
+                                        <span class="ico_list ico_list4"> 판매중</span></span>
+                                    <span class="show_title"><a href="/performance/index.htm?prodId=207628">함보경 개인전：두근두근</a></span>
+                                </p>
+                            </div>
+                        </td>
+                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
+                            2022.11.24 - 2022.12.27</td>
+                        <td class="show_loc">라이크디즈위드 김광석거리점 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/11/202211281127068f0beadf-0cc1-400e-83b1-b94bea561765.png/melon/resize/90x125/strip/true" length="0" type="image/png/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
             <title><![CDATA[조준호 단독 콘서트 〈무대 위 5 seats〉]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=207489</link>
             <guid>https://ticket.melon.com/performance/index.htm?prodId=207489</guid>
@@ -481,31 +506,6 @@
                             2022.12.02 - 2022.12.04</td>
                         <td class="show_loc">CKL 스테이지 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/11/2022110811345758ee1f95-5e61-4a59-831e-c7e0ea501de5.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[휘현 졸업공연 TOGETHER 음악은 함께 하는 것！]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=207510</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=207510</guid>
-            <pubDate>Mon, 28 Nov 2022 23:15:00 GMT</pubDate>
-            <content:encoded><![CDATA[<td>
-                            <div class="show_infor">
-                                <div class="thumb_90x125  img">
-                                    <a href="#">
-                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/11/202211041654119a49a644-0747-4b79-983a-698095654827.jpg/melon/resize/90x125/strip/true" alt="">
-                                        <span class="frame"></span>
-                                    </a>
-                                </div>
-                                <p class="infor_text">
-                                    <span class="ico_wrap">
-                                        <span class="ico_list ico_list1">단독판매</span><span class="ico_list ico_list4"> 판매중</span></span>
-                                    <span class="show_title"><a href="/performance/index.htm?prodId=207510">휘현 졸업공연 TOGETHER 음악은 함께 하는 것！</a></span>
-                                </p>
-                            </div>
-                        </td>
-                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
-                            2022.12.02 - 2022.12.02</td>
-                        <td class="show_loc">벨로주 홍대 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/11/202211041654119a49a644-0747-4b79-983a-698095654827.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
     </channel>
 </rss>
