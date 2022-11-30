@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 30 Nov 2022 14:14:02 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Nov 2022 15:16:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -291,31 +291,6 @@
                             2022.09.30 - 2023.03.01</td>
                         <td class="show_loc">마이아트뮤지엄 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/09/2022092911383419866293-4561-4a1c-919b-adc94918ff8d.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[하리보 골드베렌 100주년 생일 기념전－얼리버드 (멜론티켓 ─ 판매중)]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=207249</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=207249</guid>
-            <pubDate>Wed, 30 Nov 2022 09:14:40 GMT</pubDate>
-            <content:encoded><![CDATA[<td>
-                            <div class="show_infor">
-                                <div class="thumb_90x125  img">
-                                    <a href="#">
-                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/09/20220922142914bce602eb-6b0f-4963-b84b-fc2cc7bbe6d4.jpg/melon/resize/90x125/strip/true" alt="">
-                                        <span class="frame"></span>
-                                    </a>
-                                </div>
-                                <p class="infor_text">
-                                    <span class="ico_wrap">
-                                        <span class="ico_list ico_list4"> 판매중</span></span>
-                                    <span class="show_title"><a href="/performance/index.htm?prodId=207249">하리보 골드베렌 100주년 생일 기념전－얼리버드</a></span>
-                                </p>
-                            </div>
-                        </td>
-                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
-                            2022.10.13 - 2022.11.30</td>
-                        <td class="show_loc">안녕 인사동 B1 인사센트럴뮤지엄 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/09/20220922142914bce602eb-6b0f-4963-b84b-fc2cc7bbe6d4.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
             <title><![CDATA[하리보 골드베렌 100주년 생일 기념전 (멜론티켓 ─ 판매중)]]></title>
@@ -666,6 +641,31 @@
                             2022.12.02 - 2022.12.03</td>
                         <td class="show_loc">잠실실내체육관 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/11/2022110715161989ac7a2a-df54-43ed-8d46-c956e58877d0.png/melon/resize/90x125/strip/true" length="0" type="image/png/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[TUNE UP STAGE：ROCK MY WORLD  튠업 스테이지：락 마이 월드 (멜론티켓 ─ 판매중)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=207556</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=207556</guid>
+            <pubDate>Wed, 30 Nov 2022 15:16:13 GMT</pubDate>
+            <content:encoded><![CDATA[<td>
+                            <div class="show_infor">
+                                <div class="thumb_90x125  img">
+                                    <a href="#">
+                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/11/202211141807324b3207a8-2cc6-4773-80ad-30953a7de0ad.png/melon/resize/90x125/strip/true" alt="">
+                                        <span class="frame"></span>
+                                    </a>
+                                </div>
+                                <p class="infor_text">
+                                    <span class="ico_wrap">
+                                        <span class="ico_list ico_list1">단독판매</span><span class="ico_list ico_list4"> 판매중</span></span>
+                                    <span class="show_title"><a href="/performance/index.htm?prodId=207556">TUNE UP STAGE：ROCK MY WORLD  튠업 스테이지：락 마이 월드</a></span>
+                                </p>
+                            </div>
+                        </td>
+                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
+                            2022.12.02 - 2022.12.02</td>
+                        <td class="show_loc">CJ아지트 광흥창 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/11/202211141807324b3207a8-2cc6-4773-80ad-30953a7de0ad.png/melon/resize/90x125/strip/true" length="0" type="image/png/melon/resize/90x125/strip/true"/>
         </item>
     </channel>
 </rss>
