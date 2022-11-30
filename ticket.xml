@@ -4,7 +4,7 @@
         <title>멜론 티켓</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 30 Nov 2022 09:14:41 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Nov 2022 10:15:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Wed, 30 Nov 2022 09:14:24 GMT</pubDate>
             <content:encoded><![CDATA[2022.12.06(화) 18:00]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/11/202211291706056b2df226-e9ed-4168-8b75-14a30d38fd9e.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[TONE STUDIO LIVE 〈김푸름〉 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6786</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6786</guid>
+            <pubDate>Wed, 30 Nov 2022 10:15:36 GMT</pubDate>
+            <content:encoded><![CDATA[2022.12.07(수) 20:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/11/2022112915442251c3efd7-ec4b-4796-bb92-7733065531fa.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
         <item>
             <title><![CDATA[9001 연말 콘서트［Rewind］티켓 오픈 안내]]></title>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 30 Nov 2022 09:14:24 GMT</pubDate>
             <content:encoded><![CDATA[2022.12.02(금) 20:00]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/11/2022112911071659894349-7ae3-40e4-8475-9d3b97770e0e.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[우주라이브［테종，신경우］콘서트 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6777</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6777</guid>
-            <pubDate>Wed, 30 Nov 2022 09:14:24 GMT</pubDate>
-            <content:encoded><![CDATA[2022.11.30(수) 13:00]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/11/202211281528123bb5f409-0e27-4b31-add6-12fee3eb5628.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
     </channel>
 </rss>
