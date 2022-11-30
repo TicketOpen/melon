@@ -4,9 +4,25 @@
         <title>멜론 티켓</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 30 Nov 2022 05:14:10 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Nov 2022 06:19:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[어썸스테이지 in 부산－LUCY 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6788</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6788</guid>
+            <pubDate>Wed, 30 Nov 2022 06:18:53 GMT</pubDate>
+            <content:encoded><![CDATA[2022.12.07(수) 18:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/11/202211291707455dc8280f-1217-4816-89f3-27f4139b747e.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[어썸스테이지 in 부산－하현상＆LUCY 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6787</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6787</guid>
+            <pubDate>Wed, 30 Nov 2022 06:18:53 GMT</pubDate>
+            <content:encoded><![CDATA[2022.12.06(화) 18:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/11/202211291706056b2df226-e9ed-4168-8b75-14a30d38fd9e.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
         <item>
             <title><![CDATA[로칼하이프리즘스테이지 기부콘서트 ‘나눔’ 티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6783</link>
@@ -70,22 +86,6 @@
             <pubDate>Tue, 29 Nov 2022 20:15:17 GMT</pubDate>
             <content:encoded><![CDATA[2022.11.29(화) 20:00]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/11/202211252032228570627a-acb3-40fe-994a-6fa56eb12f54.png/melon/resize/65x92/strip/true" length="0" type="image/png/melon/resize/65x92/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[박성현 프로 팬미팅：남달라와 함께하는 남다른 ‘LOCKER ROOM 5’ 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6774</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6774</guid>
-            <pubDate>Tue, 29 Nov 2022 20:15:17 GMT</pubDate>
-            <content:encoded><![CDATA[2022.11.29(화) 20:00]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/11/20221128103712f463dfe5-95ac-4faa-95cc-e7bfcc00e8f7.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[ONEWE ‘ONE day in the WEnter（겨울의 어느 날）’ 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6773</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6773</guid>
-            <pubDate>Tue, 29 Nov 2022 20:15:17 GMT</pubDate>
-            <content:encoded><![CDATA[2022.12.02(금) 20:00]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/11/2022112518241324c3191a-5a53-4230-a0c9-69db01541f09.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
     </channel>
 </rss>
