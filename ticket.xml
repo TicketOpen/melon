@@ -4,7 +4,7 @@
         <title>멜론 티켓</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 01 Dec 2022 08:19:27 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Dec 2022 09:14:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Thu, 01 Dec 2022 03:08:19 GMT</pubDate>
             <content:encoded><![CDATA[2022.12.07(수) 20:00]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/11/20221130111338b89906c0-cd9a-43a9-9386-df7f4c92a09b.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[2022 장재인 BOOK CONCERT 〈Jane Air〉 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6789</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6789</guid>
+            <pubDate>Thu, 01 Dec 2022 09:14:36 GMT</pubDate>
+            <content:encoded><![CDATA[2022.12.02(금) 20:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/11/2022113011020703ac6d23-609c-4da2-bfaa-1956160eff15.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
         <item>
             <title><![CDATA[어썸스테이지 in 부산－LUCY 티켓 오픈 안내]]></title>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 30 Nov 2022 23:14:52 GMT</pubDate>
             <content:encoded><![CDATA[2022.12.05(월) 20:00]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/11/202211291417443980b8a5-ed0e-464a-810f-f8966bf0d3da.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[먼데이프로젝트 IN 라이브클럽［다정 단독 콘서트］티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6781</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6781</guid>
-            <pubDate>Wed, 30 Nov 2022 23:14:52 GMT</pubDate>
-            <content:encoded><![CDATA[2022.12.07(수) 19:00]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/11/202211291308517ac4854d-85bf-4267-92e5-fadd6dc0ee13.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
     </channel>
 </rss>
