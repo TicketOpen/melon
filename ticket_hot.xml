@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 02 Dec 2022 10:15:13 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Dec 2022 11:10:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Fri, 02 Dec 2022 06:17:24 GMT</pubDate>
             <content:encoded><![CDATA[오픈일정 보기 &gt;]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/12/2022120118022224987c34-2efc-40b3-8215-35a562bef4f7.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[메리 크리스투아！（Merry Christua！）티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6798</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6798</guid>
+            <pubDate>Fri, 02 Dec 2022 11:10:29 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>22.12.08(목)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/12/20221201155733ac60dbe1-8c65-477a-b0e7-a26d011db05c.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
         <item>
             <title><![CDATA[크림빌라 퓨리 쇼케이스 티켓 오픈 안내]]></title>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 02 Dec 2022 06:17:24 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>22.12.05(월)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/12/20221201102814092cbd60-03ab-450b-b297-d4cf98b833f5.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[BADLAMB 단독 콘서트－UNIVERSAL ANXIETY 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6793</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6793</guid>
-            <pubDate>Fri, 02 Dec 2022 06:17:24 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>22.12.06(화)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/12/202212011000573c4d59cc-90ab-4050-a7d3-ba9511e9ad53.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
