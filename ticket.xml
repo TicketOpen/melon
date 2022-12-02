@@ -4,9 +4,25 @@
         <title>멜론 티켓</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 02 Dec 2022 08:17:19 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Dec 2022 09:13:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[크림빌라 퓨리 쇼케이스 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6797</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6797</guid>
+            <pubDate>Fri, 02 Dec 2022 09:13:05 GMT</pubDate>
+            <content:encoded><![CDATA[2022.12.05(월) 14:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/12/2022120111543366f8583b-fdbb-4ee0-9748-8685c8e95010.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[박장현 1st Fanmeeting ‘현주소’ 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6796</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6796</guid>
+            <pubDate>Fri, 02 Dec 2022 09:13:05 GMT</pubDate>
+            <content:encoded><![CDATA[2022.12.05(월) 20:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/12/202212011153092f485fb2-3464-4724-89bc-e9a44e53c780.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
         <item>
             <title><![CDATA[2022 세리 단독 팬미팅：세리 in milky way 티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6795</link>
@@ -70,22 +86,6 @@
             <pubDate>Fri, 02 Dec 2022 06:17:17 GMT</pubDate>
             <content:encoded><![CDATA[2022.12.07(수) 18:00]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/11/202211291707455dc8280f-1217-4816-89f3-27f4139b747e.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[어썸스테이지 in 부산－하현상＆LUCY 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6787</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6787</guid>
-            <pubDate>Fri, 02 Dec 2022 06:17:17 GMT</pubDate>
-            <content:encoded><![CDATA[2022.12.06(화) 18:00]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/11/202211291706056b2df226-e9ed-4168-8b75-14a30d38fd9e.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[TONE STUDIO LIVE 〈김푸름〉 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6786</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6786</guid>
-            <pubDate>Fri, 02 Dec 2022 06:17:17 GMT</pubDate>
-            <content:encoded><![CDATA[2022.12.07(수) 20:00]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/11/2022112915442251c3efd7-ec4b-4796-bb92-7733065531fa.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
     </channel>
 </rss>
