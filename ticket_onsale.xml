@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 판매중</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 05 Dec 2022 14:13:25 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Dec 2022 15:14:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -283,31 +283,6 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/11/202211281127068f0beadf-0cc1-400e-83b1-b94bea561765.png/melon/resize/90x125/strip/true" length="0" type="image/png/melon/resize/90x125/strip/true"/>
         </item>
         <item>
-            <title><![CDATA[먼데이프로젝트 시즌5 ORIGINAL［화노 단독 콘서트］]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=207527</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=207527</guid>
-            <pubDate>Mon, 05 Dec 2022 14:13:24 GMT</pubDate>
-            <content:encoded><![CDATA[<td>
-                            <div class="show_infor">
-                                <div class="thumb_90x125  img">
-                                    <a href="#">
-                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/11/202211081702190de0364f-9972-4377-ae30-4e758b6cea3b.jpg/melon/resize/90x125/strip/true" alt="">
-                                        <span class="frame"></span>
-                                    </a>
-                                </div>
-                                <p class="infor_text">
-                                    <span class="ico_wrap">
-                                        <span class="ico_list ico_list1">단독판매</span><span class="ico_list ico_list4"> 판매중</span></span>
-                                    <span class="show_title"><a href="/performance/index.htm?prodId=207527">먼데이프로젝트 시즌5 ORIGINAL［화노 단독 콘서트］</a></span>
-                                </p>
-                            </div>
-                        </td>
-                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
-                            2022.12.05 - 2022.12.05</td>
-                        <td class="show_loc">벨로주 홍대 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/11/202211081702190de0364f-9972-4377-ae30-4e758b6cea3b.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
             <title><![CDATA[서울시합창단 송년음악회「Special Day」]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=207168</link>
             <guid>https://ticket.melon.com/performance/index.htm?prodId=207168</guid>
@@ -506,6 +481,31 @@
                             2022.12.09 - 2022.12.11</td>
                         <td class="show_loc">예술의전당 오페라극장</td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/11/202211031415521eb7ecf3-ed34-4b7f-a426-4334f85fa73c.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[Year－end new－song]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=207590</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=207590</guid>
+            <pubDate>Mon, 05 Dec 2022 15:14:42 GMT</pubDate>
+            <content:encoded><![CDATA[<td>
+                            <div class="show_infor">
+                                <div class="thumb_90x125  img">
+                                    <a href="#">
+                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/11/202211181657581b420c8c-5dcc-4642-80b6-b95b5805ec86.jpg/melon/resize/90x125/strip/true" alt="">
+                                        <span class="frame"></span>
+                                    </a>
+                                </div>
+                                <p class="infor_text">
+                                    <span class="ico_wrap">
+                                        <span class="ico_list ico_list1">단독판매</span><span class="ico_list ico_list4"> 판매중</span></span>
+                                    <span class="show_title"><a href="/performance/index.htm?prodId=207590">Year－end new－song</a></span>
+                                </p>
+                            </div>
+                        </td>
+                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
+                            2022.12.09 - 2022.12.09</td>
+                        <td class="show_loc">벨로주 홍대 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/11/202211181657581b420c8c-5dcc-4642-80b6-b95b5805ec86.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
     </channel>
 </rss>
