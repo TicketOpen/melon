@@ -4,9 +4,17 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 06 Dec 2022 07:13:08 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 06 Dec 2022 08:17:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2022 메리상수마스 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6801</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6801</guid>
+            <pubDate>Tue, 06 Dec 2022 08:17:34 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>22.12.07(수)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/12/20221202153706fa69b25f-907f-4331-bedc-580f68120e7d.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
         <item>
             <title><![CDATA[로맨틱펀치의 단독공연 96번째 로맨틱파티 티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6802</link>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 06 Dec 2022 02:40:42 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>22.12.05(월)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/12/2022120111543366f8583b-fdbb-4ee0-9748-8685c8e95010.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[우주라이브 Augi．vol 4（with August）콘서트 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6800</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6800</guid>
-            <pubDate>Tue, 06 Dec 2022 02:40:42 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>22.12.06(화)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/12/202212021531183770b9b0-7471-4944-b6af-81a30bb91198.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
