@@ -4,7 +4,7 @@
         <title>멜론 티켓</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 07 Dec 2022 02:48:04 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Dec 2022 03:19:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,22 @@
             <pubDate>Tue, 06 Dec 2022 19:12:03 GMT</pubDate>
             <content:encoded><![CDATA[2022.12.14(수) 14:00]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/12/20221206143756ae4d91f0-bb29-4055-8ef2-25f355e80159.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[경서 단독 콘서트 ‘경서랑 팬서트’：롤링 28주년 기념 공연 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6810</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6810</guid>
+            <pubDate>Wed, 07 Dec 2022 03:19:21 GMT</pubDate>
+            <content:encoded><![CDATA[2022.12.14(수) 20:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/12/20221206134945b58c607d-eb27-48c2-a6e5-78f71a086a62.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[리온 단독 콘서트：LAST SUMMER 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6809</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6809</guid>
+            <pubDate>Wed, 07 Dec 2022 03:19:21 GMT</pubDate>
+            <content:encoded><![CDATA[2022.12.07(수) 12:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/12/202212060954136f538726-0980-46a7-83f1-7181dc484bdb.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 〈이프덴〉 3차 티켓 오픈 안내]]></title>
@@ -70,22 +86,6 @@
             <pubDate>Tue, 06 Dec 2022 19:12:03 GMT</pubDate>
             <content:encoded><![CDATA[2022.12.06(화) 20:00]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/12/20221202164255e16cec63-1587-4307-8dd6-c63b6732a4a5.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[2022 메리상수마스 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6801</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6801</guid>
-            <pubDate>Tue, 06 Dec 2022 19:12:03 GMT</pubDate>
-            <content:encoded><![CDATA[2022.12.07(수) 12:00]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/12/20221202153706fa69b25f-907f-4331-bedc-580f68120e7d.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[우주라이브 Augi．vol 4（with August）콘서트 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6800</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6800</guid>
-            <pubDate>Tue, 06 Dec 2022 19:12:03 GMT</pubDate>
-            <content:encoded><![CDATA[2022.12.06(화) 13:00]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/12/202212021531183770b9b0-7471-4944-b6af-81a30bb91198.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
     </channel>
 </rss>
