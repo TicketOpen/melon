@@ -4,9 +4,17 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 07 Dec 2022 01:06:34 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Dec 2022 02:48:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[우리들의 따뜻한 겨울 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6807</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6807</guid>
+            <pubDate>Tue, 06 Dec 2022 19:12:10 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>22.12.06(화)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/12/20221205162104cb3ee9d7-1170-4d7c-9c69-45a314dd2ff7.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
         <item>
             <title><![CDATA[헤이맨（HeyMen）연말 단독 콘서트 티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=5648</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 06 Dec 2022 19:12:10 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>22.12.14(수)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/12/20221206143756ae4d91f0-bb29-4055-8ef2-25f355e80159.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[우리들의 따뜻한 겨울 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6807</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6807</guid>
-            <pubDate>Tue, 06 Dec 2022 19:12:10 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>22.12.06(화)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/12/20221205162104cb3ee9d7-1170-4d7c-9c69-45a314dd2ff7.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
         <item>
             <title><![CDATA[빅마마 이지영 2022 단독콘서트 〈숨결，Kiss〉 티켓 오픈 안내]]></title>
