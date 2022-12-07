@@ -4,7 +4,7 @@
         <title>멜론 티켓</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 07 Dec 2022 08:17:58 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Dec 2022 09:13:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Wed, 07 Dec 2022 07:12:32 GMT</pubDate>
             <content:encoded><![CDATA[2022.12.09(금) 11:00]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/12/202212071551235ba4be2c-1365-469f-8199-524cae5a3831.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[신해경 최저낙원 단독공연 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6815</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6815</guid>
+            <pubDate>Wed, 07 Dec 2022 09:13:25 GMT</pubDate>
+            <content:encoded><![CDATA[2022.12.08(목) 20:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/12/20221206144600ddc30b4f-fbaa-4da0-8b0e-bf61a600843d.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
         <item>
             <title><![CDATA[2022 몽돌 단독 콘서트 ‘Weekend Drive’ 티켓 오픈 안내]]></title>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 07 Dec 2022 07:12:32 GMT</pubDate>
             <content:encoded><![CDATA[2022.12.06(화) 10:00]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/12/20221205162104cb3ee9d7-1170-4d7c-9c69-45a314dd2ff7.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[DRIFT：In Sync with the Earth 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6806</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6806</guid>
-            <pubDate>Wed, 07 Dec 2022 07:12:32 GMT</pubDate>
-            <content:encoded><![CDATA[2022.12.08(목) 09:00]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/12/20221202155726ea9a505b-5e55-4f06-ace0-6f3a49f302b6.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
     </channel>
 </rss>
