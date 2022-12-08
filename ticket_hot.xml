@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 08 Dec 2022 03:16:23 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Dec 2022 04:17:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -72,20 +72,20 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/12/202212071551235ba4be2c-1365-469f-8199-524cae5a3831.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
         <item>
+            <title><![CDATA[우주라이브［퀸샤（Quinsha）］콘서트 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6817</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6817</guid>
+            <pubDate>Thu, 08 Dec 2022 04:16:53 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>22.12.09(금)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/12/20221207141752b6583d13-0ab4-4f04-ab2c-651836924d91.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
             <title><![CDATA[리온 단독 콘서트：LAST SUMMER 티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6809</link>
             <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6809</guid>
             <pubDate>Wed, 07 Dec 2022 23:13:36 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>22.12.07(수)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/12/202212060954136f538726-0980-46a7-83f1-7181dc484bdb.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[우리들의 따뜻한 겨울 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6807</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6807</guid>
-            <pubDate>Wed, 07 Dec 2022 23:13:36 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>22.12.06(화)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/12/20221205162104cb3ee9d7-1170-4d7c-9c69-45a314dd2ff7.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
