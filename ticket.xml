@@ -4,9 +4,17 @@
         <title>멜론 티켓</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 08 Dec 2022 02:43:01 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Dec 2022 03:16:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2022 이지혜 단독 팬콘서트 〈첫번졔〉 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6819</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6819</guid>
+            <pubDate>Thu, 08 Dec 2022 03:16:06 GMT</pubDate>
+            <content:encoded><![CDATA[오픈일정 보기 &gt;]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/12/202212081028396e28ec63-adab-492e-9bcf-d0c64cef6215.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
         <item>
             <title><![CDATA[뮤지컬 알쏭달쏭 캐치！티니핑 〈신비한 상자를 열어라！〉 티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6818</link>
@@ -14,6 +22,14 @@
             <pubDate>Wed, 07 Dec 2022 23:13:29 GMT</pubDate>
             <content:encoded><![CDATA[2022.12.09(금) 11:00]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/12/202212071551235ba4be2c-1365-469f-8199-524cae5a3831.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[크리스탈 티 단독 콘서트 ‘겨울엔 야자수’：롤링 28주년 기념 공연 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6816</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6816</guid>
+            <pubDate>Thu, 08 Dec 2022 03:16:06 GMT</pubDate>
+            <content:encoded><![CDATA[2022.12.16(금) 20:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/12/20221207104648ccd46a90-48c5-4d14-8add-bd94a5f11075.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
         <item>
             <title><![CDATA[신해경 최저낙원 단독공연 티켓 오픈 안내]]></title>
@@ -70,22 +86,6 @@
             <pubDate>Wed, 07 Dec 2022 23:13:29 GMT</pubDate>
             <content:encoded><![CDATA[2022.12.07(수) 12:00]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/12/202212060954136f538726-0980-46a7-83f1-7181dc484bdb.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 〈이프덴〉 3차 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6808</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6808</guid>
-            <pubDate>Wed, 07 Dec 2022 23:13:29 GMT</pubDate>
-            <content:encoded><![CDATA[2022.12.12(월) 14:00]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/12/202212051635026fbe985c-9fe2-4423-9137-c086f4359b3f.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[우리들의 따뜻한 겨울 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6807</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6807</guid>
-            <pubDate>Wed, 07 Dec 2022 23:13:29 GMT</pubDate>
-            <content:encoded><![CDATA[2022.12.06(화) 10:00]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/12/20221205162104cb3ee9d7-1170-4d7c-9c69-45a314dd2ff7.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
     </channel>
 </rss>
