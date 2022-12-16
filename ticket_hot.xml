@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 16 Dec 2022 04:16:01 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Dec 2022 05:12:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -38,6 +38,14 @@
             <pubDate>Thu, 15 Dec 2022 15:15:08 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>22.12.21(수)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/12/202212141139168a7dfe6a-cf11-47be-a8b6-030c57a81901.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[2022 WORLD TOUR JAY B TAPE：PRESS PAUSE ENCORE in SEOUL 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6838</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6838</guid>
+            <pubDate>Fri, 16 Dec 2022 05:12:34 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>22.12.23(금)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/12/2022121515401387263281-0823-42e7-901b-c9781c03fc9f.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
         <item>
             <title><![CDATA[김준서 단독 콘서트 ‘나의 자전’：롤링 28주년 기념 공연 티켓 오픈 안내]]></title>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 15 Dec 2022 15:15:08 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>22.12.08(목)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/12/202212021842166cfd0c47-5029-402e-87ae-a3f134bb2638.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[오프더메뉴 단독 콘서트 ‘Point Of View’：롤링 28주년 기념 공연 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6829</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6829</guid>
-            <pubDate>Thu, 15 Dec 2022 15:15:08 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>22.12.19(월)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/12/20221212094157d8f980ca-4b08-454f-82de-0f9da97acbeb.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
