@@ -4,9 +4,17 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 18 Dec 2022 05:11:43 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 18 Dec 2022 06:15:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[［크루셜스타 단독콘서트：별밤4］티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6839</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6839</guid>
+            <pubDate>Sun, 18 Dec 2022 06:15:42 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>22.12.20(화)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/12/202212161518426883d376-e6ef-4f5f-ac33-ec1f18a56838.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
         <item>
             <title><![CDATA[더베인x오오오：크리스마스크로스 티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6837</link>
@@ -78,14 +86,6 @@
             <pubDate>Sat, 17 Dec 2022 07:11:06 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>22.12.15(목)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/12/20221214171223c55f7a5d-f68a-4ec2-92e2-0a61b1333c5d.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[정동원 콘서트 2nd 음학회 ‘音學會’（2nd JEONG DONG WON’S ORCHESTRA CONCERT）－서울 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6799</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6799</guid>
-            <pubDate>Sat, 17 Dec 2022 07:11:06 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>22.12.08(목)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/12/202212021842166cfd0c47-5029-402e-87ae-a3f134bb2638.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
