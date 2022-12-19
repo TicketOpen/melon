@@ -4,9 +4,25 @@
         <title>멜론 티켓</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 19 Dec 2022 02:10:59 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Dec 2022 03:14:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김영소 단독 콘서트：롤링 28주년 기념 공연 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6841</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6841</guid>
+            <pubDate>Mon, 19 Dec 2022 03:14:07 GMT</pubDate>
+            <content:encoded><![CDATA[2022.12.26(월) 20:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/12/20221216161242c2fe2e04-75fe-453b-b58b-fe1a0a200704.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[1225 단독 콘서트：롤링 28주년 기념 공연 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6840</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6840</guid>
+            <pubDate>Mon, 19 Dec 2022 03:14:07 GMT</pubDate>
+            <content:encoded><![CDATA[2022.12.22(목) 20:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/12/20221216114323912e1d61-5028-422a-9496-78b78280aaa5.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
         <item>
             <title><![CDATA[［크루셜스타 단독콘서트：별밤4］티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6839</link>
@@ -70,22 +86,6 @@
             <pubDate>Sat, 17 Dec 2022 07:10:59 GMT</pubDate>
             <content:encoded><![CDATA[2022.12.15(목) 09:00]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/12/20221214171223c55f7a5d-f68a-4ec2-92e2-0a61b1333c5d.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[맥거핀 단독 콘서트：롤링 28주년 기념 공연 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6831</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6831</guid>
-            <pubDate>Sat, 17 Dec 2022 07:10:59 GMT</pubDate>
-            <content:encoded><![CDATA[2022.12.20(화) 20:00]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/12/20221213111405c35f314e-2706-4b46-a4d9-66e6e4678ceb.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[Attention 24 EP 앨범 ‘Purple’ 발매 기념 단독공연 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6830</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6830</guid>
-            <pubDate>Sat, 17 Dec 2022 07:10:59 GMT</pubDate>
-            <content:encoded><![CDATA[2022.12.13(화) 11:00]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/12/2022121213321465c85361-7f3c-4549-b2aa-ff683458ca32.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
     </channel>
 </rss>

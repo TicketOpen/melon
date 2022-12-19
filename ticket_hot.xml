@@ -4,9 +4,17 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 19 Dec 2022 02:10:59 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Dec 2022 03:14:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김영소 단독 콘서트：롤링 28주년 기념 공연 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6841</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6841</guid>
+            <pubDate>Mon, 19 Dec 2022 03:14:14 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>22.12.26(월)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/12/20221216161242c2fe2e04-75fe-453b-b58b-fe1a0a200704.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
         <item>
             <title><![CDATA[［크루셜스타 단독콘서트：별밤4］티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6839</link>
@@ -22,6 +30,14 @@
             <pubDate>Sat, 17 Dec 2022 07:11:06 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>22.12.17(토)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/12/20221215184725085f7d0b-0505-49cf-afda-958db76c3114.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[1225 단독 콘서트：롤링 28주년 기념 공연 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6840</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6840</guid>
+            <pubDate>Mon, 19 Dec 2022 03:14:14 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>22.12.22(목)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/12/20221216114323912e1d61-5028-422a-9496-78b78280aaa5.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
         <item>
             <title><![CDATA[행로난 콘서트 〈한가운데〉 티켓 오픈 안내]]></title>
@@ -70,22 +86,6 @@
             <pubDate>Sat, 17 Dec 2022 07:11:06 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>22.12.16(금)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/12/20221209160557ad35a398-1a2a-46c8-98e1-8aadf3cf36ee.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[맥거핀 단독 콘서트：롤링 28주년 기념 공연 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6831</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6831</guid>
-            <pubDate>Sat, 17 Dec 2022 07:11:06 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>22.12.20(화)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/12/20221213111405c35f314e-2706-4b46-a4d9-66e6e4678ceb.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[2023 개츠비 뉴이얼스 카운트다운 파티에 초대합니다！티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6832</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6832</guid>
-            <pubDate>Sat, 17 Dec 2022 07:11:06 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>22.12.15(목)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/12/20221214171223c55f7a5d-f68a-4ec2-92e2-0a61b1333c5d.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
