@@ -4,9 +4,17 @@
         <title>멜론 티켓</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 19 Dec 2022 09:13:54 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Dec 2022 10:15:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[THE BOYZ 공식 팬클럽 〈THE B〉 5기 모집 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6843</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6843</guid>
+            <pubDate>Mon, 19 Dec 2022 10:15:40 GMT</pubDate>
+            <content:encoded><![CDATA[2022.12.21(수) 18:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/12/2022121917333939fd5afd-7312-4531-b05f-309080dab5a9.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
         <item>
             <title><![CDATA[IVE THE FIRST FAN CONCERT 〈The Prom Queens〉 티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6842</link>
@@ -78,14 +86,6 @@
             <pubDate>Sat, 17 Dec 2022 07:10:59 GMT</pubDate>
             <content:encoded><![CDATA[2022.12.16(금) 19:00]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/12/20221214112433ee38f453-acfb-409d-a9d9-b4530a45507b.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[화노 단독 콘서트：롤링 28주년 기념 공연 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6833</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6833</guid>
-            <pubDate>Sat, 17 Dec 2022 07:10:59 GMT</pubDate>
-            <content:encoded><![CDATA[2022.12.21(수) 20:00]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/12/202212141139168a7dfe6a-cf11-47be-a8b6-030c57a81901.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
     </channel>
 </rss>

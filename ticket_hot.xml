@@ -4,9 +4,17 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 19 Dec 2022 09:13:54 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Dec 2022 10:15:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[THE BOYZ 공식 팬클럽 〈THE B〉 5기 모집 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6843</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6843</guid>
+            <pubDate>Mon, 19 Dec 2022 10:15:46 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>22.12.21(수)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/12/2022121917333939fd5afd-7312-4531-b05f-309080dab5a9.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
         <item>
             <title><![CDATA[IVE THE FIRST FAN CONCERT 〈The Prom Queens〉 티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6842</link>
@@ -78,14 +86,6 @@
             <pubDate>Sat, 17 Dec 2022 07:11:06 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>22.12.23(금)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/12/2022121515401387263281-0823-42e7-901b-c9781c03fc9f.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[김준서 단독 콘서트 ‘나의 자전’：롤링 28주년 기념 공연 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6836</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6836</guid>
-            <pubDate>Sat, 17 Dec 2022 07:11:06 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>22.12.22(목)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/12/20221215102124b7156aea-98bc-4165-b464-34b7b6ffb45b.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
