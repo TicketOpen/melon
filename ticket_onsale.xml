@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 판매중</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 19 Dec 2022 14:13:19 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Dec 2022 15:16:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -433,56 +433,6 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/12/20221207133904bbe9d15a-7d37-4be1-a37b-3b2656dd6b52.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
-            <title><![CDATA[먼데이프로젝트 IN 라이브클럽［투데이올드스니커즈 단독 콘서트］]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=207598</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=207598</guid>
-            <pubDate>Sun, 18 Dec 2022 15:12:14 GMT</pubDate>
-            <content:encoded><![CDATA[<td>
-                            <div class="show_infor">
-                                <div class="thumb_90x125  img">
-                                    <a href="#">
-                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/11/20221122114928f827c382-914e-474a-978f-452334bbd065.jpg/melon/resize/90x125/strip/true" alt="">
-                                        <span class="frame"></span>
-                                    </a>
-                                </div>
-                                <p class="infor_text">
-                                    <span class="ico_wrap">
-                                        <span class="ico_list ico_list1">단독판매</span><span class="ico_list ico_list4"> 판매중</span></span>
-                                    <span class="show_title"><a href="/performance/index.htm?prodId=207598">먼데이프로젝트 IN 라이브클럽［투데이올드스니커즈 단독 콘서트］</a></span>
-                                </p>
-                            </div>
-                        </td>
-                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
-                            2022.12.19 - 2022.12.19</td>
-                        <td class="show_loc">네스트나다 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/11/20221122114928f827c382-914e-474a-978f-452334bbd065.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[먼데이프로젝트 시즌 5 ORIGINAL［아디오스 오디오 단독 콘서트］]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=207604</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=207604</guid>
-            <pubDate>Sun, 18 Dec 2022 15:12:14 GMT</pubDate>
-            <content:encoded><![CDATA[<td>
-                            <div class="show_infor">
-                                <div class="thumb_90x125  img">
-                                    <a href="#">
-                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/11/202211221905562de31fe6-c36d-4b89-8fc4-4bcf7e17399d.jpg/melon/resize/90x125/strip/true" alt="">
-                                        <span class="frame"></span>
-                                    </a>
-                                </div>
-                                <p class="infor_text">
-                                    <span class="ico_wrap">
-                                        <span class="ico_list ico_list1">단독판매</span><span class="ico_list ico_list4"> 판매중</span></span>
-                                    <span class="show_title"><a href="/performance/index.htm?prodId=207604">먼데이프로젝트 시즌 5 ORIGINAL［아디오스 오디오 단독 콘서트］</a></span>
-                                </p>
-                            </div>
-                        </td>
-                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
-                            2022.12.19 - 2022.12.19</td>
-                        <td class="show_loc">클럽온에어 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/11/202211221905562de31fe6-c36d-4b89-8fc4-4bcf7e17399d.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
             <title><![CDATA[싱어송라이터 시리즈－정세운]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=207513</link>
             <guid>https://ticket.melon.com/performance/index.htm?prodId=207513</guid>
@@ -506,6 +456,56 @@
                             2022.12.20 - 2022.12.22</td>
                         <td class="show_loc">세종문화회관 S씨어터</td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/11/20221107141825d394f1a5-d2c2-43eb-ae3a-afd49e979122.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[먼데이프로젝트 시즌5［허드 단독 콘서트 ‘HERD－CHRISTMAS’］]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=207569</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=207569</guid>
+            <pubDate>Mon, 19 Dec 2022 15:16:29 GMT</pubDate>
+            <content:encoded><![CDATA[<td>
+                            <div class="show_infor">
+                                <div class="thumb_90x125  img">
+                                    <a href="#">
+                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/11/20221116125917358d9f1c-1d50-4b36-b313-c23a1e82b6ca.jpg/melon/resize/90x125/strip/true" alt="">
+                                        <span class="frame"></span>
+                                    </a>
+                                </div>
+                                <p class="infor_text">
+                                    <span class="ico_wrap">
+                                        <span class="ico_list ico_list1">단독판매</span><span class="ico_list ico_list4"> 판매중</span></span>
+                                    <span class="show_title"><a href="/performance/index.htm?prodId=207569">먼데이프로젝트 시즌5［허드 단독 콘서트 ‘HERD－CHRISTMAS’］</a></span>
+                                </p>
+                            </div>
+                        </td>
+                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
+                            2022.12.20 - 2022.12.20</td>
+                        <td class="show_loc">클럽온에어 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/11/20221116125917358d9f1c-1d50-4b36-b313-c23a1e82b6ca.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[김주환 〈CANDY〉 쇼케이스]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=207591</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=207591</guid>
+            <pubDate>Mon, 19 Dec 2022 15:16:29 GMT</pubDate>
+            <content:encoded><![CDATA[<td>
+                            <div class="show_infor">
+                                <div class="thumb_90x125  img">
+                                    <a href="#">
+                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/11/20221121105635cb8ade5d-7f7c-47c0-bdc5-39304717b2ad.jpg/melon/resize/90x125/strip/true" alt="">
+                                        <span class="frame"></span>
+                                    </a>
+                                </div>
+                                <p class="infor_text">
+                                    <span class="ico_wrap">
+                                        <span class="ico_list ico_list1">단독판매</span><span class="ico_list ico_list4"> 판매중</span></span>
+                                    <span class="show_title"><a href="/performance/index.htm?prodId=207591">김주환 〈CANDY〉 쇼케이스</a></span>
+                                </p>
+                            </div>
+                        </td>
+                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
+                            2022.12.20 - 2022.12.20</td>
+                        <td class="show_loc">오디오가이 스튜디오 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/11/20221121105635cb8ade5d-7f7c-47c0-bdc5-39304717b2ad.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
     </channel>
 </rss>
