@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 판매중</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 21 Dec 2022 14:12:33 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Dec 2022 15:14:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -483,29 +483,29 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/12/2022121917335434ecbd01-e965-4546-aaad-1d9d7a91bc7d.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
-            <title><![CDATA[먼데이프로젝트 시즌5 ［온더달 단독 콘서트 ‘낭만실종’］]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=207607</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=207607</guid>
-            <pubDate>Tue, 20 Dec 2022 15:15:21 GMT</pubDate>
+            <title><![CDATA[메리 크리스투아！（Merry Christua！）]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=207646</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=207646</guid>
+            <pubDate>Wed, 21 Dec 2022 15:14:23 GMT</pubDate>
             <content:encoded><![CDATA[<td>
                             <div class="show_infor">
                                 <div class="thumb_90x125  img">
                                     <a href="#">
-                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/11/20221123114243c52402d1-3363-4491-99e2-d46332b6e16a.jpg/melon/resize/90x125/strip/true" alt="">
+                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/11/20221130152600bce219a3-d7de-480d-bad3-871a1b835fab.jpg/melon/resize/90x125/strip/true" alt="">
                                         <span class="frame"></span>
                                     </a>
                                 </div>
                                 <p class="infor_text">
                                     <span class="ico_wrap">
                                         <span class="ico_list ico_list1">단독판매</span><span class="ico_list ico_list4"> 판매중</span></span>
-                                    <span class="show_title"><a href="/performance/index.htm?prodId=207607">먼데이프로젝트 시즌5 ［온더달 단독 콘서트 ‘낭만실종’］</a></span>
+                                    <span class="show_title"><a href="/performance/index.htm?prodId=207646">메리 크리스투아！（Merry Christua！）</a></span>
                                 </p>
                             </div>
                         </td>
                         <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
-                            2022.12.21 - 2022.12.21</td>
-                        <td class="show_loc">CJ아지트 광흥창 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/11/20221123114243c52402d1-3363-4491-99e2-d46332b6e16a.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+                            2022.12.22 - 2022.12.22</td>
+                        <td class="show_loc">구름아래소극장 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/11/20221130152600bce219a3-d7de-480d-bad3-871a1b835fab.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
     </channel>
 </rss>
