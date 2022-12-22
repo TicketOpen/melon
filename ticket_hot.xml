@@ -1,8 +1,91 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://ticket.melon.com/csoon/index.htm#orderType=0&amp;pageIndex=1&amp;schGcode=GENRE_ALL&amp;schText=&amp;schDt=</id>
-    <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
-    <updated>2022-12-22T07:12:14.687Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Thu, 22 Dec 2022 08:16:32 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[스탠딩에그 단독 콘서트 ‘스탠딩 콘서트’：롤링 28주년 기념 공연 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6848</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6848</guid>
+            <pubDate>Thu, 22 Dec 2022 08:16:25 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>22.12.28(수)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/12/2022122111040283f01680-9d92-4301-ae46-e3e57b639059.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 〈이프덴〉 4차 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6847</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6847</guid>
+            <pubDate>Thu, 22 Dec 2022 08:16:25 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>22.12.27(화)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/12/20221220142235b1873325-038f-4abc-903e-de6e1a0244b4.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[2022 WORLD TOUR JAY B TAPE：PRESS PAUSE ENCORE in SEOUL 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6838</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6838</guid>
+            <pubDate>Thu, 22 Dec 2022 08:16:25 GMT</pubDate>
+            <content:encoded><![CDATA[오픈일정 보기 &gt;]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/12/20221220141452ca5bcb1b-9fe0-4791-bf9a-4042d7bed935.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[쇼미더머니11 콘서트 〈Show Me the Money11 Concert〉－부산 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6845</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6845</guid>
+            <pubDate>Thu, 22 Dec 2022 08:16:25 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>22.12.23(금)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/12/20221220155418d11dbdfb-5a62-40f4-924b-038689571193.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[1225 단독 콘서트：롤링 28주년 기념 공연 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6840</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6840</guid>
+            <pubDate>Thu, 22 Dec 2022 08:16:25 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>22.12.22(목)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/12/20221216114323912e1d61-5028-422a-9496-78b78280aaa5.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[김영소 단독 콘서트：롤링 28주년 기념 공연 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6841</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6841</guid>
+            <pubDate>Thu, 22 Dec 2022 08:16:25 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>22.12.26(월)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/12/20221216161242c2fe2e04-75fe-453b-b58b-fe1a0a200704.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[IVE THE FIRST FAN CONCERT 〈The Prom Queens〉 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6842</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6842</guid>
+            <pubDate>Thu, 22 Dec 2022 08:16:25 GMT</pubDate>
+            <content:encoded><![CDATA[오픈일정 보기 &gt;]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/12/202212161651066c4d3c1b-33fd-4d5c-8ecc-8eca006da7f5.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[THE BOYZ 공식 팬클럽 〈THE B〉 5기 모집 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6843</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6843</guid>
+            <pubDate>Thu, 22 Dec 2022 08:16:25 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>22.12.21(수)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/12/2022121917333939fd5afd-7312-4531-b05f-309080dab5a9.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[D82 단독 콘서트：롤링 28주년 기념 공연 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6846</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6846</guid>
+            <pubDate>Thu, 22 Dec 2022 08:16:25 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>22.12.27(화)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/12/202212201257181dd92e7e-1230-42e8-8d69-47bea70918d1.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[프레젠트프로젝트 〈SING SANG SONG：87dance 단독 콘서트 ‘Preview of COLOR PAPER HOTEL’〉 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6844</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6844</guid>
+            <pubDate>Thu, 22 Dec 2022 08:16:25 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>22.12.21(수)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/12/20221219145354d083fb22-a1e3-48b0-bdee-33cba950835a.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+    </channel>
+</rss>
