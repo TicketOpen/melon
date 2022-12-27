@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 27 Dec 2022 09:12:46 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Dec 2022 10:14:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -139,7 +139,7 @@
             <title><![CDATA[한요한［Time Machine］ENCORE CONCERT 티켓 오픈 안내 (멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식)]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6855</link>
             <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6855</guid>
-            <pubDate>Tue, 27 Dec 2022 09:12:39 GMT</pubDate>
+            <pubDate>Tue, 27 Dec 2022 09:12:32 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>22.12.28(수)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/12/2022122617454686dcf35e-063d-4afb-b4fd-8bfb2ebd3e59.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
@@ -651,7 +651,7 @@
                             <div class="show_infor">
                                 <div class="thumb_90x125  img">
                                     <a href="#">
-                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/12/20221206164818f29f885c-47fc-47c3-9447-93850c9478cf.jpg/melon/resize/90x125/strip/true" alt="">
+                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/12/20221227191132ab845a53-ac27-4bbf-a8e4-12a33e09a085.jpg/melon/resize/90x125/strip/true" alt="">
                                         <span class="frame"></span>
                                     </a>
                                 </div>
@@ -665,7 +665,7 @@
                         <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
                             2022.12.28 - 2023.01.05</td>
                         <td class="show_loc">- </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/12/20221206164818f29f885c-47fc-47c3-9447-93850c9478cf.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/12/20221227191132ab845a53-ac27-4bbf-a8e4-12a33e09a085.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
     </channel>
 </rss>
