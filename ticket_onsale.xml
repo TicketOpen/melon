@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 판매중</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 29 Dec 2022 14:12:16 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 29 Dec 2022 15:13:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -458,31 +458,6 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/12/20221227191132ab845a53-ac27-4bbf-a8e4-12a33e09a085.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
-            <title><![CDATA[행로난 콘서트 〈한가운데〉]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=207690</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=207690</guid>
-            <pubDate>Wed, 28 Dec 2022 15:13:20 GMT</pubDate>
-            <content:encoded><![CDATA[<td>
-                            <div class="show_infor">
-                                <div class="thumb_90x125  img">
-                                    <a href="#">
-                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/12/20221214135441c1314af9-81b5-47b8-b1f2-ecead3032d72.jpg/melon/resize/90x125/strip/true" alt="">
-                                        <span class="frame"></span>
-                                    </a>
-                                </div>
-                                <p class="infor_text">
-                                    <span class="ico_wrap">
-                                        <span class="ico_list ico_list1">단독판매</span><span class="ico_list ico_list4"> 판매중</span></span>
-                                    <span class="show_title"><a href="/performance/index.htm?prodId=207690">행로난 콘서트 〈한가운데〉</a></span>
-                                </p>
-                            </div>
-                        </td>
-                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
-                            2022.12.29 - 2022.12.29</td>
-                        <td class="show_loc">더 뮤지션 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/12/20221214135441c1314af9-81b5-47b8-b1f2-ecead3032d72.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
             <title><![CDATA[2022 전동석 콘서트 〈두 번째 선물－기다림〉]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=207580</link>
             <guid>https://ticket.melon.com/performance/index.htm?prodId=207580</guid>
@@ -506,6 +481,31 @@
                             2022.12.29 - 2022.12.30</td>
                         <td class="show_loc">롯데콘서트홀 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/11/20221118160940cc8a8c98-33f8-4835-886e-ca8d687ff52a.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 〈엘리자벳〉 10주년 기념공연－성남]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=207406</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=207406</guid>
+            <pubDate>Thu, 29 Dec 2022 15:13:26 GMT</pubDate>
+            <content:encoded><![CDATA[<td>
+                            <div class="show_infor">
+                                <div class="thumb_90x125  img">
+                                    <a href="#">
+                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/10/202210141027169b6ec487-2b22-4f9a-a3e4-eb023cdc94e1.jpg/melon/resize/90x125/strip/true" alt="">
+                                        <span class="frame"></span>
+                                    </a>
+                                </div>
+                                <p class="infor_text">
+                                    <span class="ico_wrap">
+                                        <span class="ico_list ico_list4"> 판매중</span></span>
+                                    <span class="show_title"><a href="/performance/index.htm?prodId=207406">뮤지컬 〈엘리자벳〉 10주년 기념공연－성남</a></span>
+                                </p>
+                            </div>
+                        </td>
+                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
+                            2022.12.30 - 2023.01.01</td>
+                        <td class="show_loc">성남아트센터 오페라하우스</td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/10/202210141027169b6ec487-2b22-4f9a-a3e4-eb023cdc94e1.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
     </channel>
 </rss>
