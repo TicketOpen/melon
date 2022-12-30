@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 30 Dec 2022 02:35:43 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 30 Dec 2022 03:14:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -38,6 +38,14 @@
             <pubDate>Wed, 28 Dec 2022 05:12:30 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>23.01.04(수)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/12/20221227154448ee55a124-fd11-4903-a0cd-b2dd326c453d.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[Tuesday Beach Club 단독 콘서트 ‘WAY’：롤링 28주년 기념 공연 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6862</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6862</guid>
+            <pubDate>Fri, 30 Dec 2022 03:14:36 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>23.01.05(목)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/12/20221229105625eeb94dba-77d2-4da0-938f-1bb2a90b0773.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
         <item>
             <title><![CDATA[1225 단독 콘서트：롤링 28주년 기념 공연 티켓 오픈 안내]]></title>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 23 Dec 2022 01:01:10 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>22.12.29(목)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/12/20221222172651acbfca1d-1016-4e3d-bd93-e595f8f1997b.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[정석훈＆LOW HANGING FRUITS 〈TRAVEL〉 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6853</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6853</guid>
-            <pubDate>Mon, 26 Dec 2022 05:12:33 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>22.12.28(수)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/12/202212260947498875a6da-3aba-4dfe-843d-512ead9a9d59.png/melon/resize/160x225/strip/true" length="0" type="image/png/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
