@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 01 Jan 2023 14:11:24 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 Jan 2023 15:12:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -518,31 +518,6 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/12/20221227191132ab845a53-ac27-4bbf-a8e4-12a33e09a085.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 〈엘리자벳〉 10주년 기념공연－성남 (멜론티켓 ─ 판매중)]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=207406</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=207406</guid>
-            <pubDate>Sun, 01 Jan 2023 12:22:42 GMT</pubDate>
-            <content:encoded><![CDATA[<td>
-                            <div class="show_infor">
-                                <div class="thumb_90x125  img">
-                                    <a href="#">
-                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/10/202210141027169b6ec487-2b22-4f9a-a3e4-eb023cdc94e1.jpg/melon/resize/90x125/strip/true" alt="">
-                                        <span class="frame"></span>
-                                    </a>
-                                </div>
-                                <p class="infor_text">
-                                    <span class="ico_wrap">
-                                        <span class="ico_list ico_list4"> 판매중</span></span>
-                                    <span class="show_title"><a href="/performance/index.htm?prodId=207406">뮤지컬 〈엘리자벳〉 10주년 기념공연－성남</a></span>
-                                </p>
-                            </div>
-                        </td>
-                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
-                            2022.12.30 - 2023.01.01</td>
-                        <td class="show_loc">성남아트센터 오페라하우스</td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/10/202210141027169b6ec487-2b22-4f9a-a3e4-eb023cdc94e1.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
             <title><![CDATA[크리스탈 티 단독 콘서트 ‘겨울엔 야자수’：롤링 28주년 기념 공연 (멜론티켓 ─ 판매중)]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=207670</link>
             <guid>https://ticket.melon.com/performance/index.htm?prodId=207670</guid>
@@ -666,6 +641,31 @@
                             2023.01.07 - 2023.01.07</td>
                         <td class="show_loc">롤링홀 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/12/20221209092524c83d0268-dd71-4123-b326-2dcf4370fd62.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[W24 단독 콘서트 〈우리，모든 날〉 (멜론티켓 ─ 판매중)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=207419</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=207419</guid>
+            <pubDate>Sun, 01 Jan 2023 15:12:51 GMT</pubDate>
+            <content:encoded><![CDATA[<td>
+                            <div class="show_infor">
+                                <div class="thumb_90x125  img">
+                                    <a href="#">
+                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/11/20221107112719c69292cc-8621-42ed-bbaf-20f0c0cb8ec4.jpg/melon/resize/90x125/strip/true" alt="">
+                                        <span class="frame"></span>
+                                    </a>
+                                </div>
+                                <p class="infor_text">
+                                    <span class="ico_wrap">
+                                        <span class="ico_list ico_list1">단독판매</span><span class="ico_list ico_list4"> 판매중</span></span>
+                                    <span class="show_title"><a href="/performance/index.htm?prodId=207419">W24 단독 콘서트 〈우리，모든 날〉</a></span>
+                                </p>
+                            </div>
+                        </td>
+                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
+                            2023.01.07 - 2023.01.07</td>
+                        <td class="show_loc">KT&amp;G 상상마당 춘천 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/11/20221107112719c69292cc-8621-42ed-bbaf-20f0c0cb8ec4.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
     </channel>
 </rss>
