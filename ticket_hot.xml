@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 03 Jan 2023 02:14:59 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 Jan 2023 03:14:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -48,6 +48,14 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/12/20221229105625eeb94dba-77d2-4da0-938f-1bb2a90b0773.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
         <item>
+            <title><![CDATA[KARDI 단독 콘서트：롤링 28주년 기념 공연 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6867</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6867</guid>
+            <pubDate>Tue, 03 Jan 2023 03:14:24 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>23.01.10(화)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/01/202301021052266d321433-389d-4e53-8d27-a57668559219.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
             <title><![CDATA[헤온（heon）X Low Hanging Fruits 합동공연 〈해〉 티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6861</link>
             <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6861</guid>
@@ -78,14 +86,6 @@
             <pubDate>Sun, 01 Jan 2023 12:22:36 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>23.01.04(수)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/12/20221227154448ee55a124-fd11-4903-a0cd-b2dd326c453d.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[1225 단독 콘서트：롤링 28주년 기념 공연 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6840</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6840</guid>
-            <pubDate>Sun, 01 Jan 2023 12:22:36 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>22.12.27(화)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/12/20221216114323912e1d61-5028-422a-9496-78b78280aaa5.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
