@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 03 Jan 2023 04:15:39 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 Jan 2023 05:12:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -88,6 +88,14 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/12/202212271352172044b9da-0ca5-4f27-aba3-f721a8c95035.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
         <item>
+            <title><![CDATA[ICE BREAKING 티켓 오픈 안내 (멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식)]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6865</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6865</guid>
+            <pubDate>Mon, 02 Jan 2023 03:14:17 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>23.01.04(수)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/12/202212301752116bb40eee-04f7-40d8-8457-0de8c6391f04.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
             <title><![CDATA[KARDI 단독 콘서트：롤링 28주년 기념 공연 티켓 오픈 안내 (멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식)]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6867</link>
             <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6867</guid>
@@ -102,14 +110,6 @@
             <pubDate>Mon, 02 Jan 2023 05:12:46 GMT</pubDate>
             <content:encoded><![CDATA[오픈일정 보기 &gt;]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/01/20230102101307417dddeb-ebbc-4833-8843-ac82ae0e538e.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[ICE BREAKING 티켓 오픈 안내 (멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식)]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6865</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6865</guid>
-            <pubDate>Mon, 02 Jan 2023 03:14:17 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>23.01.04(수)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/12/202212301752116bb40eee-04f7-40d8-8457-0de8c6391f04.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
         <item>
             <title><![CDATA[김마리 단독 콘서트 ‘Fly！’：롤링 28주년 기념 공연 티켓 오픈 안내 (멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식)]]></title>
