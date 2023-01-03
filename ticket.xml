@@ -1,8 +1,91 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://ticket.melon.com/csoon/index.htm</id>
-    <title>멜론 티켓</title>
-    <updated>2023-01-03T11:11:26.559Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>멜론 티켓</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Tue, 03 Jan 2023 12:25:28 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[KARDI 단독 콘서트：롤링 28주년 기념 공연 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6867</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6867</guid>
+            <pubDate>Tue, 03 Jan 2023 12:25:14 GMT</pubDate>
+            <content:encoded><![CDATA[2023.01.10(화) 20:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/01/202301021052266d321433-389d-4e53-8d27-a57668559219.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[2023 송강 아시아 팬미팅 투어 〈강이로운 순간〉 IN SEOUL 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6866</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6866</guid>
+            <pubDate>Tue, 03 Jan 2023 12:25:14 GMT</pubDate>
+            <content:encoded><![CDATA[오픈일정 보기 &gt;]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/01/20230102101307417dddeb-ebbc-4833-8843-ac82ae0e538e.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[ICE BREAKING 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6865</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6865</guid>
+            <pubDate>Tue, 03 Jan 2023 12:25:14 GMT</pubDate>
+            <content:encoded><![CDATA[2023.01.04(수) 18:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/12/202212301752116bb40eee-04f7-40d8-8457-0de8c6391f04.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[김마리 단독 콘서트 ‘Fly！’：롤링 28주년 기념 공연 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6864</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6864</guid>
+            <pubDate>Tue, 03 Jan 2023 12:25:14 GMT</pubDate>
+            <content:encoded><![CDATA[2023.01.09(월) 20:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/12/20221230144905b1a74f95-603b-43ff-b595-4280c36f8bb7.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[Mind，Heart ＃1 실험 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6863</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6863</guid>
+            <pubDate>Tue, 03 Jan 2023 12:25:14 GMT</pubDate>
+            <content:encoded><![CDATA[오픈일정 보기 &gt;]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/12/2022123014284642c09bdc-868e-4b62-991b-ab1f1a07d006.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[Tuesday Beach Club 단독 콘서트 ‘WAY’：롤링 28주년 기념 공연 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6862</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6862</guid>
+            <pubDate>Tue, 03 Jan 2023 12:25:14 GMT</pubDate>
+            <content:encoded><![CDATA[2023.01.05(목) 20:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/12/20221229105625eeb94dba-77d2-4da0-938f-1bb2a90b0773.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[헤온（heon）X Low Hanging Fruits 합동공연 〈해〉 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6861</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6861</guid>
+            <pubDate>Tue, 03 Jan 2023 12:25:14 GMT</pubDate>
+            <content:encoded><![CDATA[2023.01.05(목) 20:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/12/20221228133556c7e68e14-8dfa-49cc-98bb-8ac81b8c7aa7.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[강재훈 X 류다빈 JAEHUN KANG X DABIN RYU 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6860</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6860</guid>
+            <pubDate>Tue, 03 Jan 2023 12:25:14 GMT</pubDate>
+            <content:encoded><![CDATA[2022.12.30(금) 14:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/12/20221228142540ea4c6133-4f62-4c26-a604-7b13f9f7f790.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 〈웨스트 사이드 스토리〉 마지막 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6859</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6859</guid>
+            <pubDate>Tue, 03 Jan 2023 12:25:14 GMT</pubDate>
+            <content:encoded><![CDATA[2023.01.04(수) 14:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/12/20221227154448ee55a124-fd11-4903-a0cd-b2dd326c453d.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[2023 박현서 콘서트＆팬미팅［My Winter］티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6858</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6858</guid>
+            <pubDate>Tue, 03 Jan 2023 12:25:14 GMT</pubDate>
+            <content:encoded><![CDATA[2023.01.04(수) 14:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/12/202212271352172044b9da-0ca5-4f27-aba3-f721a8c95035.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+    </channel>
+</rss>
