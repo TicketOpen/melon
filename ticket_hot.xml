@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 05 Jan 2023 08:17:47 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 Jan 2023 09:14:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,7 +13,7 @@
             <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6875</guid>
             <pubDate>Wed, 04 Jan 2023 09:13:39 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>23.01.06(금)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/01/20230104132932b1227f93-6ddf-4cf0-934e-c8a0504da92b.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/01/202301051738372779dc91-2e3d-4ac6-b5e9-06ebad5aa000.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
         <item>
             <title><![CDATA[이솔로몬 첫 번째 단독 콘서트 〈손으로 써 내려간 것들〉－부산 티켓 오픈 안내]]></title>
@@ -38,6 +38,14 @@
             <pubDate>Wed, 04 Jan 2023 10:15:04 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>23.01.05(목)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/01/202301041747556caead18-7ddd-4000-8e5e-7074ec72b66f.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[키라라：그냥하는 단독공연 시즌 2－FINAL 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6877</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6877</guid>
+            <pubDate>Thu, 05 Jan 2023 09:14:10 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>23.01.09(월)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/01/2023010416494542a9ec8f-b33c-4574-8728-27afca715209.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
         <item>
             <title><![CDATA[정세운 공식 팬클럽 ‘행운（LUCKY）’ 5기 추가모집 오픈 안내]]></title>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 04 Jan 2023 05:12:23 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>23.01.09(월)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/01/2023010316144444d2f1e7-f171-4b8c-8797-6b5d211cbfea.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[ICE BREAKING 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6865</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6865</guid>
-            <pubDate>Wed, 04 Jan 2023 03:14:13 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>23.01.04(수)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2022/12/202212301752116bb40eee-04f7-40d8-8457-0de8c6391f04.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
