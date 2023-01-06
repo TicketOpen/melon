@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 06 Jan 2023 02:42:47 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Jan 2023 03:14:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Thu, 05 Jan 2023 05:12:56 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>23.01.09(월)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/01/202301041453313ec8319c-3ddb-46bd-8abc-8663bdd3501a.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[OFF．E＆변하은＆igloobay：롤링 28주년 기념 공연 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6878</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6878</guid>
+            <pubDate>Fri, 06 Jan 2023 03:14:49 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>23.01.12(목)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/01/2023010511060289ee5db6-57df-41b9-a86c-198c60467fee.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
         <item>
             <title><![CDATA[제57회 라이브 클럽 데이 with 씬디 스케치－블라인드 티켓 오픈 안내]]></title>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 04 Jan 2023 05:12:23 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>23.01.10(화)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/01/20230103164751286b8eb0-27d0-4e6c-af45-4adb07cf957f.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[암호（AMHO）싱글 발매 기념 콘서트 〈세션맨〉 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6869</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6869</guid>
-            <pubDate>Wed, 04 Jan 2023 05:12:23 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>23.01.09(월)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/01/2023010316144444d2f1e7-f171-4b8c-8797-6b5d211cbfea.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
