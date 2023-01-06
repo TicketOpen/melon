@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 06 Jan 2023 04:16:09 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Jan 2023 05:12:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,6 +30,14 @@
             <pubDate>Fri, 06 Jan 2023 03:14:49 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>23.01.12(목)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/01/2023010511060289ee5db6-57df-41b9-a86c-198c60467fee.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[정밀아 정기단독공연 〈춥지 않은 겨울밤〉 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6879</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6879</guid>
+            <pubDate>Fri, 06 Jan 2023 05:12:27 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>23.01.10(화)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/01/20230105180716d65cb98c-2bc1-42c4-a1b6-c0da1b3eadb9.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
         <item>
             <title><![CDATA[제57회 라이브 클럽 데이 with 씬디 스케치－블라인드 티켓 오픈 안내]]></title>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 04 Jan 2023 05:12:23 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>23.01.05(목)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/01/202301031818151b6efa1b-9883-4e72-b000-7a0e6d1a290f.png/melon/resize/160x225/strip/true" length="0" type="image/png/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[〈With Mate〉 신인류＆이고도 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6871</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6871</guid>
-            <pubDate>Wed, 04 Jan 2023 05:12:23 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>23.01.10(화)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/01/20230103164751286b8eb0-27d0-4e6c-af45-4adb07cf957f.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
