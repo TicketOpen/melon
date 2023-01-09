@@ -4,9 +4,17 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 09 Jan 2023 02:38:03 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 Jan 2023 03:14:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[109 단독 콘서트：롤링 28주년 기념 공연 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6884</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6884</guid>
+            <pubDate>Mon, 09 Jan 2023 03:14:11 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>23.01.16(월)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/01/202301061159143855c2d3-9cd2-4f78-9078-615ce86381f9.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
         <item>
             <title><![CDATA[김승민 첫 단독 콘서트［Double－sidedness］티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6882</link>
@@ -40,6 +48,14 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/01/2023010511060289ee5db6-57df-41b9-a86c-198c60467fee.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
         <item>
+            <title><![CDATA[WOODZ 공식 팬클럽 〈MOODZ〉 2기 모집 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6883</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6883</guid>
+            <pubDate>Mon, 09 Jan 2023 03:14:11 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>23.01.16(월)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/01/2023010610574342b016b1-07d4-4807-9395-928d79eb89f8.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
             <title><![CDATA[정밀아 정기단독공연 〈춥지 않은 겨울밤〉 티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6879</link>
             <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6879</guid>
@@ -70,22 +86,6 @@
             <pubDate>Wed, 04 Jan 2023 06:16:35 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>23.01.11(수)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/01/2023010413320353fcc9d3-c172-4501-b513-d5847277ca9e.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[연극 〈셰익스피어 인 러브〉 2차 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6872</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6872</guid>
-            <pubDate>Wed, 04 Jan 2023 05:12:23 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>23.01.12(목)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/01/2023010317263695476769-36e3-4865-b034-d55dc59df131.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[2023 소각소각 콘서트 “WINTER BLOSSOM” 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6880</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6880</guid>
-            <pubDate>Fri, 06 Jan 2023 09:13:13 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>23.01.09(월)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/01/20230105111114dffa6307-8ba6-4e5f-b152-20e9e5a9b690.png/melon/resize/160x225/strip/true" length="0" type="image/png/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
