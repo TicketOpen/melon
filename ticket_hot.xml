@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 10 Jan 2023 04:16:31 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 Jan 2023 05:12:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -56,6 +56,14 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/01/2023010610574342b016b1-07d4-4807-9395-928d79eb89f8.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
         <item>
+            <title><![CDATA[뮤지컬 〈이프덴〉 마지막 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6887</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6887</guid>
+            <pubDate>Tue, 10 Jan 2023 05:12:34 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>23.01.17(화)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/01/20230109113919f4accb4f-4777-476a-8e6e-3d6ea99eace3.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
             <title><![CDATA[키라라：그냥하는 단독공연 시즌 2－FINAL 티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6877</link>
             <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6877</guid>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 06 Jan 2023 03:14:49 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>23.01.12(목)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/01/2023010511060289ee5db6-57df-41b9-a86c-198c60467fee.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[정밀아 정기단독공연 〈춥지 않은 겨울밤〉 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6879</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6879</guid>
-            <pubDate>Fri, 06 Jan 2023 05:12:27 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>23.01.10(화)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/01/20230105180716d65cb98c-2bc1-42c4-a1b6-c0da1b3eadb9.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
