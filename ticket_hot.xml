@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 11 Jan 2023 05:13:13 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 Jan 2023 06:17:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Wed, 11 Jan 2023 03:14:00 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>23.01.15(일)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/01/20230110132732e39296cf-979d-46eb-96fb-bb388d94bb8b.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[Dreamcatcher（드림캐쳐）공식 팬클럽［InSomnia］2기 모집 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6890</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6890</guid>
+            <pubDate>Wed, 11 Jan 2023 06:17:18 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>23.01.13(금)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/01/20230111111127b7d1b793-ed41-4eab-b2f0-094cc6bc1989.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
         <item>
             <title><![CDATA[우주라이브 ‘굿펠라즈（GoodFellaz）’ 콘서트 티켓 오픈 안내]]></title>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 10 Jan 2023 05:12:34 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>23.01.17(화)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/01/20230109113919f4accb4f-4777-476a-8e6e-3d6ea99eace3.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[키라라：그냥하는 단독공연 시즌 2－FINAL 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6877</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6877</guid>
-            <pubDate>Thu, 05 Jan 2023 09:14:10 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>23.01.09(월)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/01/2023010416494542a9ec8f-b33c-4574-8728-27afca715209.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
