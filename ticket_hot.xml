@@ -4,9 +4,25 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 11 Jan 2023 07:12:59 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 Jan 2023 08:18:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뮤지컬 〈이프덴〉 마지막 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6887</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6887</guid>
+            <pubDate>Tue, 10 Jan 2023 05:12:34 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>23.01.17(화)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/01/20230109113919f4accb4f-4777-476a-8e6e-3d6ea99eace3.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[박소은 단독 콘서트 ‘마지막 문장’：롤링 28주년 기념 공연 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6888</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6888</guid>
+            <pubDate>Wed, 11 Jan 2023 03:14:00 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>23.01.17(화)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/01/20230110102654bbbdaf12-8831-468e-bbd3-ee7d17dabd1c.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
         <item>
             <title><![CDATA[게르다 단독 콘서트［Snow Sequence］티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6889</link>
@@ -40,14 +56,6 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/01/202301091739154a518e85-669b-4bed-a35c-bc7ca1fe0dd8.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
         <item>
-            <title><![CDATA[박소은 단독 콘서트 ‘마지막 문장’：롤링 28주년 기념 공연 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6888</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6888</guid>
-            <pubDate>Wed, 11 Jan 2023 03:14:00 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>23.01.17(화)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/01/20230110102654bbbdaf12-8831-468e-bbd3-ee7d17dabd1c.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
             <title><![CDATA[Nam Yoon Su 1st 팬미팅 〈Valentine With You〉 티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6881</link>
             <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6881</guid>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 09 Jan 2023 03:14:11 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>23.01.16(월)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/01/2023010610574342b016b1-07d4-4807-9395-928d79eb89f8.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 〈이프덴〉 마지막 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6887</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6887</guid>
-            <pubDate>Tue, 10 Jan 2023 05:12:34 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>23.01.17(화)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/01/20230109113919f4accb4f-4777-476a-8e6e-3d6ea99eace3.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
