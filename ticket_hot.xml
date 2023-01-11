@@ -4,9 +4,17 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 11 Jan 2023 02:40:41 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 Jan 2023 03:14:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[게르다 단독 콘서트［Snow Sequence］티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6889</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6889</guid>
+            <pubDate>Wed, 11 Jan 2023 03:14:00 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>23.01.15(일)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/01/20230110132732e39296cf-979d-46eb-96fb-bb388d94bb8b.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
         <item>
             <title><![CDATA[우주라이브 ‘굿펠라즈（GoodFellaz）’ 콘서트 티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6886</link>
@@ -22,6 +30,14 @@
             <pubDate>Tue, 10 Jan 2023 03:15:17 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>23.01.18(수)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/01/202301091739154a518e85-669b-4bed-a35c-bc7ca1fe0dd8.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[박소은 단독 콘서트 ‘마지막 문장’：롤링 28주년 기념 공연 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6888</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6888</guid>
+            <pubDate>Wed, 11 Jan 2023 03:14:00 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>23.01.17(화)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/01/20230110102654bbbdaf12-8831-468e-bbd3-ee7d17dabd1c.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
         <item>
             <title><![CDATA[Nam Yoon Su 1st 팬미팅 〈Valentine With You〉 티켓 오픈 안내]]></title>
@@ -70,22 +86,6 @@
             <pubDate>Thu, 05 Jan 2023 09:14:10 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>23.01.09(월)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/01/2023010416494542a9ec8f-b33c-4574-8728-27afca715209.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[정세운 공식 팬클럽 ‘행운（LUCKY）’ 5기 추가모집 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6876</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6876</guid>
-            <pubDate>Thu, 05 Jan 2023 05:12:56 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>23.01.09(월)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/01/202301041453313ec8319c-3ddb-46bd-8abc-8663bdd3501a.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[OFF．E＆변하은＆igloobay：롤링 28주년 기념 공연 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6878</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6878</guid>
-            <pubDate>Fri, 06 Jan 2023 03:14:49 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>23.01.12(목)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/01/2023010511060289ee5db6-57df-41b9-a86c-198c60467fee.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
