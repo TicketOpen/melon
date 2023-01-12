@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 11 Jan 2023 23:14:14 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Jan 2023 01:05:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -48,6 +48,14 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/01/20230111111127b7d1b793-ed41-4eab-b2f0-094cc6bc1989.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
         <item>
+            <title><![CDATA[트랙제로 Alive－Vol．10 싱어송라이터 디스커버리 시리즈 1편 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6892</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6892</guid>
+            <pubDate>Thu, 12 Jan 2023 01:05:22 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>23.01.12(목)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/01/2023011115092697ef8c9e-0ecc-4b62-8a8e-30b0ae05f374.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
             <title><![CDATA[우주라이브 ‘굿펠라즈（GoodFellaz）’ 콘서트 티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6886</link>
             <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6886</guid>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 09 Jan 2023 03:14:11 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>23.01.16(월)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/01/202301061159143855c2d3-9cd2-4f78-9078-615ce86381f9.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[김승민 첫 단독 콘서트［Double－sidedness］티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6882</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6882</guid>
-            <pubDate>Fri, 06 Jan 2023 09:13:13 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>23.01.12(목)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/01/20230105175147c94d8154-ad15-494b-87dc-2566f9a158bf.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
