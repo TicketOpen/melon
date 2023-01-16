@@ -4,16 +4,24 @@
         <title>멜론 티켓</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 16 Jan 2023 01:04:24 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 Jan 2023 02:41:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뮤지컬 〈여신님이 보고 계셔〉 10th Anniversary－부산 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6903</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6903</guid>
+            <pubDate>Mon, 16 Jan 2023 02:41:05 GMT</pubDate>
+            <content:encoded><![CDATA[2023.01.20(금) 14:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/01/20230116101040ec77df47-1980-4675-acea-04b97bd2b0e7.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
         <item>
             <title><![CDATA[제57회 라이브 클럽 데이 with 씬디 스케치－일반 티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6900</link>
             <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6900</guid>
             <pubDate>Sun, 15 Jan 2023 05:12:09 GMT</pubDate>
             <content:encoded><![CDATA[2023.01.16(월) 14:00]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/01/20230113112516f04d4688-a8fd-4cc5-8ca3-74c1f2096395.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/01/2023011610425541b04822-606e-4b73-8575-7fb9fdf183f0.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
         <item>
             <title><![CDATA[참솜 소극장 단독공연 ‘winter chamsom’ 티켓 오픈 안내]]></title>
@@ -32,7 +40,7 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/01/202301121507402292e2b7-1dbf-4440-85c8-604e1bf5337a.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
         <item>
-            <title><![CDATA[let there be love itaewon 티켓 오픈 안내]]></title>
+            <title><![CDATA[Let There Be Love，Itaewon！이태원 사랑과 희망의 캠페인 티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6897</link>
             <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6897</guid>
             <pubDate>Sun, 15 Jan 2023 01:07:15 GMT</pubDate>
@@ -78,14 +86,6 @@
             <pubDate>Sun, 15 Jan 2023 01:07:15 GMT</pubDate>
             <content:encoded><![CDATA[2023.01.13(금) 20:00]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/01/20230112115256e2b6c332-f66f-4b02-8dc0-423676be3d0c.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[Dreamcatcher（드림캐쳐）공식 팬클럽［InSomnia］2기 모집 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6890</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6890</guid>
-            <pubDate>Sun, 15 Jan 2023 01:07:15 GMT</pubDate>
-            <content:encoded><![CDATA[2023.01.13(금) 20:00]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/01/20230111111127b7d1b793-ed41-4eab-b2f0-094cc6bc1989.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
     </channel>
 </rss>
