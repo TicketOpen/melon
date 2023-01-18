@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 18 Jan 2023 02:42:36 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 Jan 2023 03:15:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -48,6 +48,14 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/01/20230116101040ec77df47-1980-4675-acea-04b97bd2b0e7.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
         <item>
+            <title><![CDATA[멍키헤드X갤럭시익스프레스X로큰롤라디오X락킷걸：롤링 28주년 기념 공연 ‘This is Rock’ 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6907</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6907</guid>
+            <pubDate>Wed, 18 Jan 2023 03:15:08 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>23.01.26(목)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/01/2023011711213033a5ae59-cb48-446b-b58e-046b4386abf5.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
             <title><![CDATA[DJ Soulscape Curated 20 Kisnue 티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6906</link>
             <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6906</guid>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 17 Jan 2023 09:13:35 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>23.01.17(화)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/01/2023011315445771dbca46-c29b-435d-883c-b58c3bc80110.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[제57회 라이브 클럽 데이 with 씬디 스케치－일반 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6900</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6900</guid>
-            <pubDate>Tue, 17 Jan 2023 09:13:35 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>23.01.16(월)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/01/2023011610425541b04822-606e-4b73-8575-7fb9fdf183f0.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
