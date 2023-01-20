@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 판매중</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 20 Jan 2023 14:12:43 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 Jan 2023 15:14:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -408,56 +408,6 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/01/20230105170957dedeb498-562a-43f8-99a6-987625caa111.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
-            <title><![CDATA[175회 정기연주 〈음악〉]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=207706</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=207706</guid>
-            <pubDate>Thu, 19 Jan 2023 21:12:25 GMT</pubDate>
-            <content:encoded><![CDATA[<td>
-                            <div class="show_infor">
-                                <div class="thumb_90x125  img">
-                                    <a href="#">
-                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/01/20230106163420e17ecc5c-f6a0-4c45-aa08-e07bddc185b8.jpg/melon/resize/90x125/strip/true" alt="">
-                                        <span class="frame"></span>
-                                    </a>
-                                </div>
-                                <p class="infor_text">
-                                    <span class="ico_wrap">
-                                        <span class="ico_list ico_list4"> 판매중</span></span>
-                                    <span class="show_title"><a href="/performance/index.htm?prodId=207706">175회 정기연주 〈음악〉</a></span>
-                                </p>
-                            </div>
-                        </td>
-                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
-                            2023.01.19 - 2023.01.20</td>
-                        <td class="show_loc">세종문화회관 체임버홀</td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/01/20230106163420e17ecc5c-f6a0-4c45-aa08-e07bddc185b8.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[맥거핀 단독 콘서트：롤링 28주년 기념 공연]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=207679</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=207679</guid>
-            <pubDate>Thu, 19 Jan 2023 21:12:25 GMT</pubDate>
-            <content:encoded><![CDATA[<td>
-                            <div class="show_infor">
-                                <div class="thumb_90x125  img">
-                                    <a href="#">
-                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/12/2022120914494126a2693a-0c56-4951-b5c9-3aac1b130442.jpg/melon/resize/90x125/strip/true" alt="">
-                                        <span class="frame"></span>
-                                    </a>
-                                </div>
-                                <p class="infor_text">
-                                    <span class="ico_wrap">
-                                        <span class="ico_list ico_list1">단독판매</span><span class="ico_list ico_list4"> 판매중</span></span>
-                                    <span class="show_title"><a href="/performance/index.htm?prodId=207679">맥거핀 단독 콘서트：롤링 28주년 기념 공연</a></span>
-                                </p>
-                            </div>
-                        </td>
-                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
-                            2023.01.20 - 2023.01.20</td>
-                        <td class="show_loc">롤링홀 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/12/2022120914494126a2693a-0c56-4951-b5c9-3aac1b130442.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
             <title><![CDATA[뮤지컬 알쏭달쏭 캐치！티니핑 〈신비한 상자를 열어라！〉]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=207673</link>
             <guid>https://ticket.melon.com/performance/index.htm?prodId=207673</guid>
@@ -506,6 +456,56 @@
                             2023.01.23 - 2023.01.23</td>
                         <td class="show_loc">프리즘홀 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/01/202301041702088e01570d-f22b-4f11-88ea-aa6e169da018.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[화노 단독 콘서트：롤링 28주년 기념 공연]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=207684</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=207684</guid>
+            <pubDate>Fri, 20 Jan 2023 15:14:28 GMT</pubDate>
+            <content:encoded><![CDATA[<td>
+                            <div class="show_infor">
+                                <div class="thumb_90x125  img">
+                                    <a href="#">
+                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/12/202212131059136fda14c1-61ea-4a8f-a65d-c8424f14edb2.jpg/melon/resize/90x125/strip/true" alt="">
+                                        <span class="frame"></span>
+                                    </a>
+                                </div>
+                                <p class="infor_text">
+                                    <span class="ico_wrap">
+                                        <span class="ico_list ico_list1">단독판매</span><span class="ico_list ico_list4"> 판매중</span></span>
+                                    <span class="show_title"><a href="/performance/index.htm?prodId=207684">화노 단독 콘서트：롤링 28주년 기념 공연</a></span>
+                                </p>
+                            </div>
+                        </td>
+                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
+                            2023.01.26 - 2023.01.26</td>
+                        <td class="show_loc">롤링홀 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/12/202212131059136fda14c1-61ea-4a8f-a65d-c8424f14edb2.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[2022 WORLD TOUR JAY B TAPE：PRESS PAUSE ENCORE in SEOUL]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=207693</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=207693</guid>
+            <pubDate>Fri, 20 Jan 2023 15:14:28 GMT</pubDate>
+            <content:encoded><![CDATA[<td>
+                            <div class="show_infor">
+                                <div class="thumb_90x125  img">
+                                    <a href="#">
+                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/01/20230104152947a658a161-d528-43b0-a470-64109081c9a9.jpeg/melon/resize/90x125/strip/true" alt="">
+                                        <span class="frame"></span>
+                                    </a>
+                                </div>
+                                <p class="infor_text">
+                                    <span class="ico_wrap">
+                                        <span class="ico_list ico_list1">단독판매</span><span class="ico_list ico_list4"> 판매중</span></span>
+                                    <span class="show_title"><a href="/performance/index.htm?prodId=207693">2022 WORLD TOUR JAY B TAPE：PRESS PAUSE ENCORE in SEOUL</a></span>
+                                </p>
+                            </div>
+                        </td>
+                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
+                            2023.01.26 - 2023.01.27</td>
+                        <td class="show_loc">노들섬 라이브하우스 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/01/20230104152947a658a161-d528-43b0-a470-64109081c9a9.jpeg/melon/resize/90x125/strip/true" length="0" type="image/jpeg/melon/resize/90x125/strip/true"/>
         </item>
     </channel>
 </rss>
