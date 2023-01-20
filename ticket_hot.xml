@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 20 Jan 2023 10:15:28 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 Jan 2023 11:11:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Fri, 20 Jan 2023 09:14:03 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>23.01.25(수)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/01/20230120171120bb4ade5f-da6d-4d6f-b831-6f7b247ce4f4.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[김정훈，신현빈 〈푸른 새벽〉 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6916</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6916</guid>
+            <pubDate>Fri, 20 Jan 2023 11:11:39 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>23.01.25(수)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/01/2023012014433089a24fe9-169a-4c84-bad7-6b03c20f6287.png/melon/resize/160x225/strip/true" length="0" type="image/png/melon/resize/160x225/strip/true"/>
         </item>
         <item>
             <title><![CDATA[먼데이프로젝트 시즌6 THE ROCK STAR［곽태풍 단독 콘서트］티켓 오픈 안내]]></title>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 19 Jan 2023 21:12:19 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>23.01.18(수)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/01/20230113152737247520f9-7b96-4c8d-9f7a-7630b57ff2c4.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[신현빈 단독 팬미팅 〈생일 전 날〉 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6902</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6902</guid>
-            <pubDate>Thu, 19 Jan 2023 21:12:19 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>23.01.18(수)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/01/20230113115920f026b1fd-c1f9-4a37-9e85-128c3a90e352.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
