@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 판매중</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 23 Jan 2023 14:13:13 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Jan 2023 15:14:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -433,31 +433,6 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/12/202212081417073ee7388a-5284-4c94-be4d-a583444033c1.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
-            <title><![CDATA[키라라：그냥하는 단독공연 시즌 2－FINAL]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=207739</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=207739</guid>
-            <pubDate>Mon, 23 Jan 2023 08:17:46 GMT</pubDate>
-            <content:encoded><![CDATA[<td>
-                            <div class="show_infor">
-                                <div class="thumb_90x125  img">
-                                    <a href="#">
-                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/01/202301041702088e01570d-f22b-4f11-88ea-aa6e169da018.jpg/melon/resize/90x125/strip/true" alt="">
-                                        <span class="frame"></span>
-                                    </a>
-                                </div>
-                                <p class="infor_text">
-                                    <span class="ico_wrap">
-                                        <span class="ico_list ico_list1">단독판매</span><span class="ico_list ico_list4"> 판매중</span></span>
-                                    <span class="show_title"><a href="/performance/index.htm?prodId=207739">키라라：그냥하는 단독공연 시즌 2－FINAL</a></span>
-                                </p>
-                            </div>
-                        </td>
-                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
-                            2023.01.23 - 2023.01.23</td>
-                        <td class="show_loc">프리즘홀 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/01/202301041702088e01570d-f22b-4f11-88ea-aa6e169da018.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
             <title><![CDATA[화노 단독 콘서트：롤링 28주년 기념 공연]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=207684</link>
             <guid>https://ticket.melon.com/performance/index.htm?prodId=207684</guid>
@@ -506,6 +481,31 @@
                             2023.01.26 - 2023.01.27</td>
                         <td class="show_loc">노들섬 라이브하우스 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/01/20230104152947a658a161-d528-43b0-a470-64109081c9a9.jpeg/melon/resize/90x125/strip/true" length="0" type="image/jpeg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[트랙제로 Alive－Vol．10 싱어송라이터 디스커버리 시리즈 1편]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=207755</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=207755</guid>
+            <pubDate>Mon, 23 Jan 2023 15:14:44 GMT</pubDate>
+            <content:encoded><![CDATA[<td>
+                            <div class="show_infor">
+                                <div class="thumb_90x125  img">
+                                    <a href="#">
+                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/01/202301111453192ba79374-4747-445f-b0dc-a68b16286aae.jpg/melon/resize/90x125/strip/true" alt="">
+                                        <span class="frame"></span>
+                                    </a>
+                                </div>
+                                <p class="infor_text">
+                                    <span class="ico_wrap">
+                                        <span class="ico_list ico_list1">단독판매</span><span class="ico_list ico_list4"> 판매중</span></span>
+                                    <span class="show_title"><a href="/performance/index.htm?prodId=207755">트랙제로 Alive－Vol．10 싱어송라이터 디스커버리 시리즈 1편</a></span>
+                                </p>
+                            </div>
+                        </td>
+                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
+                            2023.01.26 - 2023.01.26</td>
+                        <td class="show_loc">벨로주 홍대 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/01/202301111453192ba79374-4747-445f-b0dc-a68b16286aae.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
     </channel>
 </rss>
