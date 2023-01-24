@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 판매중</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 24 Jan 2023 14:12:34 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 Jan 2023 15:13:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -308,31 +308,6 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/11/202211281437066f7bc690-bf29-478d-aa76-f1b8fdadb1e4.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
-            <title><![CDATA[음악극〈브릴리언트〉 찬란하게 빛나던]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=207597</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=207597</guid>
-            <pubDate>Mon, 23 Jan 2023 08:17:46 GMT</pubDate>
-            <content:encoded><![CDATA[<td>
-                            <div class="show_infor">
-                                <div class="thumb_90x125  img">
-                                    <a href="#">
-                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/11/2022112212303879ee2726-ad75-452d-9ffd-dbca6b96a94b.jpg/melon/resize/90x125/strip/true" alt="">
-                                        <span class="frame"></span>
-                                    </a>
-                                </div>
-                                <p class="infor_text">
-                                    <span class="ico_wrap">
-                                        <span class="ico_list ico_list4"> 판매중</span></span>
-                                    <span class="show_title"><a href="/performance/index.htm?prodId=207597">음악극〈브릴리언트〉 찬란하게 빛나던</a></span>
-                                </p>
-                            </div>
-                        </td>
-                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
-                            2022.12.23 - 2023.01.24</td>
-                        <td class="show_loc">예술 나무 씨어터 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/11/2022112212303879ee2726-ad75-452d-9ffd-dbca6b96a94b.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
             <title><![CDATA[뮤지컬 〈베토벤；Beethoven Secret〉]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=207516</link>
             <guid>https://ticket.melon.com/performance/index.htm?prodId=207516</guid>
@@ -506,6 +481,31 @@
                             2023.01.26 - 2023.01.26</td>
                         <td class="show_loc">벨로주 홍대 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/01/202301111453192ba79374-4747-445f-b0dc-a68b16286aae.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[김준서 단독 콘서트 ‘나의 자전’：롤링 28주년 기념 공연]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=207687</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=207687</guid>
+            <pubDate>Tue, 24 Jan 2023 15:13:49 GMT</pubDate>
+            <content:encoded><![CDATA[<td>
+                            <div class="show_infor">
+                                <div class="thumb_90x125  img">
+                                    <a href="#">
+                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/12/202212131316312d80e739-128d-49f1-9cfd-8b56b4a73a79.jpg/melon/resize/90x125/strip/true" alt="">
+                                        <span class="frame"></span>
+                                    </a>
+                                </div>
+                                <p class="infor_text">
+                                    <span class="ico_wrap">
+                                        <span class="ico_list ico_list1">단독판매</span><span class="ico_list ico_list4"> 판매중</span></span>
+                                    <span class="show_title"><a href="/performance/index.htm?prodId=207687">김준서 단독 콘서트 ‘나의 자전’：롤링 28주년 기념 공연</a></span>
+                                </p>
+                            </div>
+                        </td>
+                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
+                            2023.01.27 - 2023.01.27</td>
+                        <td class="show_loc">롤링홀 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/12/202212131316312d80e739-128d-49f1-9cfd-8b56b4a73a79.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
     </channel>
 </rss>
