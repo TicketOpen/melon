@@ -4,7 +4,7 @@
         <title>멜론 티켓</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 25 Jan 2023 02:37:56 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Jan 2023 03:14:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Mon, 23 Jan 2023 08:17:35 GMT</pubDate>
             <content:encoded><![CDATA[2023.01.25(수) 20:00]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/01/2023012014433089a24fe9-169a-4c84-bad7-6b03c20f6287.png/melon/resize/65x92/strip/true" length="0" type="image/png/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[잠비나이 단독 콘서트 ‘발현（發顯/apparition）’：롤링 28주년 기념 공연 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6915</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6915</guid>
+            <pubDate>Wed, 25 Jan 2023 03:14:21 GMT</pubDate>
+            <content:encoded><![CDATA[2023.01.31(화) 20:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/01/202301200947151f578432-571d-4488-88b4-09930137a32d.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
         <item>
             <title><![CDATA[먼데이프로젝트 시즌6 THE ROCK STAR［곽태풍 단독 콘서트］티켓 오픈 안내]]></title>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 23 Jan 2023 08:17:35 GMT</pubDate>
             <content:encoded><![CDATA[2023.01.26(목) 20:00]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/01/2023011711213033a5ae59-cb48-446b-b58e-046b4386abf5.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[DJ Soulscape Curated 20 Kisnue 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6906</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6906</guid>
-            <pubDate>Mon, 23 Jan 2023 08:17:35 GMT</pubDate>
-            <content:encoded><![CDATA[2023.01.18(수) 18:00]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/01/20230116161436d28b769b-3079-4483-8c24-8e260fc045e5.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
     </channel>
 </rss>
