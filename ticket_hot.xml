@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 26 Jan 2023 02:39:11 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Jan 2023 03:14:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Wed, 25 Jan 2023 11:11:11 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>23.01.27(금)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/01/20230120161947a0ee6e25-167a-4608-9216-ac43b242543c.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[YB 단독 콘서트 ‘LIGHTS：BURNS’：롤링 28주년 기념 공연 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6919</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6919</guid>
+            <pubDate>Thu, 26 Jan 2023 03:14:48 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>23.02.01(수)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/01/20230125150507482028d0-c901-4b16-9f3d-fadf6d027171.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
         <item>
             <title><![CDATA[Colorful Stage＃1（컬러풀 스테이지＃1）티켓 오픈 안내]]></title>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 23 Jan 2023 08:17:40 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>23.01.25(수)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/01/202301191034343dcdb745-5e1c-4edd-9880-9f1f60422ba9.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[김가람 피아노 리사이틀 ‘Lament’ 티켓 오픈 공지]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6908</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6908</guid>
-            <pubDate>Mon, 23 Jan 2023 08:17:40 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>23.01.20(금)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/01/2023011715071274a98a22-c24e-4154-b71e-62c281ee9c21.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
