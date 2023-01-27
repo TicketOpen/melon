@@ -4,9 +4,17 @@
         <title>멜론 티켓</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 27 Jan 2023 02:42:28 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Jan 2023 03:14:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[크리스피 단독 콘서트 ‘DAYDREAMING’：롤링 28주년 기념 공연 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6924</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6924</guid>
+            <pubDate>Fri, 27 Jan 2023 03:14:04 GMT</pubDate>
+            <content:encoded><![CDATA[2023.02.02(목) 20:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/01/20230126153828573f91e5-6cb3-4e5b-a4c5-7646982e0c30.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
         <item>
             <title><![CDATA[써클차트 뮤직 어워즈 2022 티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6923</link>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 25 Jan 2023 03:14:21 GMT</pubDate>
             <content:encoded><![CDATA[2023.01.31(화) 20:00]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/01/202301200947151f578432-571d-4488-88b4-09930137a32d.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[먼데이프로젝트 시즌6 THE ROCK STAR［곽태풍 단독 콘서트］티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6914</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6914</guid>
-            <pubDate>Mon, 23 Jan 2023 08:17:35 GMT</pubDate>
-            <content:encoded><![CDATA[2023.01.26(목) 20:00]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/01/202301191706137961ef6a-5948-4e9e-b719-b1a1d8c7ef00.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
     </channel>
 </rss>
