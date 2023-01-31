@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 31 Jan 2023 14:13:03 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 Jan 2023 15:14:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -393,31 +393,6 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/12/2022120916382983cd31da-fa90-4114-b04a-18bf59feb6c1.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
-            <title><![CDATA[［얼리버드］미키 마우스 나우 앤 퓨처 Mickey Mouse Now and Future (멜론티켓 ─ 판매중)]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=207458</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=207458</guid>
-            <pubDate>Sat, 28 Jan 2023 22:12:14 GMT</pubDate>
-            <content:encoded><![CDATA[<td>
-                            <div class="show_infor">
-                                <div class="thumb_90x125  img">
-                                    <a href="#">
-                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/11/202211281437066f7bc690-bf29-478d-aa76-f1b8fdadb1e4.jpg/melon/resize/90x125/strip/true" alt="">
-                                        <span class="frame"></span>
-                                    </a>
-                                </div>
-                                <p class="infor_text">
-                                    <span class="ico_wrap">
-                                        <span class="ico_list ico_list4"> 판매중</span></span>
-                                    <span class="show_title"><a href="/performance/index.htm?prodId=207458">［얼리버드］미키 마우스 나우 앤 퓨처 Mickey Mouse Now and Future</a></span>
-                                </p>
-                            </div>
-                        </td>
-                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
-                            2022.12.10 - 2023.01.31</td>
-                        <td class="show_loc">예술의전당 한가람미술관 1층</td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/11/202211281437066f7bc690-bf29-478d-aa76-f1b8fdadb1e4.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
             <title><![CDATA[뮤지컬 〈베토벤；Beethoven Secret〉 (멜론티켓 ─ 판매중)]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=207516</link>
             <guid>https://ticket.melon.com/performance/index.htm?prodId=207516</guid>
@@ -666,6 +641,31 @@
                             2023.02.04 - 2023.02.05</td>
                         <td class="show_loc">웨스트브릿지 라이브홀</td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/01/20230112152314cd667e8c-0eba-40a9-a7b5-c1929ea56031.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[Let There Be Love，Itaewon！이태원 사랑과 희망의 캠페인 (멜론티켓 ─ 판매중)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=207762</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=207762</guid>
+            <pubDate>Tue, 31 Jan 2023 15:14:25 GMT</pubDate>
+            <content:encoded><![CDATA[<td>
+                            <div class="show_infor">
+                                <div class="thumb_90x125  img">
+                                    <a href="#">
+                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/01/20230130150338f66de94e-7244-4ecb-989b-d4a12b104bbf.jpg/melon/resize/90x125/strip/true" alt="">
+                                        <span class="frame"></span>
+                                    </a>
+                                </div>
+                                <p class="infor_text">
+                                    <span class="ico_wrap">
+                                        <span class="ico_list ico_list1">단독판매</span><span class="ico_list ico_list4"> 판매중</span></span>
+                                    <span class="show_title"><a href="/performance/index.htm?prodId=207762">Let There Be Love，Itaewon！이태원 사랑과 희망의 캠페인</a></span>
+                                </p>
+                            </div>
+                        </td>
+                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
+                            2023.02.04 - 2023.02.05</td>
+                        <td class="show_loc">이태원1동 인근 공연장, 클럽, 라운지 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/01/20230130150338f66de94e-7244-4ecb-989b-d4a12b104bbf.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
     </channel>
 </rss>
