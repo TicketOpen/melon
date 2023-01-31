@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 31 Jan 2023 01:07:26 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 Jan 2023 02:44:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -88,6 +88,14 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/01/20230120161947a0ee6e25-167a-4608-9216-ac43b242543c.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
         <item>
+            <title><![CDATA[연극 〈셰익스피어 인 러브〉 3차 티켓 오픈 안내 (멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식)]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6920</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6920</guid>
+            <pubDate>Sat, 28 Jan 2023 22:11:59 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>23.02.01(수)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/01/20230125165107fbf5e228-0fc9-4dd5-b431-52b33418388e.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
             <title><![CDATA[이바다 단독 콘서트 ‘LEEBADA’ 티켓 오픈 안내 (멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식)]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6922</link>
             <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6922</guid>
@@ -142,14 +150,6 @@
             <pubDate>Sat, 28 Jan 2023 22:12:00 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>23.01.27(금)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/01/20230120161947a0ee6e25-167a-4608-9216-ac43b242543c.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[연극 〈셰익스피어 인 러브〉 3차 티켓 오픈 안내 (멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식)]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6920</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6920</guid>
-            <pubDate>Sat, 28 Jan 2023 22:11:59 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>23.02.01(수)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/01/20230125165107fbf5e228-0fc9-4dd5-b431-52b33418388e.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
         <item>
             <title><![CDATA[YB 단독 콘서트 ‘LIGHTS：BURNS’：롤링 28주년 기념 공연 티켓 오픈 안내 (멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식)]]></title>
