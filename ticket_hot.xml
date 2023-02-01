@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Feb 2023 08:17:10 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Feb 2023 09:14:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -48,6 +48,14 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/01/20230127140306334802df-abf9-466b-9470-4bdedae5f0bb.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
         <item>
+            <title><![CDATA[THE BOYZ 공식 팬클럽 〈THE B〉 5기 추가 모집 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6932</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6932</guid>
+            <pubDate>Wed, 01 Feb 2023 09:14:16 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>23.02.02(목)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/02/20230201095743117b51c9-b0c7-402e-beeb-dc6d92828ebf.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
             <title><![CDATA[연극 〈셰익스피어 인 러브〉 3차 티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6920</link>
             <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6920</guid>
@@ -78,14 +86,6 @@
             <pubDate>Sat, 28 Jan 2023 22:12:06 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>23.01.30(월)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/01/202301261506259b5b256c-b20a-4118-b483-858307836997.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[크리스피 단독 콘서트 ‘DAYDREAMING’：롤링 28주년 기념 공연 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6924</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6924</guid>
-            <pubDate>Sat, 28 Jan 2023 22:12:06 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>23.02.02(목)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/01/20230126153828573f91e5-6cb3-4e5b-a4c5-7646982e0c30.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
