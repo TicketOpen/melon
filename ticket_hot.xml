@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Feb 2023 08:17:31 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Feb 2023 10:16:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,6 +30,14 @@
             <pubDate>Thu, 02 Feb 2023 03:14:57 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>23.02.08(수)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/02/20230201100907c8d92898-dfab-4d06-8e2f-7228deb2c359.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[2023 강승식 Fanmeeting 〈그냥，승식〉 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6937</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6937</guid>
+            <pubDate>Thu, 02 Feb 2023 10:15:56 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>23.02.06(월)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/02/2023020114172426657c41-d164-4559-9030-01cef77a5f74.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
         <item>
             <title><![CDATA[이바다 단독 콘서트 ‘LEEBADA’ 티켓 오픈 안내]]></title>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 31 Jan 2023 05:12:58 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>23.02.10(금)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/01/202301311014533326806c-5314-4e2f-ab19-f90632a6a672.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[Summer Soul 단독콘서트 ‘Swipe Me Right’ 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6927</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6927</guid>
-            <pubDate>Mon, 30 Jan 2023 09:13:55 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>23.02.01(수)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/01/20230127140306334802df-abf9-466b-9470-4bdedae5f0bb.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
