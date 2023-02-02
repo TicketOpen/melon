@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Feb 2023 23:14:04 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Feb 2023 01:06:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -88,6 +88,14 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/01/20230126143120b2732ad9-de8f-479d-b993-997878508699.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
         <item>
+            <title><![CDATA[이바다 단독 콘서트 ‘LEEBADA’ 티켓 오픈 안내 (멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식)]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6922</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6922</guid>
+            <pubDate>Sat, 28 Jan 2023 22:11:59 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>23.01.31(화)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/01/202301261105471dcf4efe-3f46-486f-8672-52511dac21a6.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
             <title><![CDATA[IVE THE FIRST FAN CONCERT 〈The Prom Queens〉 시야제한석 티켓 오픈 안내 (멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식)]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6931</link>
             <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6931</guid>
@@ -142,14 +150,6 @@
             <pubDate>Sat, 28 Jan 2023 22:11:59 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>23.02.01(수)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/01/20230125165107fbf5e228-0fc9-4dd5-b431-52b33418388e.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[이바다 단독 콘서트 ‘LEEBADA’ 티켓 오픈 안내 (멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식)]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6922</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6922</guid>
-            <pubDate>Sat, 28 Jan 2023 22:11:59 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>23.01.31(화)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/01/202301261105471dcf4efe-3f46-486f-8672-52511dac21a6.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
         <item>
             <title><![CDATA[써클차트 뮤직 어워즈 2022 티켓 오픈 안내 (멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식)]]></title>
