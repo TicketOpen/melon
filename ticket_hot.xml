@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Feb 2023 08:17:38 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Feb 2023 09:14:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,6 +30,14 @@
             <pubDate>Mon, 06 Feb 2023 05:12:59 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>23.02.13(월)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/02/20230206090729760dfb3f-d13e-492a-9313-90398d99d8bc.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[그리즐리（Grizzly）Concert：Spring House 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6947</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6947</guid>
+            <pubDate>Tue, 07 Feb 2023 09:14:06 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>23.02.14(화)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/02/202302061546191fe4e856-a1b9-4301-9708-52a3b1438362.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
         <item>
             <title><![CDATA[이븐이프 단독 콘서트 ‘Dopamine’：롤링 28주년 기념 공연 티켓 오픈 안내]]></title>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 06 Feb 2023 01:02:45 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>23.02.06(월)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/02/20230203135403f75aeaaf-ab89-439a-aa36-9e508067bc15.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[안예은 단독 콘서트 ‘쉽게 듣는 노래들’：롤링 28주년 기념 공연 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6935</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6935</guid>
-            <pubDate>Mon, 06 Feb 2023 01:02:45 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>23.02.06(월)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/02/20230201141851320d8bed-04fb-4316-a290-06496b0c1562.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
