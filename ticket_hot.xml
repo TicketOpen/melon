@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Feb 2023 08:17:50 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Feb 2023 10:14:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Thu, 09 Feb 2023 05:13:08 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>23.02.16(목)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/02/20230208175225a667650f-ac48-4efc-90c4-634ce33133e6.png/melon/resize/160x225/strip/true" length="0" type="image/png/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[팔칠댄스（87dance），［COLOR PAPER HOTEL］쇼케이스 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6958</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6958</guid>
+            <pubDate>Thu, 09 Feb 2023 10:13:57 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>23.02.10(금)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/02/202302081727263a1bf059-5d09-4a85-8ebb-180f57a8e5a6.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
         <item>
             <title><![CDATA[스무살 소극장 콘서트 “동창회” 티켓 오픈 안내]]></title>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 08 Feb 2023 03:17:22 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>23.02.14(화)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/02/20230207102310508df871-40f0-4ff8-bb07-c0a99f5120f3.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[연극 〈셰익스피어 인 러브〉 마지막 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6956</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6956</guid>
-            <pubDate>Thu, 09 Feb 2023 05:13:08 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>23.02.15(수)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/02/202302081422076f73ca60-f37b-4997-83c8-d122bcfe2bb0.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
