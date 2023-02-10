@@ -4,11 +4,19 @@
         <title>멜론 티켓</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Feb 2023 04:18:05 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Feb 2023 05:13:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[3 티켓 오픈 안내]]></title>
+            <title><![CDATA[Flight0312：나상현씨밴드 편 IN 부산 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6963</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6963</guid>
+            <pubDate>Fri, 10 Feb 2023 05:13:19 GMT</pubDate>
+            <content:encoded><![CDATA[2023.02.14(화) 20:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/02/2023020914235252506e79-6736-47c2-acc5-23bdcf91a6c3.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[HAKUEI KIM X 이봉근 X 하윤주 콘서트 ‘3’티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6962</link>
             <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6962</guid>
             <pubDate>Fri, 10 Feb 2023 03:22:14 GMT</pubDate>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 09 Feb 2023 04:16:28 GMT</pubDate>
             <content:encoded><![CDATA[2023.02.10(금) 13:00]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/02/202302081643207ce208c7-36d3-4550-9f0d-6a06968260eb.png/melon/resize/65x92/strip/true" length="0" type="image/png/melon/resize/65x92/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[먼데이프로젝트 IN 라이브클럽［프랭클리 단독 콘서트］티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6953</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6953</guid>
-            <pubDate>Thu, 09 Feb 2023 03:17:24 GMT</pubDate>
-            <content:encoded><![CDATA[2023.02.16(목) 20:00]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/02/20230208163911fc15ffff-99f7-4413-925d-c6fbf1c2a1e0.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
     </channel>
 </rss>
