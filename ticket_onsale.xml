@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 판매중</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 12 Feb 2023 23:13:24 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Feb 2023 01:08:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -433,6 +433,31 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/01/20230119171203cc002c9a-6b1f-4b75-9314-3cde073ab9d2.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
+            <title><![CDATA[아이유 공식 팬클럽 〈유애나〉 6기 모집]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=207816</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=207816</guid>
+            <pubDate>Mon, 13 Feb 2023 01:08:10 GMT</pubDate>
+            <content:encoded><![CDATA[<td>
+                            <div class="show_infor">
+                                <div class="thumb_90x125  img">
+                                    <a href="#">
+                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/02/20230213090550f64319cc-0046-4ad3-9019-e217e3754f9f.jpg/melon/resize/90x125/strip/true" alt="">
+                                        <span class="frame"></span>
+                                    </a>
+                                </div>
+                                <p class="infor_text">
+                                    <span class="ico_wrap">
+                                        <span class="ico_list ico_list1">단독판매</span><span class="ico_list ico_list4"> 판매중</span></span>
+                                    <span class="show_title"><a href="/performance/index.htm?prodId=207816">아이유 공식 팬클럽 〈유애나〉 6기 모집</a></span>
+                                </p>
+                            </div>
+                        </td>
+                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
+                            2023.02.13 - 2023.02.26</td>
+                        <td class="show_loc">- </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/02/20230213090550f64319cc-0046-4ad3-9019-e217e3754f9f.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
             <title><![CDATA[OFF．E＆변하은＆igloobay：롤링 28주년 기념 공연]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=207740</link>
             <guid>https://ticket.melon.com/performance/index.htm?prodId=207740</guid>
@@ -481,31 +506,6 @@
                             2023.02.17 - 2023.02.17</td>
                         <td class="show_loc">롤링홀 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/01/202301021408289a07e8fb-899c-4571-a4c1-0c40dec3a6e3.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[김정훈，신현빈 〈푸른 새벽〉]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=207790</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=207790</guid>
-            <pubDate>Sun, 12 Feb 2023 16:16:55 GMT</pubDate>
-            <content:encoded><![CDATA[<td>
-                            <div class="show_infor">
-                                <div class="thumb_90x125  img">
-                                    <a href="#">
-                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/01/2023012014412375c94277-2807-4f87-833a-df409afe480e.png/melon/resize/90x125/strip/true" alt="">
-                                        <span class="frame"></span>
-                                    </a>
-                                </div>
-                                <p class="infor_text">
-                                    <span class="ico_wrap">
-                                        <span class="ico_list ico_list1">단독판매</span><span class="ico_list ico_list4"> 판매중</span></span>
-                                    <span class="show_title"><a href="/performance/index.htm?prodId=207790">김정훈，신현빈 〈푸른 새벽〉</a></span>
-                                </p>
-                            </div>
-                        </td>
-                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
-                            2023.02.17 - 2023.02.17</td>
-                        <td class="show_loc">벨로주 홍대 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/01/2023012014412375c94277-2807-4f87-833a-df409afe480e.png/melon/resize/90x125/strip/true" length="0" type="image/png/melon/resize/90x125/strip/true"/>
         </item>
     </channel>
 </rss>
