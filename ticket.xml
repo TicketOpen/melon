@@ -4,7 +4,7 @@
         <title>멜론 티켓</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Feb 2023 09:15:20 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Feb 2023 10:15:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Mon, 13 Feb 2023 09:14:31 GMT</pubDate>
             <content:encoded><![CDATA[2023.02.16(목) 14:00]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/02/20230213180521125e4559-abbc-4502-8919-4094dce7cb72.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[TONE STUDIO LIVE 〈전자양〉 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6973</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6973</guid>
+            <pubDate>Tue, 14 Feb 2023 10:15:28 GMT</pubDate>
+            <content:encoded><![CDATA[오픈일정 보기 &gt;]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/02/20230213140111aedb84d8-a909-4231-b5ba-1cac3c189aa2.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
         <item>
             <title><![CDATA[PARK JIWOO 1st FANMEETING “STILL WITH U” 티켓 오픈 안내]]></title>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 13 Feb 2023 03:19:28 GMT</pubDate>
             <content:encoded><![CDATA[2023.02.20(월) 20:00]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/02/20230210103555b26bf93d-d667-46b5-ab88-f515d224d0b8.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[2023 더베인 콘서트 〈MONSTER〉 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6964</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6964</guid>
-            <pubDate>Sun, 12 Feb 2023 16:16:42 GMT</pubDate>
-            <content:encoded><![CDATA[2023.02.13(월) 20:00]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/02/20230213131014e19c672c-2f03-44c9-9b18-ac35b8795f01.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
     </channel>
 </rss>
