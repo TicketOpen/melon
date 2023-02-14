@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Feb 2023 08:18:46 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Feb 2023 09:15:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -64,6 +64,14 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/02/202302131652213a2b395e-74a4-42ba-ab41-c3b7b3c5cd00.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
         <item>
+            <title><![CDATA[PARK JIWOO 1st FANMEETING “STILL WITH U” 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6972</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6972</guid>
+            <pubDate>Tue, 14 Feb 2023 09:15:12 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>23.02.17(금)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/02/20230213134422ce6386cd-7ae9-4667-a685-50b05da153ef.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
             <title><![CDATA[TUNE UP STAGE：NEW WAVE 튠업 스테이지：뉴 웨이브 티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6970</link>
             <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6970</guid>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 13 Feb 2023 04:17:09 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>23.02.13(월)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/02/20230213131014e19c672c-2f03-44c9-9b18-ac35b8795f01.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[Flight0312：나상현씨밴드 편 IN 부산 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6963</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6963</guid>
-            <pubDate>Sun, 12 Feb 2023 16:16:49 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>23.02.14(화)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/02/2023020914235252506e79-6736-47c2-acc5-23bdcf91a6c3.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
