@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Feb 2023 08:18:18 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Feb 2023 09:14:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,6 +30,14 @@
             <pubDate>Tue, 14 Feb 2023 02:46:54 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>23.02.17(금)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/02/20230214144348ad0f7901-9fd8-47de-accb-02e4aac5bd5a.png/melon/resize/160x225/strip/true" length="0" type="image/png/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[off the menu X 곽태풍 〈POC－Point of Contact（접점）〉]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6976</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6976</guid>
+            <pubDate>Wed, 15 Feb 2023 09:14:33 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>23.02.17(금)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/02/20230214143954d8b52342-8541-406a-aa9b-4374b4d849da.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
         <item>
             <title><![CDATA[신인류 단독 콘서트 ‘이틀간의 잠꼬대’：롤링 28주년 기념 공연 티켓 오픈 안내]]></title>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 14 Feb 2023 05:13:24 GMT</pubDate>
             <content:encoded><![CDATA[오픈일정 보기 &gt;]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/02/202302131652213a2b395e-74a4-42ba-ab41-c3b7b3c5cd00.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[TONE STUDIO LIVE 〈전자양〉 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6973</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6973</guid>
-            <pubDate>Tue, 14 Feb 2023 10:15:34 GMT</pubDate>
-            <content:encoded><![CDATA[오픈일정 보기 &gt;]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/02/20230213140111aedb84d8-a909-4231-b5ba-1cac3c189aa2.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
