@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 18 Feb 2023 14:11:37 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Feb 2023 15:13:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -543,31 +543,6 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/01/20230118134246aba472b5-93fe-4659-8d91-1d4c198a4da4.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
-            <title><![CDATA[윤딴딴 단독 콘서트 〈딴딴한 하루＃6 딴발라Ⅱ〉 (멜론티켓 ─ 판매중)]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=207787</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=207787</guid>
-            <pubDate>Thu, 16 Feb 2023 16:19:44 GMT</pubDate>
-            <content:encoded><![CDATA[<td>
-                            <div class="show_infor">
-                                <div class="thumb_90x125  img">
-                                    <a href="#">
-                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/01/20230119170746bd838605-974a-497d-939d-45bae2121696.jpg/melon/resize/90x125/strip/true" alt="">
-                                        <span class="frame"></span>
-                                    </a>
-                                </div>
-                                <p class="infor_text">
-                                    <span class="ico_wrap">
-                                        <span class="ico_list ico_list1">단독판매</span><span class="ico_list ico_list4"> 판매중</span></span>
-                                    <span class="show_title"><a href="/performance/index.htm?prodId=207787">윤딴딴 단독 콘서트 〈딴딴한 하루＃6 딴발라Ⅱ〉</a></span>
-                                </p>
-                            </div>
-                        </td>
-                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
-                            2023.02.11 - 2023.02.18</td>
-                        <td class="show_loc">클럽온에어 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/01/20230119170746bd838605-974a-497d-939d-45bae2121696.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
             <title><![CDATA[아이유 공식 팬클럽 〈유애나〉 6기 모집 (멜론티켓 ─ 판매중)]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=207816</link>
             <guid>https://ticket.melon.com/performance/index.htm?prodId=207816</guid>
@@ -618,54 +593,79 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/12/202212221726375315bbda-d483-4699-85ba-5fe8d779fa04.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
-            <title><![CDATA[SUPERNOVA！ENCORE 너드커넥션 단독 공연 (멜론티켓 ─ 판매중)]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=207765</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=207765</guid>
-            <pubDate>Fri, 17 Feb 2023 15:14:58 GMT</pubDate>
+            <title><![CDATA[박소은 단독 콘서트 ‘마지막 문장’：롤링 28주년 기념 공연 (멜론티켓 ─ 판매중)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=207746</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=207746</guid>
+            <pubDate>Sat, 18 Feb 2023 15:13:11 GMT</pubDate>
             <content:encoded><![CDATA[<td>
                             <div class="show_infor">
                                 <div class="thumb_90x125  img">
                                     <a href="#">
-                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/01/20230118173627540a42e0-3abb-438a-bac8-d81b2a21a2d0.jpg/melon/resize/90x125/strip/true" alt="">
+                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/01/202301061327074cf6bfeb-7f91-4003-bf46-2392d2ba845f.jpg/melon/resize/90x125/strip/true" alt="">
                                         <span class="frame"></span>
                                     </a>
                                 </div>
                                 <p class="infor_text">
                                     <span class="ico_wrap">
                                         <span class="ico_list ico_list1">단독판매</span><span class="ico_list ico_list4"> 판매중</span></span>
-                                    <span class="show_title"><a href="/performance/index.htm?prodId=207765">SUPERNOVA！ENCORE 너드커넥션 단독 공연</a></span>
+                                    <span class="show_title"><a href="/performance/index.htm?prodId=207746">박소은 단독 콘서트 ‘마지막 문장’：롤링 28주년 기념 공연</a></span>
                                 </p>
                             </div>
                         </td>
                         <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
-                            2023.02.18 - 2023.02.18</td>
+                            2023.02.19 - 2023.02.19</td>
                         <td class="show_loc">롤링홀 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/01/20230118173627540a42e0-3abb-438a-bac8-d81b2a21a2d0.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/01/202301061327074cf6bfeb-7f91-4003-bf46-2392d2ba845f.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
-            <title><![CDATA[이바다 단독 콘서트 ‘LEEBADA’ (멜론티켓 ─ 판매중)]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=207785</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=207785</guid>
-            <pubDate>Fri, 17 Feb 2023 15:14:58 GMT</pubDate>
+            <title><![CDATA[2023 유정 팬미팅 “EYES ON YOU” (멜론티켓 ─ 판매중)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=207769</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=207769</guid>
+            <pubDate>Sat, 18 Feb 2023 15:13:11 GMT</pubDate>
             <content:encoded><![CDATA[<td>
                             <div class="show_infor">
                                 <div class="thumb_90x125  img">
                                     <a href="#">
-                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/01/2023012611050021d70564-6c44-4345-915d-81bf958f5af3.jpg/melon/resize/90x125/strip/true" alt="">
+                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/01/2023011610553540b1524c-792e-47e9-844b-caf25de38089.jpg/melon/resize/90x125/strip/true" alt="">
+                                        <span class="frame"></span>
+                                    </a>
+                                </div>
+                                <p class="infor_text">
+                                    <span class="ico_wrap">
+                                        <span class="ico_list ico_list4"> 판매중</span></span>
+                                    <span class="show_title"><a href="/performance/index.htm?prodId=207769">2023 유정 팬미팅 “EYES ON YOU”</a></span>
+                                </p>
+                            </div>
+                        </td>
+                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
+                            2023.02.19 - 2023.02.19</td>
+                        <td class="show_loc">벨로주 홍대 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/01/2023011610553540b1524c-792e-47e9-844b-caf25de38089.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[Colorful Stage＃1（컬러풀 스테이지＃1） (멜론티켓 ─ 판매중)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=207784</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=207784</guid>
+            <pubDate>Sat, 18 Feb 2023 15:13:11 GMT</pubDate>
+            <content:encoded><![CDATA[<td>
+                            <div class="show_infor">
+                                <div class="thumb_90x125  img">
+                                    <a href="#">
+                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/01/20230120170909c3c9c2f8-1fa7-4a5e-82ad-33b927d3000c.jpg/melon/resize/90x125/strip/true" alt="">
                                         <span class="frame"></span>
                                     </a>
                                 </div>
                                 <p class="infor_text">
                                     <span class="ico_wrap">
                                         <span class="ico_list ico_list1">단독판매</span><span class="ico_list ico_list4"> 판매중</span></span>
-                                    <span class="show_title"><a href="/performance/index.htm?prodId=207785">이바다 단독 콘서트 ‘LEEBADA’</a></span>
+                                    <span class="show_title"><a href="/performance/index.htm?prodId=207784">Colorful Stage＃1（컬러풀 스테이지＃1）</a></span>
                                 </p>
                             </div>
                         </td>
                         <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
-                            2023.02.18 - 2023.02.18</td>
-                        <td class="show_loc">노들섬 라이브하우스 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/01/2023012611050021d70564-6c44-4345-915d-81bf958f5af3.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+                            2023.02.19 - 2023.02.19</td>
+                        <td class="show_loc">구름아래소극장 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/01/20230120170909c3c9c2f8-1fa7-4a5e-82ad-33b927d3000c.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
     </channel>
 </rss>
