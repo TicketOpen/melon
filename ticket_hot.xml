@@ -4,9 +4,17 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Feb 2023 04:16:59 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Feb 2023 05:13:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[티키타카 콘서트：김정훈 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6993</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6993</guid>
+            <pubDate>Tue, 21 Feb 2023 05:13:36 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>23.02.23(목)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/02/2023022017305660c32b72-65c6-49b5-ab95-60cac43d880f.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
         <item>
             <title><![CDATA[W24 단독콘서트 ‘BORN AGAIN’ 티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6986</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 20 Feb 2023 09:14:47 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>23.02.21(화)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/02/202302171539497d01759e-4e55-4296-b915-96973d8dc6e9.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[진우철콘서트 ［SEQUENCE］티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6988</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6988</guid>
-            <pubDate>Mon, 20 Feb 2023 09:14:47 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>23.02.20(월)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/02/2023021711001473f9aa20-6ad6-49ff-a1c6-aebaa03fcb4b.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
