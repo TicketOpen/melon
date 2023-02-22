@@ -4,7 +4,7 @@
         <title>멜론 티켓</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Feb 2023 10:15:31 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Feb 2023 11:12:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Wed, 22 Feb 2023 05:13:27 GMT</pubDate>
             <content:encoded><![CDATA[2023.02.28(화) 14:00]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/02/20230222120504b1fa603c-8f84-4182-b878-3b5d69bd9f16.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[맥거핀 단독 공연 ‘Mr．Education’ Lesson ONE 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6996</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6996</guid>
+            <pubDate>Wed, 22 Feb 2023 11:12:13 GMT</pubDate>
+            <content:encoded><![CDATA[2023.02.27(월) 20:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/02/2023022210010364c635dd-72c1-4098-aba7-5e9cc9e28649.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
         <item>
             <title><![CDATA[YOU ME IS SPRING 티켓 오픈 안내]]></title>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 22 Feb 2023 01:04:40 GMT</pubDate>
             <content:encoded><![CDATA[2023.02.20(월) 12:00]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/02/2023021710100944370cdc-19d5-47dc-8591-41fc0df015ad.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[W24 단독콘서트 ‘BORN AGAIN’ 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6986</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6986</guid>
-            <pubDate>Wed, 22 Feb 2023 01:04:40 GMT</pubDate>
-            <content:encoded><![CDATA[2023.02.20(월) 18:00]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/02/20230216151245738e7fb0-654e-49bf-96f3-7db230a850ff.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
     </channel>
 </rss>
