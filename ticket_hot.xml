@@ -4,9 +4,25 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Feb 2023 07:13:37 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Feb 2023 08:19:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[패밀리 서커스 〈이상한 나라의 앨리스〉 오리지널 내한공연－부산 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7022</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7022</guid>
+            <pubDate>Mon, 27 Feb 2023 08:19:08 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>23.03.06(월)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/02/20230227160033834ca0d5-9980-49d6-9874-38e5ccabfb27.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[패밀리 서커스 〈이상한 나라의 앨리스〉 오리지널 내한공연－서울 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7021</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7021</guid>
+            <pubDate>Mon, 27 Feb 2023 08:19:08 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>23.03.06(월)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/02/20230227160551be941472-f97c-4300-9567-9d35e7a74005.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
         <item>
             <title><![CDATA[신현빈，위아영 〈Spring Holiday〉 티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7011</link>
@@ -70,22 +86,6 @@
             <pubDate>Mon, 27 Feb 2023 03:19:34 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>23.03.03(금)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/02/20230224095343cdb53361-f8c1-4c2e-9088-db0f82f2ce10.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[크라잉넛 단독 콘서트 ‘롤링홀’：롤링 28주년 기념 공연 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6999</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6999</guid>
-            <pubDate>Fri, 24 Feb 2023 13:23:06 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>23.03.02(목)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/02/2023022210270836bbab9e-ad71-449d-80d5-143f22f160b5.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[먼데이프로젝트 시즌6 순간의 노래［정우 단독 콘서트］티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7001</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7001</guid>
-            <pubDate>Fri, 24 Feb 2023 13:23:06 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>23.03.03(금)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/02/2023022212090808826e6c-05ef-449a-abab-4cbc98cf901b.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
