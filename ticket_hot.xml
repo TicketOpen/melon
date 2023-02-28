@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Feb 2023 23:14:46 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Feb 2023 01:07:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,6 +30,14 @@
             <pubDate>Mon, 27 Feb 2023 08:19:08 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>23.03.06(월)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/02/20230227160551be941472-f97c-4300-9567-9d35e7a74005.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[Primavera（봄 or 청춘) 헤이린，연음이 오다．티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7015</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7015</guid>
+            <pubDate>Tue, 28 Feb 2023 01:07:12 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>23.03.08(수)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/02/202302271454523dd6050e-592f-47f3-9e9e-307580817ee5.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
         <item>
             <title><![CDATA[신현빈，위아영 〈Spring Holiday〉 티켓 오픈 안내]]></title>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 24 Feb 2023 13:23:06 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>23.02.27(월)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/02/20230223143633f3466088-5a8c-4c5b-955c-41db91c35a77.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[밀코메다 2회 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7009</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7009</guid>
-            <pubDate>Mon, 27 Feb 2023 03:19:34 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>23.03.03(금)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/02/20230224112038c8c6dcdd-35a4-496c-9943-810958d4cac9.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
