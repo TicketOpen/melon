@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 판매중</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Feb 2023 14:14:52 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Feb 2023 15:15:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -258,31 +258,6 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/01/20230118134246aba472b5-93fe-4659-8d91-1d4c198a4da4.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
-            <title><![CDATA[먼데이프로젝트 시즌6［겸 첫 정규앨범 발매 단독 콘서트 ‘삼켜낸 파란 은유’］]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=207802</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=207802</guid>
-            <pubDate>Sat, 25 Feb 2023 15:13:13 GMT</pubDate>
-            <content:encoded><![CDATA[<td>
-                            <div class="show_infor">
-                                <div class="thumb_90x125  img">
-                                    <a href="#">
-                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/02/202302021121198b956324-d712-4923-9bb5-10b57fda7a3f.jpg/melon/resize/90x125/strip/true" alt="">
-                                        <span class="frame"></span>
-                                    </a>
-                                </div>
-                                <p class="infor_text">
-                                    <span class="ico_wrap">
-                                        <span class="ico_list ico_list1">단독판매</span><span class="ico_list ico_list4"> 판매중</span></span>
-                                    <span class="show_title"><a href="/performance/index.htm?prodId=207802">먼데이프로젝트 시즌6［겸 첫 정규앨범 발매 단독 콘서트 ‘삼켜낸 파란 은유’］</a></span>
-                                </p>
-                            </div>
-                        </td>
-                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
-                            2023.02.28 - 2023.02.28</td>
-                        <td class="show_loc">클럽온에어 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/02/202302021121198b956324-d712-4923-9bb5-10b57fda7a3f.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
             <title><![CDATA[멍키헤드X갤럭시익스프레스X로큰롤라디오X락킷걸：롤링 28주년 기념 공연 ‘This is Rock’]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=207777</link>
             <guid>https://ticket.melon.com/performance/index.htm?prodId=207777</guid>
@@ -506,6 +481,31 @@
                             2023.03.04 - 2023.03.04</td>
                         <td class="show_loc">CJ아지트 광흥창 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/02/202302131308591c95b464-6e88-4a3c-985f-c8089e9e0a3f.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[진우철콘서트 ［SEQUENCE］]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=207875</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=207875</guid>
+            <pubDate>Tue, 28 Feb 2023 15:15:00 GMT</pubDate>
+            <content:encoded><![CDATA[<td>
+                            <div class="show_infor">
+                                <div class="thumb_90x125  img">
+                                    <a href="#">
+                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/02/20230217104403ba585838-027f-40cb-bb56-9bc8f95325ca.jpg/melon/resize/90x125/strip/true" alt="">
+                                        <span class="frame"></span>
+                                    </a>
+                                </div>
+                                <p class="infor_text">
+                                    <span class="ico_wrap">
+                                        <span class="ico_list ico_list1">단독판매</span><span class="ico_list ico_list4"> 판매중</span></span>
+                                    <span class="show_title"><a href="/performance/index.htm?prodId=207875">진우철콘서트 ［SEQUENCE］</a></span>
+                                </p>
+                            </div>
+                        </td>
+                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
+                            2023.03.04 - 2023.03.04</td>
+                        <td class="show_loc">클럽온에어 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/02/20230217104403ba585838-027f-40cb-bb56-9bc8f95325ca.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
     </channel>
 </rss>
