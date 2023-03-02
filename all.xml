@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Mar 2023 23:14:25 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Mar 2023 01:12:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -443,6 +443,31 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/01/202301181649225318eb88-ed74-4dbd-9a86-00f9623a3fdd.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
+            <title><![CDATA[［리뉴얼 50％특가］〈헬가 스텐첼 특별전 Ep2：보고 또 보고〉 (멜론티켓 ─ 판매중)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=207915</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=207915</guid>
+            <pubDate>Thu, 02 Mar 2023 01:12:57 GMT</pubDate>
+            <content:encoded><![CDATA[<td>
+                            <div class="show_infor">
+                                <div class="thumb_90x125  img">
+                                    <a href="#">
+                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/02/20230228143051fb818fb7-250b-4d35-8e61-5e511bb891c3.jpg/melon/resize/90x125/strip/true" alt="">
+                                        <span class="frame"></span>
+                                    </a>
+                                </div>
+                                <p class="infor_text">
+                                    <span class="ico_wrap">
+                                        <span class="ico_list ico_list4"> 판매중</span></span>
+                                    <span class="show_title"><a href="/performance/index.htm?prodId=207915">［리뉴얼 50％특가］〈헬가 스텐첼 특별전 Ep2：보고 또 보고〉</a></span>
+                                </p>
+                            </div>
+                        </td>
+                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
+                            2023.03.04 - 2023.04.30</td>
+                        <td class="show_loc">CxC Art Museum X LOTTE CINEMA </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/02/20230228143051fb818fb7-250b-4d35-8e61-5e511bb891c3.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
             <title><![CDATA[YB 단독 콘서트 ‘LIGHTS：BURNS’：롤링 28주년 기념 공연 (멜론티켓 ─ 판매중)]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=207789</link>
             <guid>https://ticket.melon.com/performance/index.htm?prodId=207789</guid>
@@ -641,31 +666,6 @@
                             2023.03.05 - 2023.03.05</td>
                         <td class="show_loc">CJ아지트 광흥창 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/02/2023021414304438a23c2e-93c9-49e2-8f2a-795eaa570a9d.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[“숨긴 하루” 첫번째 음원발매기념 쇼케이스 (멜론티켓 ─ 판매중)]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=207872</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=207872</guid>
-            <pubDate>Wed, 01 Mar 2023 15:15:26 GMT</pubDate>
-            <content:encoded><![CDATA[<td>
-                            <div class="show_infor">
-                                <div class="thumb_90x125  img">
-                                    <a href="#">
-                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/02/2023021617413909948f0f-47d9-4f50-a6fb-4588c44d5873.jpg/melon/resize/90x125/strip/true" alt="">
-                                        <span class="frame"></span>
-                                    </a>
-                                </div>
-                                <p class="infor_text">
-                                    <span class="ico_wrap">
-                                        <span class="ico_list ico_list1">단독판매</span><span class="ico_list ico_list4"> 판매중</span></span>
-                                    <span class="show_title"><a href="/performance/index.htm?prodId=207872">“숨긴 하루” 첫번째 음원발매기념 쇼케이스</a></span>
-                                </p>
-                            </div>
-                        </td>
-                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
-                            2023.03.05 - 2023.03.05</td>
-                        <td class="show_loc">클럽온에어 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/02/2023021617413909948f0f-47d9-4f50-a6fb-4588c44d5873.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
     </channel>
 </rss>
