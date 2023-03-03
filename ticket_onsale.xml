@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 판매중</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Mar 2023 04:30:25 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Mar 2023 05:18:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -483,29 +483,29 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/02/2023021617413909948f0f-47d9-4f50-a6fb-4588c44d5873.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
-            <title><![CDATA[먼데이프로젝트 IN 라이브클럽［프랭클리 단독 콘서트］]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=207836</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=207836</guid>
-            <pubDate>Thu, 02 Mar 2023 17:13:41 GMT</pubDate>
+            <title><![CDATA[IVE 공식 팬클럽 ‘DIVE’ 2기 추가모집]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=207806</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=207806</guid>
+            <pubDate>Fri, 03 Mar 2023 05:18:10 GMT</pubDate>
             <content:encoded><![CDATA[<td>
                             <div class="show_infor">
                                 <div class="thumb_90x125  img">
                                     <a href="#">
-                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/02/20230208151325a960e778-cafe-40b7-92af-38190ec92c5f.jpg/melon/resize/90x125/strip/true" alt="">
+                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/03/2023030314010251658ea0-6cfd-4084-b3cc-82e4b098e263.jpg/melon/resize/90x125/strip/true" alt="">
                                         <span class="frame"></span>
                                     </a>
                                 </div>
                                 <p class="infor_text">
                                     <span class="ico_wrap">
                                         <span class="ico_list ico_list1">단독판매</span><span class="ico_list ico_list4"> 판매중</span></span>
-                                    <span class="show_title"><a href="/performance/index.htm?prodId=207836">먼데이프로젝트 IN 라이브클럽［프랭클리 단독 콘서트］</a></span>
+                                    <span class="show_title"><a href="/performance/index.htm?prodId=207806">IVE 공식 팬클럽 ‘DIVE’ 2기 추가모집</a></span>
                                 </p>
                             </div>
                         </td>
                         <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
-                            2023.03.06 - 2023.03.06</td>
-                        <td class="show_loc">공상온도 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/02/20230208151325a960e778-cafe-40b7-92af-38190ec92c5f.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+                            2023.03.06 - 2023.03.12</td>
+                        <td class="show_loc">- </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/03/2023030314010251658ea0-6cfd-4084-b3cc-82e4b098e263.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
     </channel>
 </rss>
