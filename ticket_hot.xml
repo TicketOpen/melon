@@ -1,8 +1,91 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://ticket.melon.com/csoon/index.htm#orderType=0&amp;pageIndex=1&amp;schGcode=GENRE_ALL&amp;schText=&amp;schDt=</id>
-    <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
-    <updated>2023-03-03T06:18:11.682Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Fri, 03 Mar 2023 07:14:48 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[패밀리 서커스 〈이상한 나라의 앨리스〉 오리지널 내한공연－부산 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7022</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7022</guid>
+            <pubDate>Fri, 03 Mar 2023 07:14:40 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>23.03.06(월)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/02/20230227160033834ca0d5-9980-49d6-9874-38e5ccabfb27.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[패밀리 서커스 〈이상한 나라의 앨리스〉 오리지널 내한공연－서울 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7021</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7021</guid>
+            <pubDate>Fri, 03 Mar 2023 07:14:40 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>23.03.06(월)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/02/20230227160551be941472-f97c-4300-9567-9d35e7a74005.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[2023 정세운 소극장 콘서트 〈THE WAVE〉 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6971</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6971</guid>
+            <pubDate>Fri, 03 Mar 2023 07:14:40 GMT</pubDate>
+            <content:encoded><![CDATA[오픈일정 보기 &gt;]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/03/202303031155085cd9b10b-e3f9-440f-bd36-2a73face5e08.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[2023 Apink FANCONCERT 〈Pink drive〉 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7034</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7034</guid>
+            <pubDate>Fri, 03 Mar 2023 07:14:40 GMT</pubDate>
+            <content:encoded><![CDATA[오픈일정 보기 &gt;]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/03/2023030310435306443257-99f6-4704-b229-b954fd40e216.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[2023 김호중 클래식 콘서트 〈TVAROTTI〉 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7033</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7033</guid>
+            <pubDate>Fri, 03 Mar 2023 07:14:40 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>23.03.03(금)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/03/20230303104523b635146b-0813-4b0a-b75d-6fce9a4c3af5.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[태비（Taeb2）앨범 쇼케이스 “TIME SELLER” 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7028</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7028</guid>
+            <pubDate>Fri, 03 Mar 2023 07:14:40 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>23.03.04(토)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/02/2023022817032486d77f10-c492-40d0-8c7c-bf92ca9bf7e7.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[윤서빈 팬미팅 ‘Rewind’ 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7029</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7029</guid>
+            <pubDate>Fri, 03 Mar 2023 07:14:40 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>23.03.07(화)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/02/2023022817381466a292df-9cf6-4061-9072-f84c29797539.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[SONGMATE Vol．5 April Blossom 달리 시소 임지안 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7030</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7030</guid>
+            <pubDate>Fri, 03 Mar 2023 07:14:40 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>23.03.09(목)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/02/202302281713148ecd2815-84a0-4eb4-9cea-dead575f95bb.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[아키텍쳐 콘서트－Rationalis Impetus Concert 4 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7031</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7031</guid>
+            <pubDate>Fri, 03 Mar 2023 07:14:40 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>23.03.07(화)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/02/202302281742144f0f3c70-6f59-4660-88e5-5090a13a7654.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[IVE 공식 팬클럽 ‘DIVE’ 2기 추가모집 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7032</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7032</guid>
+            <pubDate>Fri, 03 Mar 2023 07:14:40 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>23.03.06(월)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/02/202302281825258b906a95-731b-4e77-9004-541fc8060d89.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+    </channel>
+</rss>
