@@ -4,9 +4,25 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 05 Mar 2023 23:13:48 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Mar 2023 01:08:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[〈불타는 트롯맨〉 전국투어 콘서트－서울 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=6997</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=6997</guid>
+            <pubDate>Mon, 06 Mar 2023 01:08:21 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>23.02.28(화)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/03/2023030609130886425992-c0b7-4702-a2cc-422e6f32fac2.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[윤서빈 팬미팅 ‘Rewind’ 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7029</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7029</guid>
+            <pubDate>Sat, 04 Mar 2023 14:12:33 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>23.03.07(화)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/03/2023030609050886ed93ec-0789-4183-85f9-bbbe299844a5.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
         <item>
             <title><![CDATA[티키타카 콘서트：채보훈 티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7035</link>
@@ -64,28 +80,12 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/02/2023022817032486d77f10-c492-40d0-8c7c-bf92ca9bf7e7.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
         <item>
-            <title><![CDATA[윤서빈 팬미팅 ‘Rewind’ 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7029</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7029</guid>
-            <pubDate>Sat, 04 Mar 2023 14:12:33 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>23.03.07(화)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/02/2023022817381466a292df-9cf6-4061-9072-f84c29797539.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
             <title><![CDATA[SONGMATE Vol．5 April Blossom 달리 시소 임지안 티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7030</link>
             <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7030</guid>
             <pubDate>Sat, 04 Mar 2023 14:12:33 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>23.03.09(목)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/02/202302281713148ecd2815-84a0-4eb4-9cea-dead575f95bb.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[아키텍쳐 콘서트－Rationalis Impetus Concert 4 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7031</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7031</guid>
-            <pubDate>Sat, 04 Mar 2023 14:12:33 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>23.03.07(화)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/02/202302281742144f0f3c70-6f59-4660-88e5-5090a13a7654.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
