@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 판매중</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 12 Mar 2023 23:13:32 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Mar 2023 01:05:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -206,6 +206,31 @@
                             2023.03.04 - 2023.04.30</td>
                         <td class="show_loc">CxC Art Museum X LOTTE CINEMA </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/02/20230228143051fb818fb7-250b-4d35-8e61-5e511bb891c3.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[〈헬가 스텐첼 특별전 Ep2：보고 또 보고〉]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=207916</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=207916</guid>
+            <pubDate>Mon, 13 Mar 2023 01:05:45 GMT</pubDate>
+            <content:encoded><![CDATA[<td>
+                            <div class="show_infor">
+                                <div class="thumb_90x125  img">
+                                    <a href="#">
+                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/02/20230228150717d48452c4-b6ff-4cba-bc08-ba16bec11c88.jpg/melon/resize/90x125/strip/true" alt="">
+                                        <span class="frame"></span>
+                                    </a>
+                                </div>
+                                <p class="infor_text">
+                                    <span class="ico_wrap">
+                                        <span class="ico_list ico_list4"> 판매중</span></span>
+                                    <span class="show_title"><a href="/performance/index.htm?prodId=207916">〈헬가 스텐첼 특별전 Ep2：보고 또 보고〉</a></span>
+                                </p>
+                            </div>
+                        </td>
+                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
+                            2023.03.04 - 2023.06.11</td>
+                        <td class="show_loc">CxC Art Museum X LOTTE CINEMA </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/02/20230228150717d48452c4-b6ff-4cba-bc08-ba16bec11c88.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
             <title><![CDATA[［연장 기념 50％ 할인］하리보 골드베렌 100주년 생일 기념전]]></title>
@@ -481,31 +506,6 @@
                             2023.03.18 - 2023.03.18</td>
                         <td class="show_loc">동광교회 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/02/20230227163942bb7616ea-b672-4b9f-a6d2-2a501ff87c33.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[PARK JIWOO 1st FANMEETING “STILL WITH U”]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=207846</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=207846</guid>
-            <pubDate>Sun, 12 Mar 2023 15:12:57 GMT</pubDate>
-            <content:encoded><![CDATA[<td>
-                            <div class="show_infor">
-                                <div class="thumb_90x125  img">
-                                    <a href="#">
-                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/02/202302091542016ec652b8-1aa9-4bdf-a20e-3e9c7a021b50.jpg/melon/resize/90x125/strip/true" alt="">
-                                        <span class="frame"></span>
-                                    </a>
-                                </div>
-                                <p class="infor_text">
-                                    <span class="ico_wrap">
-                                        <span class="ico_list ico_list4"> 판매중</span></span>
-                                    <span class="show_title"><a href="/performance/index.htm?prodId=207846">PARK JIWOO 1st FANMEETING “STILL WITH U”</a></span>
-                                </p>
-                            </div>
-                        </td>
-                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
-                            2023.03.18 - 2023.03.18</td>
-                        <td class="show_loc">SAC ART HALL </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/02/202302091542016ec652b8-1aa9-4bdf-a20e-3e9c7a021b50.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
     </channel>
 </rss>
