@@ -4,9 +4,17 @@
         <title>멜론 티켓</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Mar 2023 10:14:59 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Mar 2023 11:12:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[사운드힐즈 EP 발매 쇼케이스 〈Re－Imagined〉 part．1 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7069</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7069</guid>
+            <pubDate>Wed, 15 Mar 2023 11:12:25 GMT</pubDate>
+            <content:encoded><![CDATA[2023.03.17(금) 20:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/03/202303141710101a7a3f87-40d3-4d11-8849-54ecb7859e17.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
         <item>
             <title><![CDATA[티키타카 콘서트：은종 티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7068</link>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 14 Mar 2023 11:12:48 GMT</pubDate>
             <content:encoded><![CDATA[2023.03.16(목) 20:00]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/03/20230313091524dfe3fc69-3c98-47ba-9295-be3067d4f0fc.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[다정한 사월 2023 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7059</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7059</guid>
-            <pubDate>Tue, 14 Mar 2023 11:12:48 GMT</pubDate>
-            <content:encoded><![CDATA[2023.03.16(목) 20:00]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/03/20230310144435d4c9a2b6-47eb-4bd2-a9fd-fc6326801701.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
     </channel>
 </rss>
