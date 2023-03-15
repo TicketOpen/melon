@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 판매중</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Mar 2023 14:13:31 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Mar 2023 15:14:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -333,31 +333,6 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/02/202302160856355558536e-564c-4177-a49c-368b35763eb5.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
-            <title><![CDATA[먼데이프로젝트 시즌6 My Universe［김제형 단독 콘서트］]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=207861</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=207861</guid>
-            <pubDate>Tue, 14 Mar 2023 11:13:00 GMT</pubDate>
-            <content:encoded><![CDATA[<td>
-                            <div class="show_infor">
-                                <div class="thumb_90x125  img">
-                                    <a href="#">
-                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/02/2023021416150624b516fb-5096-403e-954e-036de483de13.jpg/melon/resize/90x125/strip/true" alt="">
-                                        <span class="frame"></span>
-                                    </a>
-                                </div>
-                                <p class="infor_text">
-                                    <span class="ico_wrap">
-                                        <span class="ico_list ico_list1">단독판매</span><span class="ico_list ico_list4"> 판매중</span></span>
-                                    <span class="show_title"><a href="/performance/index.htm?prodId=207861">먼데이프로젝트 시즌6 My Universe［김제형 단독 콘서트］</a></span>
-                                </p>
-                            </div>
-                        </td>
-                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
-                            2023.03.15 - 2023.03.15</td>
-                        <td class="show_loc">클럽온에어 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/02/2023021416150624b516fb-5096-403e-954e-036de483de13.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
             <title><![CDATA[티키타카 콘서트：2Z]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=207895</link>
             <guid>https://ticket.melon.com/performance/index.htm?prodId=207895</guid>
@@ -506,6 +481,31 @@
                             2023.03.17 - 2023.03.17</td>
                         <td class="show_loc">톤 스튜디오 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/02/20230222094402b4717df4-44d7-45b8-a27f-67fd40424058.png/melon/resize/90x125/strip/true" length="0" type="image/png/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[2023 달빛마을 콘서트]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=207910</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=207910</guid>
+            <pubDate>Wed, 15 Mar 2023 15:14:23 GMT</pubDate>
+            <content:encoded><![CDATA[<td>
+                            <div class="show_infor">
+                                <div class="thumb_90x125  img">
+                                    <a href="#">
+                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/02/20230227163942bb7616ea-b672-4b9f-a6d2-2a501ff87c33.jpg/melon/resize/90x125/strip/true" alt="">
+                                        <span class="frame"></span>
+                                    </a>
+                                </div>
+                                <p class="infor_text">
+                                    <span class="ico_wrap">
+                                        <span class="ico_list ico_list1">단독판매</span><span class="ico_list ico_list4"> 판매중</span></span>
+                                    <span class="show_title"><a href="/performance/index.htm?prodId=207910">2023 달빛마을 콘서트</a></span>
+                                </p>
+                            </div>
+                        </td>
+                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
+                            2023.03.18 - 2023.03.18</td>
+                        <td class="show_loc">동광교회 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/02/20230227163942bb7616ea-b672-4b9f-a6d2-2a501ff87c33.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
     </channel>
 </rss>
