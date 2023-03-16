@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Mar 2023 08:17:38 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Mar 2023 09:14:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -48,6 +48,14 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/03/20230315161810713acb7c-f9ab-4348-90b1-d14535d05f7e.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
         <item>
+            <title><![CDATA[너의 메아리 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7071</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7071</guid>
+            <pubDate>Thu, 16 Mar 2023 09:14:04 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>23.03.21(화)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/03/2023031513224755dee64b-595d-4b0b-9847-2eb60bbfa388.png/melon/resize/160x225/strip/true" length="0" type="image/png/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
             <title><![CDATA[Mercury 88 Vol．2 티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7070</link>
             <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7070</guid>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 15 Mar 2023 09:14:23 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>23.03.21(화)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/03/202303141452283b6fea0d-2781-4b9a-a87c-675d0b0bc9ff.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[기욱（ONEWE）단독 콘서트（Prologue：TURN OVER ‘롤링 28주년 기념 공연’ 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7058</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7058</guid>
-            <pubDate>Tue, 14 Mar 2023 11:12:54 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>23.03.16(목)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/03/2023031313221251848543-3023-4970-a37d-4853fdb7f5bf.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
