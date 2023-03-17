@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Mar 2023 08:17:22 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Mar 2023 09:14:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Fri, 17 Mar 2023 08:17:14 GMT</pubDate>
             <content:encoded><![CDATA[오픈일정 보기 &gt;]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/03/20230317161455ce07f9c4-1930-4002-acd9-5d0bd3254e00.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[HIPHOPPLAYA FESTIVAL 2023 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7083</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7083</guid>
+            <pubDate>Fri, 17 Mar 2023 09:14:07 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>23.03.22(수)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/03/202303171518356aaabfbf-eed7-4395-8512-a9ee1d3f4d0b.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
         <item>
             <title><![CDATA[2023 백아 단독공연 ‘향기 香氣’－부산，서울 티켓 오픈 안내]]></title>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 16 Mar 2023 03:14:38 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>23.03.23(목)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/03/20230315170943358001d2-6993-4e37-b399-3f550e508aea.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[먼데이프로젝트 시즌6 My Universe［김정훈 단독 콘서트］－서울 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7074</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7074</guid>
-            <pubDate>Thu, 16 Mar 2023 03:14:38 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>23.03.23(목)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/03/20230315161810713acb7c-f9ab-4348-90b1-d14535d05f7e.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
