@@ -1,8 +1,91 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://ticket.melon.com/csoon/index.htm#orderType=0&amp;pageIndex=1&amp;schGcode=GENRE_ALL&amp;schText=&amp;schDt=</id>
-    <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
-    <updated>2023-03-18T21:12:16.267Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Sat, 18 Mar 2023 22:12:11 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뮤지컬 〈베토벤；Beethoven Secret〉 SEASON 2－1차 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7082</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7082</guid>
+            <pubDate>Sat, 18 Mar 2023 22:12:03 GMT</pubDate>
+            <content:encoded><![CDATA[오픈일정 보기 &gt;]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/03/20230317161455ce07f9c4-1930-4002-acd9-5d0bd3254e00.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[HIPHOPPLAYA FESTIVAL 2023 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7083</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7083</guid>
+            <pubDate>Sat, 18 Mar 2023 22:12:03 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>23.03.22(수)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/03/202303171518356aaabfbf-eed7-4395-8512-a9ee1d3f4d0b.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[2023 백아 단독공연 ‘향기 香氣’－부산，서울 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7080</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7080</guid>
+            <pubDate>Sat, 18 Mar 2023 22:12:03 GMT</pubDate>
+            <content:encoded><![CDATA[오픈일정 보기 &gt;]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/03/20230317111352f008a3f8-c094-48ce-9c8d-2d50de25ec53.JPG/melon/resize/160x225/strip/true" length="0" type="image/JPG/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[윤딴딴 단독 콘서트 ‘28청춘’：롤링 28주년 기념 공연 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7076</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7076</guid>
+            <pubDate>Sat, 18 Mar 2023 22:12:03 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>23.03.23(목)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/03/2023031609083546c491ce-b986-4c27-ad33-e33ecccef52d.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[다수의 멜로디3［Boundary］쇼케이스 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7077</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7077</guid>
+            <pubDate>Sat, 18 Mar 2023 22:12:03 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>23.03.17(금)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/03/20230316092311b12e2dae-0c48-494d-bb6c-8c631285d0cc.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[［서울 대학로］연극 라면 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7078</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7078</guid>
+            <pubDate>Sat, 18 Mar 2023 22:12:03 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>23.03.20(월)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/03/202303161138586023cf1b-5d68-4ab5-8313-6d98a6416584.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[KARA 15TH ANNIVERSARY FAN MEETING 2023 ∼MOVE AGAIN∼ IN SEOUL 추가 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7079</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7079</guid>
+            <pubDate>Sat, 18 Mar 2023 22:12:03 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>23.03.20(월)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/03/20230316151658c84ad0d5-ca88-49f8-9988-77a93209b530.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[Summer Cake Concert ‘CAKE SHOP’ 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7073</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7073</guid>
+            <pubDate>Sat, 18 Mar 2023 22:12:03 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>23.03.17(금)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/03/202303151622268b97cc06-f2d9-44e7-b36a-f8403b55ca0e.png/melon/resize/160x225/strip/true" length="0" type="image/png/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[트랙제로 Alive－Vol．11 트랙제로 이달의 아티스트 황푸하 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7072</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7072</guid>
+            <pubDate>Sat, 18 Mar 2023 22:12:03 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>23.03.16(목)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/03/2023031518434832cf071e-226e-4bed-b7b4-cd1d99f689f0.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[먼데이프로젝트 시즌6 My Universe［김정훈 단독 콘서트］－부산 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7075</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7075</guid>
+            <pubDate>Sat, 18 Mar 2023 22:12:03 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>23.03.23(목)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/03/20230315170943358001d2-6993-4e37-b399-3f550e508aea.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+    </channel>
+</rss>
