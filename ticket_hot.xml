@@ -4,9 +4,17 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Mar 2023 04:16:41 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Mar 2023 05:13:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[festival SUM 2023 x 전주국제영화제 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7086</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7086</guid>
+            <pubDate>Mon, 20 Mar 2023 05:13:39 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>23.03.23(목)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/03/20230320132231df6b44a0-46a4-45b1-b83a-df9c4df53447.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
         <item>
             <title><![CDATA[HIPHOPPLAYA FESTIVAL 2023 티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7083</link>
@@ -30,6 +38,14 @@
             <pubDate>Mon, 20 Mar 2023 01:07:14 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>23.03.17(금)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/03/20230320092547e4c1be86-f103-4f18-80a4-cd984ef2be16.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[APRIL SHOWER：에이프릴 세컨드 Come Back Party 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7085</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7085</guid>
+            <pubDate>Mon, 20 Mar 2023 05:13:39 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>23.03.22(수)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/03/20230320092327d0b24a6a-dfbc-4cb4-8be3-d5ec0a88fae0.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 〈베토벤；Beethoven Secret〉 SEASON 2－1차 티켓 오픈 안내]]></title>
@@ -70,22 +86,6 @@
             <pubDate>Sat, 18 Mar 2023 22:12:03 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>23.03.17(금)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/03/20230316092311b12e2dae-0c48-494d-bb6c-8c631285d0cc.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[［서울 대학로］연극 라면 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7078</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7078</guid>
-            <pubDate>Sat, 18 Mar 2023 22:12:03 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>23.03.20(월)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/03/202303161138586023cf1b-5d68-4ab5-8313-6d98a6416584.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[KARA 15TH ANNIVERSARY FAN MEETING 2023 ∼MOVE AGAIN∼ IN SEOUL 추가 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7079</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7079</guid>
-            <pubDate>Sat, 18 Mar 2023 22:12:03 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>23.03.20(월)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/03/20230316151658c84ad0d5-ca88-49f8-9988-77a93209b530.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
