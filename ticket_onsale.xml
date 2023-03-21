@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 판매중</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Mar 2023 23:13:04 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Mar 2023 01:01:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -56,6 +56,31 @@
                             2022.09.30 - 2023.09.24</td>
                         <td class="show_loc">용인 리빙파워센터 4F </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/03/20230310093633c057822e-dcf0-4a5c-ad93-c0c5d74ae203.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[하리보 골드베렌 100주년 생일 기념전]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=207993</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=207993</guid>
+            <pubDate>Tue, 21 Mar 2023 01:01:38 GMT</pubDate>
+            <content:encoded><![CDATA[<td>
+                            <div class="show_infor">
+                                <div class="thumb_90x125  img">
+                                    <a href="#">
+                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/03/202303171109083ddbd72a-c3c8-4fb3-8509-bed57077ba35.jpg/melon/resize/90x125/strip/true" alt="">
+                                        <span class="frame"></span>
+                                    </a>
+                                </div>
+                                <p class="infor_text">
+                                    <span class="ico_wrap">
+                                        <span class="ico_list ico_list4"> 판매중</span></span>
+                                    <span class="show_title"><a href="/performance/index.htm?prodId=207993">하리보 골드베렌 100주년 생일 기념전</a></span>
+                                </p>
+                            </div>
+                        </td>
+                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
+                            2022.10.13 - 2023.08.15</td>
+                        <td class="show_loc">안녕 인사동 B1 인사센트럴뮤지엄 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/03/202303171109083ddbd72a-c3c8-4fb3-8509-bed57077ba35.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
             <title><![CDATA[DRIFT：In Sync with the Earth]]></title>
@@ -481,31 +506,6 @@
                             2023.03.24 - 2023.06.09</td>
                         <td class="show_loc">마이아트뮤지엄 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/03/20230310161633dd2caad6-0a9b-43e5-8b92-4e5e745f2255.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[벤치위레오 다섯 번째 단독 공연 〈고양이들의 봄 산책〉]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=207864</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=207864</guid>
-            <pubDate>Mon, 20 Mar 2023 15:14:35 GMT</pubDate>
-            <content:encoded><![CDATA[<td>
-                            <div class="show_infor">
-                                <div class="thumb_90x125  img">
-                                    <a href="#">
-                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/02/20230215102654b9e189b1-ab40-4bd9-884b-4f65763b9ec5.jpg/melon/resize/90x125/strip/true" alt="">
-                                        <span class="frame"></span>
-                                    </a>
-                                </div>
-                                <p class="infor_text">
-                                    <span class="ico_wrap">
-                                        <span class="ico_list ico_list1">단독판매</span><span class="ico_list ico_list4"> 판매중</span></span>
-                                    <span class="show_title"><a href="/performance/index.htm?prodId=207864">벤치위레오 다섯 번째 단독 공연 〈고양이들의 봄 산책〉</a></span>
-                                </p>
-                            </div>
-                        </td>
-                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
-                            2023.03.24 - 2023.03.24</td>
-                        <td class="show_loc">폼텍 웍스홀 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/02/20230215102654b9e189b1-ab40-4bd9-884b-4f65763b9ec5.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
     </channel>
 </rss>
