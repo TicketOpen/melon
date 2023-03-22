@@ -1,8 +1,91 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://ticket.melon.com/csoon/index.htm#orderType=0&amp;pageIndex=1&amp;schGcode=GENRE_ALL&amp;schText=&amp;schDt=</id>
-    <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
-    <updated>2023-03-22T14:12:44.259Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Wed, 22 Mar 2023 15:14:20 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[S（e）oul Station 2023［Jesse Barrera，Michael Carreon，Albert Posis］Live in Seoul 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7094</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7094</guid>
+            <pubDate>Wed, 22 Mar 2023 15:14:12 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>23.03.24(금)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/03/20230321160020f6e06579-83ae-4328-b9ee-f77e41429ecd.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[2023 CRAVITY THE 1ST WORLD TOUR ‘MASTERPIECE’ IN SEOUL 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7092</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7092</guid>
+            <pubDate>Wed, 22 Mar 2023 15:14:12 GMT</pubDate>
+            <content:encoded><![CDATA[오픈일정 보기 &gt;]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/03/202303210900307071acf8-df50-4706-82cf-f1054fb0181b.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[네미시스 단독 콘서트 ‘우리들의 봄’：롤링 28주년 기념 공연 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7093</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7093</guid>
+            <pubDate>Wed, 22 Mar 2023 15:14:12 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>23.03.28(화)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/03/2023032110094845683809-ab66-4fae-87e1-885b1aadf034.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[범진의 범．ZIP 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7088</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7088</guid>
+            <pubDate>Wed, 22 Mar 2023 15:14:12 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>23.03.24(금)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/03/202303200946509237cd4c-0fc1-4f03-9ede-363f01017466.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[제 10회 김사월 쇼：Married To the Music 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7087</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7087</guid>
+            <pubDate>Wed, 22 Mar 2023 15:14:12 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>23.03.22(수)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/03/2023031711142466e7f9c9-f2fe-47de-a4c3-f9d3665c159b.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[festival SUM 2023 x 전주국제영화제 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7086</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7086</guid>
+            <pubDate>Wed, 22 Mar 2023 15:14:12 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>23.03.23(목)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/03/20230320132231df6b44a0-46a4-45b1-b83a-df9c4df53447.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[APRIL SHOWER：에이프릴 세컨드 Come Back Party 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7085</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7085</guid>
+            <pubDate>Wed, 22 Mar 2023 15:14:12 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>23.03.22(수)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/03/20230320092327d0b24a6a-dfbc-4cb4-8be3-d5ec0a88fae0.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[RED C 앨범발매쇼케이스：THE PLACE 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7084</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7084</guid>
+            <pubDate>Wed, 22 Mar 2023 15:14:12 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>23.03.22(수)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/03/202303171153055d57456b-0b8a-43ec-9c11-d19868553fa9.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[HIPHOPPLAYA FESTIVAL 2023 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7083</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7083</guid>
+            <pubDate>Wed, 22 Mar 2023 15:14:12 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>23.03.22(수)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/03/202303171518356aaabfbf-eed7-4395-8512-a9ee1d3f4d0b.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[W24＆UNI（유니）Joint Concert “SPRING HARMONY” 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7091</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7091</guid>
+            <pubDate>Wed, 22 Mar 2023 15:14:12 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>23.03.24(금)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/03/20230320143844074ae694-2f4e-4642-8cc1-9254d7c68c51.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+    </channel>
+</rss>
