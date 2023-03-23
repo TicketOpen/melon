@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Mar 2023 08:17:03 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Mar 2023 09:13:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -48,6 +48,14 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/03/20230321160020f6e06579-83ae-4328-b9ee-f77e41429ecd.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
         <item>
+            <title><![CDATA[팔칠댄스（87dance），［COLOR PAPER HOTEL］Residence 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7097</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7097</guid>
+            <pubDate>Thu, 23 Mar 2023 09:13:05 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>23.03.24(금)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/03/20230322152820dc803b6b-d260-4d6a-82bf-df87ce3bbe8d.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
             <title><![CDATA[먼데이프로젝트 시즌6 ORIGINAL［암호 단독 콘서트］티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7096</link>
             <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7096</guid>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 22 Mar 2023 15:14:12 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>23.03.22(수)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/03/2023031711142466e7f9c9-f2fe-47de-a4c3-f9d3665c159b.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[festival SUM 2023 x 전주국제영화제 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7086</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7086</guid>
-            <pubDate>Wed, 22 Mar 2023 15:14:12 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>23.03.23(목)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/03/20230320132231df6b44a0-46a4-45b1-b83a-df9c4df53447.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
