@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Mar 2023 10:14:20 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Mar 2023 11:11:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Thu, 23 Mar 2023 05:12:41 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>23.03.16(목)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/03/202303231355585e1480d0-834b-4625-a5ff-e22e0397ff64.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[You Hip x 임우태 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7098</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7098</guid>
+            <pubDate>Thu, 23 Mar 2023 11:11:22 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>23.03.24(금)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/03/20230323114214b2fd326a-1f4a-4ab3-837b-fa6fe2dfcf2a.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
         <item>
             <title><![CDATA[W24＆UNI（유니）Joint Concert “SPRING HARMONY” 티켓 오픈 안내]]></title>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 22 Mar 2023 15:14:12 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>23.03.24(금)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/03/202303200946509237cd4c-0fc1-4f03-9ede-363f01017466.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[제 10회 김사월 쇼：Married To the Music 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7087</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7087</guid>
-            <pubDate>Wed, 22 Mar 2023 15:14:12 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>23.03.22(수)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/03/2023031711142466e7f9c9-f2fe-47de-a4c3-f9d3665c159b.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
