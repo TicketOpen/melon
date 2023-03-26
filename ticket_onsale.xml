@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 판매중</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 26 Mar 2023 14:11:44 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Mar 2023 15:12:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -156,56 +156,6 @@
                             2022.12.10 - 2023.04.09</td>
                         <td class="show_loc">예술의전당 한가람미술관 1층</td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/12/2022120916382983cd31da-fa90-4114-b04a-18bf59feb6c1.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 〈베토벤；Beethoven Secret〉]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=207516</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=207516</guid>
-            <pubDate>Wed, 22 Mar 2023 15:14:19 GMT</pubDate>
-            <content:encoded><![CDATA[<td>
-                            <div class="show_infor">
-                                <div class="thumb_90x125  img">
-                                    <a href="#">
-                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/11/20221116185911679bebce-0b5b-4a0a-bf2e-c0164f8991b0.jpg/melon/resize/90x125/strip/true" alt="">
-                                        <span class="frame"></span>
-                                    </a>
-                                </div>
-                                <p class="infor_text">
-                                    <span class="ico_wrap">
-                                        <span class="ico_list ico_list1">좌석우위</span><span class="ico_list ico_list4"> 판매중</span></span>
-                                    <span class="show_title"><a href="/performance/index.htm?prodId=207516">뮤지컬 〈베토벤；Beethoven Secret〉</a></span>
-                                </p>
-                            </div>
-                        </td>
-                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
-                            2023.01.12 - 2023.03.26</td>
-                        <td class="show_loc">예술의전당 오페라극장</td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/11/20221116185911679bebce-0b5b-4a0a-bf2e-c0164f8991b0.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[연극 〈셰익스피어 인 러브〉]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=207677</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=207677</guid>
-            <pubDate>Wed, 22 Mar 2023 15:14:19 GMT</pubDate>
-            <content:encoded><![CDATA[<td>
-                            <div class="show_infor">
-                                <div class="thumb_90x125  img">
-                                    <a href="#">
-                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/12/20221215102412ac5d5382-18b6-4e25-a7a0-7047057dc3e9.jpg/melon/resize/90x125/strip/true" alt="">
-                                        <span class="frame"></span>
-                                    </a>
-                                </div>
-                                <p class="infor_text">
-                                    <span class="ico_wrap">
-                                        <span class="ico_list ico_list1">1열보유</span><span class="ico_list ico_list4"> 판매중</span></span>
-                                    <span class="show_title"><a href="/performance/index.htm?prodId=207677">연극 〈셰익스피어 인 러브〉</a></span>
-                                </p>
-                            </div>
-                        </td>
-                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
-                            2023.01.28 - 2023.03.26</td>
-                        <td class="show_loc">예술의전당 CJ 토월극장</td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/12/20221215102412ac5d5382-18b6-4e25-a7a0-7047057dc3e9.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 〈빨래〉]]></title>
@@ -458,54 +408,104 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/03/20230322170111e060a4ec-0265-448f-815c-9cfd9e6168be.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
-            <title><![CDATA[2023벚꽃스캔들]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=208002</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=208002</guid>
-            <pubDate>Sat, 25 Mar 2023 15:12:14 GMT</pubDate>
+            <title><![CDATA[먼데이프로젝트 시즌6 My Universe［김현창 단독 콘서트］]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=207914</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=207914</guid>
+            <pubDate>Sun, 26 Mar 2023 15:12:22 GMT</pubDate>
             <content:encoded><![CDATA[<td>
                             <div class="show_infor">
                                 <div class="thumb_90x125  img">
                                     <a href="#">
-                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/03/2023032015550589a0bb90-a777-42e9-8e13-8adc1719e298.jpg/melon/resize/90x125/strip/true" alt="">
-                                        <span class="frame"></span>
-                                    </a>
-                                </div>
-                                <p class="infor_text">
-                                    <span class="ico_wrap">
-                                        <span class="ico_list ico_list4"> 판매중</span></span>
-                                    <span class="show_title"><a href="/performance/index.htm?prodId=208002">2023벚꽃스캔들</a></span>
-                                </p>
-                            </div>
-                        </td>
-                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
-                            2023.03.25 - 2023.03.26</td>
-                        <td class="show_loc">영남대학교 천마아트센터 그랜드홀</td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/03/2023032015550589a0bb90-a777-42e9-8e13-8adc1719e298.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[kimdurumi vol．02．]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=207896</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=207896</guid>
-            <pubDate>Sat, 25 Mar 2023 15:12:14 GMT</pubDate>
-            <content:encoded><![CDATA[<td>
-                            <div class="show_infor">
-                                <div class="thumb_90x125  img">
-                                    <a href="#">
-                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/02/20230223165606e8c1c748-f423-4214-8e51-74497403b925.jpg/melon/resize/90x125/strip/true" alt="">
+                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/02/202302281421363530c555-26c6-493a-b73f-8c0c6241b6e2.jpg/melon/resize/90x125/strip/true" alt="">
                                         <span class="frame"></span>
                                     </a>
                                 </div>
                                 <p class="infor_text">
                                     <span class="ico_wrap">
                                         <span class="ico_list ico_list1">단독판매</span><span class="ico_list ico_list4"> 판매중</span></span>
-                                    <span class="show_title"><a href="/performance/index.htm?prodId=207896">kimdurumi vol．02．</a></span>
+                                    <span class="show_title"><a href="/performance/index.htm?prodId=207914">먼데이프로젝트 시즌6 My Universe［김현창 단독 콘서트］</a></span>
                                 </p>
                             </div>
                         </td>
                         <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
-                            2023.03.26 - 2023.03.26</td>
-                        <td class="show_loc">연희예술극장 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/02/20230223165606e8c1c748-f423-4214-8e51-74497403b925.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+                            2023.03.29 - 2023.03.29</td>
+                        <td class="show_loc">KT&amp;G 상상마당 홍대 라이브홀 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/02/202302281421363530c555-26c6-493a-b73f-8c0c6241b6e2.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[베리코이버니 단독 콘서트 ‘Black Bunny Begins’：롤링 28주년 기념 공연]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=207906</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=207906</guid>
+            <pubDate>Sun, 26 Mar 2023 15:12:22 GMT</pubDate>
+            <content:encoded><![CDATA[<td>
+                            <div class="show_infor">
+                                <div class="thumb_90x125  img">
+                                    <a href="#">
+                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/02/20230227144002e3e8ca57-d5e7-435f-8f2f-7b4d1ce1df27.jpg/melon/resize/90x125/strip/true" alt="">
+                                        <span class="frame"></span>
+                                    </a>
+                                </div>
+                                <p class="infor_text">
+                                    <span class="ico_wrap">
+                                        <span class="ico_list ico_list1">단독판매</span><span class="ico_list ico_list4"> 판매중</span></span>
+                                    <span class="show_title"><a href="/performance/index.htm?prodId=207906">베리코이버니 단독 콘서트 ‘Black Bunny Begins’：롤링 28주년 기념 공연</a></span>
+                                </p>
+                            </div>
+                        </td>
+                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
+                            2023.03.30 - 2023.03.30</td>
+                        <td class="show_loc">롤링홀 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/02/20230227144002e3e8ca57-d5e7-435f-8f2f-7b4d1ce1df27.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[트랙제로 Alive－Vol．11 트랙제로 이달의 아티스트 황푸하]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=207979</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=207979</guid>
+            <pubDate>Sun, 26 Mar 2023 15:12:22 GMT</pubDate>
+            <content:encoded><![CDATA[<td>
+                            <div class="show_infor">
+                                <div class="thumb_90x125  img">
+                                    <a href="#">
+                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/03/2023032313550979fa17de-8d6a-4d8b-96df-d100b7977759.jpg/melon/resize/90x125/strip/true" alt="">
+                                        <span class="frame"></span>
+                                    </a>
+                                </div>
+                                <p class="infor_text">
+                                    <span class="ico_wrap">
+                                        <span class="ico_list ico_list1">단독판매</span><span class="ico_list ico_list4"> 판매중</span></span>
+                                    <span class="show_title"><a href="/performance/index.htm?prodId=207979">트랙제로 Alive－Vol．11 트랙제로 이달의 아티스트 황푸하</a></span>
+                                </p>
+                            </div>
+                        </td>
+                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
+                            2023.03.30 - 2023.03.30</td>
+                        <td class="show_loc">벨로주 홍대 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/03/2023032313550979fa17de-8d6a-4d8b-96df-d100b7977759.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[모차르트〈마술피리〉]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=207824</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=207824</guid>
+            <pubDate>Sun, 26 Mar 2023 15:12:22 GMT</pubDate>
+            <content:encoded><![CDATA[<td>
+                            <div class="show_infor">
+                                <div class="thumb_90x125  img">
+                                    <a href="#">
+                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/02/20230223150319c2102ec8-1184-43c6-9c22-19c73485bf11.jpg/melon/resize/90x125/strip/true" alt="">
+                                        <span class="frame"></span>
+                                    </a>
+                                </div>
+                                <p class="infor_text">
+                                    <span class="ico_wrap">
+                                        <span class="ico_list ico_list4"> 판매중</span></span>
+                                    <span class="show_title"><a href="/performance/index.htm?prodId=207824">모차르트〈마술피리〉</a></span>
+                                </p>
+                            </div>
+                        </td>
+                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
+                            2023.03.30 - 2023.04.02</td>
+                        <td class="show_loc">세종문화회관 대극장</td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/02/20230223150319c2102ec8-1184-43c6-9c22-19c73485bf11.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
     </channel>
 </rss>
