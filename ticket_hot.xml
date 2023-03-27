@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Mar 2023 02:09:15 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Mar 2023 03:14:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -48,6 +48,22 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/03/2023032413173601a8f2f1-237b-46d8-b7d2-84d928b8f47f.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
         <item>
+            <title><![CDATA[밀코메다 3회 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7108</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7108</guid>
+            <pubDate>Mon, 27 Mar 2023 03:14:07 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>23.03.27(월)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/03/2023032411022996ecba7e-993d-413d-85aa-a72f5bec2547.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[임헌일 단독 콘서트 ‘작은 독백’：롤링 28주년 기념 공연 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7107</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7107</guid>
+            <pubDate>Mon, 27 Mar 2023 03:14:07 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>23.04.03(월)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/03/20230324105444014e1953-58f9-4fca-8372-83f55aa06038.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
             <title><![CDATA[트랙제로 Alive－Vol．11 트랙제로 이달의 아티스트 황푸하 티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7072</link>
             <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7072</guid>
@@ -70,22 +86,6 @@
             <pubDate>Thu, 23 Mar 2023 11:11:22 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>23.03.24(금)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/03/20230323114214b2fd326a-1f4a-4ab3-837b-fa6fe2dfcf2a.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[SAAY 단독 콘서트 ‘mise－en－scène：ENCORE’：롤링 28주년 기념 공연 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7099</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7099</guid>
-            <pubDate>Fri, 24 Mar 2023 03:13:37 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>23.03.30(목)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/03/20230323105450691f12cb-fd49-4060-9e78-228faeaab01d.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[박건후 소극장 콘서트 〈영원할 순간들〉 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7100</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7100</guid>
-            <pubDate>Fri, 24 Mar 2023 05:12:44 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>23.03.27(월)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/03/202303231014400e6632ee-ee54-458c-9e3f-840dab64896e.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
