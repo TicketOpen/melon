@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Mar 2023 08:18:31 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Mar 2023 09:14:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,6 +30,14 @@
             <pubDate>Tue, 28 Mar 2023 02:35:01 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>23.03.17(금)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/03/202303281007138f057646-57be-4fd9-be82-da2ca0ffdaa5.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[From the Otherside：JACKINGCONG X OFF THE MENU 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7110</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7110</guid>
+            <pubDate>Tue, 28 Mar 2023 09:14:08 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>23.03.31(금)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/03/202303271723421bcb6346-021d-4c63-b7d3-e750cae3160f.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
         <item>
             <title><![CDATA[2023 WOODZ World Tour ‘OO－LI’ in Seoul 티켓 오픈 안내]]></title>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 24 Mar 2023 06:16:48 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>23.03.29(수)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/03/2023032413173601a8f2f1-237b-46d8-b7d2-84d928b8f47f.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[밀코메다 3회 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7108</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7108</guid>
-            <pubDate>Mon, 27 Mar 2023 03:14:07 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>23.03.27(월)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/03/2023032411022996ecba7e-993d-413d-85aa-a72f5bec2547.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
