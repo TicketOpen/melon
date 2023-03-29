@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 Mar 2023 14:20:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Mar 2023 15:24:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -568,31 +568,6 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/03/20230322170111e060a4ec-0265-448f-815c-9cfd9e6168be.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
-            <title><![CDATA[먼데이프로젝트 시즌6 My Universe［김현창 단독 콘서트］ (멜론티켓 ─ 판매중)]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=207914</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=207914</guid>
-            <pubDate>Wed, 29 Mar 2023 03:13:21 GMT</pubDate>
-            <content:encoded><![CDATA[<td>
-                            <div class="show_infor">
-                                <div class="thumb_90x125  img">
-                                    <a href="#">
-                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/02/202302281421363530c555-26c6-493a-b73f-8c0c6241b6e2.jpg/melon/resize/90x125/strip/true" alt="">
-                                        <span class="frame"></span>
-                                    </a>
-                                </div>
-                                <p class="infor_text">
-                                    <span class="ico_wrap">
-                                        <span class="ico_list ico_list1">단독판매</span><span class="ico_list ico_list4"> 판매중</span></span>
-                                    <span class="show_title"><a href="/performance/index.htm?prodId=207914">먼데이프로젝트 시즌6 My Universe［김현창 단독 콘서트］</a></span>
-                                </p>
-                            </div>
-                        </td>
-                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
-                            2023.03.29 - 2023.03.29</td>
-                        <td class="show_loc">KT&amp;G 상상마당 홍대 라이브홀 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/02/202302281421363530c555-26c6-493a-b73f-8c0c6241b6e2.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
             <title><![CDATA[베리코이버니 단독 콘서트 ‘Black Bunny Begins’：롤링 28주년 기념 공연 (멜론티켓 ─ 판매중)]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=207906</link>
             <guid>https://ticket.melon.com/performance/index.htm?prodId=207906</guid>
@@ -666,6 +641,31 @@
                             2023.03.30 - 2023.04.02</td>
                         <td class="show_loc">세종문화회관 대극장</td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/02/20230223150319c2102ec8-1184-43c6-9c22-19c73485bf11.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[먼데이프로젝트 시즌6 순간의 노래［정우 단독 콘서트］ (멜론티켓 ─ 판매중)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=207887</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=207887</guid>
+            <pubDate>Wed, 29 Mar 2023 15:24:49 GMT</pubDate>
+            <content:encoded><![CDATA[<td>
+                            <div class="show_infor">
+                                <div class="thumb_90x125  img">
+                                    <a href="#">
+                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/02/202302211337233371b81d-836f-453e-833d-96f0791c89ff.jpg/melon/resize/90x125/strip/true" alt="">
+                                        <span class="frame"></span>
+                                    </a>
+                                </div>
+                                <p class="infor_text">
+                                    <span class="ico_wrap">
+                                        <span class="ico_list ico_list1">단독판매</span><span class="ico_list ico_list4"> 판매중</span></span>
+                                    <span class="show_title"><a href="/performance/index.htm?prodId=207887">먼데이프로젝트 시즌6 순간의 노래［정우 단독 콘서트］</a></span>
+                                </p>
+                            </div>
+                        </td>
+                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
+                            2023.03.30 - 2023.03.30</td>
+                        <td class="show_loc">구름아래소극장 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/02/202302211337233371b81d-836f-453e-833d-96f0791c89ff.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
     </channel>
 </rss>
