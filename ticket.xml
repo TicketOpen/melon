@@ -4,9 +4,25 @@
         <title>멜론 티켓</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Mar 2023 02:35:23 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Mar 2023 03:14:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[먼데이프로젝트 시즌6 THE MASTER［Robiq 단독 콘서트］티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7115</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7115</guid>
+            <pubDate>Thu, 30 Mar 2023 03:14:20 GMT</pubDate>
+            <content:encoded><![CDATA[2023.04.06(목) 20:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/03/20230329103651afdeefaf-c18a-4183-88ba-0031782cd5c7.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[김현창 단독 콘서트 ‘이름이 불려 살아지는 날도 있어’：롤링 28주년 기념 공연 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7114</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7114</guid>
+            <pubDate>Thu, 30 Mar 2023 03:14:20 GMT</pubDate>
+            <content:encoded><![CDATA[2023.04.03(월) 20:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/03/202303290958346b27a6be-30b5-4cd0-9f7c-04a329b0e083.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
         <item>
             <title><![CDATA[먼데이프로젝트 IN 라이브클럽 ［벤치위레오 단독 콘서트］티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7113</link>
@@ -70,22 +86,6 @@
             <pubDate>Wed, 29 Mar 2023 03:13:07 GMT</pubDate>
             <content:encoded><![CDATA[오픈일정 보기 &gt;]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/03/20230324135019b10b67e3-5fcf-46b5-9a91-6b577e139a7f.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[BULGOGIDISCO 단독 콘서트 〈DAGAGA〉 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7105</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7105</guid>
-            <pubDate>Wed, 29 Mar 2023 03:13:07 GMT</pubDate>
-            <content:encoded><![CDATA[2023.03.31(금) 20:00]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/03/2023032316053566f8fa75-5892-42d8-9575-c7e2fa08146e.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[현대카드 Curated 84 SMMT 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7104</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7104</guid>
-            <pubDate>Wed, 29 Mar 2023 03:13:07 GMT</pubDate>
-            <content:encoded><![CDATA[2023.03.27(월) 18:00]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/03/20230323142837adcbc04d-39ba-498e-aa58-855ee647ffaa.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
     </channel>
 </rss>
