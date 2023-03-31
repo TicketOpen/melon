@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 31 Mar 2023 09:13:25 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 31 Mar 2023 10:14:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -38,6 +38,14 @@
             <pubDate>Fri, 31 Mar 2023 09:13:16 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>23.04.03(월)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/03/2023033016451277462357-b05c-4221-8821-901848108879.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[CHERRY HILL PRESENTS：AUSTN ‘MELODIZM TRIP’ CONCERT 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7121</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7121</guid>
+            <pubDate>Fri, 31 Mar 2023 10:14:03 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>23.04.04(화)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/03/2023033014521831944a6d-2660-4709-928d-5e020bfe0550.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
         <item>
             <title><![CDATA[진동욱 단독 콘서트 〈나는 비행기〉 티켓 오픈 안내]]></title>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 31 Mar 2023 08:16:49 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>23.04.04(화)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/03/2023032713302039b2029f-045c-4003-ac42-959ae74359d5.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[From the Otherside：JACKINGCONG X OFF THE MENU 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7110</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7110</guid>
-            <pubDate>Fri, 31 Mar 2023 08:16:49 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>23.03.31(금)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/03/202303271723421bcb6346-021d-4c63-b7d3-e750cae3160f.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
