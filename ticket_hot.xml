@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 03 Apr 2023 10:13:52 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Apr 2023 11:10:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Mon, 03 Apr 2023 06:16:10 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>23.04.04(화)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/03/2023033014521831944a6d-2660-4709-928d-5e020bfe0550.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[송희란 정규 2집 발매 기념 단독 콘서트 I HEAL YOU－ANOTHER HEALING 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7126</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7126</guid>
+            <pubDate>Mon, 03 Apr 2023 11:10:30 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>23.04.04(화)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/04/202304030938053dcc37e6-bb6e-4a17-b107-7f110372774a.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
         <item>
             <title><![CDATA[［인천］2023 타임캡슐 슈퍼콘서트－인천 티켓 오픈 안내]]></title>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 03 Apr 2023 06:16:10 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>23.04.03(월)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/03/20230330105931c095953b-ad53-401d-8cc9-8b8364d72071.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[너드커넥션 단독 콘서트：롤링 28주년 기념 공연 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7116</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7116</guid>
-            <pubDate>Mon, 03 Apr 2023 06:16:10 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>23.04.06(목)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/03/202303300947246e2671e6-4673-4e73-9a98-7eb58f407022.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
