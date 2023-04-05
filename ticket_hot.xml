@@ -4,9 +4,17 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 05 Apr 2023 06:16:29 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Apr 2023 07:13:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뮤지컬 〈베토벤；Beethoven Secret〉 SEASON 2－2차 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7132</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7132</guid>
+            <pubDate>Wed, 05 Apr 2023 07:12:59 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>23.04.11(화)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/04/20230405133012ff978946-66bc-4e38-85e6-de9648a2a3d0.png/melon/resize/160x225/strip/true" length="0" type="image/png/melon/resize/160x225/strip/true"/>
+        </item>
         <item>
             <title><![CDATA[세진 첫 번째 단독 콘서트 〈page 1〉 티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7128</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 03 Apr 2023 06:16:10 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>23.04.07(금)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/03/202303311035356d93328d-6f4b-460c-8f5b-6d6d0430b758.png/melon/resize/160x225/strip/true" length="0" type="image/png/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[CHERRY HILL PRESENTS：AUSTN ‘MELODIZM TRIP’ CONCERT 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7121</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7121</guid>
-            <pubDate>Mon, 03 Apr 2023 06:16:10 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>23.04.04(화)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/03/2023033014521831944a6d-2660-4709-928d-5e020bfe0550.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
