@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 08 Apr 2023 14:10:17 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 08 Apr 2023 15:11:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -543,56 +543,6 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/03/20230303093635476babaf-9925-4999-84fc-de1c501b8cea.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
-            <title><![CDATA[리소 pat pat 첫번째 단독 콘서트 (멜론티켓 ─ 판매중)]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=207917</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=207917</guid>
-            <pubDate>Thu, 06 Apr 2023 22:12:13 GMT</pubDate>
-            <content:encoded><![CDATA[<td>
-                            <div class="show_infor">
-                                <div class="thumb_90x125  img">
-                                    <a href="#">
-                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/02/20230228171134a1a123f0-542c-433c-a94e-0ca9c27b0358.jpg/melon/resize/90x125/strip/true" alt="">
-                                        <span class="frame"></span>
-                                    </a>
-                                </div>
-                                <p class="infor_text">
-                                    <span class="ico_wrap">
-                                        <span class="ico_list ico_list1">단독판매</span><span class="ico_list ico_list4"> 판매중</span></span>
-                                    <span class="show_title"><a href="/performance/index.htm?prodId=207917">리소 pat pat 첫번째 단독 콘서트</a></span>
-                                </p>
-                            </div>
-                        </td>
-                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
-                            2023.04.08 - 2023.04.08</td>
-                        <td class="show_loc">구름아래소극장 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/02/20230228171134a1a123f0-542c-433c-a94e-0ca9c27b0358.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[KARA 15TH ANNIVERSARY FAN MEETING 2023 ∼MOVE AGAIN∼ IN SEOUL (멜론티켓 ─ 판매중)]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=207944</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=207944</guid>
-            <pubDate>Fri, 07 Apr 2023 15:13:02 GMT</pubDate>
-            <content:encoded><![CDATA[<td>
-                            <div class="show_infor">
-                                <div class="thumb_90x125  img">
-                                    <a href="#">
-                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/03/202303131334314c5fce53-6ed8-4889-8181-cd4ae9f53432.jpg/melon/resize/90x125/strip/true" alt="">
-                                        <span class="frame"></span>
-                                    </a>
-                                </div>
-                                <p class="infor_text">
-                                    <span class="ico_wrap">
-                                        <span class="ico_list ico_list1">단독판매</span><span class="ico_list ico_list4"> 판매중</span></span>
-                                    <span class="show_title"><a href="/performance/index.htm?prodId=207944">KARA 15TH ANNIVERSARY FAN MEETING 2023 ∼MOVE AGAIN∼ IN SEOUL</a></span>
-                                </p>
-                            </div>
-                        </td>
-                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
-                            2023.04.08 - 2023.04.08</td>
-                        <td class="show_loc">세종대학교 대양홀</td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/03/202303131334314c5fce53-6ed8-4889-8181-cd4ae9f53432.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
             <title><![CDATA[기욱（ONEWE）단독 콘서트（Prologue：TURN OVER ‘롤링 28주년 기념 공연’ (멜론티켓 ─ 판매중)]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=207953</link>
             <guid>https://ticket.melon.com/performance/index.htm?prodId=207953</guid>
@@ -618,54 +568,104 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/03/202303131321204f143d00-c2be-4dc8-8304-31bc9c911e2b.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
-            <title><![CDATA[태하＆홍성현＆엑신（X：IN）합동공연 ‘I ENTER U’ (멜론티켓 ─ 판매중)]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=207957</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=207957</guid>
-            <pubDate>Fri, 07 Apr 2023 15:13:02 GMT</pubDate>
+            <title><![CDATA[THE GREATEST：전율 정동하 X 소 향－부산 (멜론티켓 ─ 판매중)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=207935</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=207935</guid>
+            <pubDate>Sat, 08 Apr 2023 15:11:31 GMT</pubDate>
             <content:encoded><![CDATA[<td>
                             <div class="show_infor">
                                 <div class="thumb_90x125  img">
                                     <a href="#">
-                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/03/202303171457312538fb83-d896-4ad9-9aa0-1a99a40a2b9c.jpg/melon/resize/90x125/strip/true" alt="">
+                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/03/202303071327150e02a51d-2ed2-4de2-8d0f-68a041011cff.jpg/melon/resize/90x125/strip/true" alt="">
                                         <span class="frame"></span>
                                     </a>
                                 </div>
                                 <p class="infor_text">
                                     <span class="ico_wrap">
-                                        <span class="ico_list ico_list1">단독판매</span><span class="ico_list ico_list4"> 판매중</span></span>
-                                    <span class="show_title"><a href="/performance/index.htm?prodId=207957">태하＆홍성현＆엑신（X：IN）합동공연 ‘I ENTER U’</a></span>
+                                        <span class="ico_list ico_list4"> 판매중</span></span>
+                                    <span class="show_title"><a href="/performance/index.htm?prodId=207935">THE GREATEST：전율 정동하 X 소 향－부산</a></span>
                                 </p>
                             </div>
                         </td>
                         <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
-                            2023.04.08 - 2023.04.08</td>
-                        <td class="show_loc">고양 어울림누리 별모래극장</td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/03/202303171457312538fb83-d896-4ad9-9aa0-1a99a40a2b9c.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+                            2023.04.09 - 2023.04.09</td>
+                        <td class="show_loc">KBS 부산홀 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/03/202303071327150e02a51d-2ed2-4de2-8d0f-68a041011cff.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
-            <title><![CDATA[Be The Queen：Alice to Queen (멜론티켓 ─ 판매중)]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=207958</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=207958</guid>
-            <pubDate>Fri, 07 Apr 2023 15:13:02 GMT</pubDate>
+            <title><![CDATA[live SUM 2023：예빛，허회경，정새벽 (멜론티켓 ─ 판매중)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=207955</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=207955</guid>
+            <pubDate>Sat, 08 Apr 2023 15:11:31 GMT</pubDate>
             <content:encoded><![CDATA[<td>
                             <div class="show_infor">
                                 <div class="thumb_90x125  img">
                                     <a href="#">
-                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/03/202303101052568d1f53a2-d76f-4cf3-8c46-ea244f167733.jpg/melon/resize/90x125/strip/true" alt="">
+                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/03/202303130912104449f582-00ab-4ef8-8adb-049834cf7e4a.jpg/melon/resize/90x125/strip/true" alt="">
                                         <span class="frame"></span>
                                     </a>
                                 </div>
                                 <p class="infor_text">
                                     <span class="ico_wrap">
                                         <span class="ico_list ico_list1">단독판매</span><span class="ico_list ico_list4"> 판매중</span></span>
-                                    <span class="show_title"><a href="/performance/index.htm?prodId=207958">Be The Queen：Alice to Queen</a></span>
+                                    <span class="show_title"><a href="/performance/index.htm?prodId=207955">live SUM 2023：예빛，허회경，정새벽</a></span>
                                 </p>
                             </div>
                         </td>
                         <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
-                            2023.04.08 - 2023.04.08</td>
-                        <td class="show_loc">고양 어울림누리 별모래극장</td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/03/202303101052568d1f53a2-d76f-4cf3-8c46-ea244f167733.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+                            2023.04.09 - 2023.04.09</td>
+                        <td class="show_loc">KT&amp;G 상상마당 라이브홀</td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/03/202303130912104449f582-00ab-4ef8-8adb-049834cf7e4a.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[사운드힐즈 EP 발매 쇼케이스 〈Re－Imagined〉 part．1 (멜론티켓 ─ 판매중)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=207975</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=207975</guid>
+            <pubDate>Sat, 08 Apr 2023 15:11:31 GMT</pubDate>
+            <content:encoded><![CDATA[<td>
+                            <div class="show_infor">
+                                <div class="thumb_90x125  img">
+                                    <a href="#">
+                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/03/20230328100631a6abee4c-0274-4726-b774-f7fd9d9e7040.jpg/melon/resize/90x125/strip/true" alt="">
+                                        <span class="frame"></span>
+                                    </a>
+                                </div>
+                                <p class="infor_text">
+                                    <span class="ico_wrap">
+                                        <span class="ico_list ico_list1">단독판매</span><span class="ico_list ico_list4"> 판매중</span></span>
+                                    <span class="show_title"><a href="/performance/index.htm?prodId=207975">사운드힐즈 EP 발매 쇼케이스 〈Re－Imagined〉 part．1</a></span>
+                                </p>
+                            </div>
+                        </td>
+                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
+                            2023.04.09 - 2023.04.09</td>
+                        <td class="show_loc">CJ아지트 광흥창 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/03/20230328100631a6abee4c-0274-4726-b774-f7fd9d9e7040.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[밀코메다 3회 (멜론티켓 ─ 판매중)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=208020</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=208020</guid>
+            <pubDate>Sat, 08 Apr 2023 15:11:31 GMT</pubDate>
+            <content:encoded><![CDATA[<td>
+                            <div class="show_infor">
+                                <div class="thumb_90x125  img">
+                                    <a href="#">
+                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/03/20230324092454cd63f71e-f82e-4d76-9fc8-ddea92454958.jpg/melon/resize/90x125/strip/true" alt="">
+                                        <span class="frame"></span>
+                                    </a>
+                                </div>
+                                <p class="infor_text">
+                                    <span class="ico_wrap">
+                                        <span class="ico_list ico_list1">단독판매</span><span class="ico_list ico_list4"> 판매중</span></span>
+                                    <span class="show_title"><a href="/performance/index.htm?prodId=208020">밀코메다 3회</a></span>
+                                </p>
+                            </div>
+                        </td>
+                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
+                            2023.04.09 - 2023.04.09</td>
+                        <td class="show_loc">드림홀 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/03/20230324092454cd63f71e-f82e-4d76-9fc8-ddea92454958.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
     </channel>
 </rss>
