@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 09 Apr 2023 10:12:39 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 09 Apr 2023 11:10:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Sat, 08 Apr 2023 18:13:51 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>23.04.10(월)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/04/20230407110338fcb364e9-4d23-4201-931e-e6377bb51a3c.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[분리수거밴드의 SING US A SONG “4월하늘은 빈센트 블루” 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7143</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7143</guid>
+            <pubDate>Sun, 09 Apr 2023 11:09:57 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>23.04.10(월)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/04/20230407101445b4d43117-6a9b-4caa-a1ba-04268d357df2.png/melon/resize/160x225/strip/true" length="0" type="image/png/melon/resize/160x225/strip/true"/>
         </item>
         <item>
             <title><![CDATA[제59회 라이브 클럽 데이 with 멜론 트랙제로－블라인드 티켓 오픈 안내]]></title>
@@ -78,14 +86,6 @@
             <pubDate>Sat, 08 Apr 2023 18:13:51 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>23.04.12(수)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/04/202304051105288db16968-b2a0-4ea7-bf34-3298f0372974.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[먼데이프로젝트 시즌6［화노 단독 콘서트 “昇天”］티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7138</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7138</guid>
-            <pubDate>Sat, 08 Apr 2023 18:13:51 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>23.04.13(목)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/04/20230405103403bd3ddafd-67c3-415e-bdba-c4d915c82362.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
