@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 11 Apr 2023 04:15:20 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Apr 2023 05:12:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Tue, 11 Apr 2023 02:05:36 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>23.03.24(금)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/04/20230411100330a7509791-8c00-4871-9318-62fe825a56aa.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 〈더 테일 에이프릴 풀스〉 1차 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7155</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7155</guid>
+            <pubDate>Tue, 11 Apr 2023 05:11:55 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>23.04.17(월)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/04/2023041016370581805571-921a-482a-8162-1124ac48063a.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
         <item>
             <title><![CDATA[얼마나 좋아：Little Spring Festival 연어초밥 단독콘서트 티켓 오픈 안내]]></title>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 10 Apr 2023 16:15:43 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>23.04.13(목)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/04/20230407193624e93cae1d-d08a-4f5a-8a57-764ee830ec51.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[누군가의 플레이리스트 Track．63 109（일공구）단독 콘서트 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7151</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7151</guid>
-            <pubDate>Mon, 10 Apr 2023 16:15:43 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>23.04.11(화)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/04/20230407153906f402ef14-1a30-4037-bb95-b9d37ce5d0e8.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
