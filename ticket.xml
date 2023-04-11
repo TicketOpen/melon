@@ -4,9 +4,17 @@
         <title>멜론 티켓</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 11 Apr 2023 02:05:44 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Apr 2023 03:13:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[블랙홀 단독 콘서트 ‘LOG IN’：롤링 28주년 기념 공연 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7154</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7154</guid>
+            <pubDate>Tue, 11 Apr 2023 03:12:51 GMT</pubDate>
+            <content:encoded><![CDATA[2023.04.17(월) 20:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/04/20230410133508e67a3187-bdf7-41f7-b9c0-1521ccdcb0f0.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
         <item>
             <title><![CDATA[TUNE UP STAGE：Jclef 앨범발매기념 쇼케이스－O，PRUNED！：HOMEMADE JAM 티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7153</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 10 Apr 2023 03:13:10 GMT</pubDate>
             <content:encoded><![CDATA[2023.04.14(금) 20:00]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/04/20230407095554980bbf3d-0c98-4b21-8f64-cab0f459a900.png/melon/resize/65x92/strip/true" length="0" type="image/png/melon/resize/65x92/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[신해경 클럽 공연 ‘최저낙원’：대구 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7144</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7144</guid>
-            <pubDate>Mon, 10 Apr 2023 03:13:10 GMT</pubDate>
-            <content:encoded><![CDATA[2023.04.14(금) 20:00]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/04/20230407095547ef58c520-385f-4487-b588-504c5d4eab77.png/melon/resize/65x92/strip/true" length="0" type="image/png/melon/resize/65x92/strip/true"/>
         </item>
     </channel>
 </rss>
