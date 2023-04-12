@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 12 Apr 2023 10:14:22 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Apr 2023 11:10:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Wed, 12 Apr 2023 10:14:14 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>23.04.14(금)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/04/20230412101449085036c2-9cba-4beb-aaab-7bf87be38e8e.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[2023 조연호 Fanmeeting ‘Welcome to YEONHO ISLAND’ 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7161</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7161</guid>
+            <pubDate>Wed, 12 Apr 2023 11:10:50 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>23.04.14(금)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/04/202304120948425ccab499-e995-403e-8149-e406b9cfc12e.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
         <item>
             <title><![CDATA[TUNE UP STAGE：Jclef 앨범발매기념 쇼케이스－O，PRUNED！：HOMEMADE JAM 티켓 오픈 안내]]></title>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 11 Apr 2023 02:05:36 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>23.03.24(금)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/04/20230411100330a7509791-8c00-4871-9318-62fe825a56aa.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[얼마나 좋아：Little Spring Festival 연어초밥 단독콘서트 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7150</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7150</guid>
-            <pubDate>Mon, 10 Apr 2023 16:15:43 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>23.04.11(화)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/04/2023040712085448a233a5-c012-4033-84a7-5bf865e63b5a.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
