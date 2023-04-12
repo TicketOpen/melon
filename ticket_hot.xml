@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 12 Apr 2023 02:06:49 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Apr 2023 03:13:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,6 +30,14 @@
             <pubDate>Tue, 11 Apr 2023 05:11:55 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>23.04.17(월)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/04/2023041016370581805571-921a-482a-8162-1124ac48063a.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[TONE STUDIO LIVE 〈RIO（리오）〉 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7157</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7157</guid>
+            <pubDate>Wed, 12 Apr 2023 03:13:06 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>23.04.19(수)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/04/20230411094406d47a5d07-5f38-44de-87ca-03ed6eda7dd0.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
         <item>
             <title><![CDATA[제59회 라이브 클럽 데이 with 멜론 트랙제로－일반 티켓 오픈 안내]]></title>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 10 Apr 2023 16:15:43 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>23.04.10(월)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/04/20230407110338fcb364e9-4d23-4201-931e-e6377bb51a3c.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[분리수거밴드의 SING US A SONG “4월하늘은 빈센트 블루” 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7143</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7143</guid>
-            <pubDate>Mon, 10 Apr 2023 16:15:43 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>23.04.10(월)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/04/20230407101445b4d43117-6a9b-4caa-a1ba-04268d357df2.png/melon/resize/160x225/strip/true" length="0" type="image/png/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
