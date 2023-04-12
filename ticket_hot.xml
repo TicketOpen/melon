@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 12 Apr 2023 08:16:27 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Apr 2023 09:13:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -48,6 +48,14 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/04/20230411104955a774644a-3ad4-4d0e-87a6-2977f6fe2923.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
         <item>
+            <title><![CDATA[그래서！모？：임세모 3rd EP 발매기념 단독콘서트 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7159</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7159</guid>
+            <pubDate>Wed, 12 Apr 2023 09:12:53 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>23.04.13(목)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/04/20230411104351e2e82e97-7ad0-4f9a-b14e-d25e3c400473.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
             <title><![CDATA[제59회 라이브 클럽 데이 with 멜론 트랙제로－일반 티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7156</link>
             <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7156</guid>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 10 Apr 2023 16:15:43 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>23.04.14(금)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/04/20230407195530064b0045-7ac0-4075-a82e-e850bb2154fe.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[COM－PLAY HOUSE＃3 TOPPING！티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7148</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7148</guid>
-            <pubDate>Mon, 10 Apr 2023 16:15:43 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>23.04.17(월)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/04/202304100910180ac1a522-2f12-47a3-8208-75030083bad7.png/melon/resize/160x225/strip/true" length="0" type="image/png/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
