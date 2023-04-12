@@ -4,9 +4,17 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 12 Apr 2023 09:13:02 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Apr 2023 10:14:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김은영 신곡 발매 콘서트 〈타이밍〉 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7160</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7160</guid>
+            <pubDate>Wed, 12 Apr 2023 10:14:14 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>23.04.14(금)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/04/20230412101449085036c2-9cba-4beb-aaab-7bf87be38e8e.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
         <item>
             <title><![CDATA[TUNE UP STAGE：Jclef 앨범발매기념 쇼케이스－O，PRUNED！：HOMEMADE JAM 티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7153</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 10 Apr 2023 16:15:43 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>23.04.11(화)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/04/2023040712085448a233a5-c012-4033-84a7-5bf865e63b5a.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[BAND DALDAM 1st concert 〈 소년비행사 〉 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7149</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7149</guid>
-            <pubDate>Mon, 10 Apr 2023 16:15:43 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>23.04.14(금)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/04/20230407195530064b0045-7ac0-4075-a82e-e850bb2154fe.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
