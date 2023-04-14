@@ -4,9 +4,17 @@
         <title>멜론 티켓</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 14 Apr 2023 09:13:18 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Apr 2023 10:13:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2023 박서령 1st Concert “LAPAPA” 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7172</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7172</guid>
+            <pubDate>Fri, 14 Apr 2023 10:13:16 GMT</pubDate>
+            <content:encoded><![CDATA[2023.04.17(월) 19:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/04/20230413174059db3b74b1-05dc-41c8-82aa-f2d0bcade718.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
         <item>
             <title><![CDATA[뮤지컬 〈베토벤；Beethoven Secret〉 SEASON 2 마지막 티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7171</link>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 13 Apr 2023 03:13:19 GMT</pubDate>
             <content:encoded><![CDATA[2023.04.20(목) 20:00]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/04/202304121758295b235048-0ec8-492b-86e0-59f26914d9ba.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[2023 조연호 Fanmeeting ‘Welcome to YEONHO ISLAND’ 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7161</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7161</guid>
-            <pubDate>Fri, 14 Apr 2023 07:11:35 GMT</pubDate>
-            <content:encoded><![CDATA[2023.04.14(금) 20:00]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/04/202304120948425ccab499-e995-403e-8149-e406b9cfc12e.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
     </channel>
 </rss>
