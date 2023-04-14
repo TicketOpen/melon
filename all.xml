@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 14 Apr 2023 14:12:27 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Apr 2023 15:12:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -568,31 +568,6 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/01/202301301040582a9ba647-43a7-4118-8486-dd27ee7747b3.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
-            <title><![CDATA[서울시합창단［마스터 시리즈］ (멜론티켓 ─ 판매중)]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=207830</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=207830</guid>
-            <pubDate>Sun, 09 Apr 2023 15:11:49 GMT</pubDate>
-            <content:encoded><![CDATA[<td>
-                            <div class="show_infor">
-                                <div class="thumb_90x125  img">
-                                    <a href="#">
-                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/03/2023031611240739723dac-fb7f-4b27-b180-c3a2327ef0da.jpg/melon/resize/90x125/strip/true" alt="">
-                                        <span class="frame"></span>
-                                    </a>
-                                </div>
-                                <p class="infor_text">
-                                    <span class="ico_wrap">
-                                        <span class="ico_list ico_list4"> 판매중</span></span>
-                                    <span class="show_title"><a href="/performance/index.htm?prodId=207830">서울시합창단［마스터 시리즈］</a></span>
-                                </p>
-                            </div>
-                        </td>
-                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
-                            2023.04.13 - 2023.04.14</td>
-                        <td class="show_loc">세종문화회관 체임버홀</td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/03/2023031611240739723dac-fb7f-4b27-b180-c3a2327ef0da.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
             <title><![CDATA[볼로냐 일러스트 원화전 56th (멜론티켓 ─ 판매중)]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=208084</link>
             <guid>https://ticket.melon.com/performance/index.htm?prodId=208084</guid>
@@ -666,6 +641,31 @@
                             2023.04.14 - 2023.05.15</td>
                         <td class="show_loc">세종문화회관 대극장</td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/03/2023033014002648bdd334-ffac-4b04-b1b0-4df9b85d2166.png/melon/resize/90x125/strip/true" length="0" type="image/png/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 〈여신님이 보고 계셔〉 10th Anniversary－부산 (멜론티켓 ─ 판매중)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=207768</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=207768</guid>
+            <pubDate>Fri, 14 Apr 2023 15:12:54 GMT</pubDate>
+            <content:encoded><![CDATA[<td>
+                            <div class="show_infor">
+                                <div class="thumb_90x125  img">
+                                    <a href="#">
+                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/01/2023011710333459e16b9e-6619-46a0-846a-b5092e3c1b62.jpg/melon/resize/90x125/strip/true" alt="">
+                                        <span class="frame"></span>
+                                    </a>
+                                </div>
+                                <p class="infor_text">
+                                    <span class="ico_wrap">
+                                        <span class="ico_list ico_list4"> 판매중</span></span>
+                                    <span class="show_title"><a href="/performance/index.htm?prodId=207768">뮤지컬 〈여신님이 보고 계셔〉 10th Anniversary－부산</a></span>
+                                </p>
+                            </div>
+                        </td>
+                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
+                            2023.04.14 - 2023.04.16</td>
+                        <td class="show_loc">소향씨어터 신한카드홀 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/01/2023011710333459e16b9e-6619-46a0-846a-b5092e3c1b62.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
     </channel>
 </rss>
