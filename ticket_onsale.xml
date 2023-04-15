@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 판매중</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 15 Apr 2023 14:10:41 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 15 Apr 2023 15:12:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -383,31 +383,6 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/03/20230322090923ced84fb9-2736-4901-961e-7400a364eb83.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
-            <title><![CDATA[ROLLING LOUD THAILAND]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=207692</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=207692</guid>
-            <pubDate>Sun, 09 Apr 2023 15:11:49 GMT</pubDate>
-            <content:encoded><![CDATA[<td>
-                            <div class="show_infor">
-                                <div class="thumb_90x125  img">
-                                    <a href="#">
-                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/01/202301301040582a9ba647-43a7-4118-8486-dd27ee7747b3.jpg/melon/resize/90x125/strip/true" alt="">
-                                        <span class="frame"></span>
-                                    </a>
-                                </div>
-                                <p class="infor_text">
-                                    <span class="ico_wrap">
-                                        <span class="ico_list ico_list4"> 판매중</span></span>
-                                    <span class="show_title"><a href="/performance/index.htm?prodId=207692">ROLLING LOUD THAILAND</a></span>
-                                </p>
-                            </div>
-                        </td>
-                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
-                            2023.04.13 - 2023.04.15</td>
-                        <td class="show_loc">Legend Siam, Pattaya, Thailand </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/01/202301301040582a9ba647-43a7-4118-8486-dd27ee7747b3.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
             <title><![CDATA[볼로냐 일러스트 원화전 56th]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=208084</link>
             <guid>https://ticket.melon.com/performance/index.htm?prodId=208084</guid>
@@ -431,31 +406,6 @@
                             2023.04.13 - 2023.06.25</td>
                         <td class="show_loc">예술의전당 한가람미술관 제 7전시실</td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/04/20230412151112660dfa9a-a646-4a99-bdd9-ebf03e247d4a.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[곽진언 소극장 콘서트－Op．7]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=207927</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=207927</guid>
-            <pubDate>Wed, 12 Apr 2023 15:13:34 GMT</pubDate>
-            <content:encoded><![CDATA[<td>
-                            <div class="show_infor">
-                                <div class="thumb_90x125  img">
-                                    <a href="#">
-                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/03/20230309160148cedf9e2e-1049-4e36-9729-f85157c73b35.jpg/melon/resize/90x125/strip/true" alt="">
-                                        <span class="frame"></span>
-                                    </a>
-                                </div>
-                                <p class="infor_text">
-                                    <span class="ico_wrap">
-                                        <span class="ico_list ico_list1">단독판매</span><span class="ico_list ico_list4"> 판매중</span></span>
-                                    <span class="show_title"><a href="/performance/index.htm?prodId=207927">곽진언 소극장 콘서트－Op．7</a></span>
-                                </p>
-                            </div>
-                        </td>
-                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
-                            2023.04.14 - 2023.04.15</td>
-                        <td class="show_loc">벨로주 홍대 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/03/20230309160148cedf9e2e-1049-4e36-9729-f85157c73b35.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 〈베토벤；Beethoven Secret〉 SEASON 2]]></title>
@@ -506,6 +456,56 @@
                             2023.04.14 - 2023.04.16</td>
                         <td class="show_loc">소향씨어터 신한카드홀 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/01/2023011710333459e16b9e-6619-46a0-846a-b5092e3c1b62.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[2023 Apink FANCONCERT 〈Pink drive〉]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=207922</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=207922</guid>
+            <pubDate>Sat, 15 Apr 2023 15:12:18 GMT</pubDate>
+            <content:encoded><![CDATA[<td>
+                            <div class="show_infor">
+                                <div class="thumb_90x125  img">
+                                    <a href="#">
+                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/03/2023030310545712900542-a4d7-4d10-9ec1-6dd01053ed8b.jpg/melon/resize/90x125/strip/true" alt="">
+                                        <span class="frame"></span>
+                                    </a>
+                                </div>
+                                <p class="infor_text">
+                                    <span class="ico_wrap">
+                                        <span class="ico_list ico_list1">단독판매</span><span class="ico_list ico_list4"> 판매중</span></span>
+                                    <span class="show_title"><a href="/performance/index.htm?prodId=207922">2023 Apink FANCONCERT 〈Pink drive〉</a></span>
+                                </p>
+                            </div>
+                        </td>
+                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
+                            2023.04.15 - 2023.04.16</td>
+                        <td class="show_loc">올림픽공원 올림픽홀</td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/03/2023030310545712900542-a4d7-4d10-9ec1-6dd01053ed8b.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[페스티벌，지금]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=207952</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=207952</guid>
+            <pubDate>Sat, 15 Apr 2023 15:12:18 GMT</pubDate>
+            <content:encoded><![CDATA[<td>
+                            <div class="show_infor">
+                                <div class="thumb_90x125  img">
+                                    <a href="#">
+                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/03/202303091443379991d819-54e6-4ffe-b896-b6ebe4db970e.jpg/melon/resize/90x125/strip/true" alt="">
+                                        <span class="frame"></span>
+                                    </a>
+                                </div>
+                                <p class="infor_text">
+                                    <span class="ico_wrap">
+                                        <span class="ico_list ico_list4"> 판매중</span></span>
+                                    <span class="show_title"><a href="/performance/index.htm?prodId=207952">페스티벌，지금</a></span>
+                                </p>
+                            </div>
+                        </td>
+                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
+                            2023.04.15 - 2023.04.16</td>
+                        <td class="show_loc">난지 한강공원 내 젊음의 광장 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/03/202303091443379991d819-54e6-4ffe-b896-b6ebe4db970e.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
     </channel>
 </rss>
