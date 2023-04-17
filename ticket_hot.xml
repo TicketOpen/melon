@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 17 Apr 2023 02:08:37 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Apr 2023 03:13:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,22 @@
             <pubDate>Sun, 16 Apr 2023 18:14:02 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>23.04.20(목)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/04/20230412155239082f337f-1420-4e67-9cf6-35538b8fcd74.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[2023 라라라온－벨로주 홍대 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7173</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7173</guid>
+            <pubDate>Mon, 17 Apr 2023 03:13:33 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>23.04.18(화)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/04/20230414111544ce109f75-56ac-4376-ab25-a3efe05ab145.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[2023 라라라온－네스트나다 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7174</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7174</guid>
+            <pubDate>Mon, 17 Apr 2023 03:13:33 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>23.04.20(목)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/04/20230414092420d392f807-42c3-48de-82d0-f12c68635a55.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
         <item>
             <title><![CDATA[2023 박서령 1st Concert “LAPAPA” 티켓 오픈 안내]]></title>
@@ -70,22 +86,6 @@
             <pubDate>Sun, 16 Apr 2023 18:14:02 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>23.04.14(금)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/04/202304120948425ccab499-e995-403e-8149-e406b9cfc12e.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[The Poles 단독공연 Morning after．티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7164</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7164</guid>
-            <pubDate>Sun, 16 Apr 2023 18:14:02 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>23.04.17(월)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/04/202304121735571d64bf59-ce28-4c2d-931a-1f6cf6f3647c.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[〈포레스트 가든 콘서트〉 with 웅산 밴드 / 하동연 / 곽정은 / 한창수 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7167</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7167</guid>
-            <pubDate>Sun, 16 Apr 2023 18:14:02 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>23.04.14(금)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/04/202304131017000f24b155-c08a-40bc-b7be-4fa8e01bca67.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
