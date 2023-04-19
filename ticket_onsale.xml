@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 판매중</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 19 Apr 2023 14:12:25 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Apr 2023 15:13:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -408,31 +408,6 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/03/2023033014002648bdd334-ffac-4b04-b1b0-4df9b85d2166.png/melon/resize/90x125/strip/true" length="0" type="image/png/melon/resize/90x125/strip/true"/>
         </item>
         <item>
-            <title><![CDATA[Mercury 88 Vol．3]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=208010</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=208010</guid>
-            <pubDate>Wed, 19 Apr 2023 12:24:05 GMT</pubDate>
-            <content:encoded><![CDATA[<td>
-                            <div class="show_infor">
-                                <div class="thumb_90x125  img">
-                                    <a href="#">
-                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/03/2023032810113603df3f74-7ef1-4cb3-9b7d-1df10d52480d.jpg/melon/resize/90x125/strip/true" alt="">
-                                        <span class="frame"></span>
-                                    </a>
-                                </div>
-                                <p class="infor_text">
-                                    <span class="ico_wrap">
-                                        <span class="ico_list ico_list1">단독판매</span><span class="ico_list ico_list4"> 판매중</span></span>
-                                    <span class="show_title"><a href="/performance/index.htm?prodId=208010">Mercury 88 Vol．3</a></span>
-                                </p>
-                            </div>
-                        </td>
-                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
-                            2023.04.19 - 2023.04.19</td>
-                        <td class="show_loc">벨로주 홍대 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/03/2023032810113603df3f74-7ef1-4cb3-9b7d-1df10d52480d.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
             <title><![CDATA[먼데이프로젝트 시즌6 ORIGINAL［암호 단독 콘서트］]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=208009</link>
             <guid>https://ticket.melon.com/performance/index.htm?prodId=208009</guid>
@@ -506,6 +481,31 @@
                             2023.04.21 - 2023.04.21</td>
                         <td class="show_loc">롤링홀 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/03/202303141533361219fff8-fc49-413c-a277-25db27d8ecce.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[박건후 소극장 콘서트 〈영원할 순간들〉]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=208004</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=208004</guid>
+            <pubDate>Wed, 19 Apr 2023 15:13:56 GMT</pubDate>
+            <content:encoded><![CDATA[<td>
+                            <div class="show_infor">
+                                <div class="thumb_90x125  img">
+                                    <a href="#">
+                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/03/20230321114241aa084bc8-262f-4509-999a-21b4f913b63c.jpg/melon/resize/90x125/strip/true" alt="">
+                                        <span class="frame"></span>
+                                    </a>
+                                </div>
+                                <p class="infor_text">
+                                    <span class="ico_wrap">
+                                        <span class="ico_list ico_list1">단독판매</span><span class="ico_list ico_list4"> 판매중</span></span>
+                                    <span class="show_title"><a href="/performance/index.htm?prodId=208004">박건후 소극장 콘서트 〈영원할 순간들〉</a></span>
+                                </p>
+                            </div>
+                        </td>
+                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
+                            2023.04.21 - 2023.04.21</td>
+                        <td class="show_loc">폼텍 웍스홀 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/03/20230321114241aa084bc8-262f-4509-999a-21b4f913b63c.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
     </channel>
 </rss>
