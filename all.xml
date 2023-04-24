@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 24 Apr 2023 01:01:43 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Apr 2023 02:31:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -88,14 +88,6 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/04/20230419102233906174f7-5eed-49a3-a181-5b9c727dc813.png/melon/resize/65x92/strip/true" length="0" type="image/png/melon/resize/65x92/strip/true"/>
         </item>
         <item>
-            <title><![CDATA[댄스가수 유랑단 콘서트－광주 티켓 오픈 안내 (멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식)]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7196</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7196</guid>
-            <pubDate>Mon, 24 Apr 2023 01:01:35 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>23.04.27(목)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/04/2023042409124812405a6e-952c-4342-8131-4023b8017f61.png/melon/resize/160x225/strip/true" length="0" type="image/png/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
             <title><![CDATA[‘데이 오브 데이트’ 박시환 콘서트 티켓 오픈 안내 (멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식)]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7194</link>
             <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7194</guid>
@@ -110,6 +102,14 @@
             <pubDate>Sun, 23 Apr 2023 09:11:52 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>23.04.25(화)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/04/20230421101706dd4fa6ce-2f31-47f7-996c-6326e25972c5.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[댄스가수 유랑단 콘서트－광주 티켓 오픈 안내 (멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식)]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7196</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7196</guid>
+            <pubDate>Mon, 24 Apr 2023 01:01:28 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>23.04.27(목)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/04/2023042409124812405a6e-952c-4342-8131-4023b8017f61.png/melon/resize/160x225/strip/true" length="0" type="image/png/melon/resize/160x225/strip/true"/>
         </item>
         <item>
             <title><![CDATA[먼데이프로젝트 IN 라이브클럽 LOVE IS ALL［Monday Off With Bluesy 단독 콘서트］티켓 오픈 안내 (멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식)]]></title>
