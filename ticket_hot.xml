@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 25 Apr 2023 08:16:37 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Apr 2023 09:13:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -56,6 +56,14 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/04/20230421101320a5905a97-239c-463a-ae6a-c40ce19c927d.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
         <item>
+            <title><![CDATA[유지애 2nd Fanmeeting 〈TO YOO〉 티켓 오픈안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7204</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7204</guid>
+            <pubDate>Tue, 25 Apr 2023 09:12:57 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>23.04.28(금)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/04/20230425093933d8a8315b-93bd-44aa-b301-8a24028f9c1f.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
             <title><![CDATA[티키타카 콘서트：아디오스오디오 티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7202</link>
             <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7202</guid>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 24 Apr 2023 03:13:23 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>23.04.26(수)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/04/2023041809465693f91a50-eafa-4094-a90a-56ca2ec96566.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[이우의 보이는 라디우 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7197</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7197</guid>
-            <pubDate>Mon, 24 Apr 2023 03:13:23 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>23.05.01(월)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/04/20230421105532348e3fac-ec12-485f-a66b-b264280223a0.png/melon/resize/160x225/strip/true" length="0" type="image/png/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
