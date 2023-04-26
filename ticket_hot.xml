@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 26 Apr 2023 08:19:30 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Apr 2023 09:13:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Wed, 26 Apr 2023 02:08:34 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>23.04.27(목)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/04/202304261139553b66e7a7-7f25-4184-8684-ed89682798d8.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[WISUE WEEK 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7215</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7215</guid>
+            <pubDate>Wed, 26 Apr 2023 09:13:42 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>23.04.27(목)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/04/2023042516023844ed2aac-3885-414d-86ee-6f158476dba3.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
         <item>
             <title><![CDATA[S（e）oul Station 2023［Beautiful Noise］Live in Seoul 티켓 오픈 안내]]></title>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 26 Apr 2023 05:12:38 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>23.04.28(금)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/04/202304251113282b79ebb2-eb3d-45eb-a445-ae72279fcf0d.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[엔분의일 단독 콘서트 〈Prologue〉 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7209</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7209</guid>
-            <pubDate>Wed, 26 Apr 2023 04:15:36 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>23.04.28(금)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/04/20230425104014c909ba46-3da4-4079-a777-750aef5effa8.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
