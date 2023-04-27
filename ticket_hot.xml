@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 27 Apr 2023 08:15:40 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Apr 2023 09:12:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -64,6 +64,14 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/04/202304251113282b79ebb2-eb3d-45eb-a445-ae72279fcf0d.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
         <item>
+            <title><![CDATA[현대카드 Curated 85 윤지영 〈나의 정원에서〉 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7218</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7218</guid>
+            <pubDate>Thu, 27 Apr 2023 09:12:13 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>23.05.02(화)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/04/202304261448075b1af5b2-3790-4c14-b3e2-d89279f969d7.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
             <title><![CDATA[Sync Next 23 (싱크 넥스트 23) 티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7205</link>
             <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7205</guid>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 26 Apr 2023 02:08:34 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>23.04.27(목)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/04/202304261139553b66e7a7-7f25-4184-8684-ed89682798d8.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[정석훈 단독 콘서트 ‘우리의 여름’：롤링 28주년 기념 공연 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7216</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7216</guid>
-            <pubDate>Thu, 27 Apr 2023 03:13:17 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>23.05.04(목)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/04/20230426101901a75d6592-d15d-482e-8a5f-0828ff271380.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
