@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 28 Apr 2023 10:13:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Apr 2023 11:10:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Thu, 27 Apr 2023 17:12:41 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>23.05.02(화)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/04/20230421101320a5905a97-239c-463a-ae6a-c40ce19c927d.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[문없는집 단독공연 〈조각들〉 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7221</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7221</guid>
+            <pubDate>Fri, 28 Apr 2023 11:10:37 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>23.05.02(화)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/04/202304271418273e154852-7e8d-4fb3-a214-79d5fe9bf1ef.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
         <item>
             <title><![CDATA[먼데이프로젝트 시즌6 청춘의 밤［신인류 단독 콘서트 ‘남다른 응원가’］티켓 오픈 안내]]></title>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 27 Apr 2023 17:12:41 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>23.04.28(금)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/04/202304251113282b79ebb2-eb3d-45eb-a445-ae72279fcf0d.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[현대카드 Curated 85 윤지영 〈나의 정원에서〉 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7218</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7218</guid>
-            <pubDate>Thu, 27 Apr 2023 17:12:41 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>23.05.02(화)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/04/202304261448075b1af5b2-3790-4c14-b3e2-d89279f969d7.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
