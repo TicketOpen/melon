@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 판매중</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 May 2023 14:12:03 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 May 2023 15:14:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -383,31 +383,6 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/04/202304131500492774c10c-ea6a-41ae-b61b-6e379d243b8a.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
-            <title><![CDATA[Colour of Geomungo 거문고의 빛깔2]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=208088</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=208088</guid>
-            <pubDate>Tue, 02 May 2023 08:15:40 GMT</pubDate>
-            <content:encoded><![CDATA[<td>
-                            <div class="show_infor">
-                                <div class="thumb_90x125  img">
-                                    <a href="#">
-                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/04/2023041310434505815236-fba4-47d3-9a9e-77b7960b89c7.jpg/melon/resize/90x125/strip/true" alt="">
-                                        <span class="frame"></span>
-                                    </a>
-                                </div>
-                                <p class="infor_text">
-                                    <span class="ico_wrap">
-                                        <span class="ico_list ico_list1">단독판매</span><span class="ico_list ico_list4"> 판매중</span></span>
-                                    <span class="show_title"><a href="/performance/index.htm?prodId=208088">Colour of Geomungo 거문고의 빛깔2</a></span>
-                                </p>
-                            </div>
-                        </td>
-                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
-                            2023.05.02 - 2023.05.02</td>
-                        <td class="show_loc">국립국악원 우면당</td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/04/2023041310434505815236-fba4-47d3-9a9e-77b7960b89c7.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
             <title><![CDATA[먼데이프로젝트 시즌6［화노 단독 콘서트 “昇天”］]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=208050</link>
             <guid>https://ticket.melon.com/performance/index.htm?prodId=208050</guid>
@@ -506,6 +481,31 @@
                             2023.05.05 - 2023.05.07</td>
                         <td class="show_loc">소향씨어터 신한카드홀 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/03/202303081047409156a88d-c15d-43f3-a265-27427d9b00dd.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[festival SUM 2023 x 전주국제영화제]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=207991</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=207991</guid>
+            <pubDate>Tue, 02 May 2023 15:14:16 GMT</pubDate>
+            <content:encoded><![CDATA[<td>
+                            <div class="show_infor">
+                                <div class="thumb_90x125  img">
+                                    <a href="#">
+                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/03/2023032009294416b78e23-9903-4f68-8720-6365682dec73.jpg/melon/resize/90x125/strip/true" alt="">
+                                        <span class="frame"></span>
+                                    </a>
+                                </div>
+                                <p class="infor_text">
+                                    <span class="ico_wrap">
+                                        <span class="ico_list ico_list1">단독판매</span><span class="ico_list ico_list4"> 판매중</span></span>
+                                    <span class="show_title"><a href="/performance/index.htm?prodId=207991">festival SUM 2023 x 전주국제영화제</a></span>
+                                </p>
+                            </div>
+                        </td>
+                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
+                            2023.05.05 - 2023.05.05</td>
+                        <td class="show_loc">전북대학교 삼성문화회관 대공연장</td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/03/2023032009294416b78e23-9903-4f68-8720-6365682dec73.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
     </channel>
 </rss>
