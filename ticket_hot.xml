@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 03 May 2023 02:06:42 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 May 2023 03:13:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -48,6 +48,14 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/05/20230502111546e932bdcc-4288-4e79-98b6-014a6eb87231.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
         <item>
+            <title><![CDATA[강승원의 노후대책 ‘여름’：롤링 28주년 기념 공연 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7231</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7231</guid>
+            <pubDate>Wed, 03 May 2023 03:13:23 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>23.05.09(화)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/05/20230502092608fa6c8eca-e596-43fc-94a9-8db19ce93960.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
             <title><![CDATA[밀코메다 4회 티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7228</link>
             <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7228</guid>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 02 May 2023 08:15:34 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>23.05.05(금)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/04/202304280942396606fe1b-2dcd-45f9-a90f-71df417d05ed.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[연세문화대향연 〈한여름 밤의 꿈〉 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7220</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7220</guid>
-            <pubDate>Tue, 02 May 2023 08:15:34 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>23.05.03(수)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/04/20230428093757d7f2caa8-1d45-4815-a525-015ff0e3422a.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
