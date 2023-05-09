@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 판매중</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 May 2023 14:12:14 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 May 2023 15:13:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -408,31 +408,6 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/04/20230426140128c7d2b131-3b93-48bf-93fc-2e839359076f.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
-            <title><![CDATA[2023 라라라온－네스트나다]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=208087</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=208087</guid>
-            <pubDate>Tue, 09 May 2023 06:16:02 GMT</pubDate>
-            <content:encoded><![CDATA[<td>
-                            <div class="show_infor">
-                                <div class="thumb_90x125  img">
-                                    <a href="#">
-                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/04/20230413104649dbfc5100-7dfe-4318-a41a-223204a569de.jpg/melon/resize/90x125/strip/true" alt="">
-                                        <span class="frame"></span>
-                                    </a>
-                                </div>
-                                <p class="infor_text">
-                                    <span class="ico_wrap">
-                                        <span class="ico_list ico_list1">단독판매</span><span class="ico_list ico_list4"> 판매중</span></span>
-                                    <span class="show_title"><a href="/performance/index.htm?prodId=208087">2023 라라라온－네스트나다</a></span>
-                                </p>
-                            </div>
-                        </td>
-                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
-                            2023.05.08 - 2023.05.09</td>
-                        <td class="show_loc">네스트나다 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/04/20230413104649dbfc5100-7dfe-4318-a41a-223204a569de.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
             <title><![CDATA[렌（REN）공식 팬클럽 민기적（MINracle）1기 모집]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=208145</link>
             <guid>https://ticket.melon.com/performance/index.htm?prodId=208145</guid>
@@ -506,6 +481,31 @@
                             2023.05.11 - 2023.05.11</td>
                         <td class="show_loc">롤링홀 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/03/20230327085201364c3cfb-4cb0-4fd5-82ed-5d60810c1815.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[팔칠댄스（87dance）단독 콘서트：롤링 28주년 기념 공연]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=208024</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=208024</guid>
+            <pubDate>Tue, 09 May 2023 15:13:52 GMT</pubDate>
+            <content:encoded><![CDATA[<td>
+                            <div class="show_infor">
+                                <div class="thumb_90x125  img">
+                                    <a href="#">
+                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/03/20230327133535d4f9e004-e53e-45e9-89ea-7eb9c98799a1.jpg/melon/resize/90x125/strip/true" alt="">
+                                        <span class="frame"></span>
+                                    </a>
+                                </div>
+                                <p class="infor_text">
+                                    <span class="ico_wrap">
+                                        <span class="ico_list ico_list1">단독판매</span><span class="ico_list ico_list4"> 판매중</span></span>
+                                    <span class="show_title"><a href="/performance/index.htm?prodId=208024">팔칠댄스（87dance）단독 콘서트：롤링 28주년 기념 공연</a></span>
+                                </p>
+                            </div>
+                        </td>
+                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
+                            2023.05.12 - 2023.05.12</td>
+                        <td class="show_loc">롤링홀 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/03/20230327133535d4f9e004-e53e-45e9-89ea-7eb9c98799a1.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
     </channel>
 </rss>
