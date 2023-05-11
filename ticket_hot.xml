@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 May 2023 01:00:34 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 May 2023 02:07:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -38,6 +38,14 @@
             <pubDate>Tue, 09 May 2023 05:11:51 GMT</pubDate>
             <content:encoded><![CDATA[오픈일정 보기 &gt;]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/05/2023050913152425a686fc-1e52-40ae-99e4-e0b32909f8ff.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[2023 박규리 팬미팅 〈HAPPY GYURI DAY〉 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7266</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7266</guid>
+            <pubDate>Thu, 11 May 2023 02:07:32 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>23.05.11(목)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/05/20230510100256c7c1d863-37ec-49eb-9ab8-19685695102c.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
         <item>
             <title><![CDATA[2023 임세준 팬미팅 〈Sejuney Land〉 티켓 오픈 안내]]></title>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 10 May 2023 09:12:24 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>23.05.12(금)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/05/202305091628522cb84062-79bc-46ef-a522-070ea02284ca.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[안예은 상영회 〈成長〉 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7260</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7260</guid>
-            <pubDate>Wed, 10 May 2023 05:11:36 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>23.05.11(목)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/05/20230509161523b085237d-fcc2-4e4b-877b-e5ce5b28d224.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
