@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 15 May 2023 02:33:03 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 May 2023 03:13:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -24,6 +24,14 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/05/2023050815104173edd292-d5f4-4f20-8c94-29b42552d868.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
         <item>
+            <title><![CDATA[곽진언 소극장 콘서트－Op．9	티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7282</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7282</guid>
+            <pubDate>Mon, 15 May 2023 03:13:25 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>23.05.18(목)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/05/20230512171249e7f3d682-08eb-4ddf-808b-b6136fa70f07.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
             <title><![CDATA[The Breakfast Club：윤석철 X 세진 발매기념 쇼케이스 티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7280</link>
             <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7280</guid>
@@ -38,6 +46,14 @@
             <pubDate>Sun, 14 May 2023 13:12:46 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>23.05.15(월)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/05/20230512142759b23ae186-9a93-4703-b2c2-083ab948cf24.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[VIVIZ（비비지）공식 팬클럽 나비（Na．V）2기 모집 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7283</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7283</guid>
+            <pubDate>Mon, 15 May 2023 03:13:25 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>23.05.22(월)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/05/202305121103373d467555-7e5c-4382-bcf6-f0931d3d427f.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
         <item>
             <title><![CDATA[TUNE UP STAGE：Jclef 앨범발매기념 쇼케이스－O，PRUNED！：HOMEMADE JAM 티켓 오픈 안내]]></title>
@@ -70,22 +86,6 @@
             <pubDate>Sun, 14 May 2023 13:12:46 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>23.05.17(수)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/05/2023051114231934ccb37a-23e8-43d9-96d0-ccf48b8854e5.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 〈맘마미아！〉－진주 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7274</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7274</guid>
-            <pubDate>Sun, 14 May 2023 13:12:46 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>23.05.18(목)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/05/20230511142113bb109bc0-8e1c-4142-b4bb-121ed21238f6.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[주윤하 앨범 발매 기념 단독 공연 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7277</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7277</guid>
-            <pubDate>Sun, 14 May 2023 13:12:46 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>23.05.15(월)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/05/2023051110121129531d97-2231-4c5d-b285-bddee1f1a075.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
