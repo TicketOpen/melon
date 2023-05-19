@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 19 May 2023 09:13:06 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 May 2023 10:14:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Fri, 19 May 2023 06:16:14 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>23.05.22(월)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/05/20230518172112bcdb2c41-6583-4bd8-8334-bf9dc1c87bc7.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[PEAKTIME 20시 FANMEETING ‘THANK YOU！：WILL YOU BE MY MINT 2023’ 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7306</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7306</guid>
+            <pubDate>Fri, 19 May 2023 10:14:30 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>23.05.22(월)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/05/202305181531064788216c-fe3d-4228-9ec1-232a91d9e004.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
         <item>
             <title><![CDATA[아스카 라이브 콘서트（ASUKA LIVE CONCERT）티켓 오픈 안내]]></title>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 19 May 2023 05:12:30 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>23.05.19(금)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/05/20230516145917906a8fae-b31f-4d5e-8367-fc8c12f79b2d.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[먼데이프로젝트 시즌6［안희수 앨범발매 단독콘서트 “그림에 갇히다”］티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7293</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7293</guid>
-            <pubDate>Fri, 19 May 2023 05:12:30 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>23.05.24(수)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/05/20230516104650bc3003ba-8451-4c55-99f1-9496fc3fc21d.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
