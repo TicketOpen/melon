@@ -1,8 +1,91 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://ticket.melon.com/csoon/index.htm#orderType=0&amp;pageIndex=1&amp;schGcode=GENRE_ALL&amp;schText=&amp;schDt=</id>
-    <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
-    <updated>2023-05-22T01:04:58.247Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Mon, 22 May 2023 02:35:43 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[분리수거밴드의 SING US A SONG “5월 어른탈을 쓴 어린이” 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7308</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7308</guid>
+            <pubDate>Mon, 22 May 2023 02:35:36 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>23.05.22(월)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/05/20230522112049131b89aa-a693-4b92-b2bc-277d9e7b83b9.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[2023 스카 슈퍼스웩 페스티벌 〈시즌6〉 얼리버드 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7300</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7300</guid>
+            <pubDate>Mon, 22 May 2023 02:35:36 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>23.05.31(수)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/05/20230517152016087f5d2d-5214-4706-8f8f-56cd768a948a.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[2023 JEONG YEIN FANMEETING：HAPPY YEIN DAY 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7304</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7304</guid>
+            <pubDate>Mon, 22 May 2023 02:35:36 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>23.05.22(월)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/05/20230518172112bcdb2c41-6583-4bd8-8334-bf9dc1c87bc7.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[PEAKTIME 20시 FANMEETING ‘THANK YOU！：WILL YOU BE MY MINT 2023’ 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7306</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7306</guid>
+            <pubDate>Mon, 22 May 2023 02:35:36 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>23.05.22(월)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/05/202305181531064788216c-fe3d-4228-9ec1-232a91d9e004.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[아스카 라이브 콘서트（ASUKA LIVE CONCERT）티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7303</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7303</guid>
+            <pubDate>Mon, 22 May 2023 02:35:36 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>23.05.22(월)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/05/202305181417315ad55714-73a8-4126-9fac-e1bdccd7f8ee.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[SAIGE 정규 1집 쇼케이스 2차 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7302</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7302</guid>
+            <pubDate>Mon, 22 May 2023 02:35:36 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>23.05.19(금)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/05/2023051811074686921fff-39ae-4877-a6f0-a1322f0b293e.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 〈알로하，나의 엄마들〉 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7301</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7301</guid>
+            <pubDate>Mon, 22 May 2023 02:35:36 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>23.05.22(월)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/05/202305171759422b560ca2-4a5d-4f55-885d-b6b8f97c0c9a.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[DMZ 피스트레인 뮤직 페스티벌 2023 블라인드 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7189</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7189</guid>
+            <pubDate>Mon, 22 May 2023 02:35:36 GMT</pubDate>
+            <content:encoded><![CDATA[오픈일정 보기 &gt;]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/05/202305171632356fa19343-540c-4dad-b7f5-df183363ec6a.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 〈맘마미아！〉－진주 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7274</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7274</guid>
+            <pubDate>Mon, 22 May 2023 02:35:36 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>23.05.18(목)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/05/2023051715523553bad7f1-ab7f-4c39-b6c5-b869a6a45e41.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 〈멤피스〉 오프닝 위크 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7295</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7295</guid>
+            <pubDate>Mon, 22 May 2023 02:35:36 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>23.05.24(수)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/05/20230516115807f9379441-2437-41a3-96c9-7a50e7ea8f9e.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+    </channel>
+</rss>
