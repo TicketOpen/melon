@@ -4,9 +4,17 @@
         <title>멜론 티켓</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 22 May 2023 10:13:50 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 May 2023 11:11:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[마리슈의 특별한 기획공연 〈다 불러주는 밤〉 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7309</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7309</guid>
+            <pubDate>Mon, 22 May 2023 11:11:23 GMT</pubDate>
+            <content:encoded><![CDATA[2023.05.25(목) 20:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/05/202305221120454d8193f6-f07d-449c-9f86-13dc1bf3d4a1.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
         <item>
             <title><![CDATA[분리수거밴드의 SING US A SONG “5월 어른탈을 쓴 어린이” 티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7308</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 22 May 2023 02:35:30 GMT</pubDate>
             <content:encoded><![CDATA[2023.05.23(화) 15:00]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/05/202305171521384be5558d-b096-4653-a740-d185ad108e6c.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[2023 체리블렛 1ST FANMEETING 〈It’s Cherry Time〉 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7298</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7298</guid>
-            <pubDate>Mon, 22 May 2023 02:35:30 GMT</pubDate>
-            <content:encoded><![CDATA[2023.05.19(금) 20:00]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/05/20230516145250a16fbdae-608e-418a-9e3b-eeec3816b134.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
     </channel>
 </rss>
