@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 May 2023 04:15:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 May 2023 05:12:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Fri, 26 May 2023 01:00:45 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>23.05.30(화)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/05/202305251535290449f344-f3c1-4745-9a6c-ccdebbc30b0d.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[스탠딩에그 단독 콘서트 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7323</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7323</guid>
+            <pubDate>Fri, 26 May 2023 05:12:12 GMT</pubDate>
+            <content:encoded><![CDATA[오픈일정 보기 &gt;]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/05/20230525132523c55adb30-b9f5-437c-ac3e-074f0f8b90ad.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
         <item>
             <title><![CDATA[REDSTART BOYS 1st FANMEETING “This time is our turn” 추가 회차 오픈 안내]]></title>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 26 May 2023 01:00:45 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>23.05.25(목)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/05/20230523155614999f8031-3ae6-456a-8006-bc3a61aee8ab.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[［서울 앵콜］뮤지컬 알쏭달쏭 캐치！티니핑 〈신비한 상자를 열어라！〉 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7310</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7310</guid>
-            <pubDate>Fri, 26 May 2023 01:00:45 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>23.05.26(금)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/05/202305230920261e2fa335-59e3-470b-a9c0-46522bffe0c8.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
