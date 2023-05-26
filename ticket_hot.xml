@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 May 2023 09:13:45 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 May 2023 10:13:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Fri, 26 May 2023 03:13:08 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>23.05.26(금)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/05/202305251344500fe17455-6458-465e-9e56-a580fb2869d4.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[2023 이예준 단독 콘서트 Say Ye‘s 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7326</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7326</guid>
+            <pubDate>Fri, 26 May 2023 10:13:11 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>23.05.30(화)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/05/202305251525063c7833a5-9ce4-43c5-a06b-30fad8011051.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
         <item>
             <title><![CDATA[연극 〈춘천놈들〉 티켓 오픈 안내]]></title>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 26 May 2023 01:00:45 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>23.05.25(목)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/05/2023052315530165fb5145-d0da-4ec2-8254-f53888d00f25.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 〈모차르트！〉 2차 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7318</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7318</guid>
-            <pubDate>Fri, 26 May 2023 01:00:45 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>23.05.30(화)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/05/20230523161126499e3a76-ac55-4131-b28f-669851c4616f.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
