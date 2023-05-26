@@ -4,9 +4,25 @@
         <title>멜론 티켓</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 May 2023 08:15:35 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 May 2023 09:13:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[연극 〈춘천놈들〉 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7325</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7325</guid>
+            <pubDate>Fri, 26 May 2023 09:13:30 GMT</pubDate>
+            <content:encoded><![CDATA[2023.05.26(금) 18:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/05/2023052514585041607de7-3e32-4dfd-afdd-65b9f7ae007b.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[네미시스 라이브 콘서트 ‘여름의 시작’ 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7324</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7324</guid>
+            <pubDate>Fri, 26 May 2023 09:13:30 GMT</pubDate>
+            <content:encoded><![CDATA[2023.05.30(화) 20:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/05/20230525131753b5ad76e7-a162-469c-b540-562f0e47042e.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
         <item>
             <title><![CDATA[스탠딩에그 단독 콘서트 티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7323</link>
@@ -29,7 +45,7 @@
             <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7321</guid>
             <pubDate>Fri, 26 May 2023 01:00:37 GMT</pubDate>
             <content:encoded><![CDATA[2023.05.30(화) 14:00]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/05/202305251535290449f344-f3c1-4745-9a6c-ccdebbc30b0d.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/05/20230526171526d847a71d-127c-48fd-b728-3c36aebb3284.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
         <item>
             <title><![CDATA[REDSTART BOYS 1st FANMEETING “This time is our turn” 추가 회차 오픈 안내]]></title>
@@ -70,22 +86,6 @@
             <pubDate>Fri, 26 May 2023 01:00:37 GMT</pubDate>
             <content:encoded><![CDATA[2023.05.31(수) 20:00]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/05/202305231557476b066961-cd67-49e4-b780-82ffd1e34099.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[Vanillare 싱글 ‘Alive’ 발매기념 단독공연 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7315</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7315</guid>
-            <pubDate>Fri, 26 May 2023 01:00:37 GMT</pubDate>
-            <content:encoded><![CDATA[2023.05.25(목) 20:00]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/05/2023052315530165fb5145-d0da-4ec2-8254-f53888d00f25.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[먼데이프로젝트 시즌6 OUR SUMMER［아디오스 오디오 단독 콘서트］티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7314</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7314</guid>
-            <pubDate>Fri, 26 May 2023 01:00:37 GMT</pubDate>
-            <content:encoded><![CDATA[2023.05.31(수) 20:00]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/05/202305231542577f2732af-dd80-4a70-8b31-0e3ef4c322c0.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
     </channel>
 </rss>
