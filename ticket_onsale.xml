@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 판매중</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 May 2023 02:36:04 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 May 2023 03:13:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -408,6 +408,31 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/05/20230503133755ea99495c-d45c-4b59-9bb2-22662d36f760.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
+            <title><![CDATA[A Journey to Return Home]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=208291</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=208291</guid>
+            <pubDate>Tue, 30 May 2023 03:13:54 GMT</pubDate>
+            <content:encoded><![CDATA[<td>
+                            <div class="show_infor">
+                                <div class="thumb_90x125  img">
+                                    <a href="#">
+                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/05/2023052511021052ce74fa-dc64-4cf1-aa84-110cada901ce.jpg/melon/resize/90x125/strip/true" alt="">
+                                        <span class="frame"></span>
+                                    </a>
+                                </div>
+                                <p class="infor_text">
+                                    <span class="ico_wrap">
+                                        <span class="ico_list ico_list4"> 판매중</span></span>
+                                    <span class="show_title"><a href="/performance/index.htm?prodId=208291">A Journey to Return Home</a></span>
+                                </p>
+                            </div>
+                        </td>
+                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
+                            2023.06.01 - 2023.08.20</td>
+                        <td class="show_loc">현대카드 스토리지 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/05/2023052511021052ce74fa-dc64-4cf1-aa84-110cada901ce.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
             <title><![CDATA[The Breakfast Club：윤석철 X 세진 발매기념 쇼케이스]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=208224</link>
             <guid>https://ticket.melon.com/performance/index.htm?prodId=208224</guid>
@@ -481,31 +506,6 @@
                             2023.06.02 - 2023.06.02</td>
                         <td class="show_loc">클럽온에어 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/05/2023051811221042039a0a-eb94-42e7-9e79-71e3d534da5b.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[강승원의 노후대책 ‘여름’：롤링 28주년 기념 공연]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=208146</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=208146</guid>
-            <pubDate>Mon, 29 May 2023 15:12:56 GMT</pubDate>
-            <content:encoded><![CDATA[<td>
-                            <div class="show_infor">
-                                <div class="thumb_90x125  img">
-                                    <a href="#">
-                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/05/202305080906182a6ca756-d979-44a7-8f78-23c32c0c9f5c.jpg/melon/resize/90x125/strip/true" alt="">
-                                        <span class="frame"></span>
-                                    </a>
-                                </div>
-                                <p class="infor_text">
-                                    <span class="ico_wrap">
-                                        <span class="ico_list ico_list1">단독판매</span><span class="ico_list ico_list4"> 판매중</span></span>
-                                    <span class="show_title"><a href="/performance/index.htm?prodId=208146">강승원의 노후대책 ‘여름’：롤링 28주년 기념 공연</a></span>
-                                </p>
-                            </div>
-                        </td>
-                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
-                            2023.06.02 - 2023.06.02</td>
-                        <td class="show_loc">롤링홀 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/05/202305080906182a6ca756-d979-44a7-8f78-23c32c0c9f5c.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
     </channel>
 </rss>
