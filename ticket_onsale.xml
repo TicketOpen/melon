@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 판매중</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 07 Jun 2023 04:15:04 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Jun 2023 05:11:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -283,6 +283,31 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/05/2023052511021052ce74fa-dc64-4cf1-aa84-110cada901ce.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
+            <title><![CDATA[엠씨더맥스 이수 공식 팬클럽 2023 1기 모집]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=208312</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=208312</guid>
+            <pubDate>Wed, 07 Jun 2023 05:11:55 GMT</pubDate>
+            <content:encoded><![CDATA[<td>
+                            <div class="show_infor">
+                                <div class="thumb_90x125  img">
+                                    <a href="#">
+                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/06/202306051929138dd3bd4f-92bc-4749-8748-74e6555e308c.jpg/melon/resize/90x125/strip/true" alt="">
+                                        <span class="frame"></span>
+                                    </a>
+                                </div>
+                                <p class="infor_text">
+                                    <span class="ico_wrap">
+                                        <span class="ico_list ico_list1">단독판매</span><span class="ico_list ico_list4"> 판매중</span></span>
+                                    <span class="show_title"><a href="/performance/index.htm?prodId=208312">엠씨더맥스&nbsp;이수&nbsp;공식 팬클럽 2023 1기 모집</a></span>
+                                </p>
+                            </div>
+                        </td>
+                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
+                            2023.06.07 - 2023.06.16</td>
+                        <td class="show_loc">- </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/06/202306051929138dd3bd4f-92bc-4749-8748-74e6555e308c.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
             <title><![CDATA[VANNER（배너）공식 팬클럽 〈VVS〉 1기 모집]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=208326</link>
             <guid>https://ticket.melon.com/performance/index.htm?prodId=208326</guid>
@@ -481,31 +506,6 @@
                             2023.06.10 - 2023.06.10</td>
                         <td class="show_loc">살롱 문보우 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/05/20230508085937128ffc5f-9f5d-4ada-bdeb-eed8a0f987d5.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[누군가의 플레이리스트 Track．64 맥거핀（MGFF）단독콘서트]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=208207</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=208207</guid>
-            <pubDate>Tue, 06 Jun 2023 15:12:44 GMT</pubDate>
-            <content:encoded><![CDATA[<td>
-                            <div class="show_infor">
-                                <div class="thumb_90x125  img">
-                                    <a href="#">
-                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/05/2023050918231194a6a91e-1efd-4c0c-a975-e151add5e28a.jpg/melon/resize/90x125/strip/true" alt="">
-                                        <span class="frame"></span>
-                                    </a>
-                                </div>
-                                <p class="infor_text">
-                                    <span class="ico_wrap">
-                                        <span class="ico_list ico_list1">단독판매</span><span class="ico_list ico_list4"> 판매중</span></span>
-                                    <span class="show_title"><a href="/performance/index.htm?prodId=208207">누군가의 플레이리스트 Track．64 맥거핀（MGFF）단독콘서트</a></span>
-                                </p>
-                            </div>
-                        </td>
-                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
-                            2023.06.10 - 2023.06.11</td>
-                        <td class="show_loc">폼텍 웍스홀 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/05/2023050918231194a6a91e-1efd-4c0c-a975-e151add5e28a.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
     </channel>
 </rss>
