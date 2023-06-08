@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 08 Jun 2023 10:13:13 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Jun 2023 11:11:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,6 +30,14 @@
             <pubDate>Thu, 08 Jun 2023 07:11:51 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>23.06.09(금)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/06/2023060815455542376ead-321b-4afc-9fb9-ec01a6cecb69.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[아이보리코스트 콘서트 “아이보리코스트 in District 46” 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7381</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7381</guid>
+            <pubDate>Thu, 08 Jun 2023 11:11:04 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>23.06.08(목)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/06/202306081500453da69da2-149c-46aa-8b4d-b0cc3f5b1c3a.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
         <item>
             <title><![CDATA[TUNE UP STAGE：MUSIC OASIS 튠업 스테이지：뮤직 오아시스 티켓 오픈 안내]]></title>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 07 Jun 2023 10:14:33 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>23.06.08(목)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/06/20230607181335affd8271-b601-4fce-8d8c-f3b62fb81e42.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[게이트플라워즈 단독공연：신문화체험 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7375</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7375</guid>
-            <pubDate>Thu, 08 Jun 2023 03:16:44 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>23.06.09(금)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/06/20230607151535e166c78e-dd6b-4051-a3d0-ca7a2faeb69b.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
