@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 12 Jun 2023 02:52:03 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 12 Jun 2023 03:18:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,22 @@
             <pubDate>Sun, 11 Jun 2023 17:10:16 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>23.06.13(화)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/06/202306071347340620a427-24c9-4e01-a9c4-693ecea89093.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[커피소년 여름 콘서트 ‘2023 Mellow Diving’ 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7390</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7390</guid>
+            <pubDate>Mon, 12 Jun 2023 03:18:38 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>23.06.15(목)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/06/20230609170040d8a8ee7e-08e5-4b50-9052-b59e446f5573.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[해리빅버튼 정규3집 발매 기념 단독 콘서트 ‘BIG FISH’ 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7389</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7389</guid>
+            <pubDate>Mon, 12 Jun 2023 03:18:38 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>23.06.19(월)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/06/20230609151211edae190e-f12c-4139-b877-1988586feab1.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
         <item>
             <title><![CDATA[입덕사원：벤치위레오 티켓 오픈 안내]]></title>
@@ -70,22 +86,6 @@
             <pubDate>Sun, 11 Jun 2023 17:10:16 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>23.06.09(금)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/06/2023060815455542376ead-321b-4afc-9fb9-ec01a6cecb69.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[아이보리코스트 콘서트 “아이보리코스트 in District 46” 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7381</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7381</guid>
-            <pubDate>Sun, 11 Jun 2023 17:10:16 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>23.06.08(목)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/06/202306081500453da69da2-149c-46aa-8b4d-b0cc3f5b1c3a.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[TUNE UP STAGE：MUSIC OASIS 튠업 스테이지：뮤직 오아시스 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7376</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7376</guid>
-            <pubDate>Sun, 11 Jun 2023 17:10:16 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>23.06.09(금)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/06/2023060716030597c229ec-7cac-4f28-8725-a8fcf8b8da13.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
