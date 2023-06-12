@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 12 Jun 2023 14:12:09 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 12 Jun 2023 15:13:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -518,31 +518,6 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/06/2023060116015030ef02ad-b81d-49cd-80f2-fa9e48146c87.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
-            <title><![CDATA[먼데이프로젝트 시즌6［안희수 앨범발매 단독콘서트 “그림에 갇히다”］ (멜론티켓 ─ 판매중)]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=208241</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=208241</guid>
-            <pubDate>Sun, 11 Jun 2023 17:10:22 GMT</pubDate>
-            <content:encoded><![CDATA[<td>
-                            <div class="show_infor">
-                                <div class="thumb_90x125  img">
-                                    <a href="#">
-                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/05/202305151610442890ae6a-3b7a-4413-b9d5-3b0da18d553a.jpg/melon/resize/90x125/strip/true" alt="">
-                                        <span class="frame"></span>
-                                    </a>
-                                </div>
-                                <p class="infor_text">
-                                    <span class="ico_wrap">
-                                        <span class="ico_list ico_list1">단독판매</span><span class="ico_list ico_list4"> 판매중</span></span>
-                                    <span class="show_title"><a href="/performance/index.htm?prodId=208241">먼데이프로젝트 시즌6［안희수 앨범발매 단독콘서트 “그림에 갇히다”］</a></span>
-                                </p>
-                            </div>
-                        </td>
-                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
-                            2023.06.12 - 2023.06.12</td>
-                        <td class="show_loc">클럽온에어 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/05/202305151610442890ae6a-3b7a-4413-b9d5-3b0da18d553a.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
             <title><![CDATA[［파이널 얼리버드］고양이를 그린 화가 루이스 웨인展 (멜론티켓 ─ 판매중)]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=208261</link>
             <guid>https://ticket.melon.com/performance/index.htm?prodId=208261</guid>
@@ -591,6 +566,31 @@
                             2023.06.13 - 2023.06.13</td>
                         <td class="show_loc">세종문화회관 M씨어터</td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/05/2023050808550611126d08-6a7c-4fd4-ac53-6a88c282e7a8.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[고양이를 그린 화가 루이스 웨인展 (멜론티켓 ─ 판매중)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=208359</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=208359</guid>
+            <pubDate>Mon, 12 Jun 2023 15:13:07 GMT</pubDate>
+            <content:encoded><![CDATA[<td>
+                            <div class="show_infor">
+                                <div class="thumb_90x125  img">
+                                    <a href="#">
+                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/06/2023060816364354fb2821-7590-42c0-b740-cea294ca7877.jpg/melon/resize/90x125/strip/true" alt="">
+                                        <span class="frame"></span>
+                                    </a>
+                                </div>
+                                <p class="infor_text">
+                                    <span class="ico_wrap">
+                                        <span class="ico_list ico_list4"> 판매중</span></span>
+                                    <span class="show_title"><a href="/performance/index.htm?prodId=208359">고양이를 그린 화가 루이스 웨인展</a></span>
+                                </p>
+                            </div>
+                        </td>
+                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
+                            2023.06.13 - 2023.08.31</td>
+                        <td class="show_loc">강동아트센터 아트랑</td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/06/2023060816364354fb2821-7590-42c0-b740-cea294ca7877.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
             <title><![CDATA[［슈퍼 얼리버드］고양이를 그린 화가 루이스 웨인展 (멜론티켓 ─ 판매중)]]></title>
