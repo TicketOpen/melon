@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 16 Jun 2023 04:15:03 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Jun 2023 05:12:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -56,6 +56,22 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/06/202306150937489d5ce61e-df1a-4b53-8a1d-51bae987df4a.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
         <item>
+            <title><![CDATA[사공 상영회 〈沙工〉 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7418</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7418</guid>
+            <pubDate>Fri, 16 Jun 2023 05:11:58 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>23.06.21(수)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/06/202306151429371b24d7d0-02ad-47a8-9e23-c1b797d81054.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 〈구텐버그〉 오픈위크 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7419</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7419</guid>
+            <pubDate>Fri, 16 Jun 2023 05:11:58 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>23.06.22(목)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/06/20230615140350447b522c-dafa-4e37-90eb-5395088014f7.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
             <title><![CDATA[아우스게일 내한공연 티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7407</link>
             <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7407</guid>
@@ -70,22 +86,6 @@
             <pubDate>Fri, 16 Jun 2023 04:14:55 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>23.06.19(월)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/06/20230615092607f4a228ea-4932-4e5f-980b-10898a41c258.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[김명규X박수연 “0420” 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7414</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7414</guid>
-            <pubDate>Thu, 15 Jun 2023 11:10:47 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>23.06.19(월)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/06/20230615085948647da2c1-b89d-47be-aac4-4f5ac21e1fa9.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[2023전주얼티밋뮤직페스티벌 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7408</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7408</guid>
-            <pubDate>Wed, 14 Jun 2023 08:15:20 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>23.06.20(화)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/06/202306141753574346cac8-be1f-4a56-95c0-8f0dd813633a.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
