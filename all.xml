@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 16 Jun 2023 14:11:32 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Jun 2023 15:13:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -401,31 +401,6 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/05/2023052511021052ce74fa-dc64-4cf1-aa84-110cada901ce.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
-            <title><![CDATA[엠씨더맥스 이수 공식 팬클럽 2023 1기 모집 (멜론티켓 ─ 판매중)]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=208312</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=208312</guid>
-            <pubDate>Sun, 11 Jun 2023 17:10:22 GMT</pubDate>
-            <content:encoded><![CDATA[<td>
-                            <div class="show_infor">
-                                <div class="thumb_90x125  img">
-                                    <a href="#">
-                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/06/202306051929138dd3bd4f-92bc-4749-8748-74e6555e308c.jpg/melon/resize/90x125/strip/true" alt="">
-                                        <span class="frame"></span>
-                                    </a>
-                                </div>
-                                <p class="infor_text">
-                                    <span class="ico_wrap">
-                                        <span class="ico_list ico_list1">단독판매</span><span class="ico_list ico_list4"> 판매중</span></span>
-                                    <span class="show_title"><a href="/performance/index.htm?prodId=208312">엠씨더맥스&nbsp;이수&nbsp;공식 팬클럽 2023 1기 모집</a></span>
-                                </p>
-                            </div>
-                        </td>
-                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
-                            2023.06.07 - 2023.06.16</td>
-                        <td class="show_loc">- </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/06/202306051929138dd3bd4f-92bc-4749-8748-74e6555e308c.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
             <title><![CDATA[VANNER（배너）공식 팬클럽 〈VVS〉 1기 모집 (멜론티켓 ─ 판매중)]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=208326</link>
             <guid>https://ticket.melon.com/performance/index.htm?prodId=208326</guid>
@@ -674,6 +649,31 @@
                             2023.06.15 - 2023.09.07</td>
                         <td class="show_loc">- </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/06/20230612111806e97120b3-d52f-4f5d-afc4-c2a22612a1ca.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[MAMAMOO WORLD TOUR 〈MY CON〉 ENCORE－SEOUL (멜론티켓 ─ 판매중)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=208195</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=208195</guid>
+            <pubDate>Fri, 16 Jun 2023 15:13:03 GMT</pubDate>
+            <content:encoded><![CDATA[<td>
+                            <div class="show_infor">
+                                <div class="thumb_90x125  img">
+                                    <a href="#">
+                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/05/20230509131539f0ed5fba-cd7d-4d1c-a3e4-0db1dffd9945.jpg/melon/resize/90x125/strip/true" alt="">
+                                        <span class="frame"></span>
+                                    </a>
+                                </div>
+                                <p class="infor_text">
+                                    <span class="ico_wrap">
+                                        <span class="ico_list ico_list1">단독판매</span><span class="ico_list ico_list4"> 판매중</span></span>
+                                    <span class="show_title"><a href="/performance/index.htm?prodId=208195">MAMAMOO WORLD TOUR 〈MY CON〉 ENCORE－SEOUL</a></span>
+                                </p>
+                            </div>
+                        </td>
+                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
+                            2023.06.16 - 2023.06.18</td>
+                        <td class="show_loc">올림픽공원 SK올림픽핸드볼경기장</td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/05/20230509131539f0ed5fba-cd7d-4d1c-a3e4-0db1dffd9945.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
     </channel>
 </rss>
