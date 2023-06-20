@@ -1,8 +1,113 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://ticket.melon.com/csoon/index.htm</id>
-    <title>멜론 티켓</title>
-    <updated>2023-06-20T05:12:53.041Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>멜론 티켓</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Tue, 20 Jun 2023 06:16:47 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[댄스가수 유랑단 콘서트－서울 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7415</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7415</guid>
+            <pubDate>Tue, 20 Jun 2023 06:16:35 GMT</pubDate>
+            <content:encoded><![CDATA[2023.06.22(목) 20:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/06/202306150854264c83a4f5-8558-4c6d-9315-e0504d9f915e.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[OMEGA X（오메가엑스）Mini Fan Meeting 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7432</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7432</guid>
+            <pubDate>Tue, 20 Jun 2023 06:16:35 GMT</pubDate>
+            <content:encoded><![CDATA[2023.06.22(목) 14:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/06/2023062010131982462548-fd4d-4184-9c2a-1c086493dcce.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[HWANDERLAND MT IN SUMMER 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7431</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7431</guid>
+            <pubDate>Tue, 20 Jun 2023 06:16:35 GMT</pubDate>
+            <content:encoded><![CDATA[2023.06.22(목) 20:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/06/2023061911405462fc183d-b4df-4053-aeb7-ae96046f0dc9.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[［오픈취소］〈팬텀싱어4〉 콘서트－서울 추가회차 오픈 취소 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7430</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7430</guid>
+            <pubDate>Tue, 20 Jun 2023 06:16:35 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="ticket_data_cancel"><a href="./detail.htm?csoonId=7430" class="link_schedule">
+ 							<span class="ticket_state">취소</span>
+		                	</a>
+	              </div>
+                <div class="link_consert">
+                <a href="./detail.htm?csoonId=7430" class="tit">
+                	［오픈취소］〈팬텀싱어4〉 콘서트－서울 추가회차 오픈 취소 안내</a>
+                <dl class="register_info">
+                    <dt class="first tit_date">등록일 </dt>
+                    <dd class="txt_date">2023.06.19</dd>
+                    <dt class="tit_review">조회 </dt>
+                    <dd class="txt_review">343</dd>
+                </dl>
+            </div>
+            <a href="./detail.htm?csoonId=7430" class="poster"><img src="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/06/20230619103723959b1be8-ff17-49e5-b124-26f3b1864ecf.jpg/melon/resize/65x92/strip/true" alt="" onerror="noImage(this,65,92)" width="65"><span class="frame"></span></a>]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/06/20230619103723959b1be8-ff17-49e5-b124-26f3b1864ecf.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[자화상 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7429</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7429</guid>
+            <pubDate>Tue, 20 Jun 2023 06:16:35 GMT</pubDate>
+            <content:encoded><![CDATA[2023.06.21(수) 20:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/06/20230620092925615e45c5-c3ae-4ddf-b853-ad4a82bd2eba.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[초승 상영회 〈우리의 그늘〉 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7428</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7428</guid>
+            <pubDate>Tue, 20 Jun 2023 06:16:35 GMT</pubDate>
+            <content:encoded><![CDATA[2023.06.23(금) 20:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/06/20230616164208644ca74d-6a8c-44d7-b44f-9b9bf0358424.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[CONNECT：맥거핀X이글루베이 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7427</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7427</guid>
+            <pubDate>Tue, 20 Jun 2023 06:16:35 GMT</pubDate>
+            <content:encoded><![CDATA[2023.06.20(화) 19:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/06/202306161707132f22112d-ea6f-4c09-9de5-e32ba733e182.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[스무번째 여름 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7426</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7426</guid>
+            <pubDate>Tue, 20 Jun 2023 06:16:35 GMT</pubDate>
+            <content:encoded><![CDATA[2023.06.22(목) 14:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/06/20230616152540f01a3b74-d069-4123-98bb-3ed1c252f1de.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[전기뱀장어 정규3집 발매 기념 공연 〈세계 동심원의 날〉 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7425</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7425</guid>
+            <pubDate>Tue, 20 Jun 2023 06:16:35 GMT</pubDate>
+            <content:encoded><![CDATA[2023.06.21(수) 20:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/06/20230619085655060faa26-67c8-44cb-9494-b6bf4e323349.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[2023 다린 여름 콘서트 〈열대야：Memories in the shell〉 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7424</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7424</guid>
+            <pubDate>Tue, 20 Jun 2023 06:16:35 GMT</pubDate>
+            <content:encoded><![CDATA[오픈일정 보기 &gt;]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/06/202306161424206ac74288-6a4f-4ba1-ac66-09266d7bd924.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[밀코메다 6회 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7423</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7423</guid>
+            <pubDate>Tue, 20 Jun 2023 06:16:35 GMT</pubDate>
+            <content:encoded><![CDATA[2023.06.20(화) 12:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/06/20230619110113e861ebf4-e00f-4b0e-afd3-55eeabaa1a43.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+    </channel>
+</rss>
