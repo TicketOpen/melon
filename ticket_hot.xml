@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 21 Jun 2023 02:35:47 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Jun 2023 03:13:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,22 @@
             <pubDate>Wed, 21 Jun 2023 02:35:40 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>23.06.27(화)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/06/2023062015493054a55a29-f78a-45df-8732-f2f3972be1d1.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[Tuesday Beach Club 단독콘서트 ‘Us in the Blue’：CMYK LIVE 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7433</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7433</guid>
+            <pubDate>Wed, 21 Jun 2023 03:13:29 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>23.06.27(화)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/06/20230620140725801bc262-8bab-4a7a-aa50-1a60b1db24ff.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[먼데이프로젝트 IN 라이브클럽 BUSAN［소음발광 단독 콘서트］티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7434</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7434</guid>
+            <pubDate>Wed, 21 Jun 2023 03:13:29 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>23.06.28(수)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/06/202306201049435ad09d55-3ded-4f8a-a75f-a648a1dde78c.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
         <item>
             <title><![CDATA[상실의 징후들 티켓 오픈 안내]]></title>
@@ -70,22 +86,6 @@
             <pubDate>Wed, 21 Jun 2023 02:35:40 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>23.06.21(수)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/06/20230619085655060faa26-67c8-44cb-9494-b6bf4e323349.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[사공 상영회 〈沙工〉 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7418</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7418</guid>
-            <pubDate>Wed, 21 Jun 2023 02:35:40 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>23.06.21(수)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/06/202306151429371b24d7d0-02ad-47a8-9e23-c1b797d81054.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 〈구텐버그〉 오픈위크 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7419</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7419</guid>
-            <pubDate>Wed, 21 Jun 2023 02:35:40 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>23.06.22(목)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/06/20230615140350447b522c-dafa-4e37-90eb-5395088014f7.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
