@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 23 Jun 2023 07:13:16 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Jun 2023 08:17:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Thu, 22 Jun 2023 05:12:29 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>23.06.27(화)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/06/2023062310331288dd9066-c018-4b9e-bb9a-4ec4ddb3b738.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[JUMF 2023 전주얼티밋뮤직페스티벌 정규티켓 사전예매 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7445</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7445</guid>
+            <pubDate>Fri, 23 Jun 2023 08:17:43 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>23.06.27(화)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/06/20230622134614dce9c097-8b57-45a4-9e15-63abd41334e3.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
         <item>
             <title><![CDATA[Hon’z（혼즈）［HELLO，STRANGER？］티켓 오픈 안내]]></title>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 21 Jun 2023 09:12:32 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>23.06.26(월)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/06/20230621114551c532ba35-eb74-43ec-953e-112a847f7675.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[Cosm 1st Concert 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7440</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7440</guid>
-            <pubDate>Thu, 22 Jun 2023 03:13:13 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>23.06.29(목)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/06/20230621155552e2dbab65-40e7-48db-9874-2849e779668c.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
