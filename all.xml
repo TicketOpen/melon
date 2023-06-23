@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 23 Jun 2023 01:16:42 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Jun 2023 02:57:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -21,7 +21,7 @@
             <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7441</guid>
             <pubDate>Thu, 22 Jun 2023 05:12:23 GMT</pubDate>
             <content:encoded><![CDATA[2023.06.27(화) 16:00]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/06/20230621141906c89e7a42-9158-401d-94f3-522353d995e9.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/06/2023062310331288dd9066-c018-4b9e-bb9a-4ec4ddb3b738.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
         <item>
             <title><![CDATA[Cosm 1st Concert 티켓 오픈 안내 (멜론 티켓)]]></title>
@@ -86,6 +86,14 @@
             <pubDate>Wed, 21 Jun 2023 03:13:23 GMT</pubDate>
             <content:encoded><![CDATA[2023.06.27(화) 20:00]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/06/20230620140725801bc262-8bab-4a7a-aa50-1a60b1db24ff.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 〈맘마미아！〉－안산 티켓 오픈 안내 (멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식)]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7441</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7441</guid>
+            <pubDate>Thu, 22 Jun 2023 05:12:23 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>23.06.27(화)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/06/2023062310331288dd9066-c018-4b9e-bb9a-4ec4ddb3b738.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
         <item>
             <title><![CDATA[Hon’z（혼즈）［HELLO，STRANGER？］티켓 오픈 안내 (멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식)]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 22 Jun 2023 03:13:05 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>23.06.29(목)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/06/20230621155552e2dbab65-40e7-48db-9874-2849e779668c.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 〈맘마미아！〉－안산 티켓 오픈 안내 (멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식)]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7441</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7441</guid>
-            <pubDate>Thu, 22 Jun 2023 05:12:23 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>23.06.27(화)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/06/20230621141906c89e7a42-9158-401d-94f3-522353d995e9.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
         <item>
             <title><![CDATA[NEW 공룡테마파크 다이노베이 (멜론티켓 ─ 판매중)]]></title>
@@ -341,6 +341,31 @@
                             2023.04.13 - 2023.06.25</td>
                         <td class="show_loc">예술의전당 한가람미술관 제 7전시실</td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/04/20230412151112660dfa9a-a646-4a99-bdd9-ebf03e247d4a.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 〈쿠로이 저택엔 누가 살고 있을까？〉 (멜론티켓 ─ 판매중)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=208420</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=208420</guid>
+            <pubDate>Fri, 23 Jun 2023 02:57:40 GMT</pubDate>
+            <content:encoded><![CDATA[<td>
+                            <div class="show_infor">
+                                <div class="thumb_90x125  img">
+                                    <a href="#">
+                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/06/20230622141859e0d42baa-ee82-4335-8979-7d82f684954b.jpg/melon/resize/90x125/strip/true" alt="">
+                                        <span class="frame"></span>
+                                    </a>
+                                </div>
+                                <p class="infor_text">
+                                    <span class="ico_wrap">
+                                        <span class="ico_list ico_list4"> 판매중</span></span>
+                                    <span class="show_title"><a href="/performance/index.htm?prodId=208420">뮤지컬 〈쿠로이 저택엔 누가 살고 있을까？〉</a></span>
+                                </p>
+                            </div>
+                        </td>
+                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
+                            2023.05.02 - 2023.07.23</td>
+                        <td class="show_loc">플러스씨어터 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/06/20230622141859e0d42baa-ee82-4335-8979-7d82f684954b.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
             <title><![CDATA[앤서니 브라운의 행복극장展 (멜론티켓 ─ 판매중)]]></title>
@@ -641,31 +666,6 @@
                             2023.06.17 - 2023.12.31</td>
                         <td class="show_loc">CxC Art Museum X LOTTE CINEMA </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/06/20230615093651774ba215-8bd2-45a5-9ca2-819f6a9c073c.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[VIVIZ（비비지）공식 팬클럽 나비（Na．V）2기 추가모집 (멜론티켓 ─ 판매중)]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=208231</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=208231</guid>
-            <pubDate>Wed, 21 Jun 2023 02:35:47 GMT</pubDate>
-            <content:encoded><![CDATA[<td>
-                            <div class="show_infor">
-                                <div class="thumb_90x125  img">
-                                    <a href="#">
-                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/06/20230615120054c283ae6f-1001-48e7-8506-cb549cd13744.jpg/melon/resize/90x125/strip/true" alt="">
-                                        <span class="frame"></span>
-                                    </a>
-                                </div>
-                                <p class="infor_text">
-                                    <span class="ico_wrap">
-                                        <span class="ico_list ico_list1">단독판매</span><span class="ico_list ico_list4"> 판매중</span></span>
-                                    <span class="show_title"><a href="/performance/index.htm?prodId=208231">VIVIZ（비비지）공식 팬클럽 나비（Na．V）2기 추가모집</a></span>
-                                </p>
-                            </div>
-                        </td>
-                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
-                            2023.06.19 - 2023.06.25</td>
-                        <td class="show_loc">- </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/06/20230615120054c283ae6f-1001-48e7-8506-cb549cd13744.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
     </channel>
 </rss>

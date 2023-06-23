@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 판매중</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 23 Jun 2023 01:16:42 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Jun 2023 02:57:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -181,6 +181,31 @@
                             2023.04.13 - 2023.06.25</td>
                         <td class="show_loc">예술의전당 한가람미술관 제 7전시실</td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/04/20230412151112660dfa9a-a646-4a99-bdd9-ebf03e247d4a.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 〈쿠로이 저택엔 누가 살고 있을까？〉]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=208420</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=208420</guid>
+            <pubDate>Fri, 23 Jun 2023 02:57:40 GMT</pubDate>
+            <content:encoded><![CDATA[<td>
+                            <div class="show_infor">
+                                <div class="thumb_90x125  img">
+                                    <a href="#">
+                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/06/20230622141859e0d42baa-ee82-4335-8979-7d82f684954b.jpg/melon/resize/90x125/strip/true" alt="">
+                                        <span class="frame"></span>
+                                    </a>
+                                </div>
+                                <p class="infor_text">
+                                    <span class="ico_wrap">
+                                        <span class="ico_list ico_list4"> 판매중</span></span>
+                                    <span class="show_title"><a href="/performance/index.htm?prodId=208420">뮤지컬 〈쿠로이 저택엔 누가 살고 있을까？〉</a></span>
+                                </p>
+                            </div>
+                        </td>
+                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
+                            2023.05.02 - 2023.07.23</td>
+                        <td class="show_loc">플러스씨어터 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/06/20230622141859e0d42baa-ee82-4335-8979-7d82f684954b.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
             <title><![CDATA[앤서니 브라운의 행복극장展]]></title>
@@ -481,31 +506,6 @@
                             2023.06.17 - 2023.12.31</td>
                         <td class="show_loc">CxC Art Museum X LOTTE CINEMA </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/06/20230615093651774ba215-8bd2-45a5-9ca2-819f6a9c073c.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[VIVIZ（비비지）공식 팬클럽 나비（Na．V）2기 추가모집]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=208231</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=208231</guid>
-            <pubDate>Wed, 21 Jun 2023 02:35:47 GMT</pubDate>
-            <content:encoded><![CDATA[<td>
-                            <div class="show_infor">
-                                <div class="thumb_90x125  img">
-                                    <a href="#">
-                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/06/20230615120054c283ae6f-1001-48e7-8506-cb549cd13744.jpg/melon/resize/90x125/strip/true" alt="">
-                                        <span class="frame"></span>
-                                    </a>
-                                </div>
-                                <p class="infor_text">
-                                    <span class="ico_wrap">
-                                        <span class="ico_list ico_list1">단독판매</span><span class="ico_list ico_list4"> 판매중</span></span>
-                                    <span class="show_title"><a href="/performance/index.htm?prodId=208231">VIVIZ（비비지）공식 팬클럽 나비（Na．V）2기 추가모집</a></span>
-                                </p>
-                            </div>
-                        </td>
-                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
-                            2023.06.19 - 2023.06.25</td>
-                        <td class="show_loc">- </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/06/20230615120054c283ae6f-1001-48e7-8506-cb549cd13744.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
     </channel>
 </rss>
