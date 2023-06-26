@@ -4,9 +4,17 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 26 Jun 2023 06:19:34 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 26 Jun 2023 07:14:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뮤지컬 〈모차르트！〉 마지막 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7449</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7449</guid>
+            <pubDate>Mon, 26 Jun 2023 07:13:58 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>23.07.04(화)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/06/202306261455314699e0a5-de67-45f9-a40e-74acaac9eca7.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
         <item>
             <title><![CDATA[뮤지컬 〈레베카〉 10주년 기념공연 1차 티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7436</link>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 21 Jun 2023 02:35:40 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>23.06.22(목)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/06/2023061911405462fc183d-b4df-4053-aeb7-ae96046f0dc9.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[먼데이프로젝트 IN 라이브클럽 BUSAN［소음발광 단독 콘서트］티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7434</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7434</guid>
-            <pubDate>Wed, 21 Jun 2023 03:13:29 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>23.06.28(수)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/06/202306201049435ad09d55-3ded-4f8a-a75f-a648a1dde78c.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
