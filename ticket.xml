@@ -4,7 +4,7 @@
         <title>멜론 티켓</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 26 Jun 2023 08:23:19 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 26 Jun 2023 09:15:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Mon, 26 Jun 2023 07:13:52 GMT</pubDate>
             <content:encoded><![CDATA[2023.07.04(화) 14:00]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/06/202306261455314699e0a5-de67-45f9-a40e-74acaac9eca7.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[It＇s begun EP．3：곽푸른하늘－‘나아질 것 없는 오래된 도시’ 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7448</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7448</guid>
+            <pubDate>Mon, 26 Jun 2023 09:14:47 GMT</pubDate>
+            <content:encoded><![CDATA[2023.06.29(목) 18:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/06/20230626104000bc53fdce-12e6-4f28-a345-bf95cfa5da27.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
         <item>
             <title><![CDATA[Summer Jazzbreak 2023 티켓 오픈 안내]]></title>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 22 Jun 2023 03:13:05 GMT</pubDate>
             <content:encoded><![CDATA[2023.06.29(목) 20:00]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/06/20230621113519be7754b0-8223-4c7a-8610-ac960d4eb787.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[2023 신지훈 소극장 콘서트 ‘여름의 소리’ 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7437</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7437</guid>
-            <pubDate>Wed, 21 Jun 2023 09:12:24 GMT</pubDate>
-            <content:encoded><![CDATA[2023.06.26(월) 18:00]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/06/20230621114551c532ba35-eb74-43ec-953e-112a847f7675.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
     </channel>
 </rss>
