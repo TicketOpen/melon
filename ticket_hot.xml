@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 27 Jun 2023 04:16:47 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Jun 2023 05:13:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,8 +12,24 @@
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7445</link>
             <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7445</guid>
             <pubDate>Fri, 23 Jun 2023 08:17:43 GMT</pubDate>
-            <content:encoded><![CDATA[추후공지]]></content:encoded>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>23.06.27(화)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/06/20230622134614dce9c097-8b57-45a4-9e15-63abd41334e3.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[모브닝 단독 콘서트 〈너의 이름，청춘〉 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7450</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7450</guid>
+            <pubDate>Tue, 27 Jun 2023 05:13:36 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>23.06.30(금)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/06/20230626095045930ac0f1-69f2-4bef-909d-e2f102bb7cad.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[2023 MONSTA X 7TH OFFICIAL FANCLUB MONBEBE FAN－CONCERT 〈MX FRIENDS〉 시야제한석 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7451</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7451</guid>
+            <pubDate>Tue, 27 Jun 2023 05:13:36 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>23.06.30(금)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/06/20230627131512b07393f7-ddc0-45c8-a69f-34c5f8be1ad1.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
         <item>
             <title><![CDATA[2023 신지훈 소극장 콘서트 ‘여름의 소리’ 티켓 오픈 안내]]></title>
@@ -70,22 +86,6 @@
             <pubDate>Thu, 22 Jun 2023 05:12:29 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>23.06.27(화)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/06/2023062310331288dd9066-c018-4b9e-bb9a-4ec4ddb3b738.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[Hon’z（혼즈）［HELLO，STRANGER？］티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7439</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7439</guid>
-            <pubDate>Thu, 22 Jun 2023 03:13:13 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>23.06.23(금)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/06/202306230941241c5c2e6f-4c20-441e-aaf0-8eed5f77feef.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[2023 US EARTH FESTIVAL ESG BUSAN〈어스어스 페스티벌〉 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7372</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7372</guid>
-            <pubDate>Thu, 22 Jun 2023 08:18:16 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>23.06.09(금)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/06/20230622165647e89b7627-c6f2-4319-86a2-f5bc1264d6be.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
