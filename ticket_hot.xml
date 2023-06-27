@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 27 Jun 2023 08:17:53 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Jun 2023 09:13:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -64,6 +64,14 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/06/202306261455314699e0a5-de67-45f9-a40e-74acaac9eca7.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
         <item>
+            <title><![CDATA[9001 단독 토크콘서트 〈초연：1막 3장〉 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7452</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7452</guid>
+            <pubDate>Tue, 27 Jun 2023 09:13:45 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>23.06.30(금)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/06/20230626100516113eec65-3218-4c99-a1fb-0614cec0ed75.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
             <title><![CDATA[뮤지컬 〈레베카〉 10주년 기념공연 1차 티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7436</link>
             <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7436</guid>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 26 Jun 2023 03:02:50 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>23.06.26(월)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/06/202306231133371d20dc3f-2909-42be-b1ff-0af74d96d4b0.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 〈맘마미아！〉－안산 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7441</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7441</guid>
-            <pubDate>Thu, 22 Jun 2023 05:12:29 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>23.06.27(화)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/06/2023062310331288dd9066-c018-4b9e-bb9a-4ec4ddb3b738.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
