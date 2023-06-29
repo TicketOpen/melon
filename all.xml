@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 29 Jun 2023 14:12:09 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 29 Jun 2023 15:14:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -643,29 +643,29 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/05/20230508114520dd05e044-70f1-4eb4-a7bf-7395fe6b600f.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
-            <title><![CDATA[남메아리밴드 2집 Recording Session (멜론티켓 ─ 판매중)]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=208290</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=208290</guid>
-            <pubDate>Thu, 29 Jun 2023 01:15:24 GMT</pubDate>
+            <title><![CDATA[OMEGA X（오메가엑스）Mini Fan Meeting (멜론티켓 ─ 판매중)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=208409</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=208409</guid>
+            <pubDate>Thu, 29 Jun 2023 15:14:14 GMT</pubDate>
             <content:encoded><![CDATA[<td>
                             <div class="show_infor">
                                 <div class="thumb_90x125  img">
                                     <a href="#">
-                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/05/202305250957183cd8a416-27e9-4682-b7f1-b50d5cdfc4d0.jpg/melon/resize/90x125/strip/true" alt="">
+                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/06/202306200957067af802ec-baa0-41a8-81f0-ae99ec9c1244.jpg/melon/resize/90x125/strip/true" alt="">
                                         <span class="frame"></span>
                                     </a>
                                 </div>
                                 <p class="infor_text">
                                     <span class="ico_wrap">
                                         <span class="ico_list ico_list1">단독판매</span><span class="ico_list ico_list4"> 판매중</span></span>
-                                    <span class="show_title"><a href="/performance/index.htm?prodId=208290">남메아리밴드 2집 Recording Session</a></span>
+                                    <span class="show_title"><a href="/performance/index.htm?prodId=208409">OMEGA X（오메가엑스）Mini Fan Meeting</a></span>
                                 </p>
                             </div>
                         </td>
                         <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
-                            2023.06.28 - 2023.06.29</td>
-                        <td class="show_loc">CJ아지트 광흥창 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/05/202305250957183cd8a416-27e9-4682-b7f1-b50d5cdfc4d0.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+                            2023.06.30 - 2023.06.30</td>
+                        <td class="show_loc">일지아트홀 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/06/202306200957067af802ec-baa0-41a8-81f0-ae99ec9c1244.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
     </channel>
 </rss>
