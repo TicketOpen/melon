@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 01 Jul 2023 01:22:12 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 01 Jul 2023 03:04:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Fri, 30 Jun 2023 14:12:06 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>23.07.04(화)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/06/202306301733156305ce21-67c2-4241-a201-c029b117047d.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[사거리 그오빠 ‘오늘을 걷다’ 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7469</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7469</guid>
+            <pubDate>Sat, 01 Jul 2023 03:04:28 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>23.07.07(금)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/06/20230630150536b3c202dc-de9f-455b-920a-eb3b82a04001.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
         <item>
             <title><![CDATA[입덕사원：마리슈 티켓 오픈 안내]]></title>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 30 Jun 2023 14:12:06 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>23.07.06(목)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/06/2023062811253205613fa6-a689-47e2-a316-496b19a173e1.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 〈알로하，나의 엄마들〉 2차 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7457</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7457</guid>
-            <pubDate>Fri, 30 Jun 2023 14:12:06 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>23.07.04(화)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/06/202306291332394ea0e8e0-2d3a-419f-ac68-3667da3308d6.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
