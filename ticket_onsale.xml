@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 판매중</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 03 Jul 2023 14:12:54 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Jul 2023 15:14:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -483,29 +483,29 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/07/20230703171710c234c9e7-b3e4-48ab-8798-0f9af149c617.jpeg/melon/resize/90x125/strip/true" length="0" type="image/jpeg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
-            <title><![CDATA[먼데이프로젝트 시즌6 청춘의 밤［리오 단독 콘서트］]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=208343</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=208343</guid>
-            <pubDate>Mon, 03 Jul 2023 14:12:53 GMT</pubDate>
+            <title><![CDATA[［오픈기념할인］시크릿 오브 컬러 올림피아 자그놀리]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=208436</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=208436</guid>
+            <pubDate>Mon, 03 Jul 2023 15:14:22 GMT</pubDate>
             <content:encoded><![CDATA[<td>
                             <div class="show_infor">
                                 <div class="thumb_90x125  img">
                                     <a href="#">
-                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/06/2023060713530429b63692-d884-446a-bace-41d7a6bd6f0d.png/melon/resize/90x125/strip/true" alt="">
+                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/06/20230629111047a621876f-8f55-4265-8946-4bea1162735b.jpg/melon/resize/90x125/strip/true" alt="">
                                         <span class="frame"></span>
                                     </a>
                                 </div>
                                 <p class="infor_text">
                                     <span class="ico_wrap">
-                                        <span class="ico_list ico_list1">단독판매</span><span class="ico_list ico_list4"> 판매중</span></span>
-                                    <span class="show_title"><a href="/performance/index.htm?prodId=208343">먼데이프로젝트 시즌6 청춘의 밤［리오 단독 콘서트］</a></span>
+                                        <span class="ico_list ico_list4"> 판매중</span></span>
+                                    <span class="show_title"><a href="/performance/index.htm?prodId=208436">［오픈기념할인］시크릿 오브 컬러 올림피아&nbsp;자그놀리</a></span>
                                 </p>
                             </div>
                         </td>
                         <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
-                            2023.07.03 - 2023.07.03</td>
-                        <td class="show_loc">벨로주 홍대 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/06/2023060713530429b63692-d884-446a-bace-41d7a6bd6f0d.png/melon/resize/90x125/strip/true" length="0" type="image/png/melon/resize/90x125/strip/true"/>
+                            2023.07.04 - 2023.10.31</td>
+                        <td class="show_loc">일상비일상의틈byU+ 지하 1층</td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/06/20230629111047a621876f-8f55-4265-8946-4bea1162735b.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
     </channel>
 </rss>
