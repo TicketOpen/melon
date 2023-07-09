@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 09 Jul 2023 14:11:58 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 09 Jul 2023 15:13:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -568,31 +568,6 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/06/20230615093651774ba215-8bd2-45a5-9ca2-819f6a9c073c.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
-            <title><![CDATA[연극 〈겟팅아웃〉 (멜론티켓 ─ 판매중)]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=208258</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=208258</guid>
-            <pubDate>Tue, 04 Jul 2023 02:57:47 GMT</pubDate>
-            <content:encoded><![CDATA[<td>
-                            <div class="show_infor">
-                                <div class="thumb_90x125  img">
-                                    <a href="#">
-                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/05/202305191130251647e43a-7b60-4738-ad9c-83138582b1b5.jpg/melon/resize/90x125/strip/true" alt="">
-                                        <span class="frame"></span>
-                                    </a>
-                                </div>
-                                <p class="infor_text">
-                                    <span class="ico_wrap">
-                                        <span class="ico_list ico_list4"> 판매중</span></span>
-                                    <span class="show_title"><a href="/performance/index.htm?prodId=208258">연극 〈겟팅아웃〉</a></span>
-                                </p>
-                            </div>
-                        </td>
-                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
-                            2023.06.23 - 2023.07.09</td>
-                        <td class="show_loc">세종문화회관 M씨어터</td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/05/202305191130251647e43a-7b60-4738-ad9c-83138582b1b5.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
             <title><![CDATA[연극 〈테베랜드〉 (멜론티켓 ─ 판매중)]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=208157</link>
             <guid>https://ticket.melon.com/performance/index.htm?prodId=208157</guid>
@@ -618,31 +593,6 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/05/20230508114520dd05e044-70f1-4eb4-a7bf-7395fe6b600f.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
-            <title><![CDATA[VANNER（배너）공식 팬클럽 〈VVS〉 1기 추가모집 (멜론티켓 ─ 판매중)]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=208326</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=208326</guid>
-            <pubDate>Tue, 04 Jul 2023 02:57:47 GMT</pubDate>
-            <content:encoded><![CDATA[<td>
-                            <div class="show_infor">
-                                <div class="thumb_90x125  img">
-                                    <a href="#">
-                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/07/20230703171710c234c9e7-b3e4-48ab-8798-0f9af149c617.jpeg/melon/resize/90x125/strip/true" alt="">
-                                        <span class="frame"></span>
-                                    </a>
-                                </div>
-                                <p class="infor_text">
-                                    <span class="ico_wrap">
-                                        <span class="ico_list ico_list1">단독판매</span><span class="ico_list ico_list4"> 판매중</span></span>
-                                    <span class="show_title"><a href="/performance/index.htm?prodId=208326">VANNER（배너）공식 팬클럽 〈VVS〉 1기 추가모집</a></span>
-                                </p>
-                            </div>
-                        </td>
-                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
-                            2023.07.03 - 2023.07.09</td>
-                        <td class="show_loc">- </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/07/20230703171710c234c9e7-b3e4-48ab-8798-0f9af149c617.jpeg/melon/resize/90x125/strip/true" length="0" type="image/jpeg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
             <title><![CDATA[［오픈기념할인］시크릿 오브 컬러 올림피아 자그놀리 (멜론티켓 ─ 판매중)]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=208436</link>
             <guid>https://ticket.melon.com/performance/index.htm?prodId=208436</guid>
@@ -666,6 +616,56 @@
                             2023.07.04 - 2023.08.31</td>
                         <td class="show_loc">일상비일상의틈byU+ 지하 1층</td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/06/20230629111047a621876f-8f55-4265-8946-4bea1162735b.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[［얼리버드］시크릿 오브 컬러 올림피아 자그놀리 (멜론티켓 ─ 판매중)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=208399</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=208399</guid>
+            <pubDate>Sun, 09 Jul 2023 15:13:30 GMT</pubDate>
+            <content:encoded><![CDATA[<td>
+                            <div class="show_infor">
+                                <div class="thumb_90x125  img">
+                                    <a href="#">
+                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/06/20230619162244611348d5-58dd-4ca1-b234-85cd664582c9.jpg/melon/resize/90x125/strip/true" alt="">
+                                        <span class="frame"></span>
+                                    </a>
+                                </div>
+                                <p class="infor_text">
+                                    <span class="ico_wrap">
+                                        <span class="ico_list ico_list4"> 판매중</span></span>
+                                    <span class="show_title"><a href="/performance/index.htm?prodId=208399">［얼리버드］시크릿 오브 컬러 올림피아 자그놀리</a></span>
+                                </p>
+                            </div>
+                        </td>
+                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
+                            2023.07.04 - 2023.07.30</td>
+                        <td class="show_loc">일상비일상의틈byU+ 지하 1층</td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/06/20230619162244611348d5-58dd-4ca1-b234-85cd664582c9.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[먼데이프로젝트 IN 라이브클럽 BUSAN［소음발광 단독 콘서트］ (멜론티켓 ─ 판매중)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=208410</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=208410</guid>
+            <pubDate>Sun, 09 Jul 2023 15:13:30 GMT</pubDate>
+            <content:encoded><![CDATA[<td>
+                            <div class="show_infor">
+                                <div class="thumb_90x125  img">
+                                    <a href="#">
+                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/06/20230620104238ff31ebb5-e96d-43c9-a46e-cf52f8a49303.jpg/melon/resize/90x125/strip/true" alt="">
+                                        <span class="frame"></span>
+                                    </a>
+                                </div>
+                                <p class="infor_text">
+                                    <span class="ico_wrap">
+                                        <span class="ico_list ico_list1">단독판매</span><span class="ico_list ico_list4"> 판매중</span></span>
+                                    <span class="show_title"><a href="/performance/index.htm?prodId=208410">먼데이프로젝트 IN 라이브클럽 BUSAN［소음발광 단독 콘서트］</a></span>
+                                </p>
+                            </div>
+                        </td>
+                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
+                            2023.07.10 - 2023.07.10</td>
+                        <td class="show_loc">부산 오방가르드 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/06/20230620104238ff31ebb5-e96d-43c9-a46e-cf52f8a49303.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
     </channel>
 </rss>
