@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 10 Jul 2023 14:13:12 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Jul 2023 15:14:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -643,29 +643,29 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/06/20230619162244611348d5-58dd-4ca1-b234-85cd664582c9.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
-            <title><![CDATA[먼데이프로젝트 IN 라이브클럽 BUSAN［소음발광 단독 콘서트］ (멜론티켓 ─ 판매중)]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=208410</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=208410</guid>
-            <pubDate>Sun, 09 Jul 2023 15:13:30 GMT</pubDate>
+            <title><![CDATA[앤서니브라운의 원더랜드 뮤지엄 (멜론티켓 ─ 판매중)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=208390</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=208390</guid>
+            <pubDate>Mon, 10 Jul 2023 15:14:49 GMT</pubDate>
             <content:encoded><![CDATA[<td>
                             <div class="show_infor">
                                 <div class="thumb_90x125  img">
                                     <a href="#">
-                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/06/20230620104238ff31ebb5-e96d-43c9-a46e-cf52f8a49303.jpg/melon/resize/90x125/strip/true" alt="">
+                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/06/202306141649210e7b7f40-9b47-41d8-bc97-97eb2d6f8ab8.jpg/melon/resize/90x125/strip/true" alt="">
                                         <span class="frame"></span>
                                     </a>
                                 </div>
                                 <p class="infor_text">
                                     <span class="ico_wrap">
-                                        <span class="ico_list ico_list1">단독판매</span><span class="ico_list ico_list4"> 판매중</span></span>
-                                    <span class="show_title"><a href="/performance/index.htm?prodId=208410">먼데이프로젝트 IN 라이브클럽 BUSAN［소음발광 단독 콘서트］</a></span>
+                                        <span class="ico_list ico_list4"> 판매중</span></span>
+                                    <span class="show_title"><a href="/performance/index.htm?prodId=208390">앤서니브라운의 원더랜드 뮤지엄</a></span>
                                 </p>
                             </div>
                         </td>
                         <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
-                            2023.07.10 - 2023.07.10</td>
-                        <td class="show_loc">부산 오방가르드 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/06/20230620104238ff31ebb5-e96d-43c9-a46e-cf52f8a49303.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+                            2023.07.13 - 2023.10.15</td>
+                        <td class="show_loc">꿈의숲아트센터 상상톡톡미술관</td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/06/202306141649210e7b7f40-9b47-41d8-bc97-97eb2d6f8ab8.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
     </channel>
 </rss>
