@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 13 Jul 2023 02:58:39 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Jul 2023 03:28:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Thu, 13 Jul 2023 01:18:22 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>23.07.13(목)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/07/20230712171932f8a6185b-64e9-4f88-89f5-8123094ee39a.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[화노 단독콘서트 ‘Endless Summer’：CMYK LIVE 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7519</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7519</guid>
+            <pubDate>Thu, 13 Jul 2023 03:28:19 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>23.07.20(목)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/07/202307121532206ee0b3ca-c13d-4e9e-ba1b-e6cd8a471ca1.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
         <item>
             <title><![CDATA[먼데이프로젝트 시즌6 OUR SUMMER［문없는집 단독 콘서트］티켓 오픈 안내]]></title>
@@ -56,6 +64,14 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/07/20230710152402753ca9b8-7209-41fb-a085-ca5188b46d2a.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
         <item>
+            <title><![CDATA[먼데이프로젝트 시즌6 Our Universe［공중그늘 단독 콘서트］티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7518</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7518</guid>
+            <pubDate>Thu, 13 Jul 2023 03:28:19 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>23.07.20(목)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/07/202307121323586c5871d1-043f-4b88-b37e-7c3e4ffac46c.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
             <title><![CDATA[2023 선율 팬사인회 〈여름날의 라디오〉 티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7515</link>
             <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7515</guid>
@@ -70,22 +86,6 @@
             <pubDate>Wed, 12 Jul 2023 15:14:06 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>23.07.13(목)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/07/20230711182801f97eb150-72c2-421c-a8ee-a94939180894.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[Soundberry Festa＇23 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7412</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7412</guid>
-            <pubDate>Wed, 12 Jul 2023 15:14:06 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>23.06.15(목)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/06/20230614152702ed235550-015c-4dc6-a160-18764bdfd160.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[ART ROAD SHOWCASE＆ART EXHIBITION in KOREA 2023：아트원정대 붓 들고 세계로 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7507</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7507</guid>
-            <pubDate>Wed, 12 Jul 2023 15:14:06 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>23.07.13(목)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/07/202307111608591879238b-245f-4bc4-b060-c733e2416941.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
