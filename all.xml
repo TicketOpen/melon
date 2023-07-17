@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 17 Jul 2023 14:13:15 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Jul 2023 15:14:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -643,29 +643,29 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/07/20230707133519d917a69a-ab1d-4be1-aeed-ea162ace444f.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
-            <title><![CDATA[먼데이프로젝트 시즌6［피에타 단독 콘서트 “뼈와 살”］ (멜론티켓 ─ 판매중)]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=208407</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=208407</guid>
-            <pubDate>Sun, 16 Jul 2023 15:13:08 GMT</pubDate>
+            <title><![CDATA[K．will OFFICIAL FANCLUB［HYUNGKNIGHT］6기 모집 (멜론티켓 ─ 판매중)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=208477</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=208477</guid>
+            <pubDate>Mon, 17 Jul 2023 15:14:25 GMT</pubDate>
             <content:encoded><![CDATA[<td>
                             <div class="show_infor">
                                 <div class="thumb_90x125  img">
                                     <a href="#">
-                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/06/2023061915445031745839-fbf1-422f-84b5-0ae69a03b0b5.jpg/melon/resize/90x125/strip/true" alt="">
+                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/07/202307171019554614a4a7-0151-45bc-af4b-1d36d3c8b8bb.jpg/melon/resize/90x125/strip/true" alt="">
                                         <span class="frame"></span>
                                     </a>
                                 </div>
                                 <p class="infor_text">
                                     <span class="ico_wrap">
                                         <span class="ico_list ico_list1">단독판매</span><span class="ico_list ico_list4"> 판매중</span></span>
-                                    <span class="show_title"><a href="/performance/index.htm?prodId=208407">먼데이프로젝트 시즌6［피에타 단독 콘서트 “뼈와 살”］</a></span>
+                                    <span class="show_title"><a href="/performance/index.htm?prodId=208477">K．will OFFICIAL FANCLUB［HYUNGKNIGHT］6기 모집</a></span>
                                 </p>
                             </div>
                         </td>
                         <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
-                            2023.07.17 - 2023.07.17</td>
-                        <td class="show_loc">웨스트브릿지 라이브홀</td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/06/2023061915445031745839-fbf1-422f-84b5-0ae69a03b0b5.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+                            2023.07.17 - 2023.08.04</td>
+                        <td class="show_loc">- </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/07/202307171019554614a4a7-0151-45bc-af4b-1d36d3c8b8bb.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
     </channel>
 </rss>
