@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 18 Jul 2023 02:58:23 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Jul 2023 03:24:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Tue, 18 Jul 2023 02:58:15 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>23.07.19(수)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/07/2023071715371179882152-8724-4367-b87d-88eebc4c4f52.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[친구가되자 vol．1：전기뱀장어 x 전자양 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7539</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7539</guid>
+            <pubDate>Tue, 18 Jul 2023 03:24:46 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>23.07.21(금)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/07/20230717171333a9bc54d2-b918-4c0f-8e5c-93a962dc44bf.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
         <item>
             <title><![CDATA[박효신 STPD 2023 GOING HOME 티켓 오픈 안내]]></title>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 18 Jul 2023 02:58:15 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>23.07.24(월)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/07/20230714155323f93290e1-831f-4e51-a901-faa139cc8521.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[이글루베이 단독콘서트 ‘구르는 달 어귀에서’：CMYK LIVE 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7533</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7533</guid>
-            <pubDate>Tue, 18 Jul 2023 02:58:15 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>23.07.21(금)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/07/2023071415501724b18fd2-3509-4697-98bd-d2ca5eb86ab6.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
