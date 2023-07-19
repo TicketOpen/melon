@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 19 Jul 2023 02:27:09 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Jul 2023 03:53:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Tue, 18 Jul 2023 02:58:15 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>23.07.19(수)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/07/2023071715371179882152-8724-4367-b87d-88eebc4c4f52.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[먼데이프로젝트 IN 라이브클럽［에크루 단독 콘서트］티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7541</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7541</guid>
+            <pubDate>Wed, 19 Jul 2023 03:53:07 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>23.07.26(수)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/07/202307181046149a019afc-0036-4ee8-9978-217bcfbf9a57.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
         <item>
             <title><![CDATA[친구가되자 vol．1：전기뱀장어 x 전자양 티켓 오픈 안내]]></title>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 18 Jul 2023 02:58:15 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>23.07.18(화)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/07/202307141558199b2168ba-62f9-42a8-a178-175d8a2dbe75.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[마치（MRCH）단독 콘서트 ‘Festival！’ 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7534</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7534</guid>
-            <pubDate>Tue, 18 Jul 2023 02:58:15 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>23.07.24(월)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/07/20230714155323f93290e1-831f-4e51-a901-faa139cc8521.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
