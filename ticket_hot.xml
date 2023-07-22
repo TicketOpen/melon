@@ -4,9 +4,17 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 21 Jul 2023 23:11:58 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 22 Jul 2023 01:06:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[TANAKA CONCERT Live in Japan ~ 지명 해 줘서 아리가또💗 ~ 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7558</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7558</guid>
+            <pubDate>Sat, 22 Jul 2023 01:06:15 GMT</pubDate>
+            <content:encoded><![CDATA[오픈일정 보기 &gt;]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/07/20230721170220d0d9c968-8b8f-4034-a043-b27085c27065.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
         <item>
             <title><![CDATA[화노 단독콘서트 ‘Endless Summer’：CMYK LIVE 티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7519</link>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 21 Jul 2023 09:12:37 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>23.07.25(화)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/07/20230719104459d0e26c1e-27e4-4588-ba96-b7c0c1513815.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[summer chamsom trip－Seoul, Busan 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7554</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7554</guid>
-            <pubDate>Fri, 21 Jul 2023 09:12:37 GMT</pubDate>
-            <content:encoded><![CDATA[오픈일정 보기 &gt;]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/07/2023072016354279bc6ea3-fb82-458c-ba4a-390f58d8162d.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
