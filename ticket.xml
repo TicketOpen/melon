@@ -4,7 +4,7 @@
         <title>멜론 티켓</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 25 Jul 2023 07:11:54 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Jul 2023 08:15:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Tue, 25 Jul 2023 05:12:09 GMT</pubDate>
             <content:encoded><![CDATA[2023.07.27(목) 14:00]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/07/20230724170223bc0c08cc-1bff-4492-bf79-10d01d8090d2.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[한시하 첫 쇼케이스 콘서트 〈Becoming Siha〉 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7567</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7567</guid>
+            <pubDate>Tue, 25 Jul 2023 08:15:40 GMT</pubDate>
+            <content:encoded><![CDATA[2023.07.28(금) 14:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/07/20230725144444f078dd30-b327-424b-8899-267fe2547c0b.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 〈더 테일 에이프릴 풀스〉 5차 티켓 오픈 안내]]></title>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 24 Jul 2023 22:11:49 GMT</pubDate>
             <content:encoded><![CDATA[2023.07.25(화) 20:00]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/07/20230724094332bde04d86-46c6-4799-b68c-de885822bc39.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[TANAKA CONCERT Live in Japan ~ 지명 해 줘서 아리가또💗 ~ 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7558</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7558</guid>
-            <pubDate>Mon, 24 Jul 2023 22:11:49 GMT</pubDate>
-            <content:encoded><![CDATA[오픈일정 보기 &gt;]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/07/20230721170220d0d9c968-8b8f-4034-a043-b27085c27065.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
     </channel>
 </rss>

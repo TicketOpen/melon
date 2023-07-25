@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 25 Jul 2023 07:11:54 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Jul 2023 08:15:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -56,6 +56,14 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/07/20230724144658dd54128a-33e4-440e-82b2-605c5462cec5.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
         <item>
+            <title><![CDATA[한시하 첫 쇼케이스 콘서트 〈Becoming Siha〉 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7567</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7567</guid>
+            <pubDate>Tue, 25 Jul 2023 08:15:47 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>23.07.28(금)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/07/20230725144444f078dd30-b327-424b-8899-267fe2547c0b.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
             <title><![CDATA[혼네 내한공연 티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7312</link>
             <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7312</guid>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 24 Jul 2023 22:11:55 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>23.07.11(화)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/07/20230724163154a9ee01fb-b202-4fb2-8c79-21718439e746.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[락킷걸 첫 단독 콘서트：never stop rock 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7563</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7563</guid>
-            <pubDate>Tue, 25 Jul 2023 03:13:31 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>23.08.01(화)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/07/2023072414312174f53f93-1072-4490-8b55-4721724089c5.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
