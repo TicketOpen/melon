@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 판매중</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 30 Jul 2023 14:10:09 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 30 Jul 2023 15:11:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -383,31 +383,6 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/07/20230728163448f92784bf-a8d7-4ee8-bad6-3dae16451e69.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
-            <title><![CDATA[［얼리버드］시크릿 오브 컬러 올림피아 자그놀리]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=208399</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=208399</guid>
-            <pubDate>Sun, 30 Jul 2023 01:03:05 GMT</pubDate>
-            <content:encoded><![CDATA[<td>
-                            <div class="show_infor">
-                                <div class="thumb_90x125  img">
-                                    <a href="#">
-                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/06/20230619162244611348d5-58dd-4ca1-b234-85cd664582c9.jpg/melon/resize/90x125/strip/true" alt="">
-                                        <span class="frame"></span>
-                                    </a>
-                                </div>
-                                <p class="infor_text">
-                                    <span class="ico_wrap">
-                                        <span class="ico_list ico_list4"> 판매중</span></span>
-                                    <span class="show_title"><a href="/performance/index.htm?prodId=208399">［얼리버드］시크릿 오브 컬러 올림피아 자그놀리</a></span>
-                                </p>
-                            </div>
-                        </td>
-                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
-                            2023.07.04 - 2023.07.30</td>
-                        <td class="show_loc">일상비일상의틈byU+ 지하 1층</td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/06/20230619162244611348d5-58dd-4ca1-b234-85cd664582c9.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
             <title><![CDATA[앤서니브라운의 원더랜드 뮤지엄]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=208390</link>
             <guid>https://ticket.melon.com/performance/index.htm?prodId=208390</guid>
@@ -506,6 +481,31 @@
                             2023.07.20 - 2023.10.22</td>
                         <td class="show_loc">충무아트센터 대극장</td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/05/202305161642049e81aea2-6c01-4cd9-94e7-3e1eacb7013b.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[아이유 미디어아트 전시－순간，]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=208446</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=208446</guid>
+            <pubDate>Sun, 30 Jul 2023 15:11:40 GMT</pubDate>
+            <content:encoded><![CDATA[<td>
+                            <div class="show_infor">
+                                <div class="thumb_90x125  img">
+                                    <a href="#">
+                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/06/2023063019433669177dcd-6b75-46b1-8548-75ebbf5ffba9.jpg/melon/resize/90x125/strip/true" alt="">
+                                        <span class="frame"></span>
+                                    </a>
+                                </div>
+                                <p class="infor_text">
+                                    <span class="ico_wrap">
+                                        <span class="ico_list ico_list1">단독판매</span><span class="ico_list ico_list4"> 판매중</span></span>
+                                    <span class="show_title"><a href="/performance/index.htm?prodId=208446">아이유 미디어아트 전시－순간，</a></span>
+                                </p>
+                            </div>
+                        </td>
+                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
+                            2023.07.21 - 2023.08.20</td>
+                        <td class="show_loc">더 서울라이티움 제 1 전시장</td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/06/2023063019433669177dcd-6b75-46b1-8548-75ebbf5ffba9.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
     </channel>
 </rss>
