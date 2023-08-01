@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 01 Aug 2023 10:14:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Aug 2023 11:10:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Tue, 01 Aug 2023 08:18:04 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>23.08.07(월)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/08/20230801173104f02d3ec8-0f57-4dfa-9b06-8c2b387bb6ca.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[BrokenTeeth 단독 공연 ‘BrokenTeeth의 수상한 치과’ 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7603</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7603</guid>
+            <pubDate>Tue, 01 Aug 2023 11:10:42 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>23.08.03(목)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/08/202308011558016b446cb5-2fea-4a86-bea2-5d0100c44243.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 〈맘마미아！〉－광주 티켓 오픈 안내]]></title>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 01 Aug 2023 03:14:10 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>23.08.08(화)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/07/202307311345151dafef1d-09ca-4bcc-95d2-7f9c39a226fb.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[2023 BITTO‘s Birthday Party 〈With You〉 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7591</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7591</guid>
-            <pubDate>Tue, 01 Aug 2023 01:12:14 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>23.08.02(수)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/07/202307311447119df55fb0-078c-41f6-8737-73a901eda9cd.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
