@@ -4,9 +4,17 @@
         <title>멜론 티켓</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 03 Aug 2023 04:18:18 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Aug 2023 05:11:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[It’s begun EP．4 예빛－‘조금 멀지 않은 그곳에’ 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7611</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7611</guid>
+            <pubDate>Thu, 03 Aug 2023 05:11:27 GMT</pubDate>
+            <content:encoded><![CDATA[2023.08.10(목) 18:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/08/2023080214453089eea53c-b9ce-4248-b7ed-4fd8f2e9de79.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
         <item>
             <title><![CDATA[먼데이프로젝트 시즌6 THE MASTER［이상민 단독 콘서트 ‘Dansweetme’］티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7610</link>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 02 Aug 2023 19:10:05 GMT</pubDate>
             <content:encoded><![CDATA[2023.08.11(금) 11:00]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/07/2023073114322830352e1c-e701-4a6c-b925-58e24f6c4c7c.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[안나 오브 더 노스 내한공연 Anna of the North LIVE IN SEOUL 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7601</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7601</guid>
-            <pubDate>Wed, 02 Aug 2023 19:10:05 GMT</pubDate>
-            <content:encoded><![CDATA[2023.08.08(화) 12:00]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/07/202307311345151dafef1d-09ca-4bcc-95d2-7f9c39a226fb.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
     </channel>
 </rss>
