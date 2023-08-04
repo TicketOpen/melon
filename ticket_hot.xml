@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 04 Aug 2023 02:27:14 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Aug 2023 03:13:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -38,6 +38,14 @@
             <pubDate>Thu, 03 Aug 2023 02:26:09 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>23.08.10(목)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/08/202308031056186f416370-c08f-44b6-8af1-ca91d9d49cd8.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[수잔 단독 콘서트［水：정화의 시간］티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7613</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7613</guid>
+            <pubDate>Fri, 04 Aug 2023 03:12:53 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>23.08.08(화)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/08/2023080311324218dee426-a339-455b-9d79-df00760337fa.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
         <item>
             <title><![CDATA[BrokenTeeth 단독 공연 ‘BrokenTeeth의 수상한 치과’ 티켓 오픈 안내]]></title>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 02 Aug 2023 19:10:12 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>23.07.25(화)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/08/20230802152109dcbec7d0-82af-4ccf-b3a9-96818888c920.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[연극 〈테베랜드〉 5차 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7565</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7565</guid>
-            <pubDate>Wed, 02 Aug 2023 19:10:12 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>23.08.03(목)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/07/202307241401268be0ae73-fd17-4ff7-b3a0-bd189b861201.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
