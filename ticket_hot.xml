@@ -4,9 +4,17 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Aug 2023 07:11:53 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Aug 2023 08:17:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[프롬 10주년 기념 단독 콘서트 〈OUR SEASON〉 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7586</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7586</guid>
+            <pubDate>Mon, 07 Aug 2023 08:17:01 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>23.08.07(월)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/07/2023072809343177cdecea-2615-43a4-bccd-6f130b413a9b.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
         <item>
             <title><![CDATA[뮤지컬 〈구텐버그〉 2차 티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7612</link>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 03 Aug 2023 02:26:09 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>23.08.10(목)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/08/202308031056186f416370-c08f-44b6-8af1-ca91d9d49cd8.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[BrokenTeeth 단독 공연 ‘BrokenTeeth의 수상한 치과’ 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7603</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7603</guid>
-            <pubDate>Wed, 02 Aug 2023 19:10:12 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>23.08.03(목)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/08/202308011558016b446cb5-2fea-4a86-bea2-5d0100c44243.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
