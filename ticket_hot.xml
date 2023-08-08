@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 08 Aug 2023 03:12:56 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Aug 2023 04:14:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -56,6 +56,14 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/08/2023080413025706cc84d0-c8b1-42d7-bd55-d54e6a4a6fd3.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
         <item>
+            <title><![CDATA[2023 제이창，빛새온 콘서트：Next Stop－Autumn bridge 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7619</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7619</guid>
+            <pubDate>Tue, 08 Aug 2023 04:13:57 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>23.08.10(목)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/08/202308071045103ae48eb5-3e7b-461b-be0d-dbda1f84f876.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
             <title><![CDATA[지선 20주년 앵콜 콘서트 〈스무번째 여름，그리고．．．〉 티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7617</link>
             <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7617</guid>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 07 Aug 2023 12:23:37 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>23.08.10(목)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/08/2023080214453089eea53c-b9ce-4248-b7ed-4fd8f2e9de79.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[먼데이프로젝트 시즌6 THE MASTER［이상민 단독 콘서트 ‘Dansweetme’］티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7610</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7610</guid>
-            <pubDate>Mon, 07 Aug 2023 12:23:37 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>23.08.10(목)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/08/2023080215313550573b03-c38a-44f6-84d1-9ff9eff422f8.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
