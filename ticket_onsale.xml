@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 판매중</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 09 Aug 2023 02:08:37 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Aug 2023 03:12:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -131,6 +131,31 @@
                             2023.05.04 - 2023.10.29</td>
                         <td class="show_loc">국립아시아문화전당 민주평화교류원 NNEWS </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/04/20230426140128c7d2b131-3b93-48bf-93fc-2e839359076f.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[스니커즈 언박스드 서울：Studio to Street]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=208610</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=208610</guid>
+            <pubDate>Wed, 09 Aug 2023 03:12:47 GMT</pubDate>
+            <content:encoded><![CDATA[<td>
+                            <div class="show_infor">
+                                <div class="thumb_90x125  img">
+                                    <a href="#">
+                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/08/2023080817241082fef34e-2900-4b2d-89c9-ff42941875e5.jpg/melon/resize/90x125/strip/true" alt="">
+                                        <span class="frame"></span>
+                                    </a>
+                                </div>
+                                <p class="infor_text">
+                                    <span class="ico_wrap">
+                                        <span class="ico_list ico_list4"> 판매중</span></span>
+                                    <span class="show_title"><a href="/performance/index.htm?prodId=208610">스니커즈 언박스드 서울：Studio to Street</a></span>
+                                </p>
+                            </div>
+                        </td>
+                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
+                            2023.05.31 - 2023.09.10</td>
+                        <td class="show_loc">세종문화회관 미술관</td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/08/2023080817241082fef34e-2900-4b2d-89c9-ff42941875e5.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
             <title><![CDATA[A Journey to Return Home]]></title>
@@ -481,31 +506,6 @@
                             2023.07.21 - 2023.09.03</td>
                         <td class="show_loc">동구 문화플랫폼(구, 부산진역사) </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/07/2023072117305976a9b06b-9976-4849-b501-05b675edcc1a.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[데이비드 호크니＆브리티시 팝아트（부산）]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=208526</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=208526</guid>
-            <pubDate>Tue, 08 Aug 2023 16:16:08 GMT</pubDate>
-            <content:encoded><![CDATA[<td>
-                            <div class="show_infor">
-                                <div class="thumb_90x125  img">
-                                    <a href="#">
-                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/07/20230721173501cedaf539-2945-49c1-b567-dd3dfdf78efb.jpg/melon/resize/90x125/strip/true" alt="">
-                                        <span class="frame"></span>
-                                    </a>
-                                </div>
-                                <p class="infor_text">
-                                    <span class="ico_wrap">
-                                        <span class="ico_list ico_list4"> 판매중</span></span>
-                                    <span class="show_title"><a href="/performance/index.htm?prodId=208526">데이비드 호크니＆브리티시 팝아트（부산）</a></span>
-                                </p>
-                            </div>
-                        </td>
-                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
-                            2023.07.21 - 2023.11.26</td>
-                        <td class="show_loc">동구 문화플랫폼(구, 부산진역사) </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/07/20230721173501cedaf539-2945-49c1-b567-dd3dfdf78efb.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
     </channel>
 </rss>
