@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 14 Aug 2023 02:17:29 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Aug 2023 03:12:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Mon, 14 Aug 2023 02:17:21 GMT</pubDate>
             <content:encoded><![CDATA[오픈일정 보기 &gt;]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/08/20230814100323177336ee-4549-48d2-a987-d4ca828070c3.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[TONE STUDIO LIVE 〈진동욱（THE ORCHARD）〉 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7640</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7640</guid>
+            <pubDate>Mon, 14 Aug 2023 03:12:42 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>23.08.16(수)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/08/202308111434258394b911-243d-49b0-a5c9-12c910e72125.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
         <item>
             <title><![CDATA[손진욱 팬 사인회 NOOK：FAN 티켓 오픈 안내]]></title>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 10 Aug 2023 02:32:31 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>23.07.20(목)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/08/202308101122118f956c4c-ce19-41d2-847d-ed12711c53ee.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[티키타카 콘서트 : 로우행잉프루츠 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7630</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7630</guid>
-            <pubDate>Fri, 11 Aug 2023 03:11:46 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>23.08.16(수)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/08/202308101043160824e4fd-797e-4aee-81d1-541b36fc1527.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
