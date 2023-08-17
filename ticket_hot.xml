@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Aug 2023 08:15:11 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Aug 2023 09:11:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Thu, 17 Aug 2023 03:12:35 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>23.08.24(목)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/08/20230817084613c1a65f51-3392-4486-a34f-9dba5909ab23.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[나만 알고싶은 인디 Ep．34 종연 단독콘서트 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7655</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7655</guid>
+            <pubDate>Thu, 17 Aug 2023 09:11:31 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>23.08.18(금)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/08/20230816150738a33315e3-2866-459d-98df-a69b62f848fa.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
         <item>
             <title><![CDATA[2023 이정권 여름 어쿠스틱 콘서트 ‘우린 여름이었고，초록이었어’ 티켓 오픈 안내]]></title>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 16 Aug 2023 01:42:44 GMT</pubDate>
             <content:encoded><![CDATA[오픈일정 보기 &gt;]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/08/20230814100323177336ee-4549-48d2-a987-d4ca828070c3.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[HOTEL I’ll LAND 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7642</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7642</guid>
-            <pubDate>Wed, 16 Aug 2023 01:42:44 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>23.08.16(수)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/08/2023081117163624b45d1d-ac40-4aae-84d6-0ea76313f415.png/melon/resize/160x225/strip/true" length="0" type="image/png/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
