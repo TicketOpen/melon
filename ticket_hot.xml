@@ -4,17 +4,9 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 18 Aug 2023 00:50:01 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Aug 2023 01:42:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[뮤지컬 〈벤허〉 2차 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7653</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7653</guid>
-            <pubDate>Thu, 17 Aug 2023 03:12:35 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>23.08.24(목)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/08/20230817084613c1a65f51-3392-4486-a34f-9dba5909ab23.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
         <item>
             <title><![CDATA[동물 없는 동물원展 티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7656</link>
@@ -22,6 +14,14 @@
             <pubDate>Fri, 18 Aug 2023 00:49:54 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>23.08.18(금)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/08/20230817143130f3d4b8e0-aa18-4a7a-8b1d-e60c6ddb3e6b.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 〈벤허〉 2차 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7653</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7653</guid>
+            <pubDate>Thu, 17 Aug 2023 03:12:35 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>23.08.24(목)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/08/20230817084613c1a65f51-3392-4486-a34f-9dba5909ab23.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
         <item>
             <title><![CDATA[나만 알고싶은 인디 Ep．34 종연 단독콘서트 티켓 오픈 안내]]></title>
