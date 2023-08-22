@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Aug 2023 14:11:02 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Aug 2023 15:12:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -368,31 +368,6 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/06/2023060816364354fb2821-7590-42c0-b740-cea294ca7877.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 〈모차르트！〉 (멜론티켓 ─ 판매중)]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=208169</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=208169</guid>
-            <pubDate>Sun, 20 Aug 2023 17:10:03 GMT</pubDate>
-            <content:encoded><![CDATA[<td>
-                            <div class="show_infor">
-                                <div class="thumb_90x125  img">
-                                    <a href="#">
-                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/05/20230502173843f2af6b81-e71c-44c9-89fb-b149e8c7cb7c.jpg/melon/resize/90x125/strip/true" alt="">
-                                        <span class="frame"></span>
-                                    </a>
-                                </div>
-                                <p class="infor_text">
-                                    <span class="ico_wrap">
-                                        <span class="ico_list ico_list4"> 판매중</span></span>
-                                    <span class="show_title"><a href="/performance/index.htm?prodId=208169">뮤지컬 〈모차르트！〉</a></span>
-                                </p>
-                            </div>
-                        </td>
-                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
-                            2023.06.15 - 2023.08.22</td>
-                        <td class="show_loc">세종문화회관 대극장</td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/05/20230502173843f2af6b81-e71c-44c9-89fb-b149e8c7cb7c.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
             <title><![CDATA[박효신 글로벌 공식 팬클럽 SOULTREE 2023 멤버십 (멜론티켓 ─ 판매중)]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=208372</link>
             <guid>https://ticket.melon.com/performance/index.htm?prodId=208372</guid>
@@ -666,6 +641,31 @@
                             2023.08.01 - 2023.09.10</td>
                         <td class="show_loc">아라아트센터 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/07/202307191356103dc091ea-f557-42aa-8913-f948056ed97a.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[미구엘 슈발리에 〈디지털 뷰티 시즌 2〉 (멜론티켓 ─ 판매중)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=208573</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=208573</guid>
+            <pubDate>Tue, 22 Aug 2023 15:12:33 GMT</pubDate>
+            <content:encoded><![CDATA[<td>
+                            <div class="show_infor">
+                                <div class="thumb_90x125  img">
+                                    <a href="#">
+                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/07/20230731150959f7d426af-65d4-4582-947d-ca77c23364c8.jpg/melon/resize/90x125/strip/true" alt="">
+                                        <span class="frame"></span>
+                                    </a>
+                                </div>
+                                <p class="infor_text">
+                                    <span class="ico_wrap">
+                                        <span class="ico_list ico_list4"> 판매중</span></span>
+                                    <span class="show_title"><a href="/performance/index.htm?prodId=208573">미구엘 슈발리에 〈디지털 뷰티 시즌 2〉</a></span>
+                                </p>
+                            </div>
+                        </td>
+                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
+                            2023.08.01 - 2024.02.12</td>
+                        <td class="show_loc">아라아트센터 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/07/20230731150959f7d426af-65d4-4582-947d-ca77c23364c8.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
     </channel>
 </rss>
