@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Aug 2023 04:13:52 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Aug 2023 05:11:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Tue, 22 Aug 2023 02:17:00 GMT</pubDate>
             <content:encoded><![CDATA[오픈일정 보기 &gt;]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/08/20230822102312448df726-e05a-4861-9449-b88b20b750d4.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 〈구텐버그〉 싱어롱 찍먹 데이 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7670</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7670</guid>
+            <pubDate>Tue, 22 Aug 2023 05:11:30 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>23.08.25(금)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/08/202308221100132965d32b-ea39-4c46-b5c7-a2198d67d1cc.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
         <item>
             <title><![CDATA[2023 ABLE FAN CONCERT：UNPARADISE 티켓 오픈 안내]]></title>
@@ -78,14 +86,6 @@
             <pubDate>Sun, 20 Aug 2023 17:09:57 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>23.08.18(금)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/08/20230817143130f3d4b8e0-aa18-4a7a-8b1d-e60c6ddb3e6b.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[제5회 슬로우 라이프 슬로우 라이브 2023 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7657</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7657</guid>
-            <pubDate>Sun, 20 Aug 2023 17:09:57 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>23.08.24(목)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/08/20230818110728f2899fab-33ba-4e9c-9ba1-44ea2d96dd3a.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
