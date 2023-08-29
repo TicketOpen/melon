@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 29 Aug 2023 00:52:23 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Aug 2023 01:46:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Mon, 28 Aug 2023 02:18:23 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>23.08.21(월)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/08/2023081816135848397230-a7c0-4d82-a2f7-334e5d0c38f5.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[［부산］라 보엠 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7689</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7689</guid>
+            <pubDate>Tue, 29 Aug 2023 01:45:59 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>23.08.30(수)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/08/20230828105351827a86c9-1fc5-4208-9908-a1bd1b314820.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
         <item>
             <title><![CDATA[밀코메다 8회 티켓 오픈 안내]]></title>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 25 Aug 2023 16:15:01 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>23.08.28(월)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/08/20230822171252ad2a6e92-ba21-4c36-a3dd-7e9b8decb141.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 〈구텐버그〉 3차 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7681</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7681</guid>
-            <pubDate>Fri, 25 Aug 2023 16:15:01 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>23.08.29(화)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/08/20230823102654b3038e5a-5711-4e63-8b24-19931368bf76.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
