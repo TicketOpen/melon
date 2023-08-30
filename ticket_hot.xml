@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 30 Aug 2023 02:18:22 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Aug 2023 03:12:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -48,6 +48,14 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/08/20230825105300fd680dbb-7ea6-453c-a95e-344194a4147a.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
         <item>
+            <title><![CDATA[먼데이프로젝트 IN 라이브클럽［김규도 단독 콘서트］티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7693</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7693</guid>
+            <pubDate>Wed, 30 Aug 2023 03:12:36 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>23.09.06(수)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/08/202308291016235fa994ec-ba10-45cb-afe7-99c4463e597f.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
             <title><![CDATA[나상현 솔로 콘서트：Desk 티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7652</link>
             <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7652</guid>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 29 Aug 2023 13:15:30 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>23.08.25(금)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/08/20230824162850c4648716-3932-4477-b303-d5b575ee6343.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[먼데이프로젝트 시즌6［제이드 EP 앨범 발매 콘서트 “Dear diary”］티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7684</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7684</guid>
-            <pubDate>Tue, 29 Aug 2023 13:15:30 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>23.08.31(목)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/08/2023082509255372dca3f4-6c8e-4556-aeac-662e34ae6042.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
