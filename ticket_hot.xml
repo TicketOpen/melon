@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 31 Aug 2023 00:51:49 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 31 Aug 2023 01:45:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Wed, 30 Aug 2023 12:22:31 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>23.07.27(목)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/08/202308302018156e1f4202-0492-4357-872e-f0c523816193.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[［서울］라 보엠 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7697</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7697</guid>
+            <pubDate>Thu, 31 Aug 2023 01:45:39 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>23.09.01(금)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/08/202308301100160dee1cca-ffde-4b49-84ae-0a5ef3ed644c.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
         <item>
             <title><![CDATA[한로로 1st 단독콘서트 ‘이상비행’ 티켓 오픈 안내]]></title>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 30 Aug 2023 03:12:36 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>23.09.06(수)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/08/202308291016235fa994ec-ba10-45cb-afe7-99c4463e597f.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[나상현 솔로 콘서트：Desk 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7652</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7652</guid>
-            <pubDate>Tue, 29 Aug 2023 13:15:30 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>23.08.23(수)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/08/20230828152008acfdb3f0-daaf-476c-bf68-3052d30c7359.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
