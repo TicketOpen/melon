@@ -4,7 +4,7 @@
         <title>멜론 티켓</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 01 Sep 2023 01:53:33 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Sep 2023 02:22:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,11 +22,19 @@
                     <dt class="first tit_date">등록일 </dt>
                     <dd class="txt_date">2023.08.30</dd>
                     <dt class="tit_review">조회 </dt>
-                    <dd class="txt_review">5,468</dd>
+                    <dd class="txt_review">5,534</dd>
                 </dl>
             </div>
             <a href="./detail.htm?csoonId=7696" class="poster"><img src="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/08/202308302018156e1f4202-0492-4357-872e-f0c523816193.jpg/melon/resize/65x92/strip/true" alt="" onerror="noImage(this,65,92)" width="65"><span class="frame"></span></a>]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/08/202308302018156e1f4202-0492-4357-872e-f0c523816193.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[2023 장동우 팬미팅 〈DONGWOO AIRLINE〉 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7707</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7707</guid>
+            <pubDate>Fri, 01 Sep 2023 02:22:24 GMT</pubDate>
+            <content:encoded><![CDATA[2023.09.05(화) 20:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/08/2023083114004548e77aca-bfb2-4d4d-a544-9ea583c2f204.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
         <item>
             <title><![CDATA[박효신 STPD 2023 GOING HOME 추가 오픈 안내]]></title>
@@ -99,27 +107,6 @@
             <pubDate>Thu, 31 Aug 2023 01:45:33 GMT</pubDate>
             <content:encoded><![CDATA[2023.09.01(금) 16:00]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/08/202308301100160dee1cca-ffde-4b49-84ae-0a5ef3ed644c.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[[공연장변경] ’박효신 STPD 2023 GOING HOME’ 공연장 변경 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7696</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7696</guid>
-            <pubDate>Wed, 30 Aug 2023 12:22:24 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="ticket_data_cancel"><span class="ticket_state">변경</span>
-					</div>
-                <div class="link_consert">
-                <p class="point"><span class="ico_list ico_list1">단독판매</span></p>
-                <a href="./detail.htm?csoonId=7696" class="tit">
-                	[공연장변경] ’박효신 STPD 2023 GOING HOME’ 공연장 변경 안내</a>
-                <dl class="register_info">
-                    <dt class="first tit_date">등록일 </dt>
-                    <dd class="txt_date">2023.08.30</dd>
-                    <dt class="tit_review">조회 </dt>
-                    <dd class="txt_review">5,468</dd>
-                </dl>
-            </div>
-            <a href="./detail.htm?csoonId=7696" class="poster"><img src="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/08/202308302018156e1f4202-0492-4357-872e-f0c523816193.jpg/melon/resize/65x92/strip/true" alt="" onerror="noImage(this,65,92)" width="65"><span class="frame"></span></a>]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/08/202308302018156e1f4202-0492-4357-872e-f0c523816193.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
     </channel>
 </rss>
