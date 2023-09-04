@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Sep 2023 03:12:57 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Sep 2023 04:14:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Mon, 04 Sep 2023 02:18:30 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>23.09.08(금)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/09/20230904100944e3109c17-5f17-4e52-b6c1-ca60e0a68b90.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[이형주 정규 1집 쇼케이스 “우리는 서로를 간직하려고” 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7718</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7718</guid>
+            <pubDate>Mon, 04 Sep 2023 04:14:18 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>23.09.06(수)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/09/202309011742159e0745a6-c082-46cd-9077-cf40ebf45b9e.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
         <item>
             <title><![CDATA[쌈 티켓 오픈 안내]]></title>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 04 Sep 2023 03:12:50 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>23.09.04(월)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/09/202309011052358e43c606-4b6f-4729-912b-2583a74c0269.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[박효신 STPD 2023 GOING HOME 추가 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7706</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7706</guid>
-            <pubDate>Sun, 03 Sep 2023 09:10:47 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>23.09.01(금)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/08/2023083120143015b5e64d-05a4-4231-a4eb-7ee22b004789.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
