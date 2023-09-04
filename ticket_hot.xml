@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Sep 2023 09:13:07 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Sep 2023 10:13:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -56,6 +56,14 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/09/20230904141227e7aa684a-57df-4d53-bc4e-e0121b7af8e6.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
         <item>
+            <title><![CDATA[김푸름 단독 공연 ‘TEENS’ 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7720</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7720</guid>
+            <pubDate>Mon, 04 Sep 2023 10:13:11 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>23.09.11(월)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/09/20230904103254b6da699f-6325-4520-84ce-987ae5640f2d.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
             <title><![CDATA[피에타x사막꽃：아무 것도 아닌 것이 될 수도 있는 모든 것 티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7719</link>
             <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7719</guid>
@@ -78,14 +86,6 @@
             <pubDate>Sun, 03 Sep 2023 09:10:47 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>23.09.05(화)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/08/2023083114004548e77aca-bfb2-4d4d-a544-9ea583c2f204.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[신직선 EP ‘연결’ 발매 기념 쇼케이스：Connected．티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7714</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7714</guid>
-            <pubDate>Mon, 04 Sep 2023 03:12:50 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>23.09.04(월)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/09/2023090110361125ceefe2-d445-48a4-b71a-f1d42c62ded9.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
