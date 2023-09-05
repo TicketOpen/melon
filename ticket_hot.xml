@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Sep 2023 02:17:08 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Sep 2023 03:13:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,6 +30,14 @@
             <pubDate>Mon, 04 Sep 2023 22:11:25 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>23.09.08(금)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/09/20230904100944e3109c17-5f17-4e52-b6c1-ca60e0a68b90.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[먼데이프로젝트 시즌6［키스누 EP앨범 발매 콘서트 “REINCARNATION”］티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7722</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7722</guid>
+            <pubDate>Tue, 05 Sep 2023 03:13:17 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>23.09.12(화)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/09/20230904152127ada844a2-79f2-4f27-b693-a4d5957de893.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
         <item>
             <title><![CDATA[쌈 티켓 오픈 안내]]></title>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 04 Sep 2023 22:11:25 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>23.09.08(금)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/09/20230904101555b926d4da-791e-45c4-9c67-4e91fafc36af.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[2023 Halloween Night 라이브 콘서트 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7708</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7708</guid>
-            <pubDate>Mon, 04 Sep 2023 22:11:25 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>23.09.05(화)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/09/2023090409183205e3e284-d0de-4beb-9bec-71be10c776a0.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
