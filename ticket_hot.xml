@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Sep 2023 07:11:04 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Sep 2023 08:15:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,7 +13,15 @@
             <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7723</guid>
             <pubDate>Tue, 05 Sep 2023 05:12:14 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>23.09.11(월)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/09/202309041528571fdc8c22-1403-4dd1-bd41-ac304e623cef.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/09/20230905165926f03113b4-ab81-4919-b29c-d56710f49d3c.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[쌈 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7716</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7716</guid>
+            <pubDate>Mon, 04 Sep 2023 22:11:25 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>23.09.08(금)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/09/20230901174729c82e717d-c6b3-4c66-8978-9c4eb258d521.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
         <item>
             <title><![CDATA[우크라이나 키이우 시티 발레단 내한공연 〈호두까기 인형〉－부산 티켓 오픈 안내]]></title>
@@ -46,14 +54,6 @@
             <pubDate>Tue, 05 Sep 2023 05:12:14 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>23.09.12(화)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/09/20230904152127ada844a2-79f2-4f27-b693-a4d5957de893.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[쌈 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7716</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7716</guid>
-            <pubDate>Mon, 04 Sep 2023 22:11:25 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>23.09.08(금)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/09/20230901174729c82e717d-c6b3-4c66-8978-9c4eb258d521.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
         <item>
             <title><![CDATA[이형주 정규 1집 쇼케이스 “우리는 서로를 간직하려고” 티켓 오픈 안내]]></title>
