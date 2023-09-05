@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Sep 2023 08:15:26 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Sep 2023 09:12:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Mon, 04 Sep 2023 22:11:25 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>23.09.08(금)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/09/20230901174729c82e717d-c6b3-4c66-8978-9c4eb258d521.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[너드커넥션（Nerd Connection）단독 공연 〈설명하기 어려운 것들〉 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7728</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7728</guid>
+            <pubDate>Tue, 05 Sep 2023 09:12:23 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>23.09.08(금)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/09/202309051616220116354d-9ca7-455d-aa0a-e8016c705391.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
         <item>
             <title><![CDATA[우크라이나 키이우 시티 발레단 내한공연 〈호두까기 인형〉－부산 티켓 오픈 안내]]></title>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 04 Sep 2023 22:11:25 GMT</pubDate>
             <content:encoded><![CDATA[오픈일정 보기 &gt;]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/08/20230822102312448df726-e05a-4861-9449-b88b20b750d4.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[브브걸 1st FANCON 〈ONE MORE TIME〉 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7721</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7721</guid>
-            <pubDate>Mon, 04 Sep 2023 22:11:25 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>23.09.08(금)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/09/20230904141227e7aa684a-57df-4d53-bc4e-e0121b7af8e6.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
