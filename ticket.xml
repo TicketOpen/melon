@@ -4,7 +4,7 @@
         <title>멜론 티켓</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Sep 2023 06:15:28 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Sep 2023 07:11:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,7 +22,7 @@
                     <dt class="first tit_date">등록일 </dt>
                     <dd class="txt_date">2023.08.30</dd>
                     <dt class="tit_review">조회 </dt>
-                    <dd class="txt_review">8,634</dd>
+                    <dd class="txt_review">8,655</dd>
                 </dl>
             </div>
             <a href="./detail.htm?csoonId=7696" class="poster"><img src="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/08/202308302018156e1f4202-0492-4357-872e-f0c523816193.jpg/melon/resize/65x92/strip/true" alt="" onerror="noImage(this,65,92)" width="65"><span class="frame"></span></a>]]></content:encoded>
@@ -37,7 +37,15 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/09/2023090615013450393221-d40f-4631-ba65-9c28e924e8e0.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
         <item>
-            <title><![CDATA[먼데이프로젝트 시즌6［화노 EP앨범 발매 콘서트 “Beyond”］]]></title>
+            <title><![CDATA[뮤지컬 〈레베카〉 10주년 기념공연 4차 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7734</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7734</guid>
+            <pubDate>Wed, 06 Sep 2023 07:11:32 GMT</pubDate>
+            <content:encoded><![CDATA[2023.09.12(화) 14:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/09/202309061455151a4e184f-034c-4453-b3d4-c201613dddd4.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[먼데이프로젝트 시즌6［화노 EP앨범 발매 콘서트 “Beyond”］티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7731</link>
             <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7731</guid>
             <pubDate>Wed, 06 Sep 2023 03:12:32 GMT</pubDate>
@@ -99,14 +107,6 @@
             <pubDate>Tue, 05 Sep 2023 09:12:17 GMT</pubDate>
             <content:encoded><![CDATA[2023.09.07(목) 18:00]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/09/202309041430319aa6aa21-fbfc-4042-838a-906f611bedf6.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[YERIN 1st FANMEETING 〈Login〉 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7723</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7723</guid>
-            <pubDate>Tue, 05 Sep 2023 05:12:07 GMT</pubDate>
-            <content:encoded><![CDATA[2023.09.11(월) 20:00]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/09/20230905165926f03113b4-ab81-4919-b29c-d56710f49d3c.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
     </channel>
 </rss>
