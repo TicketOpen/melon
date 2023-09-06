@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 판매중</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Sep 2023 14:11:52 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Sep 2023 15:13:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -483,29 +483,29 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/07/20230719104340776ca3d1-b61f-4044-acd8-e88edc4a17cb.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
-            <title><![CDATA[먼데이프로젝트 시즌6 My Universe［루루 단독 콘서트］]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=208605</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=208605</guid>
-            <pubDate>Tue, 05 Sep 2023 15:13:02 GMT</pubDate>
+            <title><![CDATA[정구호x김성훈 〈GRIMENTO〉＿싱크넥스트23]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=208171</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=208171</guid>
+            <pubDate>Wed, 06 Sep 2023 15:13:42 GMT</pubDate>
             <content:encoded><![CDATA[<td>
                             <div class="show_infor">
                                 <div class="thumb_90x125  img">
                                     <a href="#">
-                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/08/202308090854458a68da0c-8e44-4bcd-b959-9d74db067a34.jpg/melon/resize/90x125/strip/true" alt="">
+                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/08/20230814151752b5b6e4ba-48cd-43cf-a802-be3f3b77e9f0.jpg/melon/resize/90x125/strip/true" alt="">
                                         <span class="frame"></span>
                                     </a>
                                 </div>
                                 <p class="infor_text">
                                     <span class="ico_wrap">
-                                        <span class="ico_list ico_list1">단독판매</span><span class="ico_list ico_list4"> 판매중</span></span>
-                                    <span class="show_title"><a href="/performance/index.htm?prodId=208605">먼데이프로젝트 시즌6 My Universe［루루 단독 콘서트］</a></span>
+                                        <span class="ico_list ico_list4"> 판매중</span></span>
+                                    <span class="show_title"><a href="/performance/index.htm?prodId=208171">정구호x김성훈 〈GRIMENTO〉＿싱크넥스트23</a></span>
                                 </p>
                             </div>
                         </td>
                         <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
-                            2023.09.06 - 2023.09.06</td>
-                        <td class="show_loc">CJ아지트 광흥창 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/08/202308090854458a68da0c-8e44-4bcd-b959-9d74db067a34.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+                            2023.09.07 - 2023.09.10</td>
+                        <td class="show_loc">세종문화회관 S씨어터</td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/08/20230814151752b5b6e4ba-48cd-43cf-a802-be3f3b77e9f0.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
     </channel>
 </rss>
