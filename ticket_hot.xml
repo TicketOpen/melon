@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Sep 2023 10:12:50 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Sep 2023 11:11:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,6 +30,14 @@
             <pubDate>Wed, 06 Sep 2023 09:13:12 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>23.09.08(금)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/09/20230906173455a3a634d3-4803-479f-b4f2-f142f7fad5a3.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[MIGHT GET LOUD VOL．1 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7740</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7740</guid>
+            <pubDate>Thu, 07 Sep 2023 11:11:14 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>23.09.14(목)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/09/20230906142552803da22d-aaa6-40fe-9d4e-9135a7e61823.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
         <item>
             <title><![CDATA[먼데이프로젝트 시즌6［화노 EP앨범 발매 콘서트 “Beyond”］티켓 오픈 안내]]></title>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 06 Sep 2023 11:10:09 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>23.09.06(수)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/09/2023090609535120fd782a-4004-4c1e-add0-13040d0bcab2.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[2023 김국헌 팬미팅：Butterfly 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7732</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7732</guid>
-            <pubDate>Wed, 06 Sep 2023 10:12:37 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>23.09.08(금)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/09/20230905170936d39434ca-0ce6-488b-83d0-98f014ad203d.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
