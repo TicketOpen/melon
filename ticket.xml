@@ -4,9 +4,17 @@
         <title>멜론 티켓</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Sep 2023 00:51:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Sep 2023 01:44:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[크라잉넛 X 킹곤즈（킹고너츠 Vol．3）티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7758</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7758</guid>
+            <pubDate>Tue, 12 Sep 2023 01:44:00 GMT</pubDate>
+            <content:encoded><![CDATA[2023.09.14(목) 12:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/09/202309111806417733e714-eb2a-4dd4-8376-c1f4184a33cf.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
         <item>
             <title><![CDATA[뮤지컬 〈구텐버그〉 마지막 티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7756</link>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 08 Sep 2023 05:11:44 GMT</pubDate>
             <content:encoded><![CDATA[2023.09.11(월) 14:00]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/09/202309071114158b5ce314-5a26-4b7e-b06e-6b2e79f5f4e8.png/melon/resize/65x92/strip/true" length="0" type="image/png/melon/resize/65x92/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[음악으로 듣는 과학：재즈와 함께하는 과학토크 콘서트 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7747</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7747</guid>
-            <pubDate>Fri, 08 Sep 2023 05:11:44 GMT</pubDate>
-            <content:encoded><![CDATA[2023.09.13(수) 14:00]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/09/2023090711225562d0d45c-dbad-42e2-ae85-87f359a19db6.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
     </channel>
 </rss>
