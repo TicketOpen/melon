@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Sep 2023 03:12:56 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Sep 2023 04:14:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -48,6 +48,14 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/09/202309141049078921a3f1-e329-43b3-ae10-c60a753d6bd0.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
         <item>
+            <title><![CDATA[2023 김성준 소극장 단독 콘서트：Just sing 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7768</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7768</guid>
+            <pubDate>Thu, 14 Sep 2023 04:14:31 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>23.09.21(목)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/09/20230913140720735bed46-32db-4bb2-94e9-3e5f76ef1ffa.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
             <title><![CDATA[뮤지컬 〈볼륨업〉 1차 티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7753</link>
             <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7753</guid>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 13 Sep 2023 23:12:08 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>23.09.14(목)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/09/20230912094125f7ca1c24-9926-4381-9206-d7d4205cb46f.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[크라잉넛 X 킹곤즈（킹고너츠 Vol．3）티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7758</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7758</guid>
-            <pubDate>Wed, 13 Sep 2023 23:12:08 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>23.09.14(목)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/09/202309111806417733e714-eb2a-4dd4-8376-c1f4184a33cf.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
