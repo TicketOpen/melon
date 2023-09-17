@@ -1,8 +1,91 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://ticket.melon.com/csoon/index.htm#orderType=0&amp;pageIndex=1&amp;schGcode=GENRE_ALL&amp;schText=&amp;schDt=</id>
-    <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
-    <updated>2023-09-17T15:11:00.693Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Sun, 17 Sep 2023 16:13:54 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[DAWN 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7781</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7781</guid>
+            <pubDate>Sun, 17 Sep 2023 16:13:47 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>23.09.16(토)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/09/20230915183627f2655fa4-08c6-4e70-ab9e-2b565ae2ab24.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 〈시스터 액트〉 1차 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7774</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7774</guid>
+            <pubDate>Sun, 17 Sep 2023 16:13:47 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>23.09.21(목)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/09/202309141743579189035b-0b48-4e62-80c9-f3dc116cd179.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[먼데이프로젝트 IN 라이브클럽［김규도 단독 콘서트］티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7693</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7693</guid>
+            <pubDate>Sun, 17 Sep 2023 16:13:47 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>23.09.06(수)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/08/202308291016235fa994ec-ba10-45cb-afe7-99c4463e597f.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[이루리 단독 콘서트 〈Phoenix〉 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7775</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7775</guid>
+            <pubDate>Sun, 17 Sep 2023 16:13:47 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>23.09.20(수)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/09/202309141451545070b173-35a1-408b-ae9b-6c97ab3494e6.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[이안（Eian）단독 공연 “버킷리스트” 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7773</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7773</guid>
+            <pubDate>Sun, 17 Sep 2023 16:13:47 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>23.09.15(금)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/09/202309141357143c8e1b75-61ac-47cb-a892-18bfa7b4be6a.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[엘리자베스 기덕 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7772</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7772</guid>
+            <pubDate>Sun, 17 Sep 2023 16:13:47 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>23.09.14(목)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/09/20230914135531166f8f49-f4b2-4ca8-9887-b98ee74fa1be.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[스트릿건즈x레이지본x분리수거밴드：프리즘홀 10주년 기념공연 ‘A．D．10’ 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7771</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7771</guid>
+            <pubDate>Sun, 17 Sep 2023 16:13:47 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>23.09.15(금)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/09/20230914111342de006eef-2f6b-418e-bcc1-0a3a572983dc.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[O．O．O x 맥거핀：프리즘홀 10주년 기념공연 ‘A．D．10’ 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7770</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7770</guid>
+            <pubDate>Sun, 17 Sep 2023 16:13:47 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>23.09.15(금)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/09/202309141119483ab72a97-6d7e-4d8a-b40d-63e41cf43b92.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[LOVE IN SEOUL 2023－SAM RYDER 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7765</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7765</guid>
+            <pubDate>Sun, 17 Sep 2023 16:13:47 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>23.09.21(목)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/09/202309141049220cc982ef-d261-4841-8274-786c0e17436a.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[LOVE IN SEOUL 2023－라라랜드 인 콘서트（지휘：저스틴 허위츠）티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7767</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7767</guid>
+            <pubDate>Sun, 17 Sep 2023 16:13:47 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>23.09.21(목)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/09/20230914105038fb10ac3d-f7f2-4c09-8a43-b360e0e11a4e.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+    </channel>
+</rss>
