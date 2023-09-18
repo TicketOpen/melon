@@ -4,9 +4,17 @@
         <title>멜론 티켓</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Sep 2023 04:14:28 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Sep 2023 05:12:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뮤지컬 〈시스터액트〉－부산 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7782</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7782</guid>
+            <pubDate>Mon, 18 Sep 2023 05:12:12 GMT</pubDate>
+            <content:encoded><![CDATA[2023.09.19(화) 14:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/09/2023091810422877872d34-c9ac-4fdf-97fe-86ef9c053c83.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
         <item>
             <title><![CDATA[DAWN 티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7781</link>
@@ -14,6 +22,14 @@
             <pubDate>Sun, 17 Sep 2023 16:13:41 GMT</pubDate>
             <content:encoded><![CDATA[2023.09.16(토) 20:00]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/09/20230915183627f2655fa4-08c6-4e70-ab9e-2b565ae2ab24.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[2023 THE CRY ground 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7778</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7778</guid>
+            <pubDate>Mon, 18 Sep 2023 05:12:12 GMT</pubDate>
+            <content:encoded><![CDATA[2023.09.18(월) 18:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/09/202309151408461349dcdb-1ad9-41a4-b151-4ba99a2440b9.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
         <item>
             <title><![CDATA[Hyper Festival 2023 티켓 오픈 안내]]></title>
@@ -70,22 +86,6 @@
             <pubDate>Sun, 17 Sep 2023 16:13:41 GMT</pubDate>
             <content:encoded><![CDATA[2023.09.15(금) 20:00]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/09/20230914111342de006eef-2f6b-418e-bcc1-0a3a572983dc.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[O．O．O x 맥거핀：프리즘홀 10주년 기념공연 ‘A．D．10’ 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7770</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7770</guid>
-            <pubDate>Sun, 17 Sep 2023 16:13:41 GMT</pubDate>
-            <content:encoded><![CDATA[2023.09.15(금) 20:00]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/09/202309141119483ab72a97-6d7e-4d8a-b40d-63e41cf43b92.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[9001 단독 콘서트 〈gool kids〉 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7769</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7769</guid>
-            <pubDate>Sun, 17 Sep 2023 16:13:41 GMT</pubDate>
-            <content:encoded><![CDATA[2023.09.22(금) 20:00]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/09/20230914102415643c01fe-545c-4a21-ba95-afb705c547ab.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
     </channel>
 </rss>
