@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 23 Sep 2023 04:13:49 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Sep 2023 05:11:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,6 +30,14 @@
             <pubDate>Fri, 22 Sep 2023 05:11:23 GMT</pubDate>
             <content:encoded><![CDATA[오픈일정 보기 &gt;]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/09/202309221002264b5d05a4-7bf5-4c60-9d49-0f86e8cfc0b5.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[다브다x제이통：프리즘홀 10주년 기념공연 ‘A．D．10‘ 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7806</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7806</guid>
+            <pubDate>Sat, 23 Sep 2023 05:10:56 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>23.09.27(수)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/09/20230922092723c7043419-170d-4489-8b0e-3889fed56bef.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
         <item>
             <title><![CDATA[팔칠댄스x잭킹콩：프리즘홀 10주년 기념공연 ‘A．D．10’ 티켓 오픈 안내]]></title>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 21 Sep 2023 02:18:01 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>23.09.27(수)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/09/202309201343303e05f85b-05ec-460d-bfd2-c0e41d52611b.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[먼데이프로젝트 시즌6 RE，MOMENT 〈221213 맥거핀 단독 콘서트〉 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7798</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7798</guid>
-            <pubDate>Thu, 21 Sep 2023 03:12:37 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>23.09.27(수)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/09/20230921110639c7205664-5dd4-4d1d-9c77-f305dfdaaa66.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
