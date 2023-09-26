@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Sep 2023 02:19:37 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Sep 2023 03:12:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Tue, 26 Sep 2023 00:53:40 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>23.09.18(월)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/09/202309151408461349dcdb-1ad9-41a4-b151-4ba99a2440b9.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[신보경 바이올린 독주회 Recuerdos de España 2 〈바이올린을 위한 스페인 음악〉 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7815</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7815</guid>
+            <pubDate>Tue, 26 Sep 2023 03:12:31 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>23.10.04(수)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/09/2023092517510935ce9980-7939-4e5c-8fb1-8712edb34b9f.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
         <item>
             <title><![CDATA[Bump 2 Soul "The First Show" 티켓 오픈 안내]]></title>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 25 Sep 2023 09:13:21 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>23.09.27(수)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/web/thumb/Noimage_160x225.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 〈시스터 액트〉 1차 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7774</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7774</guid>
-            <pubDate>Fri, 22 Sep 2023 05:11:23 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>23.09.21(목)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/09/2023092213240445ba76fe-4d15-4c0c-a29f-cf4f473b6820.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
