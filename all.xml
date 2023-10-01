@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 01 Oct 2023 14:10:49 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 Oct 2023 15:11:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -518,31 +518,6 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/07/20230719104340776ca3d1-b61f-4044-acd8-e88edc4a17cb.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
-            <title><![CDATA[연극 〈카르멘〉 (멜론티켓 ─ 판매중)]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=208596</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=208596</guid>
-            <pubDate>Sat, 30 Sep 2023 02:16:59 GMT</pubDate>
-            <content:encoded><![CDATA[<td>
-                            <div class="show_infor">
-                                <div class="thumb_90x125  img">
-                                    <a href="#">
-                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/08/202308090859186f3d3307-835c-45de-890a-e1cee2e2b3cf.jpg/melon/resize/90x125/strip/true" alt="">
-                                        <span class="frame"></span>
-                                    </a>
-                                </div>
-                                <p class="infor_text">
-                                    <span class="ico_wrap">
-                                        <span class="ico_list ico_list4"> 판매중</span></span>
-                                    <span class="show_title"><a href="/performance/index.htm?prodId=208596">연극 〈카르멘〉</a></span>
-                                </p>
-                            </div>
-                        </td>
-                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
-                            2023.09.08 - 2023.10.01</td>
-                        <td class="show_loc">세종문화회관 M씨어터</td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/08/202308090859186f3d3307-835c-45de-890a-e1cee2e2b3cf.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
             <title><![CDATA[동물 없는 동물원展 (멜론티켓 ─ 판매중)]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=208642</link>
             <guid>https://ticket.melon.com/performance/index.htm?prodId=208642</guid>
@@ -643,29 +618,54 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/08/20230810135916d5c870e9-6f7c-4a96-87b3-aedc05876ea2.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
-            <title><![CDATA[O．O．O x 맥거핀：프리즘홀 10주년 기념공연 ‘A．D．10’ (멜론티켓 ─ 판매중)]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=208764</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=208764</guid>
-            <pubDate>Sat, 30 Sep 2023 02:16:59 GMT</pubDate>
+            <title><![CDATA[먼데이프로젝트 시즌6［화노 EP앨범 발매 콘서트 “Beyond”］ (멜론티켓 ─ 판매중)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=208713</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=208713</guid>
+            <pubDate>Sun, 01 Oct 2023 15:11:17 GMT</pubDate>
             <content:encoded><![CDATA[<td>
                             <div class="show_infor">
                                 <div class="thumb_90x125  img">
                                     <a href="#">
-                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/09/202309141106423dd88809-5892-4ef3-9375-a24a448216cf.jpg/melon/resize/90x125/strip/true" alt="">
+                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/09/20230906105743a7d2315b-5f33-402d-9dcc-5a583b5dd2f9.jpg/melon/resize/90x125/strip/true" alt="">
                                         <span class="frame"></span>
                                     </a>
                                 </div>
                                 <p class="infor_text">
                                     <span class="ico_wrap">
                                         <span class="ico_list ico_list1">단독판매</span><span class="ico_list ico_list4"> 판매중</span></span>
-                                    <span class="show_title"><a href="/performance/index.htm?prodId=208764">O．O．O x 맥거핀：프리즘홀 10주년 기념공연 ‘A．D．10’</a></span>
+                                    <span class="show_title"><a href="/performance/index.htm?prodId=208713">먼데이프로젝트 시즌6［화노 EP앨범 발매 콘서트 “Beyond”］</a></span>
                                 </p>
                             </div>
                         </td>
                         <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
-                            2023.10.01 - 2023.10.01</td>
+                            2023.10.02 - 2023.10.02</td>
+                        <td class="show_loc">클럽온에어 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/09/20230906105743a7d2315b-5f33-402d-9dcc-5a583b5dd2f9.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[스트릿건즈x레이지본x분리수거밴드：프리즘홀 10주년 기념공연 ‘A．D．10’ (멜론티켓 ─ 판매중)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=208765</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=208765</guid>
+            <pubDate>Sun, 01 Oct 2023 15:11:17 GMT</pubDate>
+            <content:encoded><![CDATA[<td>
+                            <div class="show_infor">
+                                <div class="thumb_90x125  img">
+                                    <a href="#">
+                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/09/202309141121041e9b1bc4-6248-4f8c-aea9-9953e78e1f3e.jpg/melon/resize/90x125/strip/true" alt="">
+                                        <span class="frame"></span>
+                                    </a>
+                                </div>
+                                <p class="infor_text">
+                                    <span class="ico_wrap">
+                                        <span class="ico_list ico_list1">단독판매</span><span class="ico_list ico_list4"> 판매중</span></span>
+                                    <span class="show_title"><a href="/performance/index.htm?prodId=208765">스트릿건즈x레이지본x분리수거밴드：프리즘홀 10주년 기념공연 ‘A．D．10’</a></span>
+                                </p>
+                            </div>
+                        </td>
+                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
+                            2023.10.02 - 2023.10.02</td>
                         <td class="show_loc">프리즘홀 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/09/202309141106423dd88809-5892-4ef3-9375-a24a448216cf.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/09/202309141121041e9b1bc4-6248-4f8c-aea9-9953e78e1f3e.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
     </channel>
 </rss>
