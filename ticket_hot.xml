@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 05 Oct 2023 08:17:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 Oct 2023 09:14:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Thu, 05 Oct 2023 07:11:19 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>23.10.06(금)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/09/20230927110241f49fa734-56fd-4834-ae53-742e8b604c95.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[남메아리밴드 2집 쇼케이스 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7847</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7847</guid>
+            <pubDate>Thu, 05 Oct 2023 09:14:12 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>23.10.11(수)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/10/20231005144522b71a626f-6ee2-4e24-bb6e-0b648c000646.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
         <item>
             <title><![CDATA[먼데이프로젝트 IN 라이브클럽［김승주 단독 콘서트］티켓 오픈 안내]]></title>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 05 Oct 2023 05:12:00 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>23.10.05(목)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/10/202310041655326ca09f98-8f64-4593-bdb1-02881cfe7e08.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[누군가의 플레이리스트 Track．69 PERC％NT 단독콘서트 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7835</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7835</guid>
-            <pubDate>Wed, 04 Oct 2023 09:13:07 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>23.10.05(목)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/09/202309271400425516b3e3-9873-4472-a666-b8e7b229adcb.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
