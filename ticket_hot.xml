@@ -4,9 +4,17 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 05 Oct 2023 04:14:32 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 Oct 2023 05:12:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[먼데이프로젝트 IN 라이브클럽［김승주 단독 콘서트］티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7839</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7839</guid>
+            <pubDate>Thu, 05 Oct 2023 03:12:53 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>23.10.12(목)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/10/20231005132604bdb6639c-7a61-41c0-aa47-f0981c20ce0e.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
         <item>
             <title><![CDATA[MY STORY，우리들의 이야기 티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7825</link>
@@ -48,12 +56,12 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/10/202310041736562aae198a-806a-4d0c-a34e-02e40f2702d5.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
         <item>
-            <title><![CDATA[먼데이프로젝트 IN 라이브클럽［김승주 단독 콘서트］티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7839</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7839</guid>
-            <pubDate>Thu, 05 Oct 2023 03:12:53 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>23.10.12(목)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/10/20231004165105738c2656-8a53-44af-abaa-de290f0e62b8.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+            <title><![CDATA[밀코메다 9회 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7845</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7845</guid>
+            <pubDate>Thu, 05 Oct 2023 05:12:00 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>23.10.05(목)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/10/202310041655326ca09f98-8f64-4593-bdb1-02881cfe7e08.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
         <item>
             <title><![CDATA[누군가의 플레이리스트 Track．69 PERC％NT 단독콘서트 티켓 오픈 안내]]></title>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 04 Oct 2023 06:16:25 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>23.10.05(목)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/10/20231004132525562e6d2d-a0f4-4445-8166-454a7d336f4b.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 〈벤허〉 마지막 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7828</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7828</guid>
-            <pubDate>Wed, 04 Oct 2023 06:16:25 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>23.10.11(수)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/10/20231004144316e4c09583-1c4b-469d-83d3-5cf2aab1d4bc.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
