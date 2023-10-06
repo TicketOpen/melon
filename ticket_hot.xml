@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 06 Oct 2023 02:19:47 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Oct 2023 03:12:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,22 @@
             <pubDate>Thu, 05 Oct 2023 07:11:19 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>23.10.06(금)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/09/20230927110241f49fa734-56fd-4834-ae53-742e8b604c95.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[［성남］2023 카즈미 타테이시 트리오 내한공연 －지브리，재즈를 만나다－티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7850</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7850</guid>
+            <pubDate>Fri, 06 Oct 2023 03:12:49 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>23.10.06(금)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/10/20231005155136b5b69cf4-4e00-4c67-aea6-6318b4ea2fba.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[DANIEL 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7849</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7849</guid>
+            <pubDate>Fri, 06 Oct 2023 03:12:49 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>23.10.12(목)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/10/20231005150751b8867b14-5bf9-496c-8d80-c4435c1e6e52.png/melon/resize/160x225/strip/true" length="0" type="image/png/melon/resize/160x225/strip/true"/>
         </item>
         <item>
             <title><![CDATA[남메아리밴드 2집 쇼케이스 티켓 오픈 안내]]></title>
@@ -70,22 +86,6 @@
             <pubDate>Thu, 05 Oct 2023 03:12:53 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>23.10.11(수)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/10/202310041741543fc1338d-4fab-4e83-892f-f1478d8ee16a.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[LOVE IN SEOUL－김성규 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7842</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7842</guid>
-            <pubDate>Thu, 05 Oct 2023 03:12:53 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>23.10.12(목)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/10/202310041736562aae198a-806a-4d0c-a34e-02e40f2702d5.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[밀코메다 9회 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7845</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7845</guid>
-            <pubDate>Thu, 05 Oct 2023 05:12:00 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>23.10.05(목)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/10/202310041655326ca09f98-8f64-4593-bdb1-02881cfe7e08.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
