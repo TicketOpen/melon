@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 06 Oct 2023 05:11:49 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Oct 2023 06:16:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Fri, 06 Oct 2023 05:11:42 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>23.10.10(화)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/10/202310060850236244807e-da38-4fdc-9f98-68a6a4294cca.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[디어클라우드：프리즘홀 10주년 기념공연 ‘A．D．10’ 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7855</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7855</guid>
+            <pubDate>Fri, 06 Oct 2023 06:16:24 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>23.10.10(화)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/10/2023100519104505e898f7-68ba-49b4-b2c1-68869bc3d47e.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
         <item>
             <title><![CDATA[정홍일x손진욱x2Z：프리즘홀 10주년 기념공연 ‘A．D．10’ 티켓 오픈 안내]]></title>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 05 Oct 2023 09:14:12 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>23.10.11(수)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/10/20231005144522b71a626f-6ee2-4e24-bb6e-0b648c000646.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[먼데이프로젝트 IN 라이브클럽［김승주 단독 콘서트］티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7839</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7839</guid>
-            <pubDate>Thu, 05 Oct 2023 03:12:53 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>23.10.12(목)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/10/20231005132604bdb6639c-7a61-41c0-aa47-f0981c20ce0e.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
