@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 판매중</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 08 Oct 2023 14:10:14 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 Oct 2023 15:11:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -358,31 +358,6 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/07/20230719104340776ca3d1-b61f-4044-acd8-e88edc4a17cb.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
-            <title><![CDATA[동물 없는 동물원展]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=208642</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=208642</guid>
-            <pubDate>Sun, 08 Oct 2023 14:10:13 GMT</pubDate>
-            <content:encoded><![CDATA[<td>
-                            <div class="show_infor">
-                                <div class="thumb_90x125  img">
-                                    <a href="#">
-                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/08/2023081711304707032401-4458-4347-9087-fb53cdd7595b.jpg/melon/resize/90x125/strip/true" alt="">
-                                        <span class="frame"></span>
-                                    </a>
-                                </div>
-                                <p class="infor_text">
-                                    <span class="ico_wrap">
-                                        <span class="ico_list ico_list4"> 판매중</span></span>
-                                    <span class="show_title"><a href="/performance/index.htm?prodId=208642">동물 없는 동물원展</a></span>
-                                </p>
-                            </div>
-                        </td>
-                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
-                            2023.09.14 - 2023.10.08</td>
-                        <td class="show_loc">인사동 KOTE 3F</td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/08/2023081711304707032401-4458-4347-9087-fb53cdd7595b.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
             <title><![CDATA[Weeekly OFFICIAL FANCLUB 1st Daileee MEMBERSHIP 모집]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=208795</link>
             <guid>https://ticket.melon.com/performance/index.htm?prodId=208795</guid>
@@ -506,6 +481,31 @@
                             2023.10.06 - 2023.11.12</td>
                         <td class="show_loc">세종문화회관 S씨어터</td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/08/202308281423495c79ea67-e8d5-4962-a8df-4a3a01bdcd0c.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 〈볼륨업〉]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=208734</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=208734</guid>
+            <pubDate>Sun, 08 Oct 2023 15:11:57 GMT</pubDate>
+            <content:encoded><![CDATA[<td>
+                            <div class="show_infor">
+                                <div class="thumb_90x125  img">
+                                    <a href="#">
+                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/09/20230911110431c58a4d70-a31b-4a05-a3e8-a67c1c1b0ca0.jpg/melon/resize/90x125/strip/true" alt="">
+                                        <span class="frame"></span>
+                                    </a>
+                                </div>
+                                <p class="infor_text">
+                                    <span class="ico_wrap">
+                                        <span class="ico_list ico_list1">단독판매</span><span class="ico_list ico_list4"> 판매중</span></span>
+                                    <span class="show_title"><a href="/performance/index.htm?prodId=208734">뮤지컬 〈볼륨업〉</a></span>
+                                </p>
+                            </div>
+                        </td>
+                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
+                            2023.10.06 - 2024.01.28</td>
+                        <td class="show_loc">서울숲 갤러리아포레 씨어터 1관</td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/09/20230911110431c58a4d70-a31b-4a05-a3e8-a67c1c1b0ca0.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
     </channel>
 </rss>
