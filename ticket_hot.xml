@@ -4,9 +4,17 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 09 Oct 2023 04:14:54 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 Oct 2023 05:12:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2023 차웅기 1st 팬사인회 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7860</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7860</guid>
+            <pubDate>Mon, 09 Oct 2023 05:12:04 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>23.10.11(수)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/10/202310061737417461271c-3354-4e83-a4dd-34bc8b251f17.png/melon/resize/160x225/strip/true" length="0" type="image/png/melon/resize/160x225/strip/true"/>
+        </item>
         <item>
             <title><![CDATA[구구콘서트（강민정，김예지，김희란 졸업공연）티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7859</link>
@@ -78,14 +86,6 @@
             <pubDate>Sun, 08 Oct 2023 14:10:07 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>23.10.09(월)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/10/202310051756393b5f8e0f-92b5-49ae-8697-cd7787c9b05b.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[에픽하이 20주년 콘서트 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7854</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7854</guid>
-            <pubDate>Sun, 08 Oct 2023 14:10:07 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>23.10.12(목)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/10/202310051737268c08558f-010b-4f47-ab5d-c82c5bf71f2d.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
