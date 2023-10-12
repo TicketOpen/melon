@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 12 Oct 2023 10:13:19 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Oct 2023 11:11:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -48,6 +48,14 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/10/20231011172625d2744ef2-ce62-418c-8d3c-968ed79a322b.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
         <item>
+            <title><![CDATA[jerd 1st Concert［BOMM］티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7881</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7881</guid>
+            <pubDate>Thu, 12 Oct 2023 11:10:57 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>23.10.13(금)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/10/20231011170728b3744865-964c-49af-a906-609145175a89.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
             <title><![CDATA[먼데이프로젝트 시즌6 My Universe［nokdu（녹두）단독 콘서트］티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7878</link>
             <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7878</guid>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 12 Oct 2023 04:14:52 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>23.10.16(월)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/10/202310101950010de38fd2-a653-477f-aced-4fc829d399dc.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[먼데이프로젝트 IN 라이브클럽［초록불꽃소년단 단독 콘서트］티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7873</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7873</guid>
-            <pubDate>Thu, 12 Oct 2023 04:14:52 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>23.10.18(수)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/10/20231010184115eef50106-8d2f-47b1-bcf2-3b0ef19f485b.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
