@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 판매중</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 13 Oct 2023 14:11:43 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 Oct 2023 15:13:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -206,31 +206,6 @@
                             2023.07.21 - 2023.11.26</td>
                         <td class="show_loc">동구 문화플랫폼(구, 부산진역사) </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/07/20230721173501cedaf539-2945-49c1-b567-dd3dfdf78efb.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[ART ROAD SHOWCASE＆ART EXHIBITION in KOREA 2023：아트원정대 붓 들고 세계로]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=208489</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=208489</guid>
-            <pubDate>Fri, 13 Oct 2023 14:11:42 GMT</pubDate>
-            <content:encoded><![CDATA[<td>
-                            <div class="show_infor">
-                                <div class="thumb_90x125  img">
-                                    <a href="#">
-                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/07/2023071116311008c12f89-ba45-49e0-b8c1-6033a935377d.jpg/melon/resize/90x125/strip/true" alt="">
-                                        <span class="frame"></span>
-                                    </a>
-                                </div>
-                                <p class="infor_text">
-                                    <span class="ico_wrap">
-                                        <span class="ico_list ico_list4"> 판매중</span></span>
-                                    <span class="show_title"><a href="/performance/index.htm?prodId=208489">ART ROAD SHOWCASE＆ART EXHIBITION in KOREA 2023：아트원정대 붓 들고 세계로</a></span>
-                                </p>
-                            </div>
-                        </td>
-                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
-                            2023.07.26 - 2023.10.13</td>
-                        <td class="show_loc">썸머스타 1층 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/07/2023071116311008c12f89-ba45-49e0-b8c1-6033a935377d.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
             <title><![CDATA[미구엘 슈발리에 〈디지털 뷰티 시즌 2〉]]></title>
@@ -506,6 +481,31 @@
                             2023.10.06 - 2024.01.28</td>
                         <td class="show_loc">서울숲 갤러리아포레 씨어터 1관</td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/09/20230911110431c58a4d70-a31b-4a05-a3e8-a67c1c1b0ca0.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[不可思議 展 NCT 127 5th Album ‘Fact Check’]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=208830</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=208830</guid>
+            <pubDate>Fri, 13 Oct 2023 15:13:05 GMT</pubDate>
+            <content:encoded><![CDATA[<td>
+                            <div class="show_infor">
+                                <div class="thumb_90x125  img">
+                                    <a href="#">
+                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/09/202309271429175069058d-3cff-4270-8e42-b7c6ece7cc64.jpg/melon/resize/90x125/strip/true" alt="">
+                                        <span class="frame"></span>
+                                    </a>
+                                </div>
+                                <p class="infor_text">
+                                    <span class="ico_wrap">
+                                        <span class="ico_list ico_list1">단독판매</span><span class="ico_list ico_list4"> 판매중</span></span>
+                                    <span class="show_title"><a href="/performance/index.htm?prodId=208830">不可思議 展 NCT 127 5th Album ‘Fact Check’</a></span>
+                                </p>
+                            </div>
+                        </td>
+                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
+                            2023.10.07 - 2023.10.20</td>
+                        <td class="show_loc">현대백화점 목동점 @127 MUSEUM 7F BOTANIC HOUSE</td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/09/202309271429175069058d-3cff-4270-8e42-b7c6ece7cc64.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
     </channel>
 </rss>
