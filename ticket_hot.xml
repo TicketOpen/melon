@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 16 Oct 2023 02:21:49 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 Oct 2023 03:13:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -56,6 +56,14 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/10/202310121440161d6df37a-c78c-4027-9cf3-b82557644671.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
         <item>
+            <title><![CDATA[웨스턴카잇 겨울 단독 콘서트 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7889</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7889</guid>
+            <pubDate>Mon, 16 Oct 2023 03:12:52 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>23.10.23(월)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/10/20231013093713fea9cdc6-fc52-47c9-aaaa-4f789272ecd5.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
             <title><![CDATA[뮤지컬 〈시스터액트〉－부산 추가 티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7882</link>
             <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7882</guid>
@@ -78,14 +86,6 @@
             <pubDate>Sat, 14 Oct 2023 16:14:31 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>23.10.11(수)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/10/20231004144316e4c09583-1c4b-469d-83d3-5cf2aab1d4bc.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[jerd 1st Concert［BOMM］티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7881</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7881</guid>
-            <pubDate>Sat, 14 Oct 2023 16:14:31 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>23.10.13(금)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/10/20231011170728b3744865-964c-49af-a906-609145175a89.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
