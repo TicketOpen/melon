@@ -4,7 +4,7 @@
         <title>멜론 티켓</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 19 Oct 2023 03:12:57 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 19 Oct 2023 04:14:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Thu, 19 Oct 2023 01:49:23 GMT</pubDate>
             <content:encoded><![CDATA[2023.10.31(화) 11:00]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/10/20231019105726a4faaa19-aa23-4949-960c-f5c9c16a0284.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[KINGDOM FANMEETING［KINGMAKER QUEST］티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7911</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7911</guid>
+            <pubDate>Thu, 19 Oct 2023 04:14:26 GMT</pubDate>
+            <content:encoded><![CDATA[오픈일정 보기 &gt;]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/10/2023101815022489026c16-5cdf-4b1a-91c9-a097111cfc57.png/melon/resize/65x92/strip/true" length="0" type="image/png/melon/resize/65x92/strip/true"/>
         </item>
         <item>
             <title><![CDATA[먼데이프로젝트 IN 라이브클럽［성해빈 단독 콘서트］티켓 오픈 안내]]></title>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 18 Oct 2023 04:14:40 GMT</pubDate>
             <content:encoded><![CDATA[2023.10.20(금) 20:00]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/10/202310171353086ddfd377-d73e-4140-98aa-a70b50c3b66d.png/melon/resize/65x92/strip/true" length="0" type="image/png/melon/resize/65x92/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[유루메루모！내한공연－GOLDEN YOU TOUR in KOREA 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7902</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7902</guid>
-            <pubDate>Wed, 18 Oct 2023 03:12:58 GMT</pubDate>
-            <content:encoded><![CDATA[2023.10.18(수) 13:00]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/10/202310180929101f24cc79-03ab-4e60-b8f3-2484b5e0aa0e.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
     </channel>
 </rss>
