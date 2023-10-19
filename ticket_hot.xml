@@ -4,9 +4,25 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 19 Oct 2023 06:16:42 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 19 Oct 2023 07:12:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[연극 〈컬렉션〉 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7918</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7918</guid>
+            <pubDate>Thu, 19 Oct 2023 07:12:02 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>23.10.31(화)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/10/202310191527433a007151-899a-4af9-85bf-3b95facdb81b.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[먼데이프로젝트 시즌6［Monday Off With Bluesy 단독 콘서트 ‘HIGHBALL’］티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7899</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7899</guid>
+            <pubDate>Thu, 19 Oct 2023 07:12:02 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>23.10.25(수)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/10/202310171128502c7e6887-5483-4b3c-98ac-365e9dfc1944.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
         <item>
             <title><![CDATA[유재하 음악경연대회 ‘전야제’ 티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7909</link>
@@ -70,22 +86,6 @@
             <pubDate>Thu, 19 Oct 2023 03:12:50 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>23.10.25(수)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/10/202310181644028662caef-55fb-4419-8542-a13d068beeec.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 〈맥베스〉 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7900</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7900</guid>
-            <pubDate>Wed, 18 Oct 2023 02:20:17 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>23.10.26(목)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/10/20231017175102df80d522-430c-4ee3-87e9-4ad25238fabe.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[시와 단독공연 〈나의 한 해〉 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7908</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7908</guid>
-            <pubDate>Wed, 18 Oct 2023 09:12:59 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>23.10.20(금)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/10/2023101717472652914354-2a99-4d48-9189-28d099d5aef5.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
