@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 판매중</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 19 Oct 2023 04:14:39 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 19 Oct 2023 05:12:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -231,6 +231,31 @@
                             2023.08.02 - 2023.10.22</td>
                         <td class="show_loc">플러스씨어터 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/06/2023061511405539674645-53c0-43b6-af41-6fcb7f9a7e72.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 〈벤허〉]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=208505</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=208505</guid>
+            <pubDate>Thu, 19 Oct 2023 05:11:59 GMT</pubDate>
+            <content:encoded><![CDATA[<td>
+                            <div class="show_infor">
+                                <div class="thumb_90x125  img">
+                                    <a href="#">
+                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/07/20230719104340776ca3d1-b61f-4044-acd8-e88edc4a17cb.jpg/melon/resize/90x125/strip/true" alt="">
+                                        <span class="frame"></span>
+                                    </a>
+                                </div>
+                                <p class="infor_text">
+                                    <span class="ico_wrap">
+                                        <span class="ico_list ico_list4"> 판매중</span></span>
+                                    <span class="show_title"><a href="/performance/index.htm?prodId=208505">뮤지컬 〈벤허〉</a></span>
+                                </p>
+                            </div>
+                        </td>
+                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
+                            2023.09.02 - 2023.11.19</td>
+                        <td class="show_loc">LG아트센터 서울 LG SIGNATURE 홀</td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/07/20230719104340776ca3d1-b61f-4044-acd8-e88edc4a17cb.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
             <title><![CDATA[Weeekly OFFICIAL FANCLUB 1st Daileee MEMBERSHIP 모집]]></title>
@@ -481,31 +506,6 @@
                             2023.10.20 - 2023.10.20</td>
                         <td class="show_loc">롤링홀 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/09/20230919151236531f5c7e-1bda-4b95-8ee7-db5dc9c46104.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[팔칠댄스x잭킹콩：프리즘홀 10주년 기념공연 ‘A．D．10’]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=208801</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=208801</guid>
-            <pubDate>Thu, 19 Oct 2023 02:19:43 GMT</pubDate>
-            <content:encoded><![CDATA[<td>
-                            <div class="show_infor">
-                                <div class="thumb_90x125  img">
-                                    <a href="#">
-                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/09/2023092111401780d57eb2-3fcd-430a-a815-b8f6a7a8e42f.jpg/melon/resize/90x125/strip/true" alt="">
-                                        <span class="frame"></span>
-                                    </a>
-                                </div>
-                                <p class="infor_text">
-                                    <span class="ico_wrap">
-                                        <span class="ico_list ico_list1">단독판매</span><span class="ico_list ico_list4"> 판매중</span></span>
-                                    <span class="show_title"><a href="/performance/index.htm?prodId=208801">팔칠댄스x잭킹콩：프리즘홀 10주년 기념공연 ‘A．D．10’</a></span>
-                                </p>
-                            </div>
-                        </td>
-                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
-                            2023.10.20 - 2023.10.20</td>
-                        <td class="show_loc">프리즘홀 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/09/2023092111401780d57eb2-3fcd-430a-a815-b8f6a7a8e42f.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
     </channel>
 </rss>

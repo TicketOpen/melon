@@ -4,9 +4,17 @@
         <title>멜론 티켓</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 19 Oct 2023 04:14:39 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 19 Oct 2023 05:12:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[해피성중데이 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7917</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7917</guid>
+            <pubDate>Thu, 19 Oct 2023 05:11:49 GMT</pubDate>
+            <content:encoded><![CDATA[2023.10.23(월) 20:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/10/202310191114523426c4a9-118d-41ad-b874-a4ccbceb0725.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
         <item>
             <title><![CDATA[정재일 콘서트－Listen 티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7915</link>
@@ -14,6 +22,14 @@
             <pubDate>Thu, 19 Oct 2023 01:49:23 GMT</pubDate>
             <content:encoded><![CDATA[2023.10.31(화) 11:00]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/10/20231019105726a4faaa19-aa23-4949-960c-f5c9c16a0284.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[Minet Music label Showcase 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7912</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7912</guid>
+            <pubDate>Thu, 19 Oct 2023 05:11:49 GMT</pubDate>
+            <content:encoded><![CDATA[2023.10.20(금) 14:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/10/2023101818304243d7515f-96a2-4b2e-af20-17112602ec78.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
         <item>
             <title><![CDATA[KINGDOM FANMEETING［KINGMAKER QUEST］티켓 오픈 안내]]></title>
@@ -70,22 +86,6 @@
             <pubDate>Wed, 18 Oct 2023 09:12:53 GMT</pubDate>
             <content:encoded><![CDATA[2023.10.19(목) 20:00]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/10/2023101713441115e262da-7c24-493a-a3a6-38884c5e383a.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[먼데이프로젝트 시즌6 Our Universe［더 픽스 단독 콘서트］티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7904</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7904</guid>
-            <pubDate>Wed, 18 Oct 2023 03:12:58 GMT</pubDate>
-            <content:encoded><![CDATA[2023.10.26(목) 20:00]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/10/20231017161705694ce0ef-e3a2-4f64-9e8d-f6290603a672.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[2023 박재우 단독 공연：아침보다 멀리 새벽보다 가까이 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7903</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7903</guid>
-            <pubDate>Wed, 18 Oct 2023 04:14:40 GMT</pubDate>
-            <content:encoded><![CDATA[2023.10.20(금) 20:00]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/10/202310171353086ddfd377-d73e-4140-98aa-a70b50c3b66d.png/melon/resize/65x92/strip/true" length="0" type="image/png/melon/resize/65x92/strip/true"/>
         </item>
     </channel>
 </rss>
