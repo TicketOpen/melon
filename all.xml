@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 21 Oct 2023 14:10:26 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 21 Oct 2023 15:11:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -643,29 +643,29 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/06/20230613170501ffaecba5-7a26-4227-8251-2e1868d0d760.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
-            <title><![CDATA[2023－24 엠씨더맥스 이수 콘서트 ‘기행문’－전주 (멜론티켓 ─ 판매중)]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=208660</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=208660</guid>
-            <pubDate>Fri, 20 Oct 2023 15:11:49 GMT</pubDate>
+            <title><![CDATA[다브다x제이통：프리즘홀 10주년 기념공연 ‘A．D．10‘ (멜론티켓 ─ 판매중)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=208804</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=208804</guid>
+            <pubDate>Sat, 21 Oct 2023 15:11:17 GMT</pubDate>
             <content:encoded><![CDATA[<td>
                             <div class="show_infor">
                                 <div class="thumb_90x125  img">
                                     <a href="#">
-                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/08/20230823094347694f3097-f5b6-4838-8045-c9f41d21251a.jpg/melon/resize/90x125/strip/true" alt="">
+                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/09/20230921140308f3d61820-970d-41ef-94c0-28bea2e64bd0.jpg/melon/resize/90x125/strip/true" alt="">
                                         <span class="frame"></span>
                                     </a>
                                 </div>
                                 <p class="infor_text">
                                     <span class="ico_wrap">
-                                        <span class="ico_list ico_list4"> 판매중</span></span>
-                                    <span class="show_title"><a href="/performance/index.htm?prodId=208660">2023－24 엠씨더맥스 이수 콘서트 ‘기행문’－전주</a></span>
+                                        <span class="ico_list ico_list1">단독판매</span><span class="ico_list ico_list4"> 판매중</span></span>
+                                    <span class="show_title"><a href="/performance/index.htm?prodId=208804">다브다x제이통：프리즘홀 10주년 기념공연 ‘A．D．10‘</a></span>
                                 </p>
                             </div>
                         </td>
                         <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
-                            2023.10.21 - 2023.10.21</td>
-                        <td class="show_loc">한국소리문화의전당 모악당</td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/08/20230823094347694f3097-f5b6-4838-8045-c9f41d21251a.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+                            2023.10.22 - 2023.10.22</td>
+                        <td class="show_loc">프리즘홀 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/09/20230921140308f3d61820-970d-41ef-94c0-28bea2e64bd0.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
     </channel>
 </rss>
