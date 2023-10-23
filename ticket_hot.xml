@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 23 Oct 2023 04:14:43 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Oct 2023 05:12:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,6 +30,22 @@
             <pubDate>Mon, 23 Oct 2023 00:53:20 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>23.10.12(목)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/10/20231020165852a45c1aff-57b7-43ef-8a1a-3939d5daba27.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 〈컴프롬어웨이〉 1차 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7928</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7928</guid>
+            <pubDate>Mon, 23 Oct 2023 05:12:08 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>23.10.27(금)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/10/202310201356549d5807ad-e803-45f8-9271-afe2451a9c2b.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[live SUM 2023：D82，9001，OAH！티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7926</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7926</guid>
+            <pubDate>Mon, 23 Oct 2023 05:12:08 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>23.10.26(목)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/10/20231020135148324f5c4b-499d-4a42-9bac-3fa67d88fa6b.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
         <item>
             <title><![CDATA[이주영 발라드 2023 “안녕，오랜만이야．” 티켓 오픈 안내]]></title>
@@ -70,22 +86,6 @@
             <pubDate>Mon, 23 Oct 2023 00:53:21 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>23.10.23(월)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/10/202310191614161c440657-e702-41c0-8d45-0edddaf287fa.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[92914 LIVE IN SEOUL－92914 연말 콘서트 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7920</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7920</guid>
-            <pubDate>Mon, 23 Oct 2023 00:53:21 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>23.10.27(금)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/10/20231019161615953e30b4-5cf6-43ce-ab56-ef8e161bfe78.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[연극 〈컬렉션〉 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7918</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7918</guid>
-            <pubDate>Mon, 23 Oct 2023 00:53:21 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>23.10.31(화)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/10/202310191527433a007151-899a-4af9-85bf-3b95facdb81b.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
