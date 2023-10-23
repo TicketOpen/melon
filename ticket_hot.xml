@@ -4,9 +4,17 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 23 Oct 2023 06:16:47 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Oct 2023 07:12:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[해피성중데이 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7917</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7917</guid>
+            <pubDate>Mon, 23 Oct 2023 00:53:21 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>23.10.23(월)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/10/202310191114523426c4a9-118d-41ad-b874-a4ccbceb0725.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
         <item>
             <title><![CDATA[에픽하이 20주년 콘서트 추가 회차 티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7921</link>
@@ -70,14 +78,6 @@
             <pubDate>Mon, 23 Oct 2023 00:53:20 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>23.09.21(목)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/10/2023101917121702d2ef71-8e6a-44e5-8f32-fd54707b638e.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[해피성중데이 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7917</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7917</guid>
-            <pubDate>Mon, 23 Oct 2023 00:53:21 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>23.10.23(월)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/10/202310191114523426c4a9-118d-41ad-b874-a4ccbceb0725.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 〈볼륨업〉 2차 티켓 오픈 안내]]></title>
