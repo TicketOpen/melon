@@ -4,9 +4,17 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 25 Oct 2023 04:15:18 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Oct 2023 05:11:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[어떤 겨울 날들－2023 겨울 스텔라장 소극장 콘서트 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7950</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7950</guid>
+            <pubDate>Wed, 25 Oct 2023 05:11:46 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>23.11.01(수)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/10/202310241440228cc27206-3da2-4cc0-af92-86c953d9daea.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
         <item>
             <title><![CDATA[뮤지컬 〈맥베스〉 티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7900</link>
@@ -22,6 +30,14 @@
             <pubDate>Tue, 24 Oct 2023 09:14:18 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>23.10.30(월)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/10/202310241636252eea2e47-f102-4a2e-abea-b30e46470b3f.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[정동원 3rd 성탄총동원（JEONG DONG WON’S 3rd CHRISTMAS CONCERT）티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7951</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7951</guid>
+            <pubDate>Wed, 25 Oct 2023 05:11:46 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>23.10.30(월)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/10/202310241625076677da2a-71c3-41d4-b82e-248501add50d.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
         <item>
             <title><![CDATA[웨더보트 정규 1집 음반 발매 기념 콘서트［Escape from the］티켓 오픈 안내]]></title>
@@ -70,22 +86,6 @@
             <pubDate>Tue, 24 Oct 2023 11:10:20 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>23.10.24(화)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/10/20231024092805add44b78-74ca-4bd4-a9f0-9480c575e2aa.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[KIM BYUNGJOO 1st FAN CONCERT：Serendipity 앵콜 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7935</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7935</guid>
-            <pubDate>Tue, 24 Oct 2023 09:14:18 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>23.10.25(수)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/10/202310240854395e716a05-5a3b-4e84-9d31-c875b7360eff.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 〈볼륨업〉 2차 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7919</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7919</guid>
-            <pubDate>Tue, 24 Oct 2023 09:14:18 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>23.10.23(월)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/10/202310191614161c440657-e702-41c0-8d45-0edddaf287fa.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
