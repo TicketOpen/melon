@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 판매중</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 29 Oct 2023 14:10:25 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 29 Oct 2023 15:11:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -31,31 +31,6 @@
                             2023.03.20 - 오픈런</td>
                         <td class="show_loc">해피씨어터 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/03/202303171047117fdc060a-8274-4ab8-ab99-990489e4f652.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[앤서니 브라운의 행복극장展]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=208141</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=208141</guid>
-            <pubDate>Sun, 29 Oct 2023 03:12:43 GMT</pubDate>
-            <content:encoded><![CDATA[<td>
-                            <div class="show_infor">
-                                <div class="thumb_90x125  img">
-                                    <a href="#">
-                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/04/20230426140128c7d2b131-3b93-48bf-93fc-2e839359076f.jpg/melon/resize/90x125/strip/true" alt="">
-                                        <span class="frame"></span>
-                                    </a>
-                                </div>
-                                <p class="infor_text">
-                                    <span class="ico_wrap">
-                                        <span class="ico_list ico_list4"> 판매중</span></span>
-                                    <span class="show_title"><a href="/performance/index.htm?prodId=208141">앤서니 브라운의 행복극장展</a></span>
-                                </p>
-                            </div>
-                        </td>
-                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
-                            2023.05.04 - 2023.10.29</td>
-                        <td class="show_loc">국립아시아문화전당 민주평화교류원 NNEWS </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/04/20230426140128c7d2b131-3b93-48bf-93fc-2e839359076f.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
             <title><![CDATA[상실의 징후들]]></title>
@@ -408,104 +383,129 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/10/202310181543481995efc7-ca71-4381-a9e6-cb9824c8d028.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
-            <title><![CDATA[푸치니 〈투란도트〉]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=208482</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=208482</guid>
-            <pubDate>Sun, 29 Oct 2023 03:12:43 GMT</pubDate>
+            <title><![CDATA[먼데이프로젝트 시즌6 My Universe［전유동 단독 콘서트］]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=208834</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=208834</guid>
+            <pubDate>Sun, 29 Oct 2023 15:11:20 GMT</pubDate>
             <content:encoded><![CDATA[<td>
                             <div class="show_infor">
                                 <div class="thumb_90x125  img">
                                     <a href="#">
-                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/10/20231006135750cdcd184a-27df-4f82-b3ce-24ddedfeb974.jpg/melon/resize/90x125/strip/true" alt="">
+                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/10/20231004091713a9acc163-a74c-460d-a692-6ea461cbaea4.jpg/melon/resize/90x125/strip/true" alt="">
+                                        <span class="frame"></span>
+                                    </a>
+                                </div>
+                                <p class="infor_text">
+                                    <span class="ico_wrap">
+                                        <span class="ico_list ico_list1">단독판매</span><span class="ico_list ico_list4"> 판매중</span></span>
+                                    <span class="show_title"><a href="/performance/index.htm?prodId=208834">먼데이프로젝트 시즌6 My Universe［전유동 단독 콘서트］</a></span>
+                                </p>
+                            </div>
+                        </td>
+                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
+                            2023.10.30 - 2023.10.30</td>
+                        <td class="show_loc">클럽온에어 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/10/20231004091713a9acc163-a74c-460d-a692-6ea461cbaea4.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[먼데이프로젝트 IN 라이브클럽［김승주 단독 콘서트］]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=208842</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=208842</guid>
+            <pubDate>Sun, 29 Oct 2023 15:11:20 GMT</pubDate>
+            <content:encoded><![CDATA[<td>
+                            <div class="show_infor">
+                                <div class="thumb_90x125  img">
+                                    <a href="#">
+                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/10/20231016175242cd51f85b-f6a1-4a5f-96ff-fdda53f37f44.jpg/melon/resize/90x125/strip/true" alt="">
+                                        <span class="frame"></span>
+                                    </a>
+                                </div>
+                                <p class="infor_text">
+                                    <span class="ico_wrap">
+                                        <span class="ico_list ico_list1">단독판매</span><span class="ico_list ico_list4"> 판매중</span></span>
+                                    <span class="show_title"><a href="/performance/index.htm?prodId=208842">먼데이프로젝트 IN 라이브클럽［김승주 단독 콘서트］</a></span>
+                                </p>
+                            </div>
+                        </td>
+                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
+                            2023.10.30 - 2023.10.31</td>
+                        <td class="show_loc">공상온도 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/10/20231016175242cd51f85b-f6a1-4a5f-96ff-fdda53f37f44.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[Minet Music label Showcase]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=208917</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=208917</guid>
+            <pubDate>Sun, 29 Oct 2023 15:11:20 GMT</pubDate>
+            <content:encoded><![CDATA[<td>
+                            <div class="show_infor">
+                                <div class="thumb_90x125  img">
+                                    <a href="#">
+                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/10/202310181852364187f1e1-ede7-443e-acab-3723bf618d61.jpg/melon/resize/90x125/strip/true" alt="">
+                                        <span class="frame"></span>
+                                    </a>
+                                </div>
+                                <p class="infor_text">
+                                    <span class="ico_wrap">
+                                        <span class="ico_list ico_list1">단독판매</span><span class="ico_list ico_list4"> 판매중</span></span>
+                                    <span class="show_title"><a href="/performance/index.htm?prodId=208917">Minet Music label Showcase</a></span>
+                                </p>
+                            </div>
+                        </td>
+                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
+                            2023.11.03 - 2023.11.03</td>
+                        <td class="show_loc">KT&amp;G 상상마당 부산 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/10/202310181852364187f1e1-ede7-443e-acab-3723bf618d61.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[［2차 얼리버드］에르베 튈레展 색색깔깔 뮤지엄]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=208934</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=208934</guid>
+            <pubDate>Sun, 29 Oct 2023 15:11:20 GMT</pubDate>
+            <content:encoded><![CDATA[<td>
+                            <div class="show_infor">
+                                <div class="thumb_90x125  img">
+                                    <a href="#">
+                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/10/20231019193622b7d4100b-7472-49a9-93f6-f924b60a7969.jpg/melon/resize/90x125/strip/true" alt="">
                                         <span class="frame"></span>
                                     </a>
                                 </div>
                                 <p class="infor_text">
                                     <span class="ico_wrap">
                                         <span class="ico_list ico_list4"> 판매중</span></span>
-                                    <span class="show_title"><a href="/performance/index.htm?prodId=208482">푸치니 〈투란도트〉</a></span>
+                                    <span class="show_title"><a href="/performance/index.htm?prodId=208934">［2차 얼리버드］에르베 튈레展 색색깔깔 뮤지엄</a></span>
                                 </p>
                             </div>
                         </td>
                         <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
-                            2023.10.26 - 2023.10.29</td>
-                        <td class="show_loc">세종문화회관 대극장</td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/10/20231006135750cdcd184a-27df-4f82-b3ce-24ddedfeb974.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+                            2023.11.03 - 2023.11.30</td>
+                        <td class="show_loc">예술의전당 한가람미술관 제3,4전시실</td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/10/20231019193622b7d4100b-7472-49a9-93f6-f924b60a7969.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
-            <title><![CDATA[2023 에일리 전국투어 ‘I AM：COLORFUL’－서울]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=208702</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=208702</guid>
-            <pubDate>Sun, 29 Oct 2023 03:12:43 GMT</pubDate>
+            <title><![CDATA[우리가 우리일 수 있게：이오늘 발매기념 단독콘서트]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=208683</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=208683</guid>
+            <pubDate>Sun, 29 Oct 2023 15:11:20 GMT</pubDate>
             <content:encoded><![CDATA[<td>
                             <div class="show_infor">
                                 <div class="thumb_90x125  img">
                                     <a href="#">
-                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/09/202309080848251456283f-735c-4868-9302-a1ab432490c9.jpg/melon/resize/90x125/strip/true" alt="">
-                                        <span class="frame"></span>
-                                    </a>
-                                </div>
-                                <p class="infor_text">
-                                    <span class="ico_wrap">
-                                        <span class="ico_list ico_list1">좌석우위</span><span class="ico_list ico_list4"> 판매중</span></span>
-                                    <span class="show_title"><a href="/performance/index.htm?prodId=208702">2023 에일리 전국투어 ‘I AM：COLORFUL’－서울</a></span>
-                                </p>
-                            </div>
-                        </td>
-                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
-                            2023.10.28 - 2023.10.29</td>
-                        <td class="show_loc">올림픽공원 올림픽홀</td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/09/202309080848251456283f-735c-4868-9302-a1ab432490c9.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[2023 WOODZ World Tour ‘OO－LI and’ in Seoul]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=208729</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=208729</guid>
-            <pubDate>Sun, 29 Oct 2023 03:12:43 GMT</pubDate>
-            <content:encoded><![CDATA[<td>
-                            <div class="show_infor">
-                                <div class="thumb_90x125  img">
-                                    <a href="#">
-                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/09/20230913152323510d125c-c0d4-4ede-91bc-e0b2d698b1e0.jpg/melon/resize/90x125/strip/true" alt="">
+                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/09/20230919135805079f19b8-0ce3-4057-a3f0-ca37a372a5e7.jpg/melon/resize/90x125/strip/true" alt="">
                                         <span class="frame"></span>
                                     </a>
                                 </div>
                                 <p class="infor_text">
                                     <span class="ico_wrap">
                                         <span class="ico_list ico_list1">단독판매</span><span class="ico_list ico_list4"> 판매중</span></span>
-                                    <span class="show_title"><a href="/performance/index.htm?prodId=208729">2023 WOODZ World Tour ‘OO－LI and’ in Seoul</a></span>
+                                    <span class="show_title"><a href="/performance/index.htm?prodId=208683">우리가 우리일 수 있게：이오늘 발매기념 단독콘서트</a></span>
                                 </p>
                             </div>
                         </td>
                         <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
-                            2023.10.28 - 2023.10.29</td>
-                        <td class="show_loc">올림픽공원 SK올림픽핸드볼경기장</td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/09/20230913152323510d125c-c0d4-4ede-91bc-e0b2d698b1e0.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[DANIEL]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=208847</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=208847</guid>
-            <pubDate>Sun, 29 Oct 2023 03:12:43 GMT</pubDate>
-            <content:encoded><![CDATA[<td>
-                            <div class="show_infor">
-                                <div class="thumb_90x125  img">
-                                    <a href="#">
-                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/10/20231005151432ecfd26cf-0b26-479c-93a0-0eac04406807.png/melon/resize/90x125/strip/true" alt="">
-                                        <span class="frame"></span>
-                                    </a>
-                                </div>
-                                <p class="infor_text">
-                                    <span class="ico_wrap">
-                                        <span class="ico_list ico_list1">단독판매</span><span class="ico_list ico_list4"> 판매중</span></span>
-                                    <span class="show_title"><a href="/performance/index.htm?prodId=208847">DANIEL</a></span>
-                                </p>
-                            </div>
-                        </td>
-                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
-                            2023.10.28 - 2023.10.29</td>
-                        <td class="show_loc">CJ아지트 광흥창 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/10/20231005151432ecfd26cf-0b26-479c-93a0-0eac04406807.png/melon/resize/90x125/strip/true" length="0" type="image/png/melon/resize/90x125/strip/true"/>
+                            2023.11.03 - 2023.11.03</td>
+                        <td class="show_loc">클럽온에어 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/09/20230919135805079f19b8-0ce3-4057-a3f0-ca37a372a5e7.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
     </channel>
 </rss>
