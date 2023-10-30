@@ -4,9 +4,17 @@
         <title>멜론 티켓</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 30 Oct 2023 04:15:01 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 Oct 2023 05:12:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[카코포니 단독공연［DIPUC］티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7972</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7972</guid>
+            <pubDate>Mon, 30 Oct 2023 05:12:06 GMT</pubDate>
+            <content:encoded><![CDATA[2023.11.06(월) 19:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/10/202310300923239f3ebe1a-c91c-4e21-8e19-94c49e646973.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
         <item>
             <title><![CDATA[Afternoon Tea＃1 Wynn（윈）티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7971</link>
@@ -78,14 +86,6 @@
             <pubDate>Sun, 29 Oct 2023 03:12:31 GMT</pubDate>
             <content:encoded><![CDATA[2023.11.01(수) 18:00]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/10/20231026095357ebb345d8-0188-422b-8019-cc90ffcb3329.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[2023 엄정화 단독 콘서트 〈초대〉－서울 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7962</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7962</guid>
-            <pubDate>Sun, 29 Oct 2023 03:12:31 GMT</pubDate>
-            <content:encoded><![CDATA[2023.11.01(수) 20:00]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/10/20231026174410ca204bba-7076-4c6a-a28b-9e68a569acfd.png/melon/resize/65x92/strip/true" length="0" type="image/png/melon/resize/65x92/strip/true"/>
         </item>
     </channel>
 </rss>
