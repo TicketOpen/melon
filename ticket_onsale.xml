@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 판매중</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Nov 2023 02:23:42 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Nov 2023 03:13:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -358,6 +358,31 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/10/202310181543481995efc7-ca71-4381-a9e6-cb9824c8d028.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
+            <title><![CDATA[엘리자베스 기덕]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=208745</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=208745</guid>
+            <pubDate>Wed, 01 Nov 2023 03:13:27 GMT</pubDate>
+            <content:encoded><![CDATA[<td>
+                            <div class="show_infor">
+                                <div class="thumb_90x125  img">
+                                    <a href="#">
+                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/09/20230912174953c3540e2e-d2d4-49ce-aa66-369234565449.jpg/melon/resize/90x125/strip/true" alt="">
+                                        <span class="frame"></span>
+                                    </a>
+                                </div>
+                                <p class="infor_text">
+                                    <span class="ico_wrap">
+                                        <span class="ico_list ico_list4"> 판매중</span></span>
+                                    <span class="show_title"><a href="/performance/index.htm?prodId=208745">엘리자베스 기덕</a></span>
+                                </p>
+                            </div>
+                        </td>
+                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
+                            2023.11.02 - 2023.11.05</td>
+                        <td class="show_loc">세종문화회관 M씨어터</td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/09/20230912174953c3540e2e-d2d4-49ce-aa66-369234565449.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
             <title><![CDATA[Minet Music label Showcase]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=208917</link>
             <guid>https://ticket.melon.com/performance/index.htm?prodId=208917</guid>
@@ -481,31 +506,6 @@
                             2023.11.03 - 2023.11.03</td>
                         <td class="show_loc">KT&amp;G 상상마당 홍대 라이브홀 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/09/20230921181102e293cf1f-5291-4ac1-aa73-dbac6621ced6.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[ANDOR 단독 콘서트：ESCAPE ROUTE]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=208815</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=208815</guid>
-            <pubDate>Tue, 31 Oct 2023 15:13:03 GMT</pubDate>
-            <content:encoded><![CDATA[<td>
-                            <div class="show_infor">
-                                <div class="thumb_90x125  img">
-                                    <a href="#">
-                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/09/20230922180405caf29742-639e-4c65-8e92-f2207a8d2d56.jpg/melon/resize/90x125/strip/true" alt="">
-                                        <span class="frame"></span>
-                                    </a>
-                                </div>
-                                <p class="infor_text">
-                                    <span class="ico_wrap">
-                                        <span class="ico_list ico_list1">단독판매</span><span class="ico_list ico_list4"> 판매중</span></span>
-                                    <span class="show_title"><a href="/performance/index.htm?prodId=208815">ANDOR 단독 콘서트：ESCAPE ROUTE</a></span>
-                                </p>
-                            </div>
-                        </td>
-                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
-                            2023.11.03 - 2023.11.03</td>
-                        <td class="show_loc">롤링홀 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/09/20230922180405caf29742-639e-4c65-8e92-f2207a8d2d56.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
     </channel>
 </rss>
