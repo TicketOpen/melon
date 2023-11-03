@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Nov 2023 10:13:29 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Nov 2023 11:10:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -64,6 +64,14 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/11/202311011818195aa06a89-b355-4396-8c34-3d51520d9e79.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
         <item>
+            <title><![CDATA[오왠 연말 브랜드 단독 콘서트 ‘ALWAYS WITH YOU’ 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8003</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8003</guid>
+            <pubDate>Fri, 03 Nov 2023 11:10:46 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>23.11.06(월)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/11/202311021427582b60cc15-90ee-4d37-81f4-1dc6bc4b054e.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
             <title><![CDATA[진민호 단독콘서트 ‘LOVE LOVE’ 티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7996</link>
             <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7996</guid>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 03 Nov 2023 09:12:55 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>23.11.06(월)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/11/20231102135824324a355c-6cde-42f7-a246-5bf61f6c301d.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[한올 연말 단독 콘서트 ‘A year’ 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7995</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7995</guid>
-            <pubDate>Thu, 02 Nov 2023 11:10:57 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>23.11.08(수)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/11/20231102113539a86433bb-ee98-4087-ad81-07077cc98664.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
