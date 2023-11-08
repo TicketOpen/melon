@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Nov 2023 10:13:07 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Nov 2023 11:11:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -64,6 +64,14 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/11/2023110721442148e7d16c-d888-4be9-bc29-de145ef88b5a.png/melon/resize/160x225/strip/true" length="0" type="image/png/melon/resize/160x225/strip/true"/>
         </item>
         <item>
+            <title><![CDATA[이지형 2023 연말콘서트 ‘온기’ 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8024</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8024</guid>
+            <pubDate>Wed, 08 Nov 2023 11:10:54 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>23.11.14(화)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/11/20231108151400346b664a-d2a7-45b4-bc3d-c500125ac520.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
             <title><![CDATA[모트 단독공연［미리 크리스모스］티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8023</link>
             <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8023</guid>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 08 Nov 2023 02:21:19 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>23.11.09(목)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/11/20231107132950b73d63f3-5e5b-4966-b071-2be9c225eab9.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[우예린 단독공연 ［Alice in ‘tokki’ land］티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8022</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8022</guid>
-            <pubDate>Wed, 08 Nov 2023 09:12:05 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>23.11.10(금)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/11/202311071106316692738b-f625-47ff-9070-8fa8c65f71be.png/melon/resize/160x225/strip/true" length="0" type="image/png/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
