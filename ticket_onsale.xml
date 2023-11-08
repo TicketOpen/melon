@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 판매중</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Nov 2023 14:11:51 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Nov 2023 15:13:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -458,31 +458,6 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/10/20231027124957df95868b-49b2-4c34-a4a4-282caa6bcbfa.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
-            <title><![CDATA[［울산］2023 카즈미 타테이시 트리오 내한공연－지브리，재즈를 만나다－]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=208694</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=208694</guid>
-            <pubDate>Wed, 08 Nov 2023 02:21:24 GMT</pubDate>
-            <content:encoded><![CDATA[<td>
-                            <div class="show_infor">
-                                <div class="thumb_90x125  img">
-                                    <a href="#">
-                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/09/2023090111243153207320-4d13-4d4c-b1fb-cf950ed812f2.jpg/melon/resize/90x125/strip/true" alt="">
-                                        <span class="frame"></span>
-                                    </a>
-                                </div>
-                                <p class="infor_text">
-                                    <span class="ico_wrap">
-                                        <span class="ico_list ico_list4"> 판매중</span></span>
-                                    <span class="show_title"><a href="/performance/index.htm?prodId=208694">［울산］2023 카즈미 타테이시 트리오 내한공연－지브리，재즈를 만나다－</a></span>
-                                </p>
-                            </div>
-                        </td>
-                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
-                            2023.11.08 - 2023.11.08</td>
-                        <td class="show_loc">울산중구문화의전당 함월홀</td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/09/2023090111243153207320-4d13-4d4c-b1fb-cf950ed812f2.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
             <title><![CDATA[LOVE IN SEOUL－권진아 X 샘김]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=208760</link>
             <guid>https://ticket.melon.com/performance/index.htm?prodId=208760</guid>
@@ -506,6 +481,31 @@
                             2023.11.09 - 2023.11.09</td>
                         <td class="show_loc">세종문화회관 대극장</td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/09/20230920110645d97cff8d-b4e6-4aae-ad89-e23ff65dea72.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[［부산］콘서트 오페라 라보엠]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=208672</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=208672</guid>
+            <pubDate>Wed, 08 Nov 2023 15:13:23 GMT</pubDate>
+            <content:encoded><![CDATA[<td>
+                            <div class="show_infor">
+                                <div class="thumb_90x125  img">
+                                    <a href="#">
+                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/09/202309041710182b78a215-6ff1-4b07-96a0-58b0c0ce4812.jpg/melon/resize/90x125/strip/true" alt="">
+                                        <span class="frame"></span>
+                                    </a>
+                                </div>
+                                <p class="infor_text">
+                                    <span class="ico_wrap">
+                                        <span class="ico_list ico_list4"> 판매중</span></span>
+                                    <span class="show_title"><a href="/performance/index.htm?prodId=208672">［부산］콘서트 오페라 라보엠</a></span>
+                                </p>
+                            </div>
+                        </td>
+                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
+                            2023.11.10 - 2023.11.10</td>
+                        <td class="show_loc">부산문화회관 대극장</td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/09/202309041710182b78a215-6ff1-4b07-96a0-58b0c0ce4812.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
     </channel>
 </rss>
