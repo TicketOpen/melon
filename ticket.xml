@@ -4,9 +4,25 @@
         <title>멜론 티켓</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Nov 2023 08:16:11 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Nov 2023 09:12:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[모트 단독공연［미리 크리스모스］티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8023</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8023</guid>
+            <pubDate>Wed, 08 Nov 2023 09:11:59 GMT</pubDate>
+            <content:encoded><![CDATA[2023.11.10(금) 18:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/11/2023110810390253ad0b42-da0e-4a35-bf3a-16ce697b669e.png/melon/resize/65x92/strip/true" length="0" type="image/png/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[우예린 단독공연 ［Alice in ‘tokki’ land］티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8022</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8022</guid>
+            <pubDate>Wed, 08 Nov 2023 09:11:59 GMT</pubDate>
+            <content:encoded><![CDATA[2023.11.10(금) 18:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/11/202311071106316692738b-f625-47ff-9070-8fa8c65f71be.png/melon/resize/65x92/strip/true" length="0" type="image/png/melon/resize/65x92/strip/true"/>
+        </item>
         <item>
             <title><![CDATA[2023 박소은 연말 단독 공연 〈일기：시간이 어지러울 만큼 빠르게 지나가〉 티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8020</link>
@@ -70,22 +86,6 @@
             <pubDate>Wed, 08 Nov 2023 02:21:13 GMT</pubDate>
             <content:encoded><![CDATA[2023.11.13(월) 20:00]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/11/20231106104738afd21106-dc16-4186-b788-4c24a31231ac.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[2023－24 엠씨더맥스 이수 콘서트 ‘기행문’－서울 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8011</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8011</guid>
-            <pubDate>Wed, 08 Nov 2023 02:21:13 GMT</pubDate>
-            <content:encoded><![CDATA[오픈일정 보기 &gt;]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/11/20231106113716bfc174aa-f1dc-400d-921d-21655327521d.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[이희상 단독콘서트 〈Childhood〉 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8010</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8010</guid>
-            <pubDate>Wed, 08 Nov 2023 02:21:13 GMT</pubDate>
-            <content:encoded><![CDATA[2023.11.09(목) 20:00]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/11/202311031551505426c333-e08d-4784-bfff-69d253e26835.png/melon/resize/65x92/strip/true" length="0" type="image/png/melon/resize/65x92/strip/true"/>
         </item>
     </channel>
 </rss>
