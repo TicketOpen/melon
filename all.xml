@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Nov 2023 14:11:14 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Nov 2023 15:12:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -618,31 +618,6 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/10/20231027124957df95868b-49b2-4c34-a4a4-282caa6bcbfa.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
-            <title><![CDATA[LOVE IN SEOUL－권진아 X 샘김 (멜론티켓 ─ 판매중)]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=208760</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=208760</guid>
-            <pubDate>Wed, 08 Nov 2023 02:21:24 GMT</pubDate>
-            <content:encoded><![CDATA[<td>
-                            <div class="show_infor">
-                                <div class="thumb_90x125  img">
-                                    <a href="#">
-                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/09/20230920110645d97cff8d-b4e6-4aae-ad89-e23ff65dea72.jpg/melon/resize/90x125/strip/true" alt="">
-                                        <span class="frame"></span>
-                                    </a>
-                                </div>
-                                <p class="infor_text">
-                                    <span class="ico_wrap">
-                                        <span class="ico_list ico_list4"> 판매중</span></span>
-                                    <span class="show_title"><a href="/performance/index.htm?prodId=208760">LOVE IN SEOUL－권진아 X 샘김</a></span>
-                                </p>
-                            </div>
-                        </td>
-                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
-                            2023.11.09 - 2023.11.09</td>
-                        <td class="show_loc">세종문화회관 대극장</td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/09/20230920110645d97cff8d-b4e6-4aae-ad89-e23ff65dea72.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
             <title><![CDATA[［부산］콘서트 오페라 라보엠 (멜론티켓 ─ 판매중)]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=208672</link>
             <guid>https://ticket.melon.com/performance/index.htm?prodId=208672</guid>
@@ -666,6 +641,31 @@
                             2023.11.10 - 2023.11.10</td>
                         <td class="show_loc">부산문화회관 대극장</td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/09/202309041710182b78a215-6ff1-4b07-96a0-58b0c0ce4812.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[EARS－UP season2（김일두＆박소은／짙은＆겨울에서 봄／최고은밴드＆지소쿠리클럽） (멜론티켓 ─ 판매중)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=208940</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=208940</guid>
+            <pubDate>Thu, 09 Nov 2023 15:12:34 GMT</pubDate>
+            <content:encoded><![CDATA[<td>
+                            <div class="show_infor">
+                                <div class="thumb_90x125  img">
+                                    <a href="#">
+                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/10/20231023104249173f9959-6030-4e06-966c-06d006934358.jpg/melon/resize/90x125/strip/true" alt="">
+                                        <span class="frame"></span>
+                                    </a>
+                                </div>
+                                <p class="infor_text">
+                                    <span class="ico_wrap">
+                                        <span class="ico_list ico_list1">단독판매</span><span class="ico_list ico_list4"> 판매중</span></span>
+                                    <span class="show_title"><a href="/performance/index.htm?prodId=208940">EARS－UP season2（김일두＆박소은／짙은＆겨울에서 봄／최고은밴드＆지소쿠리클럽）</a></span>
+                                </p>
+                            </div>
+                        </td>
+                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
+                            2023.11.10 - 2023.11.12</td>
+                        <td class="show_loc">고라니특공대 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/10/20231023104249173f9959-6030-4e06-966c-06d006934358.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
     </channel>
 </rss>
