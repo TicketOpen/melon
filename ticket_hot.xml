@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Nov 2023 08:15:22 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Nov 2023 09:12:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -56,6 +56,14 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/11/2023110817080046fc6a71-7292-4090-af67-b7fa9e822eb7.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
         <item>
+            <title><![CDATA[g0nny（거니）단독콘서트 〈Blanket〉 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8043</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8043</guid>
+            <pubDate>Fri, 10 Nov 2023 09:12:03 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>23.11.16(목)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/11/20231109172821ff27875d-99a7-4baa-91fb-97d9e3845867.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
             <title><![CDATA[〈베르사유의 장미〉 뮤지컬 콘서트 티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8044</link>
             <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8044</guid>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 10 Nov 2023 07:11:33 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>23.11.15(수)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/11/202311091707284bf34f1a-0ca8-42b1-af7b-5fcd06a6d13d.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[리베로시스（Liberosis）단독 콘서트 〈Re－mind〉 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8036</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8036</guid>
-            <pubDate>Fri, 10 Nov 2023 05:11:45 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>23.11.13(월)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/11/20231109144715874d46b1-977d-4a29-a08d-d568e18e3916.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
