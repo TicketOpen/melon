@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Nov 2023 04:14:25 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Nov 2023 05:11:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -48,6 +48,22 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/11/2023111010420055544d8a-4858-48c6-a364-b0afcb65e156.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
         <item>
+            <title><![CDATA[고갱 단독 공연 어쿠스틱 콘서트（ENCORE）티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8037</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8037</guid>
+            <pubDate>Fri, 10 Nov 2023 05:11:45 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>23.11.14(화)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/11/202311101000536a857410-bfcf-4e4d-bc3c-ebffb25593a2.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[리베로시스（Liberosis）단독 콘서트 〈Re－mind〉 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8036</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8036</guid>
+            <pubDate>Fri, 10 Nov 2023 05:11:45 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>23.11.13(월)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/11/20231109144715874d46b1-977d-4a29-a08d-d568e18e3916.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
             <title><![CDATA[소피아 발레단 내한공연 〈호두까기 인형〉－부산 티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7727</link>
             <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7727</guid>
@@ -70,22 +86,6 @@
             <pubDate>Thu, 09 Nov 2023 05:11:53 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>23.11.08(수)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/11/20231109132138d3082ee3-5fcd-4168-8280-202a09d5fd3b.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[〈2023 빅마마 콘서트［ACT20］〉 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7993</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7993</guid>
-            <pubDate>Thu, 09 Nov 2023 05:11:53 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>23.11.09(목)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/11/202311091317498cca1a02-58c5-4851-8c25-96c1b54c3e32.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[옥주현 팬서트 〈우리，차 한 잔 할까〉 회차 추가 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8026</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8026</guid>
-            <pubDate>Thu, 09 Nov 2023 01:52:03 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>23.11.13(월)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/11/20231109085533db5ca979-9af8-41c7-9ea2-e854febe8821.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
