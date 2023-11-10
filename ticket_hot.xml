@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Nov 2023 06:16:41 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Nov 2023 07:11:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -56,6 +56,14 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/11/202311101000536a857410-bfcf-4e4d-bc3c-ebffb25593a2.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
         <item>
+            <title><![CDATA[캡틴플래닛，안세하，서로이 콘서트 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8038</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8038</guid>
+            <pubDate>Fri, 10 Nov 2023 07:11:33 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>23.11.15(수)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/11/202311091707284bf34f1a-0ca8-42b1-af7b-5fcd06a6d13d.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
             <title><![CDATA[리베로시스（Liberosis）단독 콘서트 〈Re－mind〉 티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8036</link>
             <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8036</guid>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 09 Nov 2023 06:15:36 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>23.11.09(목)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/11/2023110110024239f4b39e-dbad-4946-92be-87f10ac32a18.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[OFF－Live with 9（송재경）티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=7998</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=7998</guid>
-            <pubDate>Thu, 09 Nov 2023 05:11:53 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>23.11.08(수)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/11/20231109132138d3082ee3-5fcd-4168-8280-202a09d5fd3b.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
