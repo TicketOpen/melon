@@ -4,7 +4,7 @@
         <title>멜론 티켓</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Nov 2023 07:11:40 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Nov 2023 08:15:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Fri, 10 Nov 2023 02:21:46 GMT</pubDate>
             <content:encoded><![CDATA[2023.11.14(화) 14:00]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/11/2023111010420055544d8a-4858-48c6-a364-b0afcb65e156.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[TAEMIN SOLO CONCERT：METAMORPH 추가 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8041</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8041</guid>
+            <pubDate>Fri, 10 Nov 2023 08:15:08 GMT</pubDate>
+            <content:encoded><![CDATA[2023.11.14(화) 20:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/11/20231110102205e7649e56-8b8b-456a-a1c3-25cba01a0182.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
         <item>
             <title><![CDATA[캡틴플래닛，안세하，서로이 콘서트 티켓 오픈 안내]]></title>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 09 Nov 2023 05:11:49 GMT</pubDate>
             <content:encoded><![CDATA[2023.11.16(목) 14:00]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/11/20231108183307c8da4be7-afb3-47fd-8300-b509bc2c5301.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[2023 낭만 김용필 디너쇼 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8030</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8030</guid>
-            <pubDate>Thu, 09 Nov 2023 05:11:49 GMT</pubDate>
-            <content:encoded><![CDATA[오픈일정 보기 &gt;]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/11/20231108191139be911141-e857-45f1-a6b8-dc6ecb35e625.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
     </channel>
 </rss>
