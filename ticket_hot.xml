@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Nov 2023 04:14:51 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Nov 2023 05:12:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -64,6 +64,14 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/11/20231107132950b73d63f3-5e5b-4966-b071-2be9c225eab9.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
         <item>
+            <title><![CDATA[Newtro music for D’SOUND 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8050</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8050</guid>
+            <pubDate>Mon, 13 Nov 2023 05:11:55 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>23.11.14(화)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/11/202311101544363abaa3ed-3818-4946-8c0e-e4a9df102e5c.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
             <title><![CDATA[너드커넥션 연말 공연 〈THE NERDCONNECTION 2023〉 티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8032</link>
             <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8032</guid>
@@ -78,14 +86,6 @@
             <pubDate>Sun, 12 Nov 2023 02:24:51 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>23.11.22(수)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/11/20231108173806a6b6c1fc-bd9b-49fa-b8f8-d978c5c79518.png/melon/resize/160x225/strip/true" length="0" type="image/png/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[허밍어반스테레오 크리스마스이브 콘서트 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8034</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8034</guid>
-            <pubDate>Sun, 12 Nov 2023 02:24:51 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>23.11.14(화)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/11/202311081546236a0e55c7-0388-479d-becb-3531c14b484b.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
