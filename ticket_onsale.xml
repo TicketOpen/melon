@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 판매중</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Nov 2023 07:11:22 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Nov 2023 08:15:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -333,6 +333,31 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/10/202310181543481995efc7-ca71-4381-a9e6-cb9824c8d028.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
+            <title><![CDATA[［2023_셀러브리티 로코연극］러브액츄얼리 첫번째사연 크리스마스 특별공연－부산]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=209080</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=209080</guid>
+            <pubDate>Tue, 14 Nov 2023 08:15:31 GMT</pubDate>
+            <content:encoded><![CDATA[<td>
+                            <div class="show_infor">
+                                <div class="thumb_90x125  img">
+                                    <a href="#">
+                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/11/20231113175556beda3fe5-1f45-4918-9768-f95a2c18f109.jpg/melon/resize/90x125/strip/true" alt="">
+                                        <span class="frame"></span>
+                                    </a>
+                                </div>
+                                <p class="infor_text">
+                                    <span class="ico_wrap">
+                                        <span class="ico_list ico_list4"> 판매중</span></span>
+                                    <span class="show_title"><a href="/performance/index.htm?prodId=209080">［2023_셀러브리티 로코연극］러브액츄얼리 첫번째사연 크리스마스 특별공연－부산</a></span>
+                                </p>
+                            </div>
+                        </td>
+                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
+                            2023.10.20 - 2023.12.31</td>
+                        <td class="show_loc">부산메트로홀 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/11/20231113175556beda3fe5-1f45-4918-9768-f95a2c18f109.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
             <title><![CDATA[［2차 얼리버드］에르베 튈레展 색색깔깔 뮤지엄]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=208934</link>
             <guid>https://ticket.melon.com/performance/index.htm?prodId=208934</guid>
@@ -481,31 +506,6 @@
                             2023.11.16 - 2023.11.17</td>
                         <td class="show_loc">세종문화회관 대극장</td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/09/20230915094644842a57d8-bab2-4afb-9831-ea612e77c1d1.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[베리코이버니 2nd EP 〈NOW OR NEVER〉 발매 쇼케이스]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=208898</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=208898</guid>
-            <pubDate>Mon, 13 Nov 2023 15:13:05 GMT</pubDate>
-            <content:encoded><![CDATA[<td>
-                            <div class="show_infor">
-                                <div class="thumb_90x125  img">
-                                    <a href="#">
-                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/10/2023101614302438e4d225-0f7b-470c-82d1-1295a770a1c9.jpg/melon/resize/90x125/strip/true" alt="">
-                                        <span class="frame"></span>
-                                    </a>
-                                </div>
-                                <p class="infor_text">
-                                    <span class="ico_wrap">
-                                        <span class="ico_list ico_list1">단독판매</span><span class="ico_list ico_list4"> 판매중</span></span>
-                                    <span class="show_title"><a href="/performance/index.htm?prodId=208898">베리코이버니 2nd EP 〈NOW OR NEVER〉 발매 쇼케이스</a></span>
-                                </p>
-                            </div>
-                        </td>
-                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
-                            2023.11.16 - 2023.11.16</td>
-                        <td class="show_loc">클럽온에어 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/10/2023101614302438e4d225-0f7b-470c-82d1-1295a770a1c9.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
     </channel>
 </rss>
