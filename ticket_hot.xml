@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Nov 2023 02:26:11 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Nov 2023 03:13:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -32,12 +32,28 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/11/202311140917267dd3718c-2e10-42cc-bde2-2fbf1ba9138c.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
         <item>
+            <title><![CDATA[배기성30주년기념콘서트 내생에 봄날은 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8068</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8068</guid>
+            <pubDate>Thu, 16 Nov 2023 03:13:09 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>23.11.16(목)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/11/20231115161104d7e3e946-f2d8-4808-9063-aa49c6ee1de2.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
             <title><![CDATA[뮤지컬 〈레베카〉 10주년 기념 공연 앙코르 1차 티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8062</link>
             <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8062</guid>
             <pubDate>Wed, 15 Nov 2023 02:25:10 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>23.11.21(화)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/11/20231115151606ceb9fd7b-a63c-4b51-b4f1-b75646054537.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[먼데이프로젝트 시즌6 My Universe［정새벽 단독 콘서트］티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8070</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8070</guid>
+            <pubDate>Thu, 16 Nov 2023 03:13:09 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>23.11.22(수)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/11/20231115142818f81e604d-1cbe-498b-a284-b90ada8437ca.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
         <item>
             <title><![CDATA[2023 THE CRY X－MAS 티켓 오픈 안내]]></title>
@@ -70,22 +86,6 @@
             <pubDate>Wed, 15 Nov 2023 03:13:00 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>23.11.22(수)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/11/202311141706599c47b315-4733-4303-8e19-993f9ab24679.png/melon/resize/160x225/strip/true" length="0" type="image/png/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[해서웨이（Hathaw9y）2023 연말공연：LOVESSENTIAL 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8064</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8064</guid>
-            <pubDate>Wed, 15 Nov 2023 06:16:16 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>23.11.22(수)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/11/202311141654292fde1c54-7e07-4dc6-823b-39fcf70d6918.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[누군가의 플레이리스트 Track．73 OurR 단독콘서트 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8065</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8065</guid>
-            <pubDate>Wed, 15 Nov 2023 09:13:28 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>23.11.16(목)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/11/2023111413484853e8a65b-53fc-48d5-b7f3-2a17281c625a.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
