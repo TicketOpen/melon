@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Nov 2023 23:12:26 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Nov 2023 00:55:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Thu, 16 Nov 2023 07:11:43 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>23.11.22(수)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/11/20231108173806a6b6c1fc-bd9b-49fa-b8f8-d978c5c79518.png/melon/resize/160x225/strip/true" length="0" type="image/png/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[극동아시아타이거즈 단독콘서트 호랑이 대잔치 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8076</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8076</guid>
+            <pubDate>Fri, 17 Nov 2023 00:55:47 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>23.11.21(화)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/11/202311161500229f1a7f3e-f881-4333-8e9b-b134f511181c.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 〈시스터 액트〉 1차 티켓 오픈 안내]]></title>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 15 Nov 2023 09:13:28 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>23.11.20(월)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/11/2023111416172022682f0e-457c-4117-a941-5497d98e4617.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[2023 루나 콘서트 〈THE LOVE AFFAIR：A Night Of Music〉 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8060</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8060</guid>
-            <pubDate>Tue, 14 Nov 2023 09:12:48 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>23.11.17(금)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/11/2023111313142207ffcf46-09a5-478a-b5fc-ea75b6fdca01.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
