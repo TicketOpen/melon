@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Nov 2023 14:12:32 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Nov 2023 15:13:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -543,31 +543,6 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/09/20230914161102dd8a31f5-109c-4c92-8675-8fdb0a95b723.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
-            <title><![CDATA[먼데이프로젝트 시즌6 My Universe［김필선 단독 콘서트］ (멜론티켓 ─ 판매중)]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=208957</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=208957</guid>
-            <pubDate>Sun, 19 Nov 2023 15:12:11 GMT</pubDate>
-            <content:encoded><![CDATA[<td>
-                            <div class="show_infor">
-                                <div class="thumb_90x125  img">
-                                    <a href="#">
-                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/10/20231024174423266abdac-4e75-47d5-a2f9-c60d4a592b5a.jpg/melon/resize/90x125/strip/true" alt="">
-                                        <span class="frame"></span>
-                                    </a>
-                                </div>
-                                <p class="infor_text">
-                                    <span class="ico_wrap">
-                                        <span class="ico_list ico_list1">단독판매</span><span class="ico_list ico_list4"> 판매중</span></span>
-                                    <span class="show_title"><a href="/performance/index.htm?prodId=208957">먼데이프로젝트 시즌6 My Universe［김필선 단독 콘서트］</a></span>
-                                </p>
-                            </div>
-                        </td>
-                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
-                            2023.11.20 - 2023.11.20</td>
-                        <td class="show_loc">클럽온에어 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/10/20231024174423266abdac-4e75-47d5-a2f9-c60d4a592b5a.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
             <title><![CDATA[먼데이프로젝트 시즌6［숨비 EP 앨범 발매 콘서트 “다이아몬드”］ (멜론티켓 ─ 판매중)]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=208945</link>
             <guid>https://ticket.melon.com/performance/index.htm?prodId=208945</guid>
@@ -666,6 +641,31 @@
                             2023.11.21 - 2024.02.11</td>
                         <td class="show_loc">디큐브 링크아트센터 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/11/20231116102535818e51ec-41ad-4b0f-88ef-ae9f985acd4b.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 〈몬테크리스토〉 (멜론티켓 ─ 판매중)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=208841</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=208841</guid>
+            <pubDate>Mon, 20 Nov 2023 15:13:49 GMT</pubDate>
+            <content:encoded><![CDATA[<td>
+                            <div class="show_infor">
+                                <div class="thumb_90x125  img">
+                                    <a href="#">
+                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/10/20231020165712ee44928b-1d5c-4c58-8340-5d12d9e95af0.jpg/melon/resize/90x125/strip/true" alt="">
+                                        <span class="frame"></span>
+                                    </a>
+                                </div>
+                                <p class="infor_text">
+                                    <span class="ico_wrap">
+                                        <span class="ico_list ico_list4"> 판매중</span></span>
+                                    <span class="show_title"><a href="/performance/index.htm?prodId=208841">뮤지컬 〈몬테크리스토〉</a></span>
+                                </p>
+                            </div>
+                        </td>
+                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
+                            2023.11.21 - 2024.02.25</td>
+                        <td class="show_loc">충무아트센터 대극장</td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/10/20231020165712ee44928b-1d5c-4c58-8340-5d12d9e95af0.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
     </channel>
 </rss>
