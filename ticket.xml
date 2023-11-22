@@ -4,9 +4,17 @@
         <title>멜론 티켓</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Nov 2023 08:16:03 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Nov 2023 09:13:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[우리 다시 크리스마스 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8112</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8112</guid>
+            <pubDate>Wed, 22 Nov 2023 09:12:50 GMT</pubDate>
+            <content:encoded><![CDATA[2023.11.23(목) 18:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/11/2023112211292440e06652-f7ff-4bf8-8101-50a903df995b.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
         <item>
             <title><![CDATA[박종민 단독 공연 〈종민 투어 vol．1〉 in 서울 추가 티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8111</link>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 21 Nov 2023 05:12:22 GMT</pubDate>
             <content:encoded><![CDATA[2023.11.23(목) 14:00]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/11/2023112018243604fc24fd-a648-4a69-b390-4c409407a0b5.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[2024 장윤정 라이브 콘서트－광주 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8102</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8102</guid>
-            <pubDate>Tue, 21 Nov 2023 05:12:22 GMT</pubDate>
-            <content:encoded><![CDATA[2023.11.23(목) 14:00]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/11/2023112011373235a0e41b-7633-4849-8e92-b4884e18bce8.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
     </channel>
 </rss>
