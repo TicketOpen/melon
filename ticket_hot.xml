@@ -4,9 +4,17 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Nov 2023 05:12:19 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Nov 2023 06:16:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[박종민 단독 공연 〈종민 투어 vol．1〉 in 서울 추가 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8111</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8111</guid>
+            <pubDate>Wed, 22 Nov 2023 06:16:44 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>23.11.28(화)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/11/2023112214555207330c8c-d282-4445-84d4-242beb639dac.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
         <item>
             <title><![CDATA[히어로 2023 티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8101</link>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 22 Nov 2023 03:13:27 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>23.11.24(금)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/11/20231121134713113dfad6-3bc8-4c68-9a81-25d0bdde3605.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[THE DAYE’S LAST PARTY（WITHOUT PIZZAFAIRY ）티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8106</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8106</guid>
-            <pubDate>Tue, 21 Nov 2023 05:12:27 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>23.11.23(목)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/11/202311211010066550ff22-88b5-44ba-b6a2-1ff2721e9180.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
