@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 26 Nov 2023 14:10:13 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Nov 2023 15:11:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -243,31 +243,6 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/06/20230615093651774ba215-8bd2-45a5-9ca2-819f6a9c073c.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
-            <title><![CDATA[데이비드 호크니＆브리티시 팝아트（부산） (멜론티켓 ─ 판매중)]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=208526</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=208526</guid>
-            <pubDate>Sun, 12 Nov 2023 02:24:58 GMT</pubDate>
-            <content:encoded><![CDATA[<td>
-                            <div class="show_infor">
-                                <div class="thumb_90x125  img">
-                                    <a href="#">
-                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/07/20230721173501cedaf539-2945-49c1-b567-dd3dfdf78efb.jpg/melon/resize/90x125/strip/true" alt="">
-                                        <span class="frame"></span>
-                                    </a>
-                                </div>
-                                <p class="infor_text">
-                                    <span class="ico_wrap">
-                                        <span class="ico_list ico_list4"> 판매중</span></span>
-                                    <span class="show_title"><a href="/performance/index.htm?prodId=208526">데이비드 호크니＆브리티시 팝아트（부산）</a></span>
-                                </p>
-                            </div>
-                        </td>
-                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
-                            2023.07.21 - 2023.11.26</td>
-                        <td class="show_loc">동구 문화플랫폼(구, 부산진역사) </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/07/20230721173501cedaf539-2945-49c1-b567-dd3dfdf78efb.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
             <title><![CDATA[미구엘 슈발리에 〈디지털 뷰티 시즌 2〉 (멜론티켓 ─ 판매중)]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=208573</link>
             <guid>https://ticket.melon.com/performance/index.htm?prodId=208573</guid>
@@ -391,31 +366,6 @@
                             2023.10.06 - 2024.01.28</td>
                         <td class="show_loc">서울숲 갤러리아포레 씨어터 1관</td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/09/20230911110431c58a4d70-a31b-4a05-a3e8-a67c1c1b0ca0.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[［얼리버드］세르주 블로크展 ‘KISS’ (멜론티켓 ─ 판매중)]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=208738</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=208738</guid>
-            <pubDate>Sun, 12 Nov 2023 02:24:58 GMT</pubDate>
-            <content:encoded><![CDATA[<td>
-                            <div class="show_infor">
-                                <div class="thumb_90x125  img">
-                                    <a href="#">
-                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/09/20230927152422c802319d-adaa-4fcd-90a3-346459b19c88.jpg/melon/resize/90x125/strip/true" alt="">
-                                        <span class="frame"></span>
-                                    </a>
-                                </div>
-                                <p class="infor_text">
-                                    <span class="ico_wrap">
-                                        <span class="ico_list ico_list4"> 판매중</span></span>
-                                    <span class="show_title"><a href="/performance/index.htm?prodId=208738">［얼리버드］세르주&nbsp;블로크展 ‘KISS’</a></span>
-                                </p>
-                            </div>
-                        </td>
-                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
-                            2023.10.19 - 2023.11.26</td>
-                        <td class="show_loc">뉴스뮤지엄 연희 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/09/20230927152422c802319d-adaa-4fcd-90a3-346459b19c88.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
             <title><![CDATA[세르주 블로크展：KISS (멜론티켓 ─ 판매중)]]></title>
@@ -666,6 +616,56 @@
                             2023.11.21 - 2024.02.11</td>
                         <td class="show_loc">디큐브 링크아트센터 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/10/2023102615003101d344bc-a1a7-4c07-a0f8-cff9e112d296.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[［평일권］세르주 블로크展：KISS (멜론티켓 ─ 판매중)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=209130</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=209130</guid>
+            <pubDate>Sun, 26 Nov 2023 15:11:32 GMT</pubDate>
+            <content:encoded><![CDATA[<td>
+                            <div class="show_infor">
+                                <div class="thumb_90x125  img">
+                                    <a href="#">
+                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/11/20231120181319faeee75a-126d-4326-a81b-875b9c4089f6.jpg/melon/resize/90x125/strip/true" alt="">
+                                        <span class="frame"></span>
+                                    </a>
+                                </div>
+                                <p class="infor_text">
+                                    <span class="ico_wrap">
+                                        <span class="ico_list ico_list4"> 판매중</span></span>
+                                    <span class="show_title"><a href="/performance/index.htm?prodId=209130">［평일권］세르주 블로크展：KISS</a></span>
+                                </p>
+                            </div>
+                        </td>
+                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
+                            2023.11.21 - 2023.12.31</td>
+                        <td class="show_loc">뉴스뮤지엄 연희 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/11/20231120181319faeee75a-126d-4326-a81b-875b9c4089f6.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[〈The House Of M〉 (멜론티켓 ─ 판매중)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=209024</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=209024</guid>
+            <pubDate>Sun, 26 Nov 2023 15:11:32 GMT</pubDate>
+            <content:encoded><![CDATA[<td>
+                            <div class="show_infor">
+                                <div class="thumb_90x125  img">
+                                    <a href="#">
+                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/11/20231106144605c2b33880-f98b-44b2-a922-187a8a56260b.jpg/melon/resize/90x125/strip/true" alt="">
+                                        <span class="frame"></span>
+                                    </a>
+                                </div>
+                                <p class="infor_text">
+                                    <span class="ico_wrap">
+                                        <span class="ico_list ico_list1">단독판매</span><span class="ico_list ico_list4"> 판매중</span></span>
+                                    <span class="show_title"><a href="/performance/index.htm?prodId=209024">〈The House Of M〉</a></span>
+                                </p>
+                            </div>
+                        </td>
+                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
+                            2023.11.23 - 2023.11.30</td>
+                        <td class="show_loc">- </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/11/20231106144605c2b33880-f98b-44b2-a922-187a8a56260b.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
     </channel>
 </rss>
