@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 판매중</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Dec 2023 00:56:27 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Dec 2023 01:56:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -433,6 +433,31 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/11/20231120181319faeee75a-126d-4326-a81b-875b9c4089f6.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
+            <title><![CDATA[［프랑스윈터패키지］세르주 블로크展：KISS＋에르베 튈레展 색색깔깔 뮤지엄]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=209183</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=209183</guid>
+            <pubDate>Mon, 04 Dec 2023 01:56:07 GMT</pubDate>
+            <content:encoded><![CDATA[<td>
+                            <div class="show_infor">
+                                <div class="thumb_90x125  img">
+                                    <a href="#">
+                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/12/20231201171053a59f8872-e745-450a-8191-2965864da8f3.jpg/melon/resize/90x125/strip/true" alt="">
+                                        <span class="frame"></span>
+                                    </a>
+                                </div>
+                                <p class="infor_text">
+                                    <span class="ico_wrap">
+                                        <span class="ico_list ico_list4"> 판매중</span></span>
+                                    <span class="show_title"><a href="/performance/index.htm?prodId=209183">［프랑스윈터패키지］세르주 블로크展：KISS＋에르베 튈레展 색색깔깔 뮤지엄</a></span>
+                                </p>
+                            </div>
+                        </td>
+                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
+                            2023.11.28 - 2024.01.28</td>
+                        <td class="show_loc">- </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/12/20231201171053a59f8872-e745-450a-8191-2965864da8f3.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
             <title><![CDATA[뮤지컬 〈컴프롬어웨이〉]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=208808</link>
             <guid>https://ticket.melon.com/performance/index.htm?prodId=208808</guid>
@@ -481,31 +506,6 @@
                             2023.12.01 - 2023.12.10</td>
                         <td class="show_loc">세종문화회관 S씨어터</td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/10/202310311132315dcd54a1-a877-4568-aaeb-369fc3935ae0.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 〈맥베스〉]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=208912</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=208912</guid>
-            <pubDate>Sun, 03 Dec 2023 15:11:12 GMT</pubDate>
-            <content:encoded><![CDATA[<td>
-                            <div class="show_infor">
-                                <div class="thumb_90x125  img">
-                                    <a href="#">
-                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/11/20231102134737ac659efd-1048-4acf-b377-e0b93d7fe4be.jpg/melon/resize/90x125/strip/true" alt="">
-                                        <span class="frame"></span>
-                                    </a>
-                                </div>
-                                <p class="infor_text">
-                                    <span class="ico_wrap">
-                                        <span class="ico_list ico_list4"> 판매중</span></span>
-                                    <span class="show_title"><a href="/performance/index.htm?prodId=208912">뮤지컬 〈맥베스〉</a></span>
-                                </p>
-                            </div>
-                        </td>
-                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
-                            2023.12.02 - 2023.12.30</td>
-                        <td class="show_loc">세종문화회관 M씨어터</td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/11/20231102134737ac659efd-1048-4acf-b377-e0b93d7fe4be.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
     </channel>
 </rss>
