@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Dec 2023 02:27:15 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Dec 2023 03:13:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Fri, 01 Dec 2023 09:12:40 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>23.12.04(월)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/11/202311301551587845a68a-9732-4939-844e-b6b1ace32462.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[먼데이프로젝트 IN 라이브클럽［브로큰티스 단독 콘서트］티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8154</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8154</guid>
+            <pubDate>Mon, 04 Dec 2023 03:13:30 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>23.12.07(목)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/12/20231201154334b86c386b-d212-4144-a9fb-d6f043147524.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
         <item>
             <title><![CDATA[2023 NAM WOO HYUN CONCERT 〈식목일 3－WHITREE〉 티켓 오픈 안내]]></title>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 01 Dec 2023 09:12:40 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>23.12.04(월)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/11/2023113015344121afba09-61bd-478c-a873-71aeecd2f499.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[2023 WeSA Festival：Sound is the New Music 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8144</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8144</guid>
-            <pubDate>Thu, 30 Nov 2023 06:16:49 GMT</pubDate>
-            <content:encoded><![CDATA[오픈일정 보기 &gt;]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/11/20231130150232ba6c0025-d1ba-4a86-a7ad-16b3b6cc720f.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
