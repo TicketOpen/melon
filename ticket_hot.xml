@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Dec 2023 02:27:53 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Dec 2023 03:13:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -38,6 +38,14 @@
             <pubDate>Mon, 04 Dec 2023 05:12:20 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>23.12.05(화)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/12/202312011332058d8b4ac0-81c2-4c81-9cbe-923a646ec8fe.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[찬주 싱글 발매 기념 콘서트 ‘Fireplace for Your Winter’：롤링 29주년 기념 공연 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8158</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8158</guid>
+            <pubDate>Tue, 05 Dec 2023 03:13:43 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>23.12.11(월)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/12/20231204115445b123ebec-2219-4a90-8bf1-c3d9e99e980b.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
         <item>
             <title><![CDATA[먼데이프로젝트 IN 라이브클럽［브로큰티스 단독 콘서트］티켓 오픈 안내]]></title>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 01 Dec 2023 09:12:40 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>23.12.07(목)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/12/20231201105405950147f2-b7fb-4e3b-bf9a-95d935b29338.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[현대카드 Curated 90 BE’O 1st Concert in Seoul 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8146</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8146</guid>
-            <pubDate>Fri, 01 Dec 2023 03:13:25 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>23.12.06(수)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/12/2023120110020113d533dd-680e-40d2-bb39-6adf06959f9c.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
