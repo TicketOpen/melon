@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Dec 2023 08:16:40 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Dec 2023 09:12:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Wed, 06 Dec 2023 11:11:12 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>23.12.08(금)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/12/20231206103625d6cc9c92-b4b7-4202-88ff-dea047eb0040.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[2024 Lee－start 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8170</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8170</guid>
+            <pubDate>Thu, 07 Dec 2023 09:12:52 GMT</pubDate>
+            <content:encoded><![CDATA[오픈일정 보기 &gt;]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/12/2023120615135040a7f2d8-9c39-40df-baa9-a325f9b21b52.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
         <item>
             <title><![CDATA[피에타 단독 콘서트 ‘열상’：롤링 29주년 기념 공연 티켓 오픈 안내]]></title>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 04 Dec 2023 09:13:57 GMT</pubDate>
             <content:encoded><![CDATA[오픈일정 보기 &gt;]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/12/20231204112245c5026002-b72d-4052-9f87-eaafaff8eac9.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[주윤하 콘서트－그해 겨울 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8155</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8155</guid>
-            <pubDate>Mon, 04 Dec 2023 05:12:20 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>23.12.05(화)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/12/202312011332058d8b4ac0-81c2-4c81-9cbe-923a646ec8fe.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
