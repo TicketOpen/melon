@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Dec 2023 10:13:57 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Dec 2023 11:10:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Tue, 12 Dec 2023 05:12:24 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>23.12.19(화)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/12/202312111740204cc15d07-8460-40d6-9a27-3e225f4908b1.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[XEED 2023 Concert 〈WE：XEED CHRISTMAS〉 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8188</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8188</guid>
+            <pubDate>Tue, 12 Dec 2023 11:10:52 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>23.12.13(수)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/12/20231212094213c1b9c3c6-4f89-4e9e-92d1-d33bffe84eab.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
         <item>
             <title><![CDATA[Wh3n 단독 공연 “New bornxoxo 2024” 티켓 오픈 안내]]></title>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 12 Dec 2023 03:13:36 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>23.12.18(월)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/12/202312111110190addaa26-d4e5-422b-94c1-405cab616d77.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[루미너스 뮤직 스테이지 vol．1 문빛x소각소각 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8183</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8183</guid>
-            <pubDate>Tue, 12 Dec 2023 03:13:36 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>23.12.14(목)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/12/20231211111058f28d44ab-f699-469e-8c24-5f782a75cca3.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
