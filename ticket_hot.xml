@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Dec 2023 02:26:52 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Dec 2023 03:13:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Tue, 12 Dec 2023 05:12:24 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>23.12.19(화)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/12/202312111740204cc15d07-8460-40d6-9a27-3e225f4908b1.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[잭킹콩 단독 콘서트 〈JKC NEW YEAR〉：롤링 29주년 기념 공연 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8192</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8192</guid>
+            <pubDate>Wed, 13 Dec 2023 03:13:40 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>23.12.20(수)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/12/202312121059385284d27f-4442-4ffe-9697-e4f417ec663c.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
         <item>
             <title><![CDATA[XEED 2023 Concert 〈WE：XEED CHRISTMAS〉 티켓 오픈 안내]]></title>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 12 Dec 2023 05:12:24 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>23.12.14(목)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/12/202312111141056cf305cd-cf9c-4e90-bc4e-3959244264d1.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[슈가볼 단독 콘서트 ‘The sour’：롤링 29주년 기념 공연 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8182</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8182</guid>
-            <pubDate>Tue, 12 Dec 2023 03:13:36 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>23.12.18(월)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/12/202312111110190addaa26-d4e5-422b-94c1-405cab616d77.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
