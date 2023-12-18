@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Dec 2023 08:16:49 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Dec 2023 09:13:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -48,6 +48,14 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/12/20231215120546829370c4-97ee-415c-92aa-b7877ae7cdfe.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
         <item>
+            <title><![CDATA[2024 이영훈 단독공연［이영훈의 신년인사］티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8215</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8215</guid>
+            <pubDate>Mon, 18 Dec 2023 09:13:20 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>23.12.22(금)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/12/20231215164413d82705ad-ecd8-4631-8a68-2f88843bfb20.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
             <title><![CDATA[BAND CHANZE 앨범발매 기념 쇼케이스－UTOPIA 티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8194</link>
             <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8194</guid>
@@ -78,14 +86,6 @@
             <pubDate>Sat, 16 Dec 2023 03:13:05 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>23.12.18(월)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/12/202312150855246af9b671-7899-4fe8-8722-0da623aa9909.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[TAEMIN SOLO CONCERT：METAMORPH 추가 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8200</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8200</guid>
-            <pubDate>Thu, 14 Dec 2023 09:12:49 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>23.12.15(금)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/12/20231214174514daae9cc6-52e9-4c1b-be0f-650d43c78fb8.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
