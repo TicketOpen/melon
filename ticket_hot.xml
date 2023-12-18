@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Dec 2023 05:12:52 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Dec 2023 06:17:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Fri, 15 Dec 2023 03:13:29 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>23.12.20(수)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/12/20231218132504b93adc92-7756-4476-acaf-62de730f5596.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[퍼플키스（PURPLE KISS）FAN CONCERT 〈FESTA〉 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8214</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8214</guid>
+            <pubDate>Mon, 18 Dec 2023 06:17:22 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>23.12.20(수)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/12/2023121809454993f2a88c-dc4e-402f-9249-a1f1178d4862.png/melon/resize/160x225/strip/true" length="0" type="image/png/melon/resize/160x225/strip/true"/>
         </item>
         <item>
             <title><![CDATA[NETM 레이블 콘서트 〈No one Ever Told Me〉 티켓 오픈 안내]]></title>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 14 Dec 2023 09:12:49 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>23.12.15(금)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/12/20231214174514daae9cc6-52e9-4c1b-be0f-650d43c78fb8.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[TAEMIN SOLO CONCERT：METAMORPH 추가 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8041</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8041</guid>
-            <pubDate>Thu, 14 Dec 2023 09:12:49 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>23.11.14(화)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/11/20231110102205e7649e56-8b8b-456a-a1c3-25cba01a0182.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
