@@ -4,9 +4,25 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Dec 2023 02:11:11 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Dec 2023 03:11:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[WOODZ World Tour ‘OO－LI’ FINALE 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8225</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8225</guid>
+            <pubDate>Wed, 20 Dec 2023 03:10:58 GMT</pubDate>
+            <content:encoded><![CDATA[오픈일정 보기 &gt;]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/12/20231219174644e6127643-d455-4add-92a2-856127b9a106.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[THE BOYZ 공식 팬클럽 〈THE B〉 6기 모집 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8224</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8224</guid>
+            <pubDate>Wed, 20 Dec 2023 03:10:58 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>23.12.21(목)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/12/2023121918274802e74d9c-eb2f-418f-9bc5-522beca67aa7.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
         <item>
             <title><![CDATA[뮤지컬 〈시스터 액트〉 4차 티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8221</link>
@@ -70,22 +86,6 @@
             <pubDate>Mon, 18 Dec 2023 06:17:22 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>23.12.20(수)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/12/2023121809454993f2a88c-dc4e-402f-9249-a1f1178d4862.png/melon/resize/160x225/strip/true" length="0" type="image/png/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[NETM 레이블 콘서트 〈No one Ever Told Me〉 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8202</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8202</guid>
-            <pubDate>Mon, 18 Dec 2023 01:56:33 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>23.12.20(수)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/12/2023121810195328b1d995-f5f8-475d-8181-4de42613f40d.png/melon/resize/160x225/strip/true" length="0" type="image/png/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[NCT ZONE 팝업 스페이스 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8211</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8211</guid>
-            <pubDate>Mon, 18 Dec 2023 01:56:33 GMT</pubDate>
-            <content:encoded><![CDATA[오픈일정 보기 &gt;]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/12/202312151116392fa12875-fcdd-47f1-a03d-e83f83d0f42d.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
