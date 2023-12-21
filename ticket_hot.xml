@@ -4,9 +4,17 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Dec 2023 09:12:23 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Dec 2023 10:13:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[현대카드 Curated 22 나상현씨밴드 〈Preview〉 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8230</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8230</guid>
+            <pubDate>Thu, 21 Dec 2023 10:13:09 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>23.12.27(수)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/12/20231220151205b9055165-f377-4361-bb56-71735c149c8b.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
         <item>
             <title><![CDATA[제16회 서울재즈페스티벌 2024 얼리버드 티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8229</link>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 20 Dec 2023 03:10:58 GMT</pubDate>
             <content:encoded><![CDATA[오픈일정 보기 &gt;]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/12/20231219174644e6127643-d455-4add-92a2-856127b9a106.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[써클차트 뮤직 어워즈 2023 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8203</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8203</guid>
-            <pubDate>Fri, 15 Dec 2023 03:13:29 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>23.12.20(수)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/12/20231220131713d4141d1f-b80f-4700-b36f-cc63699c22a9.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
