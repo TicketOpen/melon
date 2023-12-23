@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 23 Dec 2023 10:11:57 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Dec 2023 11:10:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -38,6 +38,14 @@
             <pubDate>Fri, 22 Dec 2023 05:12:37 GMT</pubDate>
             <content:encoded><![CDATA[오픈일정 보기 &gt;]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/12/20231222085431385330ac-a0cf-40a9-b5ed-cbce2efcbff3.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[YAHO！티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8234</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8234</guid>
+            <pubDate>Sat, 23 Dec 2023 11:10:02 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>24.01.06(토)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/12/20231222113103e89dcd39-2bda-467a-84ab-0b773c43c51d.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
         <item>
             <title><![CDATA[현대카드 Curated 22 나상현씨밴드 〈Preview〉 티켓 오픈 안내]]></title>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 19 Dec 2023 05:11:53 GMT</pubDate>
             <content:encoded><![CDATA[오픈일정 보기 &gt;]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/12/20231218154744a78e210e-8696-44d9-92ca-b75df48be32f.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 〈시스터 액트〉 4차 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8221</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8221</guid>
-            <pubDate>Tue, 19 Dec 2023 07:11:44 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>23.12.22(금)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/12/20231219150927409a5e41-92c3-493e-b13b-467bb50c0eac.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
