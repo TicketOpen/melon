@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Dec 2023 02:22:12 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Dec 2023 03:12:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Tue, 26 Dec 2023 01:51:14 GMT</pubDate>
             <content:encoded><![CDATA[오픈일정 보기 &gt;]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/12/20231219174644e6127643-d455-4add-92a2-856127b9a106.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[시온 단독 콘서트 ‘Out of the Box’：롤링 29주년 기념 공연 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8235</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8235</guid>
+            <pubDate>Tue, 26 Dec 2023 03:12:50 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>24.01.02(화)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/12/20231226095908f0c090a0-1709-4752-96fa-94a435b9a0cc.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
         <item>
             <title><![CDATA[2024 장재훈 연초 공연：Happy Old Year 티켓 오픈 안내]]></title>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 20 Dec 2023 10:10:58 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>23.12.21(목)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/12/202312201808005cfe544c-4530-4dbb-be20-ed2187c62dd6.png/melon/resize/160x225/strip/true" length="0" type="image/png/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[그리즐리（Grizzly）Concert：Winter House 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8223</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8223</guid>
-            <pubDate>Tue, 19 Dec 2023 09:12:47 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>23.12.22(금)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/12/202312201559439d2e0ea9-4514-418f-b50c-bc4b3ac85193.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
