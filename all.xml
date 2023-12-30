@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 30 Dec 2023 14:10:54 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Dec 2023 15:11:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -643,29 +643,29 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/09/20230925132403f4c10e8c-f683-4d4b-93b4-782bffdf1575.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 〈맥베스〉 (멜론티켓 ─ 판매중)]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=208912</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=208912</guid>
-            <pubDate>Thu, 28 Dec 2023 11:10:27 GMT</pubDate>
+            <title><![CDATA[뮤지컬 〈레베카〉 10주년 기념 공연 앙코르 공연예매권 (멜론티켓 ─ 판매중)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=209189</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=209189</guid>
+            <pubDate>Sat, 30 Dec 2023 15:11:50 GMT</pubDate>
             <content:encoded><![CDATA[<td>
                             <div class="show_infor">
                                 <div class="thumb_90x125  img">
                                     <a href="#">
-                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/11/20231102134737ac659efd-1048-4acf-b377-e0b93d7fe4be.jpg/melon/resize/90x125/strip/true" alt="">
+                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/12/202312041719047b1f57f0-d00d-490f-a7f7-2df3b2dd6bd2.jpg/melon/resize/90x125/strip/true" alt="">
                                         <span class="frame"></span>
                                     </a>
                                 </div>
                                 <p class="infor_text">
                                     <span class="ico_wrap">
                                         <span class="ico_list ico_list4"> 판매중</span></span>
-                                    <span class="show_title"><a href="/performance/index.htm?prodId=208912">뮤지컬 〈맥베스〉</a></span>
+                                    <span class="show_title"><a href="/performance/index.htm?prodId=209189">뮤지컬 〈레베카〉 10주년 기념 공연 앙코르 공연예매권</a></span>
                                 </p>
                             </div>
                         </td>
                         <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
-                            2023.12.02 - 2023.12.30</td>
-                        <td class="show_loc">세종문화회관 M씨어터</td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/11/20231102134737ac659efd-1048-4acf-b377-e0b93d7fe4be.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+                            2023.12.14 - 2024.02.24</td>
+                        <td class="show_loc">LG아트센터 서울 LG SIGNATURE 홀</td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/12/202312041719047b1f57f0-d00d-490f-a7f7-2df3b2dd6bd2.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
     </channel>
 </rss>
