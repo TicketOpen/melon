@@ -4,7 +4,7 @@
         <title>멜론 티켓</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 04 Jan 2024 09:12:49 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Jan 2024 10:13:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Thu, 04 Jan 2024 08:15:11 GMT</pubDate>
             <content:encoded><![CDATA[2024.01.11(목) 11:00]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/01/2024010415415080fc5708-5436-44bf-85ba-d507ffc822a4.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[Listen Again－싱어게인3 참가자들의 콘서트 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8256</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8256</guid>
+            <pubDate>Thu, 04 Jan 2024 10:13:32 GMT</pubDate>
+            <content:encoded><![CDATA[2024.01.04(목) 20:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/01/20240103135444abc4ffea-fca0-4bee-99ba-a9e7b70f935a.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
         <item>
             <title><![CDATA[2024 강전한 단독 공연 “무채색” 티켓 오픈 안내]]></title>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 02 Jan 2024 03:13:39 GMT</pubDate>
             <content:encoded><![CDATA[2024.01.02(화) 12:00]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/12/20231228175102ea143243-2bea-4c1c-aa86-40b2a0d09eb1.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[연극 〈알앤제이（R＆J）〉 2차 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8246</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8246</guid>
-            <pubDate>Fri, 29 Dec 2023 01:40:26 GMT</pubDate>
-            <content:encoded><![CDATA[2024.01.04(목) 14:00]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/12/202312281039193ade8a99-2ded-4807-92fc-5cca4becbb54.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
     </channel>
 </rss>

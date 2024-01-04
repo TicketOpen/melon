@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 04 Jan 2024 09:12:49 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Jan 2024 10:13:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -38,6 +38,14 @@
             <pubDate>Wed, 03 Jan 2024 11:10:54 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>24.01.05(금)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/01/20240103152857acb8172b-ca3f-481f-a26f-7a74ee738f13.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[Listen Again－싱어게인3 참가자들의 콘서트 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8256</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8256</guid>
+            <pubDate>Thu, 04 Jan 2024 10:13:38 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>24.01.04(목)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/01/20240103135444abc4ffea-fca0-4bee-99ba-a9e7b70f935a.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
         <item>
             <title><![CDATA[유희열 Curated 22 나상현씨밴드 〈Preview〉 티켓 오픈 안내]]></title>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 28 Dec 2023 11:10:22 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>24.01.04(목)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/12/202312271718464e959d2e-fd84-421f-b5a1-d263621cf407.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 〈컴프롬어웨이〉 5차 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8245</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8245</guid>
-            <pubDate>Fri, 29 Dec 2023 05:12:30 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>24.01.05(금)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/12/2023122810312896dfac3e-e2da-4ea3-9b59-363067ab91f1.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
