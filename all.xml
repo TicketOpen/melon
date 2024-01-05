@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 Jan 2024 02:25:47 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Jan 2024 03:13:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[고갱 단독 콘서트 티켓 오픈 안내 (멜론 티켓)]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8258</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8258</guid>
+            <pubDate>Fri, 05 Jan 2024 03:13:28 GMT</pubDate>
+            <content:encoded><![CDATA[2024.01.06(토) 20:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/01/202401041520392f9b90a9-c175-42a2-a4d0-2cf4024a6c75.png/melon/resize/65x92/strip/true" length="0" type="image/png/melon/resize/65x92/strip/true"/>
+        </item>
         <item>
             <title><![CDATA[뮤지컬 〈마리 앙투아네트〉 10주년 기념공연 티켓 오픈 안내 (멜론 티켓)]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8257</link>
@@ -80,14 +88,6 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/12/2023122914362106d4fc4d-19a3-494f-9d4c-f26714e34b21.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 〈볼륨업〉 4차 티켓 오픈 안내 (멜론 티켓)]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8248</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8248</guid>
-            <pubDate>Tue, 02 Jan 2024 03:13:39 GMT</pubDate>
-            <content:encoded><![CDATA[2024.01.02(화) 12:00]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/12/20231228175102ea143243-2bea-4c1c-aa86-40b2a0d09eb1.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
-        </item>
-        <item>
             <title><![CDATA[2024 강전한 단독 공연 “무채색” 티켓 오픈 안내 (멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식)]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8255</link>
             <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8255</guid>
@@ -118,6 +118,14 @@
             <pubDate>Thu, 04 Jan 2024 08:15:11 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>24.01.11(목)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/01/2024010415415080fc5708-5436-44bf-85ba-d507ffc822a4.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[고갱 단독 콘서트 티켓 오픈 안내 (멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식)]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8258</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8258</guid>
+            <pubDate>Fri, 05 Jan 2024 03:13:33 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>24.01.06(토)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/01/202401041520392f9b90a9-c175-42a2-a4d0-2cf4024a6c75.png/melon/resize/160x225/strip/true" length="0" type="image/png/melon/resize/160x225/strip/true"/>
         </item>
         <item>
             <title><![CDATA[찬주 싱글 발매 기념 콘서트 ‘Fireplace for Your Winter’：롤링 29주년 기념 공연 티켓 오픈 안내 (멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식)]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 28 Dec 2023 11:10:15 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>24.01.04(목)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/12/20231227133631e4065411-5a04-47e1-b08b-c6c823e76ba7.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[헤이맨（HeyMen）단독콘서트 〈HEEEY NEW YEAR〉 티켓 오픈 안내 (멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식)]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8244</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8244</guid>
-            <pubDate>Thu, 28 Dec 2023 11:10:15 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>24.01.04(목)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/12/202312271718464e959d2e-fd84-421f-b5a1-d263621cf407.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
         <item>
             <title><![CDATA[［서울 대학로］연극 라면 (멜론티켓 ─ 판매중)]]></title>
