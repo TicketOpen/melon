@@ -4,9 +4,17 @@
         <title>멜론 티켓</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 Jan 2024 07:11:42 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Jan 2024 08:15:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[나기철，홍예진［약속］티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8260</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8260</guid>
+            <pubDate>Fri, 05 Jan 2024 08:15:41 GMT</pubDate>
+            <content:encoded><![CDATA[2024.01.08(월) 19:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/01/20240104164203038df059-1b41-47e6-ae3d-30134fdb8292.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
         <item>
             <title><![CDATA[2024 빅마마 20주년 앵콜 콘서트［ACT 20］티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8259</link>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 02 Jan 2024 03:13:39 GMT</pubDate>
             <content:encoded><![CDATA[2024.01.04(목) 14:00]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/12/202312291625378bce3367-b632-42a8-a500-4a8d58d8285c.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[ㅈㅂㅈ 평일소공연 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8250</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8250</guid>
-            <pubDate>Sat, 30 Dec 2023 11:09:56 GMT</pubDate>
-            <content:encoded><![CDATA[2024.01.01(월) 20:00]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2023/12/20231229134318b3ae9f38-74a4-414b-b378-4e16319be5fc.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
     </channel>
 </rss>

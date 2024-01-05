@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 Jan 2024 07:11:42 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Jan 2024 08:15:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -48,6 +48,14 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/01/202401041713417b8c7b03-37e0-4318-a2ba-01d6be33d545.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
         <item>
+            <title><![CDATA[나기철，홍예진［약속］티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8260</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8260</guid>
+            <pubDate>Fri, 05 Jan 2024 08:15:47 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>24.01.08(월)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/01/20240104164203038df059-1b41-47e6-ae3d-30134fdb8292.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
             <title><![CDATA[고갱 단독 콘서트 티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8258</link>
             <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8258</guid>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 02 Jan 2024 09:12:30 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>23.01.03(화)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/01/202401021714267bd15842-459b-4009-902e-70f4b6b119d1.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[TONE STUDIO LIVE 〈웨스턴카잇（WESTERN KITE）〉 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8253</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8253</guid>
-            <pubDate>Wed, 03 Jan 2024 03:13:19 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>24.01.08(월)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/01/20240102155415ff6ae527-d9a1-46b4-99e7-8794fa652a5a.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
