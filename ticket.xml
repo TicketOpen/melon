@@ -4,9 +4,17 @@
         <title>멜론 티켓</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 Jan 2024 07:12:19 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Jan 2024 08:17:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[9 단독콘서트 ‘고고학써클 2024 신년회’ 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8267</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8267</guid>
+            <pubDate>Mon, 08 Jan 2024 08:17:05 GMT</pubDate>
+            <content:encoded><![CDATA[2024.01.10(수) 12:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/01/20240105194250d61b4e3f-25a0-4c8a-9f68-717d7f6ffe92.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
         <item>
             <title><![CDATA[CRAVITY 공식 팬클럽 ‘LUVITY’ 4기 추가모집 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8266</link>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 05 Jan 2024 03:13:28 GMT</pubDate>
             <content:encoded><![CDATA[2024.01.06(토) 20:00]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/01/202401041520392f9b90a9-c175-42a2-a4d0-2cf4024a6c75.png/melon/resize/65x92/strip/true" length="0" type="image/png/melon/resize/65x92/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 〈마리 앙투아네트〉 10주년 기념공연 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8257</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8257</guid>
-            <pubDate>Thu, 04 Jan 2024 08:15:11 GMT</pubDate>
-            <content:encoded><![CDATA[2024.01.11(목) 11:00]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/01/2024010415415080fc5708-5436-44bf-85ba-d507ffc822a4.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
     </channel>
 </rss>
