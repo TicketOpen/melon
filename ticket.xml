@@ -4,9 +4,17 @@
         <title>멜론 티켓</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 Jan 2024 08:17:18 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Jan 2024 09:13:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[싱어송라이터 손예지 첫 단독공연 〈안녕〉 추가 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8268</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8268</guid>
+            <pubDate>Mon, 08 Jan 2024 09:13:22 GMT</pubDate>
+            <content:encoded><![CDATA[2024.01.10(수) 20:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/01/202401081632457e58ec81-1c29-4cf4-b8c0-eb08b16c1806.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
         <item>
             <title><![CDATA[9 단독콘서트 ‘고고학써클 2024 신년회’ 티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8267</link>
@@ -61,7 +69,7 @@
             <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8261</guid>
             <pubDate>Sat, 06 Jan 2024 11:10:15 GMT</pubDate>
             <content:encoded><![CDATA[2024.01.08(월) 20:00]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/01/2024010514183958b7e156-a3a1-41ec-9d05-c46181a243c7.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/01/20240108173117eeaf4eab-1f6a-4279-b9ca-92143616e29d.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
         <item>
             <title><![CDATA[나기철，홍예진［약속］티켓 오픈 안내]]></title>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 05 Jan 2024 05:12:08 GMT</pubDate>
             <content:encoded><![CDATA[2024.01.10(수) 20:00]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/01/202401041713417b8c7b03-37e0-4318-a2ba-01d6be33d545.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[고갱 단독 콘서트 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8258</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8258</guid>
-            <pubDate>Fri, 05 Jan 2024 03:13:28 GMT</pubDate>
-            <content:encoded><![CDATA[2024.01.06(토) 20:00]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/01/202401041520392f9b90a9-c175-42a2-a4d0-2cf4024a6c75.png/melon/resize/65x92/strip/true" length="0" type="image/png/melon/resize/65x92/strip/true"/>
         </item>
     </channel>
 </rss>
