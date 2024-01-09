@@ -4,9 +4,17 @@
         <title>멜론 티켓</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 Jan 2024 07:14:11 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Jan 2024 08:17:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뮤지컬 〈시스터 액트〉 마지막 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8281</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8281</guid>
+            <pubDate>Tue, 09 Jan 2024 08:17:06 GMT</pubDate>
+            <content:encoded><![CDATA[2024.01.12(금) 11:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/01/2024010916023549144aad-effe-404a-9b1d-9ea8aca21aa1.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
         <item>
             <title><![CDATA[뮤지컬 〈몬테크리스토〉 마지막 티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8280</link>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 09 Jan 2024 01:57:06 GMT</pubDate>
             <content:encoded><![CDATA[2024.01.09(화) 20:00]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/01/2024010813533356be53bb-0abe-4aa0-8efd-1c4d1f668860.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[싱어송라이터 손예지 첫 단독공연 〈안녕〉 추가 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8268</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8268</guid>
-            <pubDate>Mon, 08 Jan 2024 09:13:22 GMT</pubDate>
-            <content:encoded><![CDATA[2024.01.10(수) 20:00]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/01/202401081632457e58ec81-1c29-4cf4-b8c0-eb08b16c1806.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
     </channel>
 </rss>
