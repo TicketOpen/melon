@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 Jan 2024 01:57:16 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Jan 2024 02:29:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,6 +30,14 @@
             <pubDate>Mon, 08 Jan 2024 09:13:27 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>24.01.10(수)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/01/202401081632457e58ec81-1c29-4cf4-b8c0-eb08b16c1806.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[LG아트센터 서울 2024년 기획공연 시즌 CoMPAS 24 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8270</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8270</guid>
+            <pubDate>Tue, 09 Jan 2024 02:29:12 GMT</pubDate>
+            <content:encoded><![CDATA[오픈일정 보기 &gt;]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/01/2024010814284152ac503f-05a2-4945-8571-86853ec10ac9.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
         <item>
             <title><![CDATA[2024 LEE BYEONG CHAN FAN MEETING Yellow Re：born 티켓 오픈 안내]]></title>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 03 Jan 2024 11:10:54 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>24.01.05(금)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/01/20240105144730be604f08-87c5-4810-98e7-5514b1726cf3.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[박시환 콘서트 ‘같이 걷자’ 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8262</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8262</guid>
-            <pubDate>Mon, 08 Jan 2024 03:13:47 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>24.01.10(수)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/01/20240105142503a1a733ec-0109-4bc9-b6fd-f107d05f8618.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
