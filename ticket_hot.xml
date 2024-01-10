@@ -4,9 +4,25 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 10 Jan 2024 04:15:38 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Jan 2024 05:13:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Colors 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8284</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8284</guid>
+            <pubDate>Wed, 10 Jan 2024 05:13:04 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>24.01.17(수)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/01/202401101107144e1423fe-2be0-4a58-8023-aed243447e84.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 〈레베카〉 10주년 기념 공연 앙코르 마지막 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8285</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8285</guid>
+            <pubDate>Wed, 10 Jan 2024 05:13:04 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>24.01.18(목)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/01/2024011010515349b9f869-9497-4561-a495-030177ec5ea2.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
         <item>
             <title><![CDATA[뮤지컬 〈마리 앙투아네트〉 10주년 기념공연 티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8257</link>
@@ -70,22 +86,6 @@
             <pubDate>Tue, 09 Jan 2024 11:11:11 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>24.01.10(수)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/01/2024010910534514a69dab-bed1-4c85-a4ae-204718a87421.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[2024 백현 팬미팅 〈과자파티〉－광주 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8275</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8275</guid>
-            <pubDate>Tue, 09 Jan 2024 05:13:00 GMT</pubDate>
-            <content:encoded><![CDATA[오픈일정 보기 &gt;]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/01/202401091053129eda79b6-2ab9-4204-9c1f-7883580f2906.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[2024 백현 팬미팅 〈과자파티〉－부산 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8274</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8274</guid>
-            <pubDate>Tue, 09 Jan 2024 05:13:00 GMT</pubDate>
-            <content:encoded><![CDATA[오픈일정 보기 &gt;]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/01/20240109105258127ae363-6b84-436e-819a-0fcbceb3dac8.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
