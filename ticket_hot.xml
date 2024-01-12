@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 12 Jan 2024 08:16:27 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Jan 2024 09:13:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,22 @@
             <pubDate>Fri, 12 Jan 2024 05:13:16 GMT</pubDate>
             <content:encoded><![CDATA[오픈일정 보기 &gt;]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/01/20240111210003cd46cf23-f6f3-4036-9f2c-a05116fa9c78.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[스프링스 단독콘서트_입춘［두번째 봄］티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8296</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8296</guid>
+            <pubDate>Fri, 12 Jan 2024 09:13:02 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>24.01.19(금)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/01/20240111212159d252d97f-f917-4e25-93b6-302b69ba0904.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[Ado THE FIRST WORLD TOUR ‘Wish’ 추가 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8297</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8297</guid>
+            <pubDate>Fri, 12 Jan 2024 09:13:02 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>24.01.18(목)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/01/202401112021507c3f6a81-898e-4d95-8f28-4c180f89dd1d.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
         <item>
             <title><![CDATA[노브레인 단독 콘서트 ‘노래부인’：롤링 29주년 기념 공연 티켓 오픈 안내]]></title>
@@ -70,22 +86,6 @@
             <pubDate>Thu, 11 Jan 2024 01:57:28 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>24.01.11(목)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/01/20240110185207f7f9a579-a8b7-4e52-991a-fc1594e1f635.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[2024 백현 팬미팅 〈과자파티〉－서울 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8276</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8276</guid>
-            <pubDate>Tue, 09 Jan 2024 05:13:00 GMT</pubDate>
-            <content:encoded><![CDATA[오픈일정 보기 &gt;]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/01/20240109105326bd2ef4f1-7155-47f2-94d8-24c873eab9eb.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 〈레베카〉 10주년 기념 공연 앙코르 마지막 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8285</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8285</guid>
-            <pubDate>Wed, 10 Jan 2024 05:13:04 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>24.01.18(목)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/01/2024011010515349b9f869-9497-4561-a495-030177ec5ea2.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
