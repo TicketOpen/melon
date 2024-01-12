@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 12 Jan 2024 09:13:08 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Jan 2024 10:13:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Fri, 12 Jan 2024 09:13:02 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>24.01.19(금)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/01/20240111212159d252d97f-f917-4e25-93b6-302b69ba0904.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[2024 24K＋ FAN CONCERT：TO FOR YOU 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8298</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8298</guid>
+            <pubDate>Fri, 12 Jan 2024 10:13:42 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>24.01.15(월)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/01/20240111205555c959c99b-d5bd-4433-b6f8-14f8210e6891.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
         <item>
             <title><![CDATA[Ado THE FIRST WORLD TOUR ‘Wish’ 추가 티켓 오픈 안내]]></title>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 09 Jan 2024 09:12:55 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>24.01.11(목)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/01/2024010415415080fc5708-5436-44bf-85ba-d507ffc822a4.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[2024 김동현 팬미팅 시작 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8287</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8287</guid>
-            <pubDate>Thu, 11 Jan 2024 01:57:28 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>24.01.11(목)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/01/20240110185207f7f9a579-a8b7-4e52-991a-fc1594e1f635.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
