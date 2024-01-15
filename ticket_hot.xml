@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 15 Jan 2024 10:14:48 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Jan 2024 11:11:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -32,12 +32,28 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/01/20240115100950e3cba5f6-2053-4491-9051-8a2b0642d71f.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
         <item>
+            <title><![CDATA[그래쓰 단독 콘서트 ‘Dear，green’ 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8308</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8308</guid>
+            <pubDate>Mon, 15 Jan 2024 11:11:18 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>24.01.22(월)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/01/20240112170828fcef36f6-b140-4e7c-8643-09741cb8c9d3.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
             <title><![CDATA[신지훈 단독 콘서트 ‘눈이 녹은 자리’：롤링 29주년 기념 공연 티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8303</link>
             <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8303</guid>
             <pubDate>Mon, 15 Jan 2024 03:13:44 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>24.01.22(월)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/01/20240112164016f037a8d6-850c-4b6c-bb13-e565720f9e71.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[유희도 팬미팅［OV엔터 신입사원 간담회］티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8307</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8307</guid>
+            <pubDate>Mon, 15 Jan 2024 11:11:18 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>24.01.17(수)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/01/20240112154916d063f95a-1d71-4284-97bf-071b902d1035.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
         <item>
             <title><![CDATA[2024 RO WOON FAN MEETING ‘보통의 하루’ 티켓 오픈 안내]]></title>
@@ -70,22 +86,6 @@
             <pubDate>Sat, 13 Jan 2024 06:15:47 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>24.01.19(금)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/01/20240111212159d252d97f-f917-4e25-93b6-302b69ba0904.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[2024 24K＋ FAN CONCERT：TO FOR YOU 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8298</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8298</guid>
-            <pubDate>Sat, 13 Jan 2024 06:15:47 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>24.01.15(월)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/01/20240111205555c959c99b-d5bd-4433-b6f8-14f8210e6891.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[Ado THE FIRST WORLD TOUR ‘Wish’ 추가 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8297</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8297</guid>
-            <pubDate>Sat, 13 Jan 2024 06:15:47 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>24.01.18(목)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/01/202401112021507c3f6a81-898e-4d95-8f28-4c180f89dd1d.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
