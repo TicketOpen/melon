@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 16 Jan 2024 04:15:19 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Jan 2024 05:12:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -38,6 +38,14 @@
             <pubDate>Mon, 15 Jan 2024 11:11:18 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>24.01.22(월)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/01/20240112170828fcef36f6-b140-4e7c-8643-09741cb8c9d3.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[스티x라울 더블 콘서트 ‘띠동갑’ 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8311</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8311</guid>
+            <pubDate>Tue, 16 Jan 2024 05:12:24 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>24.01.18(목)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/01/202401151720178fd6350a-a1f6-4262-a9bb-6c1513296820.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
         <item>
             <title><![CDATA[9001 단독 콘서트 ‘Playground’：롤링 29주년 기념 공연 티켓 오픈 안내]]></title>
@@ -78,14 +86,6 @@
             <pubDate>Sat, 13 Jan 2024 06:15:47 GMT</pubDate>
             <content:encoded><![CDATA[오픈일정 보기 &gt;]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/01/20240111210003cd46cf23-f6f3-4036-9f2c-a05116fa9c78.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[CIKI 단독 공연 ‘나의 우울에게’ 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8301</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8301</guid>
-            <pubDate>Sun, 14 Jan 2024 11:11:02 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>24.01.19(금)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/01/20240112152120c5c360ca-2a9e-4c8d-b199-8f8741ca9d6f.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
