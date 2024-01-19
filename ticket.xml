@@ -4,17 +4,9 @@
         <title>멜론 티켓</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 19 Jan 2024 09:12:47 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Jan 2024 10:13:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[블루스프링페스티벌 2024 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8326</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8326</guid>
-            <pubDate>Fri, 19 Jan 2024 08:16:01 GMT</pubDate>
-            <content:encoded><![CDATA[2024.01.22(월) 17:00]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/01/202401181950000da41c5b-ae1b-4a3e-86b2-2027f3fb68fc.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
-        </item>
         <item>
             <title><![CDATA[On Our Own 티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8325</link>
@@ -86,6 +78,14 @@
             <pubDate>Thu, 18 Jan 2024 05:12:32 GMT</pubDate>
             <content:encoded><![CDATA[2024.01.23(화) 16:00]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/01/202401181010308bbcc217-189e-43ac-92f7-5a6fbcaff5c9.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[우물 단독 콘서트 ‘봄은 몇 번이고 돌아오니까’：롤링 29주년 기념 공연 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8314</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8314</guid>
+            <pubDate>Fri, 19 Jan 2024 10:13:38 GMT</pubDate>
+            <content:encoded><![CDATA[2024.01.23(화) 20:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/01/20240116143550af487042-13d0-4f3b-a704-e36cd1bd1fce.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
     </channel>
 </rss>

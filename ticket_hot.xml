@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 19 Jan 2024 09:12:47 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Jan 2024 10:13:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,14 +14,6 @@
             <pubDate>Fri, 19 Jan 2024 09:12:41 GMT</pubDate>
             <content:encoded><![CDATA[오픈일정 보기 &gt;]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/01/20240119175904144223f0-bb39-4b67-8f5e-5b5726d69db9.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[블루스프링페스티벌 2024 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8326</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8326</guid>
-            <pubDate>Fri, 19 Jan 2024 08:16:07 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>24.01.22(월)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/01/202401181950000da41c5b-ae1b-4a3e-86b2-2027f3fb68fc.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
         <item>
             <title><![CDATA[On Our Own 티켓 오픈 안내]]></title>
@@ -86,6 +78,14 @@
             <pubDate>Thu, 18 Jan 2024 05:12:38 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>24.01.23(화)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/01/2024011809465095fc30e1-34a7-40e3-87f2-8e7756512c26.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 〈레베카〉 10주년 기념공연 앙코르－성남 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8315</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8315</guid>
+            <pubDate>Fri, 19 Jan 2024 10:13:44 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>24.01.23(화)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/01/202401181010308bbcc217-189e-43ac-92f7-5a6fbcaff5c9.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
