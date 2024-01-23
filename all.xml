@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 23 Jan 2024 00:58:06 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Jan 2024 01:59:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -88,6 +88,14 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/01/202401170922234fb11f8c-a011-4d85-a49e-db757b6fffb4.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
         <item>
+            <title><![CDATA[세종문화회관 〈2024 세종시즌〉 티켓 오픈 안내 (멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식)]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8327</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8327</guid>
+            <pubDate>Mon, 22 Jan 2024 02:03:28 GMT</pubDate>
+            <content:encoded><![CDATA[오픈일정 보기 &gt;]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/01/202401212118171b434687-d039-4272-a9fa-c401e7236c72.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
             <title><![CDATA[먼데이프로젝트 시즌7 My Universe［길라 단독 콘서트］티켓 오픈 안내 (멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식)]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8323</link>
             <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8323</guid>
@@ -110,14 +118,6 @@
             <pubDate>Fri, 19 Jan 2024 08:16:01 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>24.01.26(금)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/01/202401181945351fcbc6b6-2a82-4749-a476-8214472d4c1c.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[세종문화회관 〈2024 세종시즌〉 티켓 오픈 안내 (멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식)]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8327</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8327</guid>
-            <pubDate>Mon, 22 Jan 2024 02:03:28 GMT</pubDate>
-            <content:encoded><![CDATA[오픈일정 보기 &gt;]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/01/202401212118171b434687-d039-4272-a9fa-c401e7236c72.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
         <item>
             <title><![CDATA[2024 맢동산 팬 콘서트［BACKSTAGE］티켓 오픈 안내 (멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식)]]></title>
