@@ -4,9 +4,17 @@
         <title>멜론 티켓</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 24 Jan 2024 07:12:27 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Jan 2024 08:17:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[진우철콘서트［POET TREE］티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8338</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8338</guid>
+            <pubDate>Wed, 24 Jan 2024 08:16:56 GMT</pubDate>
+            <content:encoded><![CDATA[2024.01.29(월) 20:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/01/20240123223245ec78d185-f7a3-42d9-8d5d-227f50716d74.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
         <item>
             <title><![CDATA[뮤지컬 〈헤드윅〉 1차 티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8337</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 22 Jan 2024 02:03:28 GMT</pubDate>
             <content:encoded><![CDATA[오픈일정 보기 &gt;]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/01/202401212118171b434687-d039-4272-a9fa-c401e7236c72.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[On Our Own 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8325</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8325</guid>
-            <pubDate>Fri, 19 Jan 2024 08:16:01 GMT</pubDate>
-            <content:encoded><![CDATA[2024.01.26(금) 20:00]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/01/202401181945351fcbc6b6-2a82-4749-a476-8214472d4c1c.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
     </channel>
 </rss>

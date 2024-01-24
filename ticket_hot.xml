@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 24 Jan 2024 07:12:27 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Jan 2024 08:17:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Wed, 24 Jan 2024 05:12:57 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>24.01.31(수)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/01/202401232234469a993441-f3cc-4590-bb2b-ce24ee98bf5c.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[진우철콘서트［POET TREE］티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8338</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8338</guid>
+            <pubDate>Wed, 24 Jan 2024 08:17:02 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>24.01.29(월)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/01/20240123223245ec78d185-f7a3-42d9-8d5d-227f50716d74.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
         <item>
             <title><![CDATA[Weird Strangers＃00 추가 티켓 오픈 안내]]></title>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 23 Jan 2024 09:12:53 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>24.01.26(금)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/01/2024012214351723a604be-b16a-49a7-a5cf-a7b386bd79f0.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[먼데이프로젝트 시즌7 My Universe［길라 단독 콘서트］티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8323</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8323</guid>
-            <pubDate>Fri, 19 Jan 2024 03:13:46 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>24.01.26(금)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/01/2024011817145589886149-c6dc-48c8-a23f-8f0c1b2d3f4a.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
