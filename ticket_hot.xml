@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 Jan 2024 09:13:09 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Jan 2024 10:13:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Thu, 25 Jan 2024 05:12:41 GMT</pubDate>
             <content:encoded><![CDATA[오픈일정 보기 &gt;]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/01/20240124220448ce9d3c2a-712b-4c29-9d0b-3627f6e6780a.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[슈야，라디오파라다이스，마리슈 기획 공연 〈찐새해〉 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8343</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8343</guid>
+            <pubDate>Thu, 25 Jan 2024 10:13:42 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>24.02.02(금)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/01/20240124215354e59942e9-e14b-408d-af9f-fcd980800204.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 〈레베카〉 10주년 기념공연 앙코르－전주 티켓 오픈 안내]]></title>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 24 Jan 2024 03:13:40 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>24.01.31(수)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/01/20240123184052155cb262-5934-471e-af62-43acbf8680de.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[YB LIGHTS；Prologue 롤링 29주년 기념 공연 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8333</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8333</guid>
-            <pubDate>Wed, 24 Jan 2024 03:13:40 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>24.01.30(화)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/01/20240123182919ae7ad30c-c9f5-45c0-b45e-ac6f8958a9f5.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>

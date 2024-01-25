@@ -4,9 +4,17 @@
         <title>멜론 티켓</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 Jan 2024 09:13:09 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Jan 2024 10:13:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[슈야，라디오파라다이스，마리슈 기획 공연 〈찐새해〉 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8343</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8343</guid>
+            <pubDate>Thu, 25 Jan 2024 10:13:36 GMT</pubDate>
+            <content:encoded><![CDATA[2024.02.02(금) 20:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/01/20240124215354e59942e9-e14b-408d-af9f-fcd980800204.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
         <item>
             <title><![CDATA[2024 TAEYONG CONCERT 〈TY TRACK〉 티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8342</link>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 24 Jan 2024 03:13:34 GMT</pubDate>
             <content:encoded><![CDATA[2024.01.31(수) 19:00]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/01/20240123184052155cb262-5934-471e-af62-43acbf8680de.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[YB LIGHTS；Prologue 롤링 29주년 기념 공연 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8333</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8333</guid>
-            <pubDate>Wed, 24 Jan 2024 03:13:34 GMT</pubDate>
-            <content:encoded><![CDATA[2024.01.30(화) 20:00]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/01/20240123182919ae7ad30c-c9f5-45c0-b45e-ac6f8958a9f5.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
     </channel>
 </rss>
