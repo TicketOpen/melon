@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 Jan 2024 14:12:27 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Jan 2024 15:13:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -618,31 +618,6 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/01/20240105165614740925c0-2c43-47c7-969a-516d3455877b.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
-            <title><![CDATA[이민휘 2집 발매 기념 단독공연［미래의 고향］ (멜론티켓 ─ 판매중)]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=209184</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=209184</guid>
-            <pubDate>Sun, 21 Jan 2024 15:11:47 GMT</pubDate>
-            <content:encoded><![CDATA[<td>
-                            <div class="show_infor">
-                                <div class="thumb_90x125  img">
-                                    <a href="#">
-                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/01/202401091637233fac091e-56e9-4aa7-b1a7-ca843d54b8ed.jpg/melon/resize/90x125/strip/true" alt="">
-                                        <span class="frame"></span>
-                                    </a>
-                                </div>
-                                <p class="infor_text">
-                                    <span class="ico_wrap">
-                                        <span class="ico_list ico_list1">단독판매</span><span class="ico_list ico_list4"> 판매중</span></span>
-                                    <span class="show_title"><a href="/performance/index.htm?prodId=209184">이민휘 2집 발매 기념 단독공연［미래의 고향］</a></span>
-                                </p>
-                            </div>
-                        </td>
-                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
-                            2024.01.12 - 2024.01.25</td>
-                        <td class="show_loc">웨스트브릿지 라이브홀</td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/01/202401091637233fac091e-56e9-4aa7-b1a7-ca843d54b8ed.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
             <title><![CDATA[［얼리버드］폼페이 유물전－그대，그곳에 있었다 (멜론티켓 ─ 판매중)]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=209176</link>
             <guid>https://ticket.melon.com/performance/index.htm?prodId=209176</guid>
@@ -666,6 +641,31 @@
                             2024.01.13 - 2024.03.10</td>
                         <td class="show_loc">더현대서울 ALT.1 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/12/2023120518442626b1e474-49ff-49ef-9b81-4823903aa052.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[폼페이 유물전－그대，그곳에 있었다 (멜론티켓 ─ 판매중)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=209342</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=209342</guid>
+            <pubDate>Thu, 25 Jan 2024 15:13:39 GMT</pubDate>
+            <content:encoded><![CDATA[<td>
+                            <div class="show_infor">
+                                <div class="thumb_90x125  img">
+                                    <a href="#">
+                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/01/20240112150557577599db-2c1e-4409-a753-bf8c53780e4e.jpg/melon/resize/90x125/strip/true" alt="">
+                                        <span class="frame"></span>
+                                    </a>
+                                </div>
+                                <p class="infor_text">
+                                    <span class="ico_wrap">
+                                        <span class="ico_list ico_list4"> 판매중</span></span>
+                                    <span class="show_title"><a href="/performance/index.htm?prodId=209342">폼페이 유물전－그대，그곳에 있었다</a></span>
+                                </p>
+                            </div>
+                        </td>
+                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
+                            2024.01.13 - 2024.05.06</td>
+                        <td class="show_loc">더현대서울 ALT.1 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/01/20240112150557577599db-2c1e-4409-a753-bf8c53780e4e.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
     </channel>
 </rss>
