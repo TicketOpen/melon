@@ -1,8 +1,91 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://ticket.melon.com/csoon/index.htm#orderType=0&amp;pageIndex=1&amp;schGcode=GENRE_ALL&amp;schText=&amp;schDt=</id>
-    <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
-    <updated>2024-01-27T12:18:58.148Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Sat, 27 Jan 2024 13:11:51 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2024 TAEYONG CONCERT 〈TY TRACK〉 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8342</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8342</guid>
+            <pubDate>Sat, 27 Jan 2024 13:11:44 GMT</pubDate>
+            <content:encoded><![CDATA[오픈일정 보기 &gt;]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/01/20240124220448ce9d3c2a-712b-4c29-9d0b-3627f6e6780a.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[VROMANCE 1ST CONCERT［VROMANCE의 작업실：＃처음］티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8346</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8346</guid>
+            <pubDate>Sat, 27 Jan 2024 13:11:44 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>24.01.29(월)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/01/20240125133810b27f8016-b9a0-44fb-b659-d34207a95303.png/melon/resize/160x225/strip/true" length="0" type="image/png/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[연극 〈알앤제이（R＆J）〉 3차 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8350</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8350</guid>
+            <pubDate>Sat, 27 Jan 2024 13:11:44 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>24.01.30(화)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/01/202401252140557dfa8847-0798-4375-bd0b-1672f5486509.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 〈헤드윅〉 1차 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8337</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8337</guid>
+            <pubDate>Sat, 27 Jan 2024 13:11:44 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>24.01.31(수)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/01/20240126173206a4f66317-67d6-4923-a1ac-99a2609045e9.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[2024 루미너스 뮤직 스테이지 페스타［나기철x최인경］티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8347</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8347</guid>
+            <pubDate>Sat, 27 Jan 2024 13:11:44 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>24.01.29(월)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/01/20240125185825b961ea6c-0964-464d-a17a-244033c59b8e.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[2024 OMEGA X CONCERT in SEOUL 〈 ISLAND：FINALLY WE LANDED 〉 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8351</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8351</guid>
+            <pubDate>Sat, 27 Jan 2024 13:11:44 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>24.01.31(수)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/01/20240126132603170f85e8-7464-48d1-a237-59abe9bf3c6a.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[2024 루미너스 뮤직 스테이지 페스타［신현희］티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8348</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8348</guid>
+            <pubDate>Sat, 27 Jan 2024 13:11:44 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>24.01.29(월)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/01/2024012521204666e30c57-025d-4bd5-89d6-ad17ad73b99a.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[2024 루미너스 뮤직 스테이지 페스타［모든x전기뱀장어］티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8349</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8349</guid>
+            <pubDate>Sat, 27 Jan 2024 13:11:44 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>24.01.29(월)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/01/20240125173108a74b3e6c-628a-4f8b-9872-1664f8234b63.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[2024 아이디얼스 단독 콘서트 〈SPACE STATION〉 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8345</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8345</guid>
+            <pubDate>Sat, 27 Jan 2024 13:11:44 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>24.01.30(화)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/01/20240125160206b738654c-9719-49ca-a50b-679146fbf91e.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 〈레베카〉 10주년 기념공연 앙코르－울산 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8341</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8341</guid>
+            <pubDate>Sat, 27 Jan 2024 13:11:44 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>24.02.02(금)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/01/20240125104443a48abad3-6bd1-4984-9f4f-abc0a0e11b30.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+    </channel>
+</rss>
