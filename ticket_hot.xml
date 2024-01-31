@@ -4,9 +4,17 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 31 Jan 2024 02:19:04 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 Jan 2024 03:13:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[먼데이프로젝트 시즌7 My Universe［정우 단독 콘서트］티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8360</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8360</guid>
+            <pubDate>Wed, 31 Jan 2024 03:13:07 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>24.02.07(수)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/01/202401311023316ce568aa-269f-47fd-bb84-5fdee60a6ab5.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
         <item>
             <title><![CDATA[2024 OMEGA X CONCERT in SEOUL 〈 ISLAND：FINALLY WE LANDED 〉 티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8351</link>
@@ -78,14 +86,6 @@
             <pubDate>Sun, 28 Jan 2024 16:13:11 GMT</pubDate>
             <content:encoded><![CDATA[오픈일정 보기 &gt;]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/01/20240124220448ce9d3c2a-712b-4c29-9d0b-3627f6e6780a.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[VROMANCE 1ST CONCERT［VROMANCE의 작업실：＃처음］티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8346</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8346</guid>
-            <pubDate>Sun, 28 Jan 2024 16:13:11 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>24.01.29(월)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/01/20240125133810b27f8016-b9a0-44fb-b659-d34207a95303.png/melon/resize/160x225/strip/true" length="0" type="image/png/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
