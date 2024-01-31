@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 31 Jan 2024 06:15:45 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 Jan 2024 07:12:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -88,6 +88,14 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/01/202401252140557dfa8847-0798-4375-bd0b-1672f5486509.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
         <item>
+            <title><![CDATA[뮤지컬 〈그레이트 코멧〉 오프닝위크 티켓 오픈 안내 (멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식)]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8354</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8354</guid>
+            <pubDate>Mon, 29 Jan 2024 05:12:48 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>24.02.02(금)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/01/20240126133118969d37c3-61ed-46f0-b90c-ab0562d47e7c.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
             <title><![CDATA[뮤지컬 〈헤드윅〉 1차 티켓 오픈 안내 (멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식)]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8337</link>
             <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8337</guid>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 29 Jan 2024 05:12:54 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>24.01.29(월)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/01/20240123223245ec78d185-f7a3-42d9-8d5d-227f50716d74.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 〈그레이트 코멧〉 오프닝위크 티켓 오픈 안내 (멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식)]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8354</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8354</guid>
-            <pubDate>Mon, 29 Jan 2024 05:12:48 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>24.02.02(금)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/01/20240126133118969d37c3-61ed-46f0-b90c-ab0562d47e7c.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
         <item>
             <title><![CDATA[［서울 대학로］연극 라면 (멜론티켓 ─ 판매중)]]></title>
