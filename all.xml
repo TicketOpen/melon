@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 31 Jan 2024 14:11:22 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 Jan 2024 15:12:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -568,31 +568,6 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/11/20231115151620aaf5f0ea-e56d-493e-90c4-f8078036b623.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
-            <title><![CDATA[키치온더탭 (멜론티켓 ─ 판매중)]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=209298</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=209298</guid>
-            <pubDate>Sun, 28 Jan 2024 16:13:18 GMT</pubDate>
-            <content:encoded><![CDATA[<td>
-                            <div class="show_infor">
-                                <div class="thumb_90x125  img">
-                                    <a href="#">
-                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/01/20240105165614740925c0-2c43-47c7-969a-516d3455877b.jpg/melon/resize/90x125/strip/true" alt="">
-                                        <span class="frame"></span>
-                                    </a>
-                                </div>
-                                <p class="infor_text">
-                                    <span class="ico_wrap">
-                                        <span class="ico_list ico_list4"> 판매중</span></span>
-                                    <span class="show_title"><a href="/performance/index.htm?prodId=209298">키치온더탭</a></span>
-                                </p>
-                            </div>
-                        </td>
-                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
-                            2023.12.26 - 2024.01.31</td>
-                        <td class="show_loc">부띠크모나코뮤지엄 지하1층 특별전시장</td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/01/20240105165614740925c0-2c43-47c7-969a-516d3455877b.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
             <title><![CDATA[［얼리버드］폼페이 유물전－그대，그곳에 있었다 (멜론티켓 ─ 판매중)]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=209176</link>
             <guid>https://ticket.melon.com/performance/index.htm?prodId=209176</guid>
@@ -666,6 +641,31 @@
                             2024.01.20 - 2024.02.25</td>
                         <td class="show_loc">올림픽공원 우리금융아트홀</td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/01/20240122113349c4575c7e-10d5-4ce4-b608-c2b6f6f8938c.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[루미너스 뮤직 스테이지 vol．4 박나경x이오늘 (멜론티켓 ─ 판매중)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=209356</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=209356</guid>
+            <pubDate>Wed, 31 Jan 2024 15:12:06 GMT</pubDate>
+            <content:encoded><![CDATA[<td>
+                            <div class="show_infor">
+                                <div class="thumb_90x125  img">
+                                    <a href="#">
+                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/01/20240115160553f6a3fd83-6496-45a0-9b8b-1ca069ec5b66.jpg/melon/resize/90x125/strip/true" alt="">
+                                        <span class="frame"></span>
+                                    </a>
+                                </div>
+                                <p class="infor_text">
+                                    <span class="ico_wrap">
+                                        <span class="ico_list ico_list1">단독판매</span><span class="ico_list ico_list4"> 판매중</span></span>
+                                    <span class="show_title"><a href="/performance/index.htm?prodId=209356">루미너스 뮤직 스테이지 vol．4 박나경x이오늘</a></span>
+                                </p>
+                            </div>
+                        </td>
+                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
+                            2024.02.01 - 2024.02.01</td>
+                        <td class="show_loc">살롱 문보우 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/01/20240115160553f6a3fd83-6496-45a0-9b8b-1ca069ec5b66.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
     </channel>
 </rss>
