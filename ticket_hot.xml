@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 01 Feb 2024 05:12:06 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Feb 2024 06:16:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -56,6 +56,14 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/01/2024013120135953a6dab2-f7b3-44e6-9fb1-8f8fa4432df8.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
         <item>
+            <title><![CDATA[문별 1st Full Album［Starlit of Muse］특별전 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8368</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8368</guid>
+            <pubDate>Thu, 01 Feb 2024 06:16:40 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>24.02.02(금)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/01/20240131195113311fddbb-c60e-495c-a8f1-82a7e4a9ed9d.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
             <title><![CDATA[이츠 단독 콘서트 〈영화〉 티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8365</link>
             <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8365</guid>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 31 Jan 2024 05:12:20 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>24.01.31(수)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/01/20240126173206a4f66317-67d6-4923-a1ac-99a2609045e9.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[먼데이프로젝트 시즌7 My Universe［정우 단독 콘서트］티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8360</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8360</guid>
-            <pubDate>Wed, 31 Jan 2024 03:13:07 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>24.02.07(수)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/01/202401311023316ce568aa-269f-47fd-bb84-5fdee60a6ab5.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
