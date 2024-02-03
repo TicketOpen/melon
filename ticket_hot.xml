@@ -1,8 +1,91 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://ticket.melon.com/csoon/index.htm#orderType=0&amp;pageIndex=1&amp;schGcode=GENRE_ALL&amp;schText=&amp;schDt=</id>
-    <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
-    <updated>2024-02-03T22:11:32.045Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Sat, 03 Feb 2024 23:12:32 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이츠 10주년 단독 콘서트 〈영화〉 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8365</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8365</guid>
+            <pubDate>Sat, 03 Feb 2024 23:12:25 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>24.02.07(수)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/01/20240131192138fff1d669-cf92-4b18-b79f-c7d512d42510.png/melon/resize/160x225/strip/true" length="0" type="image/png/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[GAZAEBAL UN/Readable Sound 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8305</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8305</guid>
+            <pubDate>Sat, 03 Feb 2024 23:12:25 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>24.01.18(목)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/01/20240115154302b964adeb-3c45-4ab7-bcfb-e378c748fd35.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[PAIR PLAY：Vol．8－모스크바서핑클럽x코토바 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8376</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8376</guid>
+            <pubDate>Sat, 03 Feb 2024 23:12:25 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>24.02.07(수)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/02/202402021055074b39ad98-16f1-4f32-875b-4d6632793d99.png/melon/resize/160x225/strip/true" length="0" type="image/png/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[103번째 로맨틱파티 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8379</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8379</guid>
+            <pubDate>Sat, 03 Feb 2024 23:12:25 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>24.02.05(월)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/02/20240201211737d4252623-af59-4070-b60e-396164a35e99.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[정세운 공식 팬클럽 ‘행운（LUCKY）’ 6기 모집 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8377</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8377</guid>
+            <pubDate>Sat, 03 Feb 2024 23:12:25 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>24.02.05(월)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/02/202402012031268a9194e4-7da2-4481-8a55-46a98b2529a1.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[아디오스오디오발매예정곡선공개와동시에현장에서제목투표를여러분의손으로：롤링 29주년 기념 공연 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8371</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8371</guid>
+            <pubDate>Sat, 03 Feb 2024 23:12:25 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>24.02.07(수)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/02/20240201202014b6568fbc-2c78-4d71-9368-8e3f72f48781.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[2024 루미너스 뮤직 스테이지 페스타［모트x새벽공방］티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8375</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8375</guid>
+            <pubDate>Sat, 03 Feb 2024 23:12:25 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>24.02.06(화)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/02/20240201194042e61a41d2-ccac-4a2c-9db6-f264f502a6e4.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[2024 루미너스 뮤직 스테이지 페스타［그_냥x정아로］티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8373</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8373</guid>
+            <pubDate>Sat, 03 Feb 2024 23:12:25 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>24.02.06(화)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/02/2024020119050565145318-818e-40ca-93fa-af3f58aebf14.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[2024 루미너스 뮤직 스테이지 페스타［소각소각x키키］티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8374</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8374</guid>
+            <pubDate>Sat, 03 Feb 2024 23:12:25 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>24.02.06(화)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/02/20240201185502ff01cb13-5d2a-4210-95f7-c76fa9c9529a.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[문별 1st Full Album［Starlit of Muse］특별전 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8368</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8368</guid>
+            <pubDate>Sat, 03 Feb 2024 23:12:25 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>24.02.02(금)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/01/20240131195113311fddbb-c60e-495c-a8f1-82a7e4a9ed9d.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+    </channel>
+</rss>
