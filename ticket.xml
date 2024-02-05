@@ -4,9 +4,17 @@
         <title>멜론 티켓</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 05 Feb 2024 02:25:20 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Feb 2024 03:13:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[ROCK SPRING 2024－나른한 봄날의 신나는 Rock Party－티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8381</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8381</guid>
+            <pubDate>Mon, 05 Feb 2024 03:13:36 GMT</pubDate>
+            <content:encoded><![CDATA[2024.02.13(화) 18:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/02/20240202151254357e1c32-c9a5-4d99-96f0-f350e08ac4a2.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
         <item>
             <title><![CDATA[문상훈 에세이 “내가 한 말을 내가 오해하지 않기로 함” 사운드 낭독회 티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8380</link>
@@ -78,14 +86,6 @@
             <pubDate>Sun, 04 Feb 2024 23:11:23 GMT</pubDate>
             <content:encoded><![CDATA[2024.02.05(월) 20:00]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/02/20240201165051aa07f226-b8ed-4c27-9197-729418eaad60.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[오왠의 ‘어떤 이야기를 들려드릴까요？’ Ep．1 정예원 x 임세모 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8369</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8369</guid>
-            <pubDate>Sun, 04 Feb 2024 23:11:23 GMT</pubDate>
-            <content:encoded><![CDATA[2024.02.02(금) 19:00]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/01/20240131213128dc8b0202-3b11-47e5-b8bc-8f9f84292e6d.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
     </channel>
 </rss>
