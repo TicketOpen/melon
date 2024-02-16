@@ -4,9 +4,17 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 16 Feb 2024 02:18:34 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Feb 2024 03:14:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[블랙홀 단독 콘서트 ‘블랙홀 2024’：롤링 29주년 기념 공연 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8426</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8426</guid>
+            <pubDate>Fri, 16 Feb 2024 03:14:00 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>24.02.22(목)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/02/20240215175812f92b6329-283d-4701-aaaa-79f61b449916.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
         <item>
             <title><![CDATA[ECO Friend X ifland Music Festival：Better Together 티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8417</link>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 16 Feb 2024 02:18:28 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>24.02.20(화)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/02/202402131636423aadad2b-f8c9-462f-bca8-a6b9153cd96b.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[기프트 단독콘서트 〈SUNFLOWER〉 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8413</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8413</guid>
-            <pubDate>Fri, 16 Feb 2024 02:18:28 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>24.02.20(화)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/02/2024021317382428586c63-69ed-4b87-9df0-fce6a6b5d033.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
