@@ -1,8 +1,91 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://ticket.melon.com/csoon/index.htm#orderType=0&amp;pageIndex=1&amp;schGcode=GENRE_ALL&amp;schText=&amp;schDt=</id>
-    <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
-    <updated>2024-02-17T18:14:08.666Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Sat, 17 Feb 2024 19:10:13 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2024 Soundberry Theater 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8430</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8430</guid>
+            <pubDate>Sat, 17 Feb 2024 19:10:06 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>24.02.19(월)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/02/2024021617124269c97129-aab7-4791-8d4e-7a614be0b7a9.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[손태진 단독 팬미팅 ‘YOU MAKE ME SHINE’ 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8431</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8431</guid>
+            <pubDate>Sat, 17 Feb 2024 19:10:06 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>24.02.22(목)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/02/202402151610148533b441-4456-419f-a02b-5801b265d1d5.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[HIPHOPPLAYA FESTIVAL 2024 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8425</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8425</guid>
+            <pubDate>Sat, 17 Feb 2024 19:10:06 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>24.02.22(목)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/02/2024021510530108509299-7bf5-4af8-97da-6901c3b6500d.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[2024 스카 페스티벌 〈스핀오프〉 얼리버드 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8429</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8429</guid>
+            <pubDate>Sat, 17 Feb 2024 19:10:06 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>24.02.21(수)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/02/202402161331102bc3b1d4-02e2-4aec-bc96-53ed1bafd497.png/melon/resize/160x225/strip/true" length="0" type="image/png/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[연극 〈알앤제이（R＆J）〉 4차 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8427</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8427</guid>
+            <pubDate>Sat, 17 Feb 2024 19:10:06 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>24.02.22(목)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/02/20240215182100bdec7c68-1d2c-4cbd-846d-557e62f799ee.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[블랙홀 단독 콘서트 ‘블랙홀 2024’：롤링 29주년 기념 공연 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8426</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8426</guid>
+            <pubDate>Sat, 17 Feb 2024 19:10:06 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>24.02.22(목)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/02/20240215175812f92b6329-283d-4701-aaaa-79f61b449916.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[2024 Seungho Fanconcert：A New Start 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8432</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8432</guid>
+            <pubDate>Sat, 17 Feb 2024 19:10:06 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>24.02.19(월)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/02/20240215162251028819de-7e98-4da2-9920-c884dddb8295.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[기현우 1st Fanmeeting：The Bridge 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8433</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8433</guid>
+            <pubDate>Sat, 17 Feb 2024 19:10:06 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>24.02.19(월)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/02/202402151709363b548ecc-5066-4652-a257-d4a44cbaa6f0.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[ECO Friend X ifland Music Festival：Better Together 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8417</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8417</guid>
+            <pubDate>Sat, 17 Feb 2024 19:10:06 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>24.02.16(금)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/02/2024021409182442960697-5323-4f51-aec9-df07395b506d.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[이은결 〈MAGIC＆ILLUSION〉－부산 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8418</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8418</guid>
+            <pubDate>Sat, 17 Feb 2024 19:10:06 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>24.02.23(금)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/02/202402141754519830ace2-adea-4469-8703-1558bf1fa6af.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+    </channel>
+</rss>
