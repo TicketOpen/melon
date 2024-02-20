@@ -4,9 +4,17 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 20 Feb 2024 08:15:04 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Feb 2024 09:12:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[먼데이프로젝트 시즌7 My Universe［임세모 단독 콘서트］티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8363</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8363</guid>
+            <pubDate>Tue, 20 Feb 2024 09:12:23 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>24.02.08(목)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/02/20240220174105cc719d4c-3f4b-4ab1-91a4-e8b5a9bf3c7c.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
         <item>
             <title><![CDATA[이준형 어쿠스틱 단독공연：Stay With Me－3월에는 마음을 주세요 티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8443</link>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 20 Feb 2024 04:16:16 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>24.02.23(금)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/02/2024021614230176fdfac7-803d-4b9c-8297-352e329a3817.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[HIPHOPPLAYA FESTIVAL 2024 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8425</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8425</guid>
-            <pubDate>Tue, 20 Feb 2024 04:16:16 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>24.02.22(목)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/02/2024021510530108509299-7bf5-4af8-97da-6901c3b6500d.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
