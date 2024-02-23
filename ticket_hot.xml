@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 23 Feb 2024 09:11:52 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Feb 2024 10:15:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -38,6 +38,14 @@
             <pubDate>Fri, 23 Feb 2024 07:12:58 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>24.02.27(화)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/02/202402221745310a864ceb-520c-40bb-915e-56f88e195ad5.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[2024 KWON CHAEWON FANMEETING：BLOOMING DAY 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8463</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8463</guid>
+            <pubDate>Fri, 23 Feb 2024 10:15:03 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>24.02.26(월)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/02/202402221734038d3905ad-dbe8-4dcc-9693-d97e5e2a5d98.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
         <item>
             <title><![CDATA[권서경 팬콘서트 〈Fly High〉 티켓 오픈 안내]]></title>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 23 Feb 2024 05:12:45 GMT</pubDate>
             <content:encoded><![CDATA[오픈일정 보기 &gt;]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/02/20240222102748557bcd47-1216-4c67-aca5-6bdbab0c8652.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[DMZ 피스트레인 뮤직 페스티벌 2024 블라인드 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8436</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8436</guid>
-            <pubDate>Fri, 23 Feb 2024 05:12:45 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>24.02.22(목)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/02/20240222094720f77478e1-df87-45c5-9e5d-67077db02802.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
