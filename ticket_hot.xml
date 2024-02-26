@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 26 Feb 2024 04:14:13 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 26 Feb 2024 05:13:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Mon, 26 Feb 2024 02:21:27 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>24.02.28(수)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/02/20240223093000ed1ba927-cd79-48e4-910f-a6aa60e8cb1c.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[2024 EXO FAN MEETING：ONE 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8466</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8466</guid>
+            <pubDate>Mon, 26 Feb 2024 05:13:04 GMT</pubDate>
+            <content:encoded><![CDATA[오픈일정 보기 &gt;]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/02/202402230952482c7ac782-cd08-4f23-91b3-0ebff7cc5bfe.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
         <item>
             <title><![CDATA[HISTORY 안치환 콘서트 티켓 오픈 안내]]></title>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 26 Feb 2024 02:21:27 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>24.02.02(금)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/01/20240126133118969d37c3-61ed-46f0-b90c-ab0562d47e7c.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[이병찬 소극장 콘서트［MY COSMOS］티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8455</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8455</guid>
-            <pubDate>Mon, 26 Feb 2024 02:21:27 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>24.02.26(월)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/02/202402221430014ee48cae-2453-4802-aadc-c2734655333a.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
