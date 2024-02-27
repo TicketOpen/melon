@@ -1,8 +1,91 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://ticket.melon.com/csoon/index.htm</id>
-    <title>멜론 티켓</title>
-    <updated>2024-02-27T19:10:24.174Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>멜론 티켓</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Tue, 27 Feb 2024 20:12:42 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2024 SEVENUS 1ST FANMEETING－SPRING CANVAS 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8470</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8470</guid>
+            <pubDate>Tue, 27 Feb 2024 20:12:30 GMT</pubDate>
+            <content:encoded><![CDATA[2024.02.29(목) 20:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/02/202402270859543c3a8705-9280-45d8-8845-9d6a31110e1f.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[2024 KT＆G 상상실현 페스티벌 오피셜 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8469</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8469</guid>
+            <pubDate>Tue, 27 Feb 2024 20:12:30 GMT</pubDate>
+            <content:encoded><![CDATA[2024.03.06(수) 18:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/02/202402261604014a2bfd9b-e333-468b-93b5-a37ec6a6d2b4.png/melon/resize/65x92/strip/true" length="0" type="image/png/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[크라잉넛 단독 콘서트 ‘Spring Roll’：롤링 29주년 기념 공연 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8468</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8468</guid>
+            <pubDate>Tue, 27 Feb 2024 20:12:30 GMT</pubDate>
+            <content:encoded><![CDATA[2024.03.04(월) 20:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/02/20240226160315e4da3506-5d80-4a6b-a79b-b6a909b88b05.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[제16회 서울재즈페스티벌 2024 3차 라인업 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8467</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8467</guid>
+            <pubDate>Tue, 27 Feb 2024 20:12:30 GMT</pubDate>
+            <content:encoded><![CDATA[2024.02.06(화) 12:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/02/20240227101128e2a9a37b-c155-4025-9175-601d5bf88094.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[2024 EXO FAN MEETING：ONE 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8466</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8466</guid>
+            <pubDate>Tue, 27 Feb 2024 20:12:30 GMT</pubDate>
+            <content:encoded><![CDATA[오픈일정 보기 &gt;]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/02/202402230952482c7ac782-cd08-4f23-91b3-0ebff7cc5bfe.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[DRINK DANCE AND LOVE ALL：효도앤베이스 X 까데호 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8464</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8464</guid>
+            <pubDate>Tue, 27 Feb 2024 20:12:30 GMT</pubDate>
+            <content:encoded><![CDATA[2024.02.28(수) 20:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/02/20240223093000ed1ba927-cd79-48e4-910f-a6aa60e8cb1c.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[2024 KWON CHAEWON FANMEETING：BLOOMING DAY 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8463</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8463</guid>
+            <pubDate>Tue, 27 Feb 2024 20:12:30 GMT</pubDate>
+            <content:encoded><![CDATA[2024.02.26(월) 19:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/02/202402221734038d3905ad-dbe8-4dcc-9693-d97e5e2a5d98.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[신촌 BLUES 콘서트 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8461</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8461</guid>
+            <pubDate>Tue, 27 Feb 2024 20:12:30 GMT</pubDate>
+            <content:encoded><![CDATA[2024.02.27(화) 16:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/02/202402221745310a864ceb-520c-40bb-915e-56f88e195ad5.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[HISTORY 안치환 콘서트 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8460</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8460</guid>
+            <pubDate>Tue, 27 Feb 2024 20:12:30 GMT</pubDate>
+            <content:encoded><![CDATA[2024.02.27(화) 16:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/02/20240222164937af9e638a-d54f-4f31-a873-b5fe16361ed9.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[권서경 팬콘서트 〈Fly High〉 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8458</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8458</guid>
+            <pubDate>Tue, 27 Feb 2024 20:12:30 GMT</pubDate>
+            <content:encoded><![CDATA[2024.02.27(화) 14:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/02/20240222171608ea23cb2e-20cf-428f-ae43-376f0ead692a.png/melon/resize/65x92/strip/true" length="0" type="image/png/melon/resize/65x92/strip/true"/>
+        </item>
+    </channel>
+</rss>
