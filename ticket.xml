@@ -4,9 +4,17 @@
         <title>멜론 티켓</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 27 Feb 2024 23:12:24 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 28 Feb 2024 00:52:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[프렙 내한공연 PREP LIVE IN SEOUL 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8471</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8471</guid>
+            <pubDate>Wed, 28 Feb 2024 00:51:55 GMT</pubDate>
+            <content:encoded><![CDATA[2024.03.06(수) 10:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/02/2024022717221026cff252-8141-456f-be66-cd4105cd1e00.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
         <item>
             <title><![CDATA[2024 SEVENUS 1ST FANMEETING－SPRING CANVAS 티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8470</link>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 27 Feb 2024 22:12:36 GMT</pubDate>
             <content:encoded><![CDATA[2024.02.27(화) 16:00]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/02/20240222164937af9e638a-d54f-4f31-a873-b5fe16361ed9.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[권서경 팬콘서트 〈Fly High〉 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8458</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8458</guid>
-            <pubDate>Tue, 27 Feb 2024 22:12:36 GMT</pubDate>
-            <content:encoded><![CDATA[2024.02.27(화) 14:00]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/02/20240222171608ea23cb2e-20cf-428f-ae43-376f0ead692a.png/melon/resize/65x92/strip/true" length="0" type="image/png/melon/resize/65x92/strip/true"/>
         </item>
     </channel>
 </rss>
