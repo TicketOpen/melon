@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 28 Feb 2024 02:18:45 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 28 Feb 2024 03:13:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Wed, 28 Feb 2024 00:52:02 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>24.03.06(수)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/02/2024022717221026cff252-8141-456f-be66-cd4105cd1e00.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[맥거핀 단독 콘서트 ‘Storm In A Teacup’：롤링 29주년 기념 공연 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8473</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8473</guid>
+            <pubDate>Wed, 28 Feb 2024 03:13:23 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>24.03.06(수)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/02/202402271554115d0c5762-7d71-42bb-aeaf-517a2d4bb655.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
         <item>
             <title><![CDATA[크라잉넛 단독 콘서트 ‘Spring Roll’：롤링 29주년 기념 공연 티켓 오픈 안내]]></title>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 27 Feb 2024 22:12:42 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>24.02.26(월)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/02/2024022114434762277d13-6c29-4d35-b777-4ce06b4b4341.png/melon/resize/160x225/strip/true" length="0" type="image/png/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[2024 김범수 콘서트 〈여행，The Original〉 부산 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8405</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8405</guid>
-            <pubDate>Tue, 27 Feb 2024 22:12:42 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>24.02.16(금)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/02/20240222180110942e98a9-0dce-47a7-86ed-b40254fdbb4c.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
