@@ -1,8 +1,91 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://ticket.melon.com/csoon/index.htm</id>
-    <title>멜론 티켓</title>
-    <updated>2024-02-29T13:12:48.904Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>멜론 티켓</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Thu, 29 Feb 2024 14:15:02 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2024 마네퀸 앵콜 팬미팅：Queen Meeting in Busan 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8483</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8483</guid>
+            <pubDate>Thu, 29 Feb 2024 14:14:49 GMT</pubDate>
+            <content:encoded><![CDATA[2024.03.07(목) 20:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/02/202402281529211cb3b584-189e-41d3-bff1-f8fd521064c1.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[둥절2024［우리사이의 육하원칙］티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8482</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8482</guid>
+            <pubDate>Thu, 29 Feb 2024 14:14:49 GMT</pubDate>
+            <content:encoded><![CDATA[2024.03.07(목) 20:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/02/202402281627145c0d1baa-2b75-4e5c-95aa-4db444320862.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[티카콘（TIKACON）：블루파프리카 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8481</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8481</guid>
+            <pubDate>Thu, 29 Feb 2024 14:14:49 GMT</pubDate>
+            <content:encoded><![CDATA[2024.03.04(월) 20:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/02/20240228161259eb169eaf-812d-4074-81d5-c6b8c7034bd5.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[IVE 공식 팬클럽 ‘DIVE’ 3기 추가모집 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8479</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8479</guid>
+            <pubDate>Thu, 29 Feb 2024 14:14:49 GMT</pubDate>
+            <content:encoded><![CDATA[2024.03.04(월) 10:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/02/20240228163203449f63f4-182a-49b3-a823-e00cde91e81b.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[손태진 단독 팬미팅 ‘YOU MAKE ME SHINE’ 추가 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8478</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8478</guid>
+            <pubDate>Thu, 29 Feb 2024 14:14:49 GMT</pubDate>
+            <content:encoded><![CDATA[2024.03.04(월) 14:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/02/20240229154342927e1b53-b33c-4746-bf98-af0066255ca5.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[먼데이프로젝트 IN 라이브클럽［서온 단독 콘서트］티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8477</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8477</guid>
+            <pubDate>Thu, 29 Feb 2024 14:14:49 GMT</pubDate>
+            <content:encoded><![CDATA[2024.03.07(목) 19:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/02/2024022813475041d173a9-fa74-4e52-99bf-76e96cb63563.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[문별 1ST WORLD TOUR［MUSEUM：an epic of starlit］티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8476</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8476</guid>
+            <pubDate>Thu, 29 Feb 2024 14:14:49 GMT</pubDate>
+            <content:encoded><![CDATA[오픈일정 보기 &gt;]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/02/202402281427023dbbb80f-66f5-42e3-9387-88fea4208583.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[HAPPY JOO WON DAY：해피 주원 데이 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8475</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8475</guid>
+            <pubDate>Thu, 29 Feb 2024 14:14:49 GMT</pubDate>
+            <content:encoded><![CDATA[2024.03.05(화) 20:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/02/20240227160947d5e72763-ea52-42df-9757-65defeaece5c.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 〈마리 앙투아네트〉 10주년 기념공연 3차 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8474</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8474</guid>
+            <pubDate>Thu, 29 Feb 2024 14:14:49 GMT</pubDate>
+            <content:encoded><![CDATA[2024.03.05(화) 16:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/02/202402281306522f76605f-9ab0-4beb-8781-0e2418e64455.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[맥거핀 단독 콘서트 ‘Storm In A Teacup’：롤링 29주년 기념 공연 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8473</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8473</guid>
+            <pubDate>Thu, 29 Feb 2024 14:14:49 GMT</pubDate>
+            <content:encoded><![CDATA[2024.03.06(수) 20:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/02/202402271554115d0c5762-7d71-42bb-aeaf-517a2d4bb655.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+    </channel>
+</rss>
