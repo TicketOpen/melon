@@ -4,9 +4,17 @@
         <title>멜론 티켓</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 03 Mar 2024 02:20:11 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Mar 2024 03:12:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[먼데이프로젝트 시즌7 My Universe［전기뱀장어 단독 콘서트］티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8485</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8485</guid>
+            <pubDate>Sun, 03 Mar 2024 03:12:23 GMT</pubDate>
+            <content:encoded><![CDATA[2024.03.07(목) 20:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/02/20240229171854033f3787-0821-4276-83fa-f2ff027ced51.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
         <item>
             <title><![CDATA[이지형 단독공연 ‘봄에 만나（SEE YOU IN THE SPRING）’ 티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8484</link>
@@ -78,14 +86,6 @@
             <pubDate>Sun, 03 Mar 2024 02:19:59 GMT</pubDate>
             <content:encoded><![CDATA[2024.03.05(화) 20:00]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/02/20240227160947d5e72763-ea52-42df-9757-65defeaece5c.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 〈마리 앙투아네트〉 10주년 기념공연 3차 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8474</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8474</guid>
-            <pubDate>Sun, 03 Mar 2024 02:19:59 GMT</pubDate>
-            <content:encoded><![CDATA[2024.03.05(화) 16:00]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/02/202402281306522f76605f-9ab0-4beb-8781-0e2418e64455.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
     </channel>
 </rss>
