@@ -4,9 +4,17 @@
         <title>멜론 티켓</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Mar 2024 07:01:47 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Mar 2024 10:03:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Blue is Rock－DALDAM X DASUTT 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8493</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8493</guid>
+            <pubDate>Mon, 04 Mar 2024 10:03:30 GMT</pubDate>
+            <content:encoded><![CDATA[2024.03.08(금) 18:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/03/20240304112439f5808ed4-067b-41a0-a30d-93feb4a9c2e8.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
         <item>
             <title><![CDATA[2024 CRAVITY FAN－CON 〈LUVITY GAMES〉 티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8491</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 04 Mar 2024 07:01:34 GMT</pubDate>
             <content:encoded><![CDATA[2024.03.07(목) 20:00]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/02/202402281627145c0d1baa-2b75-4e5c-95aa-4db444320862.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[티카콘（TIKACON）：블루파프리카 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8481</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8481</guid>
-            <pubDate>Mon, 04 Mar 2024 07:01:34 GMT</pubDate>
-            <content:encoded><![CDATA[2024.03.04(월) 20:00]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/02/20240228161259eb169eaf-812d-4074-81d5-c6b8c7034bd5.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
     </channel>
 </rss>
