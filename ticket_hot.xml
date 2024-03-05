@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Mar 2024 08:16:07 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Mar 2024 09:12:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -40,12 +40,28 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/03/2024030421555237f9b55d-0d07-4b83-925a-9c35a0257bf0.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
         <item>
+            <title><![CDATA[박한담 FANCONCERT 〈Page＃1〉 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8499</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8499</guid>
+            <pubDate>Tue, 05 Mar 2024 09:12:23 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>24.03.08(금)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/03/2024030510345211a79f63-ad62-4d9c-8104-08f832585079.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
             <title><![CDATA[이준형 스탠딩 단독공연：Spring Up！－3월에는 환희를 주세요 티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8498</link>
             <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8498</guid>
             <pubDate>Tue, 05 Mar 2024 08:16:01 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>24.03.12(화)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/03/20240304213007eb84225e-312a-4d0f-ab5b-89497378e1e9.png/melon/resize/160x225/strip/true" length="0" type="image/png/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[406호 프로젝트 정기공연［406DAY］티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8500</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8500</guid>
+            <pubDate>Tue, 05 Mar 2024 09:12:23 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>24.03.08(금)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/03/202403042113376bbc25e8-a1b4-4075-b956-6b0ee20be5cb.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
         <item>
             <title><![CDATA[프렙 내한공연（PREP LIVE IN SEOUL）티켓 오픈 안내]]></title>
@@ -70,22 +86,6 @@
             <pubDate>Tue, 05 Mar 2024 08:16:01 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>24.03.11(월)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/03/20240304095542e9d67a3c-bc7f-4bde-adfc-a21428457699.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 〈헤드윅〉 3차 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8490</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8490</guid>
-            <pubDate>Tue, 05 Mar 2024 08:16:01 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>24.03.07(목)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/03/20240304093503375fa112-4e22-412f-946d-8a17709c1dbb.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[김승주 EP 앨범 ‘고시엔’ 발매기념 단독 콘서트 ‘당신의 예선탈락을 축하해’：롤링 29주년 기념 공연 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8487</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8487</guid>
-            <pubDate>Tue, 05 Mar 2024 08:16:01 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>24.03.11(월)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/03/202403022344236592cf47-6856-470d-a640-84555471ddf2.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
