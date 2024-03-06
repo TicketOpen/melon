@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Mar 2024 10:12:51 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Mar 2024 11:10:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Wed, 06 Mar 2024 09:13:21 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>24.03.07(목)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/03/2024030517281237105c15-e6f3-49f6-bca5-0bcf3a223bee.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[피싱걸스 ‘VISIBLE WORLD’ 발매 기념 단독 공연 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8504</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8504</guid>
+            <pubDate>Wed, 06 Mar 2024 11:10:49 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>24.03.08(금)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/03/202403061333030ecc6122-0977-4bfb-9b5a-68580a632519.png/melon/resize/160x225/strip/true" length="0" type="image/png/melon/resize/160x225/strip/true"/>
         </item>
         <item>
             <title><![CDATA[Blue is Rock－DALDAM X DASUTT 티켓 오픈 안내]]></title>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 06 Mar 2024 06:17:08 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>24.03.08(금)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/03/202403042113376bbc25e8-a1b4-4075-b956-6b0ee20be5cb.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[프렙 내한공연（PREP LIVE IN SEOUL）티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8471</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8471</guid>
-            <pubDate>Wed, 06 Mar 2024 06:17:08 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>24.03.06(수)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/02/2024022717221026cff252-8141-456f-be66-cd4105cd1e00.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
