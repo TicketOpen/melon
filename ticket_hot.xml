@@ -4,9 +4,17 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Mar 2024 08:16:53 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Mar 2024 09:13:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Mr．Freak’s Lab：Sweet Escape 사전 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8503</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8503</guid>
+            <pubDate>Wed, 06 Mar 2024 09:13:21 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>24.03.07(목)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/03/2024030517281237105c15-e6f3-49f6-bca5-0bcf3a223bee.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
         <item>
             <title><![CDATA[Blue is Rock－DALDAM X DASUTT 티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8493</link>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 06 Mar 2024 06:17:08 GMT</pubDate>
             <content:encoded><![CDATA[오픈일정 보기 &gt;]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/03/202403041119368d56e4d9-0993-4fc7-be71-c8e297cf46f7.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[정세운 공식 팬클럽 ‘행운（LUCKY）’ 6기 추가모집 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8489</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8489</guid>
-            <pubDate>Wed, 06 Mar 2024 06:17:08 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>24.03.11(월)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/03/20240304095542e9d67a3c-bc7f-4bde-adfc-a21428457699.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
