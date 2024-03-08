@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 판매중</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Mar 2024 14:12:47 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Mar 2024 15:13:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -483,29 +483,29 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/02/20240214133215379f9d0b-7202-48bf-84b3-5577ebb6499d.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
-            <title><![CDATA[해서웨이 단독 콘서트 “Hathaw9y ETERNITY”：롤링홀 29주년 기념 공연]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=209426</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=209426</guid>
-            <pubDate>Fri, 08 Mar 2024 08:14:36 GMT</pubDate>
+            <title><![CDATA[이병찬 소극장 콘서트［MY COSMOS］]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=209533</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=209533</guid>
+            <pubDate>Fri, 08 Mar 2024 15:13:01 GMT</pubDate>
             <content:encoded><![CDATA[<td>
                             <div class="show_infor">
                                 <div class="thumb_90x125  img">
                                     <a href="#">
-                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/01/20240129171330e40cc3d5-02d4-42f1-9fa9-cfcb6d5429c5.jpg/melon/resize/90x125/strip/true" alt="">
+                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/02/202402221447006cd15415-c331-4605-bba5-b7d3e7971e28.jpg/melon/resize/90x125/strip/true" alt="">
                                         <span class="frame"></span>
                                     </a>
                                 </div>
                                 <p class="infor_text">
                                     <span class="ico_wrap">
                                         <span class="ico_list ico_list1">단독판매</span><span class="ico_list ico_list4"> 판매중</span></span>
-                                    <span class="show_title"><a href="/performance/index.htm?prodId=209426">해서웨이 단독 콘서트 “Hathaw9y ETERNITY”：롤링홀 29주년 기념 공연</a></span>
+                                    <span class="show_title"><a href="/performance/index.htm?prodId=209533">이병찬 소극장 콘서트［MY COSMOS］</a></span>
                                 </p>
                             </div>
                         </td>
                         <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
-                            2024.03.08 - 2024.03.08</td>
-                        <td class="show_loc">롤링홀 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/01/20240129171330e40cc3d5-02d4-42f1-9fa9-cfcb6d5429c5.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+                            2024.03.08 - 2024.03.17</td>
+                        <td class="show_loc">구름아래소극장 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/02/202402221447006cd15415-c331-4605-bba5-b7d3e7971e28.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
     </channel>
 </rss>
