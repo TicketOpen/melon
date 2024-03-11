@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Mar 2024 04:15:53 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Mar 2024 05:13:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -56,6 +56,14 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/03/20240308151657fbcb3760-3b76-416c-99c7-bfe4013a67a1.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
         <item>
+            <title><![CDATA[연극 〈알앤제이（R＆J）〉 5차 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8514</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8514</guid>
+            <pubDate>Mon, 11 Mar 2024 05:13:05 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>24.03.14(목)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/03/20240308143459ee177d16-c87d-400a-9afd-9d4d1f2027c7.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
             <title><![CDATA[2024 SEVENUS 1ST FANMEETING－SPRING CANVAS 티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8470</link>
             <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8470</guid>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 11 Mar 2024 04:15:47 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>24.03.11(월)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/03/20240306172407fc06c120-9c38-4372-ad78-a9e6c7164395.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[피싱걸스 ‘VISIBLE WORLD’ 발매 기념 단독 공연 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8504</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8504</guid>
-            <pubDate>Mon, 11 Mar 2024 04:15:47 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>24.03.08(금)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/03/202403061333030ecc6122-0977-4bfb-9b5a-68580a632519.png/melon/resize/160x225/strip/true" length="0" type="image/png/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
