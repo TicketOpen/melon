@@ -1,8 +1,91 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://ticket.melon.com/csoon/index.htm#orderType=0&amp;pageIndex=1&amp;schGcode=GENRE_ALL&amp;schText=&amp;schDt=</id>
-    <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
-    <updated>2024-03-11T06:15:48.112Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Mon, 11 Mar 2024 07:12:50 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[나상현씨밴드 단독공연 〈심화과정 2024〉 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8512</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8512</guid>
+            <pubDate>Mon, 11 Mar 2024 07:12:44 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>24.03.15(금)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/03/20240308111937822ae672-c281-49bd-a899-7487a691ecef.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[블루스프링페스티벌 2024 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8511</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8511</guid>
+            <pubDate>Mon, 11 Mar 2024 07:12:44 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>24.03.12(화)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/03/202403081358391b64d943-87ca-4530-b3fb-807bcf6b6491.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[2024 CRAVITY FAN－CON 〈LUVITY GAMES〉 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8491</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8491</guid>
+            <pubDate>Mon, 11 Mar 2024 07:12:44 GMT</pubDate>
+            <content:encoded><![CDATA[오픈일정 보기 &gt;]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/03/202403041119368d56e4d9-0993-4fc7-be71-c8e297cf46f7.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[2024 RIIZE FAN－CON ‘RIIZING DAY’ in SEOUL 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8509</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8509</guid>
+            <pubDate>Mon, 11 Mar 2024 07:12:44 GMT</pubDate>
+            <content:encoded><![CDATA[오픈일정 보기 &gt;]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/03/20240307153708c8f1a80d-488e-449d-a669-33162c8d498f.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[2024 JUNG DAE HYUN FANMEETING［정대현의 ON AIR］티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8508</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8508</guid>
+            <pubDate>Mon, 11 Mar 2024 07:12:44 GMT</pubDate>
+            <content:encoded><![CDATA[오픈일정 보기 &gt;]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/03/20240307172207006900a8-1d8f-41a4-b3c1-c33de9c1c253.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[브로큰발렌타인 단독 콘서트［One shot is not enough］：롤링 29주년 기념 공연 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8513</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8513</guid>
+            <pubDate>Mon, 11 Mar 2024 07:12:44 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>24.03.18(월)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/03/20240308151657fbcb3760-3b76-416c-99c7-bfe4013a67a1.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[연극 〈알앤제이（R＆J）〉 5차 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8514</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8514</guid>
+            <pubDate>Mon, 11 Mar 2024 07:12:44 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>24.03.14(목)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/03/20240308143459ee177d16-c87d-400a-9afd-9d4d1f2027c7.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[2024 SEVENUS 1ST FANMEETING－SPRING CANVAS 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8470</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8470</guid>
+            <pubDate>Mon, 11 Mar 2024 07:12:44 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>24.02.29(목)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/03/2024030718025153d1c6fa-270d-4fe5-92fb-8fb632a01070.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[FRankly 단독 콘서트 ‘우리의 사이는？’：롤링 29주년 기념 공연 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8505</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8505</guid>
+            <pubDate>Mon, 11 Mar 2024 07:12:44 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>24.03.14(목)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/03/20240307135641eafe21c4-94c8-4b69-bb70-fc5f387b1528.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[HAPPY JOO WON DAY：해피 주원 데이 2차 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8502</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8502</guid>
+            <pubDate>Mon, 11 Mar 2024 07:12:44 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>24.03.11(월)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/03/20240306172407fc06c120-9c38-4372-ad78-a9e6c7164395.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+    </channel>
+</rss>
