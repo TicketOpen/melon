@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 판매중</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Mar 2024 14:12:07 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Mar 2024 15:12:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -483,29 +483,29 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/03/202403041403113f58d8b0-169b-4a24-b73a-b67b9dea8265.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
-            <title><![CDATA[Monday Off With Bluesy 단독 콘서트 “Midnight blue”：롤링 29주년 기념 공연]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=209467</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=209467</guid>
-            <pubDate>Thu, 14 Mar 2024 14:12:06 GMT</pubDate>
+            <title><![CDATA[RYEOWOOK’S AGIT CONCERT：In The Green]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=209459</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=209459</guid>
+            <pubDate>Thu, 14 Mar 2024 15:12:48 GMT</pubDate>
             <content:encoded><![CDATA[<td>
                             <div class="show_infor">
                                 <div class="thumb_90x125  img">
                                     <a href="#">
-                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/02/20240202110833cde50eea-021c-4920-9ca3-91fa265307a8.jpg/melon/resize/90x125/strip/true" alt="">
+                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/02/20240202182316bd956b04-cd35-4530-894e-a4d11bd75e61.jpg/melon/resize/90x125/strip/true" alt="">
                                         <span class="frame"></span>
                                     </a>
                                 </div>
                                 <p class="infor_text">
                                     <span class="ico_wrap">
                                         <span class="ico_list ico_list1">단독판매</span><span class="ico_list ico_list4"> 판매중</span></span>
-                                    <span class="show_title"><a href="/performance/index.htm?prodId=209467">Monday Off With Bluesy 단독 콘서트 “Midnight blue”：롤링 29주년 기념 공연</a></span>
+                                    <span class="show_title"><a href="/performance/index.htm?prodId=209459">RYEOWOOK’S AGIT CONCERT：In The Green</a></span>
                                 </p>
                             </div>
                         </td>
                         <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
-                            2024.03.14 - 2024.03.14</td>
-                        <td class="show_loc">롤링홀 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/02/20240202110833cde50eea-021c-4920-9ca3-91fa265307a8.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+                            2024.03.15 - 2024.03.17</td>
+                        <td class="show_loc">동덕여대 백주년기념관 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/02/20240202182316bd956b04-cd35-4530-894e-a4d11bd75e61.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
     </channel>
 </rss>
