@@ -1,8 +1,91 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://ticket.melon.com/csoon/index.htm#orderType=0&amp;pageIndex=1&amp;schGcode=GENRE_ALL&amp;schText=&amp;schDt=</id>
-    <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
-    <updated>2024-03-14T19:09:41.073Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Thu, 14 Mar 2024 20:13:20 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2024 JUNG DAE HYUN FANMEETING［정대현의 ON AIR］티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8508</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8508</guid>
+            <pubDate>Thu, 14 Mar 2024 20:13:13 GMT</pubDate>
+            <content:encoded><![CDATA[오픈일정 보기 &gt;]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/03/20240307172207006900a8-1d8f-41a4-b3c1-c33de9c1c253.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[［얼리버드］스튜디오 지브리 애니메이션의 거장 타카하타 이사오전 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8533</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8533</guid>
+            <pubDate>Thu, 14 Mar 2024 20:13:13 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>24.03.19(화)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/03/20240313202223ca582f20-35a3-4f6d-b7aa-3a7e69827b9e.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[김현철 단독 공연 “김현철 도시의밤” Vol．2 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8539</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8539</guid>
+            <pubDate>Thu, 14 Mar 2024 20:13:13 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>24.03.19(화)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/03/202403131824046dce9888-019e-4af5-b27f-b34eaa328261.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[먼데이프로젝트 시즌7［Robiq 10주년 단독 콘서트 ‘Easy’］티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8534</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8534</guid>
+            <pubDate>Thu, 14 Mar 2024 20:13:13 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>24.03.21(목)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/03/20240313175613a1a35055-c9f3-4321-9a83-390afae978cc.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[2024 JANG DONG WOO＆LEE SUNG YEOL FAN MEETING 〈WORKCATION〉 IN SEOUL 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8396</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8396</guid>
+            <pubDate>Thu, 14 Mar 2024 20:13:13 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>24.03.18(월)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/02/202402061526391d1c3bae-8987-47c7-9697-0e3b3a4288bf.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[제11회 김사월 쇼：디폴트 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8537</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8537</guid>
+            <pubDate>Thu, 14 Mar 2024 20:13:13 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>24.03.21(목)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/03/2024031317394547020960-5318-4e04-b09a-80e77a9fd215.png/melon/resize/160x225/strip/true" length="0" type="image/png/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[먼데이프로젝트 시즌7 THE ORIGINAL［공중그늘 단독 콘서트］티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8535</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8535</guid>
+            <pubDate>Thu, 14 Mar 2024 20:13:13 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>24.03.21(목)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/03/20240313165536f9e85d03-e9c0-4831-a73b-cb2ab917681b.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[2024 잭킹콩 정규 2집 쇼케이스［Apophenia］티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8536</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8536</guid>
+            <pubDate>Thu, 14 Mar 2024 20:13:13 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>24.03.19(화)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/03/20240313162056b012cb01-277a-4a54-92c1-936263e99369.png/melon/resize/160x225/strip/true" length="0" type="image/png/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[2024 뮤지컬 노트르담 드 파리 한국어버전－광주 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8528</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8528</guid>
+            <pubDate>Thu, 14 Mar 2024 20:13:13 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>24.03.18(월)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/03/2024031311211664b9f0df-46d9-470b-bca7-c64616ebe15c.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[만동 단독공연 〈 Pai，Moon，Everything 〉 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8531</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8531</guid>
+            <pubDate>Thu, 14 Mar 2024 20:13:13 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>24.03.18(월)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/03/20240313114234ca3e5d93-bf5b-47f9-8609-cbc5030226c7.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+    </channel>
+</rss>
