@@ -4,9 +4,17 @@
         <title>멜론 티켓</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Mar 2024 09:12:30 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Mar 2024 10:13:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김현철 단독 공연 “김현철 도시의밤” Vol．2 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8539</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8539</guid>
+            <pubDate>Thu, 14 Mar 2024 10:12:55 GMT</pubDate>
+            <content:encoded><![CDATA[2024.03.19(화) 20:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/03/202403131824046dce9888-019e-4af5-b27f-b34eaa328261.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
         <item>
             <title><![CDATA[제11회 김사월 쇼：디폴트 티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8537</link>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 14 Mar 2024 06:15:26 GMT</pubDate>
             <content:encoded><![CDATA[2024.03.18(월) 14:00]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/03/2024031311211664b9f0df-46d9-470b-bca7-c64616ebe15c.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[2024 Hongseok Fanmeeting［Photo by Hongseok］티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8527</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8527</guid>
-            <pubDate>Thu, 14 Mar 2024 06:15:26 GMT</pubDate>
-            <content:encoded><![CDATA[2024.03.15(금) 19:00]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/03/202403121538059b969515-fd16-412b-a3e6-736b4d48dc2d.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
     </channel>
 </rss>
