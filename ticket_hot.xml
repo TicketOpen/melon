@@ -1,8 +1,91 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://ticket.melon.com/csoon/index.htm#orderType=0&amp;pageIndex=1&amp;schGcode=GENRE_ALL&amp;schText=&amp;schDt=</id>
-    <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
-    <updated>2024-03-19T08:15:20.216Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Tue, 19 Mar 2024 09:12:15 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[제16회 서울재즈페스티벌 2024 4차 라인업 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8551</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8551</guid>
+            <pubDate>Tue, 19 Mar 2024 09:12:08 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>24.02.06(화)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/03/2024031911031807f45de6-f920-4b5f-b357-6fc33d33ec3d.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[블루스프링페스티벌 2024 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8511</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8511</guid>
+            <pubDate>Tue, 19 Mar 2024 09:12:08 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>24.03.12(화)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/03/20240318132117f6422869-e48a-4fd7-959c-9574f1e4926d.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[포크라노스 〈Perfect Strangers〉 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8550</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8550</guid>
+            <pubDate>Tue, 19 Mar 2024 09:12:08 GMT</pubDate>
+            <content:encoded><![CDATA[오픈일정 보기 &gt;]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/03/202403181050396a1510c9-0c14-408a-9c10-838186e80bda.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[［얼리버드］스튜디오 지브리 애니메이션의 거장 타카하타 이사오전 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8533</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8533</guid>
+            <pubDate>Tue, 19 Mar 2024 09:12:08 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>24.03.19(화)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/03/20240313202223ca582f20-35a3-4f6d-b7aa-3a7e69827b9e.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[아일 전국투어 〈HERE I’ll AM〉 서울앵콜 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8544</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8544</guid>
+            <pubDate>Tue, 19 Mar 2024 09:12:08 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>24.03.19(화)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/03/20240315161100f292b6b9-532f-4689-aad1-e02addd645a2.png/melon/resize/160x225/strip/true" length="0" type="image/png/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[TALK＆LIVE 정모르파티 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8545</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8545</guid>
+            <pubDate>Tue, 19 Mar 2024 09:12:08 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>24.03.20(수)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/03/2024031515003855c37824-3e66-4b83-a1cf-16f244eb6436.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[2024 타임캡슐 슈퍼콘서트 전국투어 in 인천 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8543</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8543</guid>
+            <pubDate>Tue, 19 Mar 2024 09:12:08 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>24.03.19(화)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/03/2024031510090668a70ad8-747d-451d-a951-60181e118f13.png/melon/resize/160x225/strip/true" length="0" type="image/png/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 〈그레이트 코멧〉 2차 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8542</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8542</guid>
+            <pubDate>Tue, 19 Mar 2024 09:12:08 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>24.03.21(목)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/03/20240314111501c4ecd80f-7a4b-4ca8-ad7f-4a118c24dc1d.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[오왠의 ‘어떤 이야기를 들려드릴까요？’ Ep．2 109，Maji 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8548</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8548</guid>
+            <pubDate>Tue, 19 Mar 2024 09:12:08 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>24.03.19(화)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/03/2024031511231257bc0092-c24a-4288-bdf0-032f1e7f549d.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[evenif 3rd Album Preview Concert ‘Invitation From Space’：롤링 29주년 기념 공연 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8525</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8525</guid>
+            <pubDate>Tue, 19 Mar 2024 09:12:08 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>24.03.20(수)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/03/2024031216211494a51aca-0495-42f4-a58f-aa79074dffe7.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+    </channel>
+</rss>
