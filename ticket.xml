@@ -4,9 +4,17 @@
         <title>멜론 티켓</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Mar 2024 04:16:35 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Mar 2024 05:13:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[박현중 콘서트 ‘못다한 이야기’ 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8555</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8555</guid>
+            <pubDate>Wed, 20 Mar 2024 05:13:25 GMT</pubDate>
+            <content:encoded><![CDATA[2024.03.22(금) 19:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/03/20240319154644177c245e-678e-4c65-a28a-98a3b280e0bd.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
         <item>
             <title><![CDATA[먼데이프로젝트 시즌7 청춘의 밤［찬주 단독 콘서트］티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8554</link>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 20 Mar 2024 01:44:01 GMT</pubDate>
             <content:encoded><![CDATA[2024.03.19(화) 14:00]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/03/2024031510090668a70ad8-747d-451d-a951-60181e118f13.png/melon/resize/65x92/strip/true" length="0" type="image/png/melon/resize/65x92/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 〈그레이트 코멧〉 2차 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8542</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8542</guid>
-            <pubDate>Wed, 20 Mar 2024 01:44:01 GMT</pubDate>
-            <content:encoded><![CDATA[2024.03.21(목) 14:00]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/03/20240314111501c4ecd80f-7a4b-4ca8-ad7f-4a118c24dc1d.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
     </channel>
 </rss>
