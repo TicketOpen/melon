@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 판매중</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Mar 2024 14:11:57 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Mar 2024 20:13:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -458,31 +458,6 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/03/20240305173616d731b420-d257-4319-9ba6-3cea2db11d00.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
-            <title><![CDATA[먼데이프로젝트 시즌7 ORIGINAL［피에타 단독 콘서트］]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=209532</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=209532</guid>
-            <pubDate>Wed, 20 Mar 2024 08:15:23 GMT</pubDate>
-            <content:encoded><![CDATA[<td>
-                            <div class="show_infor">
-                                <div class="thumb_90x125  img">
-                                    <a href="#">
-                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/02/202402211428478f3f4f97-1b5e-4b77-8fa4-7ad9993216f1.jpg/melon/resize/90x125/strip/true" alt="">
-                                        <span class="frame"></span>
-                                    </a>
-                                </div>
-                                <p class="infor_text">
-                                    <span class="ico_wrap">
-                                        <span class="ico_list ico_list1">단독판매</span><span class="ico_list ico_list4"> 판매중</span></span>
-                                    <span class="show_title"><a href="/performance/index.htm?prodId=209532">먼데이프로젝트 시즌7 ORIGINAL［피에타 단독 콘서트］</a></span>
-                                </p>
-                            </div>
-                        </td>
-                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
-                            2024.03.20 - 2024.03.20</td>
-                        <td class="show_loc">CJ아지트 광흥창 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/02/202402211428478f3f4f97-1b5e-4b77-8fa4-7ad9993216f1.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
             <title><![CDATA[［얼리버드］새벽부터 황혼까지－스웨덴 국립미술관 컬렉션]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=209482</link>
             <guid>https://ticket.melon.com/performance/index.htm?prodId=209482</guid>
@@ -506,6 +481,31 @@
                             2024.03.21 - 2024.05.17</td>
                         <td class="show_loc">마이아트뮤지엄 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/02/20240206093930154c518c-b074-4fc3-9c0d-3f7536998c72.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[스킵잭 단독 콘서트 ‘Undisclosed Desires’：롤링 29주년 기념 공연]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=209496</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=209496</guid>
+            <pubDate>Wed, 20 Mar 2024 20:13:40 GMT</pubDate>
+            <content:encoded><![CDATA[<td>
+                            <div class="show_infor">
+                                <div class="thumb_90x125  img">
+                                    <a href="#">
+                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/02/20240208120059ca9b4429-184d-4a94-a5ec-52b25aff2eb9.jpg/melon/resize/90x125/strip/true" alt="">
+                                        <span class="frame"></span>
+                                    </a>
+                                </div>
+                                <p class="infor_text">
+                                    <span class="ico_wrap">
+                                        <span class="ico_list ico_list1">단독판매</span><span class="ico_list ico_list4"> 판매중</span></span>
+                                    <span class="show_title"><a href="/performance/index.htm?prodId=209496">스킵잭 단독 콘서트 ‘Undisclosed Desires’：롤링 29주년 기념 공연</a></span>
+                                </p>
+                            </div>
+                        </td>
+                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
+                            2024.03.21 - 2024.03.21</td>
+                        <td class="show_loc">롤링홀 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/02/20240208120059ca9b4429-184d-4a94-a5ec-52b25aff2eb9.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
     </channel>
 </rss>
