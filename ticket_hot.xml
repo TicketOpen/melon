@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Mar 2024 08:15:29 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Mar 2024 09:14:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Fri, 22 Mar 2024 07:12:09 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>24.03.19(화)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/03/202403221207553c04434c-9b1a-4879-913a-712c82dd55ac.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[원피스 인 콘서트：We Are！티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8569</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8569</guid>
+            <pubDate>Fri, 22 Mar 2024 09:14:08 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>24.04.01(월)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/03/202403211731183d65dee6-b8c2-4427-baef-ad1c0f0bf9e5.png/melon/resize/160x225/strip/true" length="0" type="image/png/melon/resize/160x225/strip/true"/>
         </item>
         <item>
             <title><![CDATA[돌피노스 in 서울 with Quartet Velato 티켓 오픈 안내]]></title>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 22 Mar 2024 07:12:09 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>24.03.28(목)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/03/20240320163650af214e11-2377-4e33-aaa4-1cc8943b292f.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[먼데이프로젝트 시즌7 My Universe［기탁 단독 콘서트］티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8558</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8558</guid>
-            <pubDate>Fri, 22 Mar 2024 07:12:09 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>24.03.28(목)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/03/20240320151623030e520f-7274-4471-a35c-ea7c6d4b68c7.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
