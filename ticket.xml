@@ -4,9 +4,25 @@
         <title>멜론 티켓</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Mar 2024 04:15:20 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Mar 2024 05:13:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2024 SUHO CONCERT 〈SU：HOME〉 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8574</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8574</guid>
+            <pubDate>Mon, 25 Mar 2024 05:13:20 GMT</pubDate>
+            <content:encoded><![CDATA[오픈일정 보기 &gt;]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/03/20240322142944f58e66bf-5bd5-4e3c-bf05-aafc9808aee9.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 〈헤드윅〉 4차 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8573</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8573</guid>
+            <pubDate>Mon, 25 Mar 2024 05:13:20 GMT</pubDate>
+            <content:encoded><![CDATA[2024.03.28(목) 14:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/03/2024032509051249290cad-b038-4c8c-a802-f04177597af2.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
         <item>
             <title><![CDATA[파츠 첫번째 단독 쇼케이스 PATZ Showcase［Trace of Visitors］티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8571</link>
@@ -70,22 +86,6 @@
             <pubDate>Mon, 25 Mar 2024 04:15:08 GMT</pubDate>
             <content:encoded><![CDATA[2024.03.25(월) 20:00]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/03/202403211037456e7d08fe-4676-415c-ad58-c19627c2608a.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[DMZ 피스트레인 뮤직 페스티벌 2024 LAST TRAIN 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8562</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8562</guid>
-            <pubDate>Mon, 25 Mar 2024 04:15:08 GMT</pubDate>
-            <content:encoded><![CDATA[2024.03.25(월) 12:00]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/03/20240321134753f81d505e-58af-4958-930f-80aa6f4e7c6d.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[최정윤 단독 콘서트 ‘Secret’ 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8561</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8561</guid>
-            <pubDate>Mon, 25 Mar 2024 04:15:08 GMT</pubDate>
-            <content:encoded><![CDATA[2024.03.22(금) 19:00]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/03/20240320133727a28c8b12-b654-42a0-9b29-c3f29923d2dc.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
     </channel>
 </rss>

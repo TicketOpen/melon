@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Mar 2024 04:15:20 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Mar 2024 05:13:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -48,6 +48,22 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/03/20240325104300942d4522-7871-4eb7-834a-59904dd1bf4f.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
         <item>
+            <title><![CDATA[뮤지컬 〈헤드윅〉 4차 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8573</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8573</guid>
+            <pubDate>Mon, 25 Mar 2024 05:13:25 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>24.03.28(목)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/03/2024032509051249290cad-b038-4c8c-a802-f04177597af2.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[2024 SUHO CONCERT 〈SU：HOME〉 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8574</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8574</guid>
+            <pubDate>Mon, 25 Mar 2024 05:13:25 GMT</pubDate>
+            <content:encoded><![CDATA[오픈일정 보기 &gt;]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/03/20240322142944f58e66bf-5bd5-4e3c-bf05-aafc9808aee9.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
             <title><![CDATA[2024 타임캡슐 슈퍼콘서트 전국투어 in 인천 티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8543</link>
             <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8543</guid>
@@ -70,22 +86,6 @@
             <pubDate>Mon, 25 Mar 2024 04:15:14 GMT</pubDate>
             <content:encoded><![CDATA[오픈일정 보기 &gt;]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/03/20240321160125d606549f-3651-4728-bf72-7b05e0fc8288.png/melon/resize/160x225/strip/true" length="0" type="image/png/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[We 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8565</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8565</guid>
-            <pubDate>Mon, 25 Mar 2024 04:15:14 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>24.03.27(수)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/03/2024032115481045231a4d-2a27-42a1-bf46-2e11b050f518.png/melon/resize/160x225/strip/true" length="0" type="image/png/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[DMZ 피스트레인 뮤직 페스티벌 2024 LAST TRAIN 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8562</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8562</guid>
-            <pubDate>Mon, 25 Mar 2024 04:15:14 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>24.03.25(월)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/03/20240321134753f81d505e-58af-4958-930f-80aa6f4e7c6d.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
