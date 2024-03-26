@@ -4,9 +4,17 @@
         <title>멜론 티켓</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Mar 2024 08:15:50 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Mar 2024 09:13:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[PEAK FESTIVAL 2024 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8577</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8577</guid>
+            <pubDate>Tue, 26 Mar 2024 09:13:06 GMT</pubDate>
+            <content:encoded><![CDATA[2024.04.03(수) 18:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/03/202403261437143da6f5da-3e9b-4e71-b46b-2221fad21ca8.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
         <item>
             <title><![CDATA[2024 스카 페스티벌－창원 〈Back to the 90’s Fever〉 티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8576</link>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 26 Mar 2024 08:15:36 GMT</pubDate>
             <content:encoded><![CDATA[오픈일정 보기 &gt;]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/03/20240321160125d606549f-3651-4728-bf72-7b05e0fc8288.png/melon/resize/65x92/strip/true" length="0" type="image/png/melon/resize/65x92/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[We 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8565</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8565</guid>
-            <pubDate>Tue, 26 Mar 2024 08:15:36 GMT</pubDate>
-            <content:encoded><![CDATA[2024.03.27(수) 18:00]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/03/2024032115481045231a4d-2a27-42a1-bf46-2e11b050f518.png/melon/resize/65x92/strip/true" length="0" type="image/png/melon/resize/65x92/strip/true"/>
         </item>
     </channel>
 </rss>
