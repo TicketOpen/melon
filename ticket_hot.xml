@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Mar 2024 02:18:38 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Mar 2024 03:14:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Wed, 27 Mar 2024 01:46:09 GMT</pubDate>
             <content:encoded><![CDATA[오픈일정 보기 &gt;]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/03/2024032617553044958cdc-8ea1-4825-93ed-63e3e7c8b1d1.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[먼데이프로젝트 시즌7 청춘의 밤［엔분의일 단독 콘서트］티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8579</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8579</guid>
+            <pubDate>Wed, 27 Mar 2024 03:14:04 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>24.04.04(목)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/03/20240326205443dccc0848-a524-4f38-be2b-8e26a06f7f56.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
         <item>
             <title><![CDATA[PEAK FESTIVAL 2024 티켓 오픈 안내]]></title>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 27 Mar 2024 00:53:01 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>24.03.20(수)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/03/202403251203291653df5d-f7b5-4f13-bce5-6ec0710a874a.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[2024 P1Harmony LIVE TOUR［P1ustage H：UTOP1A］IN SEOUL 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8567</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8567</guid>
-            <pubDate>Wed, 27 Mar 2024 00:53:01 GMT</pubDate>
-            <content:encoded><![CDATA[오픈일정 보기 &gt;]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/03/20240321130407898d2d8f-fbbc-4c00-8205-b216e105e08f.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
