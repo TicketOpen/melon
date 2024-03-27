@@ -1,8 +1,91 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://ticket.melon.com/csoon/index.htm#orderType=0&amp;pageIndex=1&amp;schGcode=GENRE_ALL&amp;schText=&amp;schDt=</id>
-    <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
-    <updated>2024-03-27T15:13:20.942Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Wed, 27 Mar 2024 16:16:36 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[제11회 김사월 쇼：디폴트 추가 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8584</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8584</guid>
+            <pubDate>Wed, 27 Mar 2024 16:16:31 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>24.03.28(목)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/03/20240327114611e073404c-0a34-447a-be40-269ba45af8cb.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[2024 NCT DREAM WORLD TOUR 〈THE DREAM SHOW 3：DREAM（）SCAPE〉 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8578</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8578</guid>
+            <pubDate>Wed, 27 Mar 2024 16:16:31 GMT</pubDate>
+            <content:encoded><![CDATA[오픈일정 보기 &gt;]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/03/2024032617553044958cdc-8ea1-4825-93ed-63e3e7c8b1d1.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[VROMANCE 1ST CONCERT ENCORE［VROMANCE의 작업실：＃처음］티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8582</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8582</guid>
+            <pubDate>Wed, 27 Mar 2024 16:16:31 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>24.04.03(수)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/03/20240326212451d79f6522-5a62-4a76-af6a-0bb1a2bce47a.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[먼데이프로젝트 시즌7 청춘의 밤［엔분의일 단독 콘서트］티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8579</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8579</guid>
+            <pubDate>Wed, 27 Mar 2024 16:16:31 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>24.04.04(목)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/03/20240326205443dccc0848-a524-4f38-be2b-8e26a06f7f56.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[PEAK FESTIVAL 2024 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8577</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8577</guid>
+            <pubDate>Wed, 27 Mar 2024 16:16:31 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>24.04.03(수)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/03/202403261437143da6f5da-3e9b-4e71-b46b-2221fad21ca8.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[2024 스카 페스티벌－창원 〈Back to the 90’s Fever〉 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8576</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8576</guid>
+            <pubDate>Wed, 27 Mar 2024 16:16:31 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>24.04.04(목)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/03/20240326160140d16197c8-7e5b-435e-93a8-0351b417300e.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[신촌 BLUES 콘서트 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8461</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8461</guid>
+            <pubDate>Wed, 27 Mar 2024 16:16:31 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>24.02.27(화)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/03/20240326110604612c35a7-27b9-4b8d-90ba-9998b874608f.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[2024 RIIZE FAN－CON ‘RIIZING DAY’ in SEOUL 추가 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8575</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8575</guid>
+            <pubDate>Wed, 27 Mar 2024 16:16:31 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>24.03.28(목)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/03/202403260958594d9744a7-2c05-4cde-b992-c7e1afd41dfd.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[원피스 인 콘서트：We Are！티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8569</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8569</guid>
+            <pubDate>Wed, 27 Mar 2024 16:16:31 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>24.04.01(월)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/03/20240325104300942d4522-7871-4eb7-834a-59904dd1bf4f.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 〈헤드윅〉 4차 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8573</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8573</guid>
+            <pubDate>Wed, 27 Mar 2024 16:16:31 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>24.03.28(목)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/03/2024032509051249290cad-b038-4c8c-a802-f04177597af2.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+    </channel>
+</rss>
