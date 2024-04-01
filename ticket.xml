@@ -4,7 +4,7 @@
         <title>멜론 티켓</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 01 Apr 2024 00:58:55 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Apr 2024 01:59:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Sun, 31 Mar 2024 23:11:35 GMT</pubDate>
             <content:encoded><![CDATA[2024.04.05(금) 14:00]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/03/202403282231034f92fb2e-dcad-4c4c-b399-ac4f2ef6a2d9.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[［2차 얼리버드］스튜디오 지브리 애니메이션의 거장 타카하타 이사오전 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8594</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8594</guid>
+            <pubDate>Mon, 01 Apr 2024 01:59:35 GMT</pubDate>
+            <content:encoded><![CDATA[2024.04.05(금) 10:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/03/2024032818294378e23a56-321d-4c87-8fb1-26de5d28e363.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
         <item>
             <title><![CDATA[보트피플 LIVE 티켓 오픈 안내]]></title>
@@ -78,14 +86,6 @@
             <pubDate>Sun, 31 Mar 2024 23:11:35 GMT</pubDate>
             <content:encoded><![CDATA[2024.03.28(목) 12:00]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/03/20240327174915ce60350e-ac4b-423b-8680-b6221aa735be.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[제11회 김사월 쇼：디폴트 추가 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8584</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8584</guid>
-            <pubDate>Sun, 31 Mar 2024 23:11:35 GMT</pubDate>
-            <content:encoded><![CDATA[2024.03.28(목) 20:00]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/03/20240327114611e073404c-0a34-447a-be40-269ba45af8cb.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
     </channel>
 </rss>
