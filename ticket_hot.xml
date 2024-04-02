@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 Apr 2024 07:14:18 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Apr 2024 08:15:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Tue, 02 Apr 2024 06:16:11 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>24.04.05(금)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/04/20240402153736134081ef-ae75-4a89-b41a-3fdaa30e1764.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[2024 스카 페스티벌－창원 〈HIPHOP Super－Swag〉 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8607</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8607</guid>
+            <pubDate>Tue, 02 Apr 2024 08:15:27 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>24.04.04(목)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/04/202404021427399d8ec4f8-0882-4de9-9c43-55e738db51b9.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
         <item>
             <title><![CDATA[유희도 Birthday Eve Concert 티켓 오픈 안내]]></title>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 02 Apr 2024 06:16:11 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>24.04.01(월)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/04/20240401093509c7f5bb62-c40e-4a9f-a943-1b161422a4df.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[TUNE UP STAGE：MUSHROOM HOUSE：SYNC 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8590</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8590</guid>
-            <pubDate>Tue, 02 Apr 2024 06:16:11 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>24.04.01(월)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/04/20240401090215b1397ea3-3cbf-48cf-b510-a535fe84581e.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
