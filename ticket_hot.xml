@@ -4,9 +4,17 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 Apr 2024 10:15:14 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Apr 2024 11:10:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[울플러 1st 팬미팅 “RE_DESIGN” 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8642</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8642</guid>
+            <pubDate>Mon, 08 Apr 2024 11:10:49 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>24.04.12(금)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/04/20240408171509960f3f1c-be24-4434-84b5-90ab44b826ec.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
         <item>
             <title><![CDATA[제64회 라이브 클럽 데이－일반 티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8640</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 08 Apr 2024 06:16:38 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>24.04.12(금)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/04/20240405155524f3268e78-bd76-4c9e-90f0-7e3fd4e261bf.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[크리스토퍼 내한공연 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8636</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8636</guid>
-            <pubDate>Mon, 08 Apr 2024 06:16:38 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>24.04.15(월)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/04/202404051523325869fdf2-a689-4409-9660-8e2c795b8ad1.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
