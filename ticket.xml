@@ -4,9 +4,17 @@
         <title>멜론 티켓</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 Apr 2024 07:14:25 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Apr 2024 08:15:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2024 Spring 9와 숫자들 Concert ‘DRIVE－IN’ 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8647</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8647</guid>
+            <pubDate>Tue, 09 Apr 2024 08:15:27 GMT</pubDate>
+            <content:encoded><![CDATA[2024.04.11(목) 12:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/04/202404091031204ee6b259-9b16-499b-b0ce-137732a532e2.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
         <item>
             <title><![CDATA[MY AUNT MARY 단독 공연－2024 ‘CIRCLE’ live 티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8645</link>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 09 Apr 2024 01:48:29 GMT</pubDate>
             <content:encoded><![CDATA[오픈일정 보기 &gt;]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/04/2024040515123894042b18-5787-4b7d-9844-ce72ac0b3e4e.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[트바로티 클래식 아레나 투어 2024－광주 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8633</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8633</guid>
-            <pubDate>Tue, 09 Apr 2024 01:48:29 GMT</pubDate>
-            <content:encoded><![CDATA[2024.04.08(월) 20:00]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/04/2024040417125295e78242-4e91-4f25-9ad9-8ff704b3eea9.png/melon/resize/65x92/strip/true" length="0" type="image/png/melon/resize/65x92/strip/true"/>
         </item>
     </channel>
 </rss>
