@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 Apr 2024 02:20:11 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Apr 2024 03:15:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -38,6 +38,14 @@
             <pubDate>Tue, 09 Apr 2024 01:48:34 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>24.04.12(금)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/04/20240408171509960f3f1c-be24-4434-84b5-90ab44b826ec.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[해리빅버튼 단독 콘서트 ‘Desire’：롤링 29주년 기념 공연 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8644</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8644</guid>
+            <pubDate>Tue, 09 Apr 2024 03:15:38 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>24.04.16(화)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/04/2024040817061937c67d90-db05-4bf8-a46d-59b223086fba.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
         <item>
             <title><![CDATA[트바로티 클래식 아레나 투어 2024－광주 티켓 오픈 안내]]></title>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 09 Apr 2024 01:48:34 GMT</pubDate>
             <content:encoded><![CDATA[오픈일정 보기 &gt;]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/04/20240405100105ffb46555-e53e-48c6-a7af-b7fd4fb99615.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[2024 이정권 소극장 앵콜 콘서트 ‘진짜로 일어난 두번째 기적’ 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8625</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8625</guid>
-            <pubDate>Tue, 09 Apr 2024 01:48:34 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>24.04.08(월)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/04/202404041816449bcd621c-6b45-4e1d-8172-7799c0caa4f9.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
