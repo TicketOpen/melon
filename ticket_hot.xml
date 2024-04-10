@@ -1,8 +1,91 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://ticket.melon.com/csoon/index.htm#orderType=0&amp;pageIndex=1&amp;schGcode=GENRE_ALL&amp;schText=&amp;schDt=</id>
-    <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
-    <updated>2024-04-10T21:12:05.527Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Wed, 10 Apr 2024 22:13:55 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[권나무 단독공연 〈 정원에서 〉 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8637</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8637</guid>
+            <pubDate>Wed, 10 Apr 2024 22:13:48 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>24.04.12(금)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/04/202404091345022791f45d-9c6e-4572-8718-4df1a2e8defd.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[진동욱 EP 발매기념 단독공연 ‘Lovers Always Lose’ 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8648</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8648</guid>
+            <pubDate>Wed, 10 Apr 2024 22:13:48 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>24.04.12(금)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/04/2024040820500558b1a11b-378f-4366-9286-93f6a1c5679e.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[2024 Spring 9와 숫자들 Concert ‘DRIVE－IN’ 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8647</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8647</guid>
+            <pubDate>Wed, 10 Apr 2024 22:13:48 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>24.04.11(목)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/04/202404091031204ee6b259-9b16-499b-b0ce-137732a532e2.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[크리스토퍼 내한공연 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8636</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8636</guid>
+            <pubDate>Wed, 10 Apr 2024 22:13:48 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>24.04.15(월)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/04/202404051523325869fdf2-a689-4409-9660-8e2c795b8ad1.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 〈그레이트 코멧〉 3차 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8638</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8638</guid>
+            <pubDate>Wed, 10 Apr 2024 22:13:48 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>24.04.12(금)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/04/20240405174749cbab1ae8-847a-48fe-a1ed-f5fe79ba8afb.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[제64회 라이브 클럽 데이－일반 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8640</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8640</guid>
+            <pubDate>Wed, 10 Apr 2024 22:13:48 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>24.04.10(수)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/04/202404081616100210610e-18cd-4573-8cd0-b1230198ebd4.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[울플러 1st 팬미팅 “RE_DESIGN” 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8642</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8642</guid>
+            <pubDate>Wed, 10 Apr 2024 22:13:48 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>24.04.12(금)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/04/20240408171509960f3f1c-be24-4434-84b5-90ab44b826ec.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[MY AUNT MARY 단독 공연－2024 ‘CIRCLE’ live 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8645</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8645</guid>
+            <pubDate>Wed, 10 Apr 2024 22:13:48 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>24.04.12(금)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/04/2024040819001770066dd9-fe08-4e9f-ade5-fb97f3098c1b.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[해리빅버튼 단독 콘서트 ‘Desire’：롤링 29주년 기념 공연 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8644</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8644</guid>
+            <pubDate>Wed, 10 Apr 2024 22:13:48 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>24.04.16(화)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/04/2024040817061937c67d90-db05-4bf8-a46d-59b223086fba.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[트바로티 클래식 아레나 투어 2024－광주 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8633</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8633</guid>
+            <pubDate>Wed, 10 Apr 2024 22:13:48 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>24.04.08(월)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/04/2024040417125295e78242-4e91-4f25-9ad9-8ff704b3eea9.png/melon/resize/160x225/strip/true" length="0" type="image/png/melon/resize/160x225/strip/true"/>
+        </item>
+    </channel>
+</rss>
