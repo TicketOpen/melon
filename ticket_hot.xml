@@ -4,9 +4,17 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 Apr 2024 00:54:28 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Apr 2024 01:50:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[［1，2차 오픈］크루즈 디에즈－RGB，세기의 컬러들 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8649</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8649</guid>
+            <pubDate>Thu, 11 Apr 2024 01:50:45 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>24.04.17(수)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/04/20240409174433a3a1cf8e-8039-4c81-9b81-429c7842be37.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
         <item>
             <title><![CDATA[권나무 단독공연 〈 정원에서 〉 티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8637</link>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 10 Apr 2024 22:13:48 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>24.04.16(화)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/04/2024040817061937c67d90-db05-4bf8-a46d-59b223086fba.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[트바로티 클래식 아레나 투어 2024－광주 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8633</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8633</guid>
-            <pubDate>Wed, 10 Apr 2024 22:13:48 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>24.04.08(월)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/04/2024040417125295e78242-4e91-4f25-9ad9-8ff704b3eea9.png/melon/resize/160x225/strip/true" length="0" type="image/png/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
