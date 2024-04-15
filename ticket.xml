@@ -4,9 +4,17 @@
         <title>멜론 티켓</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 15 Apr 2024 06:16:36 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Apr 2024 07:10:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[현서（HYUN SEO）MINI CONCERT 〈BEHIND MY DARK CLOUD〉 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8669</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8669</guid>
+            <pubDate>Mon, 15 Apr 2024 07:10:25 GMT</pubDate>
+            <content:encoded><![CDATA[2024.04.19(금) 20:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/04/20240415112106a464a10f-0c14-4332-88a9-f8bca9e38f27.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
         <item>
             <title><![CDATA[빈센트블루 단독공연 〈 Be with me 〉 티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8667</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 15 Apr 2024 04:28:14 GMT</pubDate>
             <content:encoded><![CDATA[2024.04.17(수) 20:00]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/04/20240411210409f1088546-6dfc-4738-9f3c-e2c8e1ab4650.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[먼데이프로젝트 시즌7［김마리 단독 콘서트 “해피마리데이”］티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8656</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8656</guid>
-            <pubDate>Mon, 15 Apr 2024 04:28:14 GMT</pubDate>
-            <content:encoded><![CDATA[2024.04.18(목) 20:00]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/04/20240411154851680670f4-ccd1-4b13-8fbd-daeaa4124587.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
     </channel>
 </rss>
