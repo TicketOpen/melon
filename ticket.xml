@@ -1,8 +1,91 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://ticket.melon.com/csoon/index.htm</id>
-    <title>멜론 티켓</title>
-    <updated>2024-04-17T19:08:52.362Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>멜론 티켓</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Wed, 17 Apr 2024 20:12:50 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[티카콘（TIKACON）：코토바 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8688</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8688</guid>
+            <pubDate>Wed, 17 Apr 2024 20:12:39 GMT</pubDate>
+            <content:encoded><![CDATA[2024.04.22(월) 20:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/04/202404161802407993a1a6-a7de-47ca-b978-cd991466813a.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[2024 Hyundai N Festival 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8687</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8687</guid>
+            <pubDate>Wed, 17 Apr 2024 20:12:39 GMT</pubDate>
+            <content:encoded><![CDATA[2024.04.19(금) 19:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/04/202404171912089d34f397-7186-48d8-9c90-088c16c44772.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[최성 단독 콘서트 〈치유계〉 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8686</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8686</guid>
+            <pubDate>Wed, 17 Apr 2024 20:12:39 GMT</pubDate>
+            <content:encoded><![CDATA[2024.04.24(수) 20:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/04/20240416200525ad48f63e-93ef-437c-8b4d-781cda1f761f.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[KHANXYNOVA 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8685</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8685</guid>
+            <pubDate>Wed, 17 Apr 2024 20:12:39 GMT</pubDate>
+            <content:encoded><![CDATA[2024.04.19(금) 18:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/04/202404161459206f089e30-196c-4bf5-a57f-3122781bcbdf.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[KAG X 4 LUTHIERS 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8683</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8683</guid>
+            <pubDate>Wed, 17 Apr 2024 20:12:39 GMT</pubDate>
+            <content:encoded><![CDATA[2024.04.22(월) 14:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/04/20240416140545a94ce173-32b7-43ed-90e4-4c4bf6fd48c8.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[아이유 공식 팬클럽 〈유애나〉 7기 모집 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8682</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8682</guid>
+            <pubDate>Wed, 17 Apr 2024 20:12:39 GMT</pubDate>
+            <content:encoded><![CDATA[2024.04.22(월) 12:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/04/20240417102958e8f202ef-21c6-48e2-bf88-4057a6f875f4.png/melon/resize/65x92/strip/true" length="0" type="image/png/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[제16회 서울재즈페스티벌 2024 최종 라인업 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8681</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8681</guid>
+            <pubDate>Wed, 17 Apr 2024 20:12:39 GMT</pubDate>
+            <content:encoded><![CDATA[2024.02.06(화) 12:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/04/202404161744162f1c4c2d-1084-4dab-84bc-a89296684ec8.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[먼데이프로젝트 시즌7［벤치위레오 스탠딩 단독 콘서트 ‘프리지아’］티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8680</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8680</guid>
+            <pubDate>Wed, 17 Apr 2024 20:12:39 GMT</pubDate>
+            <content:encoded><![CDATA[2024.04.24(수) 20:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/04/20240416210530991185e8-46d1-43b7-aebd-4b3590e8c829.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[먼데이프로젝트 시즌7 My Universe［구만（9．10000）단독 콘서트］티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8679</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8679</guid>
+            <pubDate>Wed, 17 Apr 2024 20:12:39 GMT</pubDate>
+            <content:encoded><![CDATA[2024.04.24(수) 19:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/04/20240416182912db731551-ee9c-4b62-a967-9bc8df8e80be.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[MUSIC RUNWAY：베리코이버니 X 크리스피 〈Love ‘n’ Roll〉 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8677</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8677</guid>
+            <pubDate>Wed, 17 Apr 2024 20:12:39 GMT</pubDate>
+            <content:encoded><![CDATA[2024.04.22(월) 20:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/04/202404161031592707b8ab-cf01-48eb-9f45-23442756c172.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+    </channel>
+</rss>
