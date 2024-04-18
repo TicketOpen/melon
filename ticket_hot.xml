@@ -1,8 +1,91 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://ticket.melon.com/csoon/index.htm#orderType=0&amp;pageIndex=1&amp;schGcode=GENRE_ALL&amp;schText=&amp;schDt=</id>
-    <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
-    <updated>2024-04-18T11:10:21.698Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Thu, 18 Apr 2024 12:21:52 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[윤상 Curated 07 영소 〈영원보다 소중한 지금〉 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8697</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8697</guid>
+            <pubDate>Thu, 18 Apr 2024 12:21:45 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>24.04.23(화)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/04/2024041722175212a90aca-b962-49d9-b72d-7cdb6c00d769.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[트바로티 클래식 아레나 투어 2024－창원 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8699</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8699</guid>
+            <pubDate>Thu, 18 Apr 2024 12:21:45 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>24.04.23(화)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/04/20240418115033791cdccd-cb63-4bbf-b7e5-7ce81dd3da42.png/melon/resize/160x225/strip/true" length="0" type="image/png/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[프랭클리 단독공연 Unplugged Live ‘나무로 깃든 소리’ 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8696</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8696</guid>
+            <pubDate>Thu, 18 Apr 2024 12:21:45 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>24.04.19(금)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/04/2024041811454839f3c23d-4e42-4516-9328-1ae65dc408d3.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[Something About Us 2024 A－FUZZ X Chihiro Yamazaki 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8694</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8694</guid>
+            <pubDate>Thu, 18 Apr 2024 12:21:45 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>24.04.26(금)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/04/2024041722010041859ef5-1ba3-478d-8f66-dca2ef314b87.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[［오픈일 변경］티카콘（TIKACON）：코토바 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8688</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8688</guid>
+            <pubDate>Thu, 18 Apr 2024 12:21:45 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>24.04.26(금)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/04/202404161802407993a1a6-a7de-47ca-b978-cd991466813a.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[먼데이프로젝트 시즌7 청춘의 밤［예빛 단독 콘서트］티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8695</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8695</guid>
+            <pubDate>Thu, 18 Apr 2024 12:21:45 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>24.04.24(수)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/04/20240417204608b47186dd-72e1-4c6f-98b5-957c4896d4c4.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[2024 Hyundai N Festival 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8687</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8687</guid>
+            <pubDate>Thu, 18 Apr 2024 12:21:45 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>24.04.19(금)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/04/202404171912089d34f397-7186-48d8-9c90-088c16c44772.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[트바로티 클래식 아레나 투어 2024－김천 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8698</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8698</guid>
+            <pubDate>Thu, 18 Apr 2024 12:21:45 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>24.04.24(수)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/04/202404171425059d1e037a-d7e7-4c60-8768-2a2c756a67d4.png/melon/resize/160x225/strip/true" length="0" type="image/png/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[아이유 공식 팬클럽 〈유애나〉 7기 모집 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8682</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8682</guid>
+            <pubDate>Thu, 18 Apr 2024 12:21:45 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>24.04.22(월)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/04/20240417102958e8f202ef-21c6-48e2-bf88-4057a6f875f4.png/melon/resize/160x225/strip/true" length="0" type="image/png/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[먼데이프로젝트 시즌7［벤치위레오 스탠딩 단독 콘서트 ‘프리지아’］티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8680</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8680</guid>
+            <pubDate>Thu, 18 Apr 2024 12:21:45 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>24.04.24(수)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/04/20240416210530991185e8-46d1-43b7-aebd-4b3590e8c829.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+    </channel>
+</rss>
