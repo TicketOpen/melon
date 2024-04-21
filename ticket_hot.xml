@@ -1,8 +1,91 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://ticket.melon.com/csoon/index.htm#orderType=0&amp;pageIndex=1&amp;schGcode=GENRE_ALL&amp;schText=&amp;schDt=</id>
-    <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
-    <updated>2024-04-21T16:15:31.534Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Sun, 21 Apr 2024 17:11:45 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2024 스카 페스티벌－창원 〈HIPHOP Super－Swag〉 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8607</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8607</guid>
+            <pubDate>Sun, 21 Apr 2024 17:11:39 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>24.04.04(목)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/04/202404191102396bd2d379-7cd2-4deb-8844-69be27e74d97.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[［오픈일 변경］가족뮤지컬 오리지널 어린이 CAT 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8666</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8666</guid>
+            <pubDate>Sun, 21 Apr 2024 17:11:39 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>24.04.23(화)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/04/2024041509394111ae53b5-3e8a-4373-ac3c-6b34226edbf0.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[TUNE UP STAGE：Under the Peach Tree 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8705</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8705</guid>
+            <pubDate>Sun, 21 Apr 2024 17:11:39 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>24.04.24(수)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/04/202404191029417ffd15e5-a815-476b-8d2e-33b42d28d888.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[NCT WISH：SCHOOL of WISH－전주 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8702</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8702</guid>
+            <pubDate>Sun, 21 Apr 2024 17:11:39 GMT</pubDate>
+            <content:encoded><![CDATA[오픈일정 보기 &gt;]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/04/2024041909095887575124-ca44-49ed-b0ab-9b229026c268.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[NCT WISH：SCHOOL of WISH－청주 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8700</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8700</guid>
+            <pubDate>Sun, 21 Apr 2024 17:11:39 GMT</pubDate>
+            <content:encoded><![CDATA[오픈일정 보기 &gt;]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/04/20240419085400916005ca-8eae-4b7a-9af3-28a0f796aeb3.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[프랭클리 단독공연 Unplugged Live ‘나무로 깃든 소리’ 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8696</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8696</guid>
+            <pubDate>Sun, 21 Apr 2024 17:11:39 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>24.04.19(금)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/04/2024041811454839f3c23d-4e42-4516-9328-1ae65dc408d3.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[윤상 Curated 07 영소 〈영원보다 소중한 지금〉 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8697</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8697</guid>
+            <pubDate>Sun, 21 Apr 2024 17:11:39 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>24.04.23(화)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/04/2024041722175212a90aca-b962-49d9-b72d-7cdb6c00d769.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[트바로티 클래식 아레나 투어 2024－김천 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8698</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8698</guid>
+            <pubDate>Sun, 21 Apr 2024 17:11:39 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>24.04.24(수)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/04/202404171425059d1e037a-d7e7-4c60-8768-2a2c756a67d4.png/melon/resize/160x225/strip/true" length="0" type="image/png/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[트바로티 클래식 아레나 투어 2024－창원 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8699</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8699</guid>
+            <pubDate>Sun, 21 Apr 2024 17:11:39 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>24.04.23(화)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/04/20240418115033791cdccd-cb63-4bbf-b7e5-7ce81dd3da42.png/melon/resize/160x225/strip/true" length="0" type="image/png/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[NCT WISH：SCHOOL of WISH－대구 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8701</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8701</guid>
+            <pubDate>Sun, 21 Apr 2024 17:11:39 GMT</pubDate>
+            <content:encoded><![CDATA[오픈일정 보기 &gt;]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/04/202404181846057e800448-34bb-466c-9967-0159cfe438d8.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+    </channel>
+</rss>
