@@ -1,8 +1,511 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://ticket.melon.com/place/ajax/list_album.htm</id>
-    <title>멜론티켓 ─ 판매중</title>
-    <updated>2024-04-21T09:12:35.785Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://ticket.melon.com/place/ajax/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>멜론티켓 ─ 판매중</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Sun, 21 Apr 2024 10:12:07 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[［서울 대학로］연극 라면]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=207987</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=207987</guid>
+            <pubDate>Sun, 21 Apr 2024 10:12:07 GMT</pubDate>
+            <content:encoded><![CDATA[<td>
+                            <div class="show_infor">
+                                <div class="thumb_90x125  img">
+                                    <a href="#">
+                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/03/202303171047117fdc060a-8274-4ab8-ab99-990489e4f652.jpg/melon/resize/90x125/strip/true" alt="">
+                                        <span class="frame"></span>
+                                    </a>
+                                </div>
+                                <p class="infor_text">
+                                    <span class="ico_wrap">
+                                        <span class="ico_list ico_list4"> 판매중</span></span>
+                                    <span class="show_title"><a href="/performance/index.htm?prodId=207987">［서울 대학로］연극 라면</a></span>
+                                </p>
+                            </div>
+                        </td>
+                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
+                            2023.03.20 - 오픈런</td>
+                        <td class="show_loc">해피씨어터 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/03/202303171047117fdc060a-8274-4ab8-ab99-990489e4f652.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[상실의 징후들]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=208323</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=208323</guid>
+            <pubDate>Sun, 21 Apr 2024 10:12:07 GMT</pubDate>
+            <content:encoded><![CDATA[<td>
+                            <div class="show_infor">
+                                <div class="thumb_90x125  img">
+                                    <a href="#">
+                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/06/20230620103210bee63153-793b-4cee-ae85-6434493e90f5.jpg/melon/resize/90x125/strip/true" alt="">
+                                        <span class="frame"></span>
+                                    </a>
+                                </div>
+                                <p class="infor_text">
+                                    <span class="ico_wrap">
+                                        <span class="ico_list ico_list4"> 판매중</span></span>
+                                    <span class="show_title"><a href="/performance/index.htm?prodId=208323">상실의 징후들</a></span>
+                                </p>
+                            </div>
+                        </td>
+                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
+                            2023.06.10 - 2024.08.31</td>
+                        <td class="show_loc">뮤지엄 원 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/06/20230620103210bee63153-793b-4cee-ae85-6434493e90f5.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[폼페이 유물전－그대，그곳에 있었다]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=209342</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=209342</guid>
+            <pubDate>Sun, 21 Apr 2024 10:12:07 GMT</pubDate>
+            <content:encoded><![CDATA[<td>
+                            <div class="show_infor">
+                                <div class="thumb_90x125  img">
+                                    <a href="#">
+                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/01/20240112150557577599db-2c1e-4409-a753-bf8c53780e4e.jpg/melon/resize/90x125/strip/true" alt="">
+                                        <span class="frame"></span>
+                                    </a>
+                                </div>
+                                <p class="infor_text">
+                                    <span class="ico_wrap">
+                                        <span class="ico_list ico_list4"> 판매중</span></span>
+                                    <span class="show_title"><a href="/performance/index.htm?prodId=209342">폼페이 유물전－그대，그곳에 있었다</a></span>
+                                </p>
+                            </div>
+                        </td>
+                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
+                            2024.01.13 - 2024.05.06</td>
+                        <td class="show_loc">더현대서울 ALT.1 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/01/20240112150557577599db-2c1e-4409-a753-bf8c53780e4e.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[［ 이아름솔 ］마그리드 아르노 캐릭터 팬클럽 모집]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=209441</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=209441</guid>
+            <pubDate>Sun, 21 Apr 2024 10:12:07 GMT</pubDate>
+            <content:encoded><![CDATA[<td>
+                            <div class="show_infor">
+                                <div class="thumb_90x125  img">
+                                    <a href="#">
+                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/01/20240130165112a9faf112-357c-43b2-b24b-990800f6c11b.png/melon/resize/90x125/strip/true" alt="">
+                                        <span class="frame"></span>
+                                    </a>
+                                </div>
+                                <p class="infor_text">
+                                    <span class="ico_wrap">
+                                        <span class="ico_list ico_list1">단독판매</span><span class="ico_list ico_list4"> 판매중</span></span>
+                                    <span class="show_title"><a href="/performance/index.htm?prodId=209441">［ 이아름솔 ］마그리드 아르노 캐릭터 팬클럽 모집</a></span>
+                                </p>
+                            </div>
+                        </td>
+                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
+                            2024.02.01 - 2024.04.30</td>
+                        <td class="show_loc">- </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/01/20240130165112a9faf112-357c-43b2-b24b-990800f6c11b.png/melon/resize/90x125/strip/true" length="0" type="image/png/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[［ 이해준 ］악셀 폰 페르젠 캐릭터 팬클럽 모집]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=209442</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=209442</guid>
+            <pubDate>Sun, 21 Apr 2024 10:12:07 GMT</pubDate>
+            <content:encoded><![CDATA[<td>
+                            <div class="show_infor">
+                                <div class="thumb_90x125  img">
+                                    <a href="#">
+                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/01/20240130175935159318a1-aea0-41ac-ad11-82d7b3c26f03.png/melon/resize/90x125/strip/true" alt="">
+                                        <span class="frame"></span>
+                                    </a>
+                                </div>
+                                <p class="infor_text">
+                                    <span class="ico_wrap">
+                                        <span class="ico_list ico_list1">단독판매</span><span class="ico_list ico_list4"> 판매중</span></span>
+                                    <span class="show_title"><a href="/performance/index.htm?prodId=209442">［ 이해준 ］악셀 폰 페르젠 캐릭터 팬클럽 모집</a></span>
+                                </p>
+                            </div>
+                        </td>
+                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
+                            2024.02.01 - 2024.04.30</td>
+                        <td class="show_loc">- </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/01/20240130175935159318a1-aea0-41ac-ad11-82d7b3c26f03.png/melon/resize/90x125/strip/true" length="0" type="image/png/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[［ 윤소호 ］악셀 폰 페르젠 캐릭터 팬클럽 모집]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=209443</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=209443</guid>
+            <pubDate>Sun, 21 Apr 2024 10:12:07 GMT</pubDate>
+            <content:encoded><![CDATA[<td>
+                            <div class="show_infor">
+                                <div class="thumb_90x125  img">
+                                    <a href="#">
+                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/01/20240130181900fdc364be-04d1-4bc9-b4d9-6266ca8fb189.png/melon/resize/90x125/strip/true" alt="">
+                                        <span class="frame"></span>
+                                    </a>
+                                </div>
+                                <p class="infor_text">
+                                    <span class="ico_wrap">
+                                        <span class="ico_list ico_list1">단독판매</span><span class="ico_list ico_list4"> 판매중</span></span>
+                                    <span class="show_title"><a href="/performance/index.htm?prodId=209443">［ 윤소호 ］악셀 폰 페르젠 캐릭터 팬클럽 모집</a></span>
+                                </p>
+                            </div>
+                        </td>
+                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
+                            2024.02.01 - 2024.04.30</td>
+                        <td class="show_loc">- </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/01/20240130181900fdc364be-04d1-4bc9-b4d9-6266ca8fb189.png/melon/resize/90x125/strip/true" length="0" type="image/png/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[［ 백호 ］악셀 폰 페르젠 캐릭터 팬클럽 모집]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=209444</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=209444</guid>
+            <pubDate>Sun, 21 Apr 2024 10:12:07 GMT</pubDate>
+            <content:encoded><![CDATA[<td>
+                            <div class="show_infor">
+                                <div class="thumb_90x125  img">
+                                    <a href="#">
+                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/01/202401301825322d22a5a8-ae95-4aec-9c3c-cf87b879135c.png/melon/resize/90x125/strip/true" alt="">
+                                        <span class="frame"></span>
+                                    </a>
+                                </div>
+                                <p class="infor_text">
+                                    <span class="ico_wrap">
+                                        <span class="ico_list ico_list1">단독판매</span><span class="ico_list ico_list4"> 판매중</span></span>
+                                    <span class="show_title"><a href="/performance/index.htm?prodId=209444">［ 백호 ］악셀 폰 페르젠 캐릭터 팬클럽 모집</a></span>
+                                </p>
+                            </div>
+                        </td>
+                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
+                            2024.02.01 - 2024.04.30</td>
+                        <td class="show_loc">- </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/01/202401301825322d22a5a8-ae95-4aec-9c3c-cf87b879135c.png/melon/resize/90x125/strip/true" length="0" type="image/png/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[［이지혜］마리 앙투아네트 캐릭터 팬클럽 모집]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=209452</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=209452</guid>
+            <pubDate>Sun, 21 Apr 2024 10:12:07 GMT</pubDate>
+            <content:encoded><![CDATA[<td>
+                            <div class="show_infor">
+                                <div class="thumb_90x125  img">
+                                    <a href="#">
+                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/01/20240131210212b8fd5ffc-5456-4a35-93db-8805f5dd73ee.png/melon/resize/90x125/strip/true" alt="">
+                                        <span class="frame"></span>
+                                    </a>
+                                </div>
+                                <p class="infor_text">
+                                    <span class="ico_wrap">
+                                        <span class="ico_list ico_list1">단독판매</span><span class="ico_list ico_list4"> 판매중</span></span>
+                                    <span class="show_title"><a href="/performance/index.htm?prodId=209452">［이지혜］마리 앙투아네트 캐릭터 팬클럽 모집</a></span>
+                                </p>
+                            </div>
+                        </td>
+                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
+                            2024.02.01 - 2024.04.30</td>
+                        <td class="show_loc">- </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/01/20240131210212b8fd5ffc-5456-4a35-93db-8805f5dd73ee.png/melon/resize/90x125/strip/true" length="0" type="image/png/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[［옥주현］마그리드 아르노 캐릭터 팬클럽 모집]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=209453</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=209453</guid>
+            <pubDate>Sun, 21 Apr 2024 10:12:07 GMT</pubDate>
+            <content:encoded><![CDATA[<td>
+                            <div class="show_infor">
+                                <div class="thumb_90x125  img">
+                                    <a href="#">
+                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/01/20240131211412c9523879-103e-48ee-8aa8-e392a331e726.png/melon/resize/90x125/strip/true" alt="">
+                                        <span class="frame"></span>
+                                    </a>
+                                </div>
+                                <p class="infor_text">
+                                    <span class="ico_wrap">
+                                        <span class="ico_list ico_list1">단독판매</span><span class="ico_list ico_list4"> 판매중</span></span>
+                                    <span class="show_title"><a href="/performance/index.htm?prodId=209453">［옥주현］마그리드 아르노 캐릭터 팬클럽 모집</a></span>
+                                </p>
+                            </div>
+                        </td>
+                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
+                            2024.02.01 - 2024.04.30</td>
+                        <td class="show_loc">- </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/01/20240131211412c9523879-103e-48ee-8aa8-e392a331e726.png/melon/resize/90x125/strip/true" length="0" type="image/png/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[［윤공주］마그리드 아르노 캐릭터 팬클럽 모집]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=209454</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=209454</guid>
+            <pubDate>Sun, 21 Apr 2024 10:12:07 GMT</pubDate>
+            <content:encoded><![CDATA[<td>
+                            <div class="show_infor">
+                                <div class="thumb_90x125  img">
+                                    <a href="#">
+                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/01/202401312125568ab2d7bd-6a2f-4836-ba0d-9e2b47c3e3fe.png/melon/resize/90x125/strip/true" alt="">
+                                        <span class="frame"></span>
+                                    </a>
+                                </div>
+                                <p class="infor_text">
+                                    <span class="ico_wrap">
+                                        <span class="ico_list ico_list1">단독판매</span><span class="ico_list ico_list4"> 판매중</span></span>
+                                    <span class="show_title"><a href="/performance/index.htm?prodId=209454">［윤공주］마그리드 아르노 캐릭터 팬클럽 모집</a></span>
+                                </p>
+                            </div>
+                        </td>
+                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
+                            2024.02.01 - 2024.04.30</td>
+                        <td class="show_loc">- </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/01/202401312125568ab2d7bd-6a2f-4836-ba0d-9e2b47c3e3fe.png/melon/resize/90x125/strip/true" length="0" type="image/png/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[［김소향］마리 앙투아네트 캐릭터 팬클럽 모집]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=209422</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=209422</guid>
+            <pubDate>Sun, 21 Apr 2024 10:12:07 GMT</pubDate>
+            <content:encoded><![CDATA[<td>
+                            <div class="show_infor">
+                                <div class="thumb_90x125  img">
+                                    <a href="#">
+                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/01/2024013120361563d726f0-bbc1-4e40-96c3-73245992d922.png/melon/resize/90x125/strip/true" alt="">
+                                        <span class="frame"></span>
+                                    </a>
+                                </div>
+                                <p class="infor_text">
+                                    <span class="ico_wrap">
+                                        <span class="ico_list ico_list1">단독판매</span><span class="ico_list ico_list4"> 판매중</span></span>
+                                    <span class="show_title"><a href="/performance/index.htm?prodId=209422">［김소향］마리 앙투아네트 캐릭터 팬클럽 모집</a></span>
+                                </p>
+                            </div>
+                        </td>
+                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
+                            2024.02.01 - 2024.04.30</td>
+                        <td class="show_loc">- </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/01/2024013120361563d726f0-bbc1-4e40-96c3-73245992d922.png/melon/resize/90x125/strip/true" length="0" type="image/png/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[연극 〈알앤제이（R＆J）〉]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=209207</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=209207</guid>
+            <pubDate>Sun, 21 Apr 2024 10:12:07 GMT</pubDate>
+            <content:encoded><![CDATA[<td>
+                            <div class="show_infor">
+                                <div class="thumb_90x125  img">
+                                    <a href="#">
+                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/01/20240123134335d9fce5ea-2579-4b17-867e-2eaa56d9a790.jpg/melon/resize/90x125/strip/true" alt="">
+                                        <span class="frame"></span>
+                                    </a>
+                                </div>
+                                <p class="infor_text">
+                                    <span class="ico_wrap">
+                                        <span class="ico_list ico_list4"> 판매중</span></span>
+                                    <span class="show_title"><a href="/performance/index.htm?prodId=209207">연극 〈알앤제이（R＆J）〉</a></span>
+                                </p>
+                            </div>
+                        </td>
+                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
+                            2024.02.07 - 2024.04.28</td>
+                        <td class="show_loc">동국대학교 이해랑예술극장 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/01/20240123134335d9fce5ea-2579-4b17-867e-2eaa56d9a790.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 〈마리 앙투아네트〉 10주년 기념공연]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=209288</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=209288</guid>
+            <pubDate>Sun, 21 Apr 2024 10:12:07 GMT</pubDate>
+            <content:encoded><![CDATA[<td>
+                            <div class="show_infor">
+                                <div class="thumb_90x125  img">
+                                    <a href="#">
+                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/01/202401041734571573d003-cc54-4440-bd20-2e1b217be9d3.jpg/melon/resize/90x125/strip/true" alt="">
+                                        <span class="frame"></span>
+                                    </a>
+                                </div>
+                                <p class="infor_text">
+                                    <span class="ico_wrap">
+                                        <span class="ico_list ico_list1">좌석우위</span><span class="ico_list ico_list4"> 판매중</span></span>
+                                    <span class="show_title"><a href="/performance/index.htm?prodId=209288">뮤지컬 〈마리 앙투아네트〉 10주년 기념공연</a></span>
+                                </p>
+                            </div>
+                        </td>
+                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
+                            2024.02.27 - 2024.05.26</td>
+                        <td class="show_loc">디큐브 링크아트센터 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/01/202401041734571573d003-cc54-4440-bd20-2e1b217be9d3.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[［얼리버드］쥬세뻬 비탈레 특별전：나의 새 친구 이야기]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=209507</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=209507</guid>
+            <pubDate>Sun, 21 Apr 2024 10:12:07 GMT</pubDate>
+            <content:encoded><![CDATA[<td>
+                            <div class="show_infor">
+                                <div class="thumb_90x125  img">
+                                    <a href="#">
+                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/02/20240214133215379f9d0b-7202-48bf-84b3-5577ebb6499d.jpg/melon/resize/90x125/strip/true" alt="">
+                                        <span class="frame"></span>
+                                    </a>
+                                </div>
+                                <p class="infor_text">
+                                    <span class="ico_wrap">
+                                        <span class="ico_list ico_list4"> 판매중</span></span>
+                                    <span class="show_title"><a href="/performance/index.htm?prodId=209507">［얼리버드］쥬세뻬&nbsp;비탈레 특별전：나의 새 친구 이야기</a></span>
+                                </p>
+                            </div>
+                        </td>
+                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
+                            2024.03.07 - 2024.04.28</td>
+                        <td class="show_loc">북서울꿈의숲 상상톡톡미술관</td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/02/20240214133215379f9d0b-7202-48bf-84b3-5577ebb6499d.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[쥬세뻬 비탈레 특별전：나의 새 친구 이야기]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=209594</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=209594</guid>
+            <pubDate>Sun, 21 Apr 2024 10:12:07 GMT</pubDate>
+            <content:encoded><![CDATA[<td>
+                            <div class="show_infor">
+                                <div class="thumb_90x125  img">
+                                    <a href="#">
+                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/03/20240311175921d6a1767d-5dac-4deb-939b-7085949a6901.jpg/melon/resize/90x125/strip/true" alt="">
+                                        <span class="frame"></span>
+                                    </a>
+                                </div>
+                                <p class="infor_text">
+                                    <span class="ico_wrap">
+                                        <span class="ico_list ico_list4"> 판매중</span></span>
+                                    <span class="show_title"><a href="/performance/index.htm?prodId=209594">쥬세뻬&nbsp;비탈레 특별전：나의 새 친구 이야기</a></span>
+                                </p>
+                            </div>
+                        </td>
+                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
+                            2024.03.07 - 2024.06.27</td>
+                        <td class="show_loc">북서울꿈의숲 상상톡톡미술관</td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/03/20240311175921d6a1767d-5dac-4deb-939b-7085949a6901.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[［얼리버드］새벽부터 황혼까지－스웨덴 국립미술관 컬렉션]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=209482</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=209482</guid>
+            <pubDate>Sun, 21 Apr 2024 10:12:07 GMT</pubDate>
+            <content:encoded><![CDATA[<td>
+                            <div class="show_infor">
+                                <div class="thumb_90x125  img">
+                                    <a href="#">
+                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/02/20240206093930154c518c-b074-4fc3-9c0d-3f7536998c72.jpg/melon/resize/90x125/strip/true" alt="">
+                                        <span class="frame"></span>
+                                    </a>
+                                </div>
+                                <p class="infor_text">
+                                    <span class="ico_wrap">
+                                        <span class="ico_list ico_list4"> 판매중</span></span>
+                                    <span class="show_title"><a href="/performance/index.htm?prodId=209482">［얼리버드］새벽부터 황혼까지－스웨덴 국립미술관 컬렉션</a></span>
+                                </p>
+                            </div>
+                        </td>
+                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
+                            2024.03.21 - 2024.05.17</td>
+                        <td class="show_loc">마이아트뮤지엄 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/02/20240206093930154c518c-b074-4fc3-9c0d-3f7536998c72.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[새벽부터 황혼까지－스웨덴 국립미술관 컬렉션]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=209628</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=209628</guid>
+            <pubDate>Sun, 21 Apr 2024 10:12:07 GMT</pubDate>
+            <content:encoded><![CDATA[<td>
+                            <div class="show_infor">
+                                <div class="thumb_90x125  img">
+                                    <a href="#">
+                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/03/20240318143630ad2dca31-a342-4605-91ab-61107be501b3.jpg/melon/resize/90x125/strip/true" alt="">
+                                        <span class="frame"></span>
+                                    </a>
+                                </div>
+                                <p class="infor_text">
+                                    <span class="ico_wrap">
+                                        <span class="ico_list ico_list4"> 판매중</span></span>
+                                    <span class="show_title"><a href="/performance/index.htm?prodId=209628">새벽부터 황혼까지－스웨덴&nbsp;국립미술관 컬렉션</a></span>
+                                </p>
+                            </div>
+                        </td>
+                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
+                            2024.03.21 - 2024.08.25</td>
+                        <td class="show_loc">마이아트뮤지엄 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/03/20240318143630ad2dca31-a342-4605-91ab-61107be501b3.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[몽드샬롯－헤드윅]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=209658</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=209658</guid>
+            <pubDate>Sun, 21 Apr 2024 10:12:07 GMT</pubDate>
+            <content:encoded><![CDATA[<td>
+                            <div class="show_infor">
+                                <div class="thumb_90x125  img">
+                                    <a href="#">
+                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/04/20240405163840b47dfa17-97ac-4998-a541-f71dab1001b5.jpg/melon/resize/90x125/strip/true" alt="">
+                                        <span class="frame"></span>
+                                    </a>
+                                </div>
+                                <p class="infor_text">
+                                    <span class="ico_wrap">
+                                        <span class="ico_list ico_list4"> 판매중</span></span>
+                                    <span class="show_title"><a href="/performance/index.htm?prodId=209658">몽드샬롯－헤드윅</a></span>
+                                </p>
+                            </div>
+                        </td>
+                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
+                            2024.03.22 - 2024.06.23</td>
+                        <td class="show_loc">몽드샬롯 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/04/20240405163840b47dfa17-97ac-4998-a541-f71dab1001b5.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 〈헤드윅〉]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=209412</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=209412</guid>
+            <pubDate>Sun, 21 Apr 2024 10:12:07 GMT</pubDate>
+            <content:encoded><![CDATA[<td>
+                            <div class="show_infor">
+                                <div class="thumb_90x125  img">
+                                    <a href="#">
+                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/01/202401261731424a9c5dc2-6f4e-4986-980f-1027b126696c.jpg/melon/resize/90x125/strip/true" alt="">
+                                        <span class="frame"></span>
+                                    </a>
+                                </div>
+                                <p class="infor_text">
+                                    <span class="ico_wrap">
+                                        <span class="ico_list ico_list4"> 판매중</span></span>
+                                    <span class="show_title"><a href="/performance/index.htm?prodId=209412">뮤지컬 〈헤드윅〉</a></span>
+                                </p>
+                            </div>
+                        </td>
+                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
+                            2024.03.22 - 2024.06.23</td>
+                        <td class="show_loc">샤롯데씨어터 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/01/202401261731424a9c5dc2-6f4e-4986-980f-1027b126696c.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 〈그레이트 코멧〉]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=209431</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=209431</guid>
+            <pubDate>Sun, 21 Apr 2024 10:12:07 GMT</pubDate>
+            <content:encoded><![CDATA[<td>
+                            <div class="show_infor">
+                                <div class="thumb_90x125  img">
+                                    <a href="#">
+                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/01/2024012613313215790e76-bf98-4c42-847c-ba77d5f72dac.jpg/melon/resize/90x125/strip/true" alt="">
+                                        <span class="frame"></span>
+                                    </a>
+                                </div>
+                                <p class="infor_text">
+                                    <span class="ico_wrap">
+                                        <span class="ico_list ico_list1">1열보유</span><span class="ico_list ico_list4"> 판매중</span></span>
+                                    <span class="show_title"><a href="/performance/index.htm?prodId=209431">뮤지컬 〈그레이트 코멧〉</a></span>
+                                </p>
+                            </div>
+                        </td>
+                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
+                            2024.03.26 - 2024.06.16</td>
+                        <td class="show_loc">유니버설아트센터 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/01/2024012613313215790e76-bf98-4c42-847c-ba77d5f72dac.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+    </channel>
+</rss>
