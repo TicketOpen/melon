@@ -4,9 +4,25 @@
         <title>멜론 티켓</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 24 Apr 2024 04:14:57 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Apr 2024 05:13:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[플레이모빌 50주년 기념전－플레이모빌 맨션：6개의 방으로 놀러와 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8718</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8718</guid>
+            <pubDate>Wed, 24 Apr 2024 05:13:23 GMT</pubDate>
+            <content:encoded><![CDATA[2024.04.29(월) 10:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/04/20240423202610d4b1b9b8-fcc1-4407-8241-79ae5f22218f.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[음악의 결：르네상스부터 현대까지 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8717</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8717</guid>
+            <pubDate>Wed, 24 Apr 2024 05:13:23 GMT</pubDate>
+            <content:encoded><![CDATA[2024.04.25(목) 14:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/04/202404231923110dd3fceb-0cce-458d-b253-c1ad4a793027.png/melon/resize/65x92/strip/true" length="0" type="image/png/melon/resize/65x92/strip/true"/>
+        </item>
         <item>
             <title><![CDATA[먼데이프로젝트 시즌7 My Universe［도후 단독 콘서트］티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8716</link>
@@ -70,22 +86,6 @@
             <pubDate>Wed, 24 Apr 2024 03:14:34 GMT</pubDate>
             <content:encoded><![CDATA[2024.04.26(금) 20:00]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/04/202404191845230a25632a-55ba-4306-8850-019e82f85997.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[TUNE UP STAGE：Under the Peach Tree 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8705</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8705</guid>
-            <pubDate>Wed, 24 Apr 2024 03:14:34 GMT</pubDate>
-            <content:encoded><![CDATA[2024.04.24(수) 18:00]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/04/202404191029417ffd15e5-a815-476b-8d2e-33b42d28d888.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[NCT WISH：SCHOOL of WISH－부산 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8703</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8703</guid>
-            <pubDate>Wed, 24 Apr 2024 03:14:34 GMT</pubDate>
-            <content:encoded><![CDATA[오픈일정 보기 &gt;]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/04/2024041818344790b394e1-6001-447e-80ff-6c8f6901ea71.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
     </channel>
 </rss>
