@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 Apr 2024 04:15:02 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Apr 2024 05:12:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,6 +30,14 @@
             <pubDate>Fri, 26 Apr 2024 03:14:49 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>24.05.03(금)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/04/20240425173328889c00dd-87c0-4752-bd1f-405732af1a05.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 〈그레이트 코멧〉 4차 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8731</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8731</guid>
+            <pubDate>Fri, 26 Apr 2024 05:12:31 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>24.04.30(화)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/04/20240425163722691ebb60-8037-441f-9a42-f5d6c9a258d8.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
         <item>
             <title><![CDATA[친구가 되자 vol．4：다브다 x 전기뱀장어 티켓 오픈 안내]]></title>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 26 Apr 2024 03:14:49 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>24.04.29(월)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/04/20240424161345492b3205-4dc1-4611-9026-58cfcd53ebc0.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[문없는집 단독공연 〈타임캡슐〉 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8727</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8727</guid>
-            <pubDate>Fri, 26 Apr 2024 03:14:49 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>24.05.02(목)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/04/202404241447327876e937-33e2-4c95-b22a-e44dbf278c92.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>

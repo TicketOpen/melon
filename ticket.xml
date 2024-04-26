@@ -4,9 +4,17 @@
         <title>멜론 티켓</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 Apr 2024 04:15:02 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Apr 2024 05:12:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뮤지컬 〈그레이트 코멧〉 4차 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8731</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8731</guid>
+            <pubDate>Fri, 26 Apr 2024 05:12:25 GMT</pubDate>
+            <content:encoded><![CDATA[2024.04.30(화) 14:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/04/20240425163722691ebb60-8037-441f-9a42-f5d6c9a258d8.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
         <item>
             <title><![CDATA[결 단독공연 ‘ㄱ’ 티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8730</link>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 26 Apr 2024 03:14:43 GMT</pubDate>
             <content:encoded><![CDATA[2024.04.29(월) 20:00]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/04/20240423185253710afc63-9924-4510-9c11-02ac11f58c3f.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[플레이모빌 50주년 기념전－플레이모빌 맨션：6개의 방으로 놀러와 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8718</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8718</guid>
-            <pubDate>Fri, 26 Apr 2024 03:14:43 GMT</pubDate>
-            <content:encoded><![CDATA[2024.04.29(월) 10:00]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/04/20240423202610d4b1b9b8-fcc1-4407-8241-79ae5f22218f.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
     </channel>
 </rss>
