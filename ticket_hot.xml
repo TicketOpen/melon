@@ -4,9 +4,17 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 29 Apr 2024 00:56:20 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Apr 2024 01:54:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[스튜디오 지브리 애니메이션의 거장 타카하타 이사오전 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8737</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8737</guid>
+            <pubDate>Mon, 29 Apr 2024 01:53:55 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>24.04.30(화)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/04/2024042618301150328ddb-6b81-45ca-a970-7653219d6c6f.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
         <item>
             <title><![CDATA[나만 알고 싶은 인디 Ep．37 109 x 윤토벤 티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8733</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 29 Apr 2024 00:56:13 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>24.04.26(금)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/04/20240425163931e7e356de-fdc5-4d3f-82e3-cd7de7f78328.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[MOODO with EDLS［김경（위아영），김제형］티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8721</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8721</guid>
-            <pubDate>Mon, 29 Apr 2024 00:56:13 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>24.04.30(화)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/04/20240425102924560f0b17-a075-430e-96ff-539b91efd87c.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
