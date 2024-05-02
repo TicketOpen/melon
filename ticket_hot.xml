@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 May 2024 04:15:27 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 May 2024 05:14:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Thu, 02 May 2024 04:15:20 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>24.05.03(금)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/04/20240429182809e025b9da-88be-4a08-b366-8eaa216be01e.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 〈헤드윅〉 5차 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8751</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8751</guid>
+            <pubDate>Thu, 02 May 2024 05:14:07 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>24.05.09(목)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/05/202405021016217ef6a594-5bc2-480c-82ac-4a86f7037e5a.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
         <item>
             <title><![CDATA[리도어 단독 콘서트［I wanna be “ ”］티켓 오픈 안내]]></title>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 02 May 2024 04:15:20 GMT</pubDate>
             <content:encoded><![CDATA[오픈일정 보기 &gt;]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/04/2024043015243960b0aca0-393f-4dac-a665-6b878d723775.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[월드 유니온 오케스트라 슈퍼 클래식：김호중＆프리마돈나 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8744</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8744</guid>
-            <pubDate>Thu, 02 May 2024 04:15:21 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>24.05.03(금)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/04/20240429214053fe70403c-3813-488f-a5c9-27878775eaa1.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
