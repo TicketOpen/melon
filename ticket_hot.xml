@@ -4,9 +4,17 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 May 2024 05:13:01 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 May 2024 06:17:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[D82［TAKE OFF］live CONCERT 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8738</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8738</guid>
+            <pubDate>Fri, 03 May 2024 06:16:55 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>24.05.07(화)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/04/2024042910121950e2930d-05a4-4b72-84e7-99089fbd5fdc.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
         <item>
             <title><![CDATA[오왠의 ‘어떤 이야기를 들려드릴까요？’ Ep．4 최정윤，김결 티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8748</link>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 03 May 2024 05:12:54 GMT</pubDate>
             <content:encoded><![CDATA[오픈일정 보기 &gt;]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/04/20240430152519f29e9bcd-9b63-4ced-af4a-4fd40ee2dd68.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[NCT WISH：SCHOOL of WISH－전주 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8702</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8702</guid>
-            <pubDate>Fri, 03 May 2024 05:12:54 GMT</pubDate>
-            <content:encoded><![CDATA[오픈일정 보기 &gt;]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/04/2024043015250571a6a250-f3cf-4dcb-8f98-14e5075a4cf9.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
