@@ -1,8 +1,91 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://ticket.melon.com/csoon/index.htm</id>
-    <title>멜론 티켓</title>
-    <updated>2024-05-06T02:27:39.377Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>멜론 티켓</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Mon, 06 May 2024 03:14:59 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[hemming 2nd EP “I’m Your Terrence” Showcase 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8756</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8756</guid>
+            <pubDate>Mon, 06 May 2024 03:14:48 GMT</pubDate>
+            <content:encoded><![CDATA[2024.05.07(화) 18:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/05/20240502164203bc084a93-674e-4470-83fc-d74a2005b98b.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[MOODO with EDLS［코토바，김결］티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8754</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8754</guid>
+            <pubDate>Mon, 06 May 2024 03:14:48 GMT</pubDate>
+            <content:encoded><![CDATA[2024.05.09(목) 19:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/05/202405021806136802e3a7-b92e-4595-bcad-ef5beb1bed57.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[UVERworld＆CNBLUE SUMMER LIVE IN JAPAN and KOREA UNLIMITED CHALLENGE 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8753</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8753</guid>
+            <pubDate>Mon, 06 May 2024 03:14:48 GMT</pubDate>
+            <content:encoded><![CDATA[오픈일정 보기 &gt;]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/05/2024050210340464f0ccce-243c-4d3c-aee7-fadbb20348e0.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 〈헤드윅〉 5차 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8751</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8751</guid>
+            <pubDate>Mon, 06 May 2024 03:14:48 GMT</pubDate>
+            <content:encoded><![CDATA[2024.05.09(목) 14:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/05/202405021016217ef6a594-5bc2-480c-82ac-4a86f7037e5a.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[NCT DREAM X CASETiFY Dream Night Chit Chat POP－UP 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8749</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8749</guid>
+            <pubDate>Mon, 06 May 2024 03:14:48 GMT</pubDate>
+            <content:encoded><![CDATA[2024.05.02(목) 10:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/04/202404301611220d23b6f6-72b0-408d-ace1-ca88d6f4dc23.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[오왠의 ‘어떤 이야기를 들려드릴까요？’ Ep．4 최정윤，김결 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8748</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8748</guid>
+            <pubDate>Mon, 06 May 2024 03:14:48 GMT</pubDate>
+            <content:encoded><![CDATA[2024.05.02(목) 19:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/04/202404301615131a788b53-d4f1-4562-a84f-ae0d8b26175a.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[리도어 단독 콘서트［I wanna be “ ”］티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8746</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8746</guid>
+            <pubDate>Mon, 06 May 2024 03:14:48 GMT</pubDate>
+            <content:encoded><![CDATA[2024.05.08(수) 20:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/05/20240501150146e4112a70-1730-409c-93be-75b802807131.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[먼데이프로젝트 시즌7 김민성 EP 앨범 발매 단독콘서트［Bad Dream］티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8745</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8745</guid>
+            <pubDate>Mon, 06 May 2024 03:14:48 GMT</pubDate>
+            <content:encoded><![CDATA[2024.05.08(수) 20:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/04/2024043017113109250026-efca-438d-87fe-f5c7edda1968.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[월드 유니온 오케스트라 슈퍼 클래식：김호중＆프리마돈나 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8744</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8744</guid>
+            <pubDate>Mon, 06 May 2024 03:14:48 GMT</pubDate>
+            <content:encoded><![CDATA[2024.05.03(금) 20:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/04/20240429214053fe70403c-3813-488f-a5c9-27878775eaa1.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[OAH！（오아！） 단독 공연 〈Hi，May〉 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8742</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8742</guid>
+            <pubDate>Mon, 06 May 2024 03:14:48 GMT</pubDate>
+            <content:encoded><![CDATA[2024.05.03(금) 20:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/04/20240429182809e025b9da-88be-4a08-b366-8eaa216be01e.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+    </channel>
+</rss>
