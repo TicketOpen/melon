@@ -4,9 +4,25 @@
         <title>멜론 티켓</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 May 2024 08:16:02 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 May 2024 09:14:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[eldon 1st concert ‘Can we be friends？’ 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8762</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8762</guid>
+            <pubDate>Tue, 07 May 2024 09:14:40 GMT</pubDate>
+            <content:encoded><![CDATA[2024.05.08(수) 19:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/05/202405071608006db7a34f-8a77-463e-9cce-5527b7c3d687.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[청춘썸머나잇2024 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8761</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8761</guid>
+            <pubDate>Tue, 07 May 2024 09:14:40 GMT</pubDate>
+            <content:encoded><![CDATA[2024.05.08(수) 17:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/05/20240507154441efe9dbc4-2e9c-4b60-a778-eac9319e3b91.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
         <item>
             <title><![CDATA[우주히피 “우리의 저녁” 티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8759</link>
@@ -70,22 +86,6 @@
             <pubDate>Tue, 07 May 2024 08:15:49 GMT</pubDate>
             <content:encoded><![CDATA[2024.05.02(목) 10:00]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/04/202404301611220d23b6f6-72b0-408d-ace1-ca88d6f4dc23.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[오왠의 ‘어떤 이야기를 들려드릴까요？’ Ep．4 최정윤，김결 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8748</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8748</guid>
-            <pubDate>Tue, 07 May 2024 08:15:49 GMT</pubDate>
-            <content:encoded><![CDATA[2024.05.02(목) 19:00]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/04/202404301615131a788b53-d4f1-4562-a84f-ae0d8b26175a.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[리도어 단독 콘서트［I wanna be “ ”］티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8746</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8746</guid>
-            <pubDate>Tue, 07 May 2024 08:15:49 GMT</pubDate>
-            <content:encoded><![CDATA[2024.05.08(수) 20:00]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/05/20240501150146e4112a70-1730-409c-93be-75b802807131.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
     </channel>
 </rss>
