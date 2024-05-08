@@ -4,9 +4,17 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 May 2024 07:13:52 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 May 2024 08:14:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[패밀리 아이스쇼 〈피터팬 온 아이스〉 오리지널 내한공연 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8770</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8770</guid>
+            <pubDate>Wed, 08 May 2024 08:14:42 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>24.05.16(목)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/05/202405081632080680341e-2f10-488e-9f70-8649b1c0af35.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
         <item>
             <title><![CDATA[악퉁 X 더베인 조인트콘서트 티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8764</link>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 08 May 2024 07:13:46 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>24.05.09(목)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/05/2024050709265431fa6f0e-f338-4a47-b7e7-cbe11dfba835.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[내 마음에 새겨진 이름 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8763</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8763</guid>
-            <pubDate>Wed, 08 May 2024 07:13:46 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>24.05.10(금)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/05/202405032032236b07889c-1024-49cc-b8e2-fbf8e155a2ea.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>

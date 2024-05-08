@@ -4,9 +4,17 @@
         <title>멜론 티켓</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 May 2024 07:13:52 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 May 2024 08:14:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[패밀리 아이스쇼 〈피터팬 온 아이스〉 오리지널 내한공연 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8770</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8770</guid>
+            <pubDate>Wed, 08 May 2024 08:14:36 GMT</pubDate>
+            <content:encoded><![CDATA[2024.05.16(목) 14:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/05/202405081632080680341e-2f10-488e-9f70-8649b1c0af35.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
         <item>
             <title><![CDATA[〈지구의 마지막 밤 vol．4〉 김승주 티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8769</link>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 08 May 2024 07:13:40 GMT</pubDate>
             <content:encoded><![CDATA[2024.05.09(목) 20:00]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/05/2024050709265431fa6f0e-f338-4a47-b7e7-cbe11dfba835.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[Flight0526：우석 편 추가 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8758</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8758</guid>
-            <pubDate>Wed, 08 May 2024 07:13:40 GMT</pubDate>
-            <content:encoded><![CDATA[2024.05.10(금) 20:00]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/05/20240507111310cb6b4287-f621-4156-9fde-92dc122cb3b9.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
     </channel>
 </rss>
