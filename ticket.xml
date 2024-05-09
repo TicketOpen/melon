@@ -4,9 +4,25 @@
         <title>멜론 티켓</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 May 2024 03:14:19 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 May 2024 04:18:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뮤지컬 〈4월은 너의 거짓말〉 1차 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8778</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8778</guid>
+            <pubDate>Thu, 09 May 2024 04:18:14 GMT</pubDate>
+            <content:encoded><![CDATA[2024.05.17(금) 11:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/05/20240509130244ed3d0fbf-417c-41df-9d97-1fb35c9cdccb.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[사공 단독 콘서트：휴일 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8777</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8777</guid>
+            <pubDate>Thu, 09 May 2024 04:18:14 GMT</pubDate>
+            <content:encoded><![CDATA[2024.05.13(월) 14:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/05/20240508190652160eee2e-3c96-459a-bc0f-3bdaec383e0e.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
         <item>
             <title><![CDATA[먼데이프로젝트 시즌7 My Universe［리제 단독 콘서트］티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8776</link>
@@ -70,22 +86,6 @@
             <pubDate>Wed, 08 May 2024 22:12:10 GMT</pubDate>
             <content:encoded><![CDATA[2024.05.15(수) 19:00]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/05/20240507174019f5cb0304-6bcf-44eb-be6b-a5b727a286e6.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[먼데이프로젝트 시즌7 청춘의 밤［김여명 단독 콘서트］티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8767</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8767</guid>
-            <pubDate>Wed, 08 May 2024 22:12:10 GMT</pubDate>
-            <content:encoded><![CDATA[2024.05.15(수) 20:00]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/05/20240507143957d7e653a3-a3ff-49f0-9885-e2d5b550aadf.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[티카콘（TIKACON）：먼데이오프위드블루지（MOWB）티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8765</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8765</guid>
-            <pubDate>Wed, 08 May 2024 22:12:10 GMT</pubDate>
-            <content:encoded><![CDATA[2024.05.10(금) 20:00]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/05/2024050716594475c3b85d-2d14-4f31-a6e2-406105d706dd.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
     </channel>
 </rss>
