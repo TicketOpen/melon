@@ -4,9 +4,17 @@
         <title>멜론 티켓</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 May 2024 04:18:25 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 May 2024 05:13:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2024 SUPER JUNIOR 〈SUPER SHOW SPIN－OFF：Halftime〉 in SEOUL 시야제한석 추가 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8779</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8779</guid>
+            <pubDate>Thu, 09 May 2024 05:13:29 GMT</pubDate>
+            <content:encoded><![CDATA[2024.05.13(월) 20:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/05/202405081420536ffe8e02-694e-4ad3-9f93-fd6b9c9db667.png/melon/resize/65x92/strip/true" length="0" type="image/png/melon/resize/65x92/strip/true"/>
+        </item>
         <item>
             <title><![CDATA[뮤지컬 〈4월은 너의 거짓말〉 1차 티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8778</link>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 08 May 2024 22:12:10 GMT</pubDate>
             <content:encoded><![CDATA[2024.05.17(금) 20:00]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/05/20240507144521dd64fa34-a67c-4fca-bd2f-1dd9771d7e33.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[먼데이프로젝트 IN 라이브클럽［투데이올드스니커즈 단독 콘서트］티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8768</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8768</guid>
-            <pubDate>Wed, 08 May 2024 22:12:10 GMT</pubDate>
-            <content:encoded><![CDATA[2024.05.15(수) 19:00]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/05/20240507174019f5cb0304-6bcf-44eb-be6b-a5b727a286e6.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
     </channel>
 </rss>

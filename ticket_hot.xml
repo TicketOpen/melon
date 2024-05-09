@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 May 2024 04:18:25 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 May 2024 05:13:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -64,6 +64,14 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/05/202405081632080680341e-2f10-488e-9f70-8649b1c0af35.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
         <item>
+            <title><![CDATA[2024 SUPER JUNIOR 〈SUPER SHOW SPIN－OFF：Halftime〉 in SEOUL 시야제한석 추가 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8779</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8779</guid>
+            <pubDate>Thu, 09 May 2024 05:13:34 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>24.05.13(월)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/05/202405081420536ffe8e02-694e-4ad3-9f93-fd6b9c9db667.png/melon/resize/160x225/strip/true" length="0" type="image/png/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
             <title><![CDATA[팔칠댄스（87dance），［Youth Heritage］쇼케이스 티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8771</link>
             <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8771</guid>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 08 May 2024 22:12:16 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>24.05.10(금)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/05/20240507205719955567fd-7be7-4361-8974-aafe29a22e63.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[먼데이프로젝트 IN 라이브클럽［투데이올드스니커즈 단독 콘서트］티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8768</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8768</guid>
-            <pubDate>Wed, 08 May 2024 22:12:16 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>24.05.15(수)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/05/20240507174019f5cb0304-6bcf-44eb-be6b-a5b727a286e6.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
