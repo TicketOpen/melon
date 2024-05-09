@@ -4,9 +4,25 @@
         <title>멜론 티켓</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 May 2024 02:28:06 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 May 2024 03:14:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[먼데이프로젝트 시즌7 My Universe［리제 단독 콘서트］티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8776</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8776</guid>
+            <pubDate>Thu, 09 May 2024 03:14:06 GMT</pubDate>
+            <content:encoded><![CDATA[2024.05.14(화) 20:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/05/20240508182656e7a0a33a-63e6-40a4-b9a1-899559ef780c.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[게이트플라워즈 2집 발매 공연：Majors of Minors 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8775</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8775</guid>
+            <pubDate>Thu, 09 May 2024 03:14:06 GMT</pubDate>
+            <content:encoded><![CDATA[2024.05.13(월) 12:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/05/2024050814541727e7bdad-0180-4191-9482-68681b6f5fce.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
         <item>
             <title><![CDATA[DRINK DANCE AND LOVE ALL：김오키 뻐킹매드니스 X 잭킹콩 티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8774</link>
@@ -70,22 +86,6 @@
             <pubDate>Wed, 08 May 2024 22:12:10 GMT</pubDate>
             <content:encoded><![CDATA[2024.05.10(금) 20:00]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/05/2024050716594475c3b85d-2d14-4f31-a6e2-406105d706dd.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[악퉁 X 더베인 조인트콘서트 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8764</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8764</guid>
-            <pubDate>Wed, 08 May 2024 22:12:10 GMT</pubDate>
-            <content:encoded><![CDATA[2024.05.09(목) 20:00]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/05/20240507184535d3791fb6-6d9d-4857-8f5e-4e7f527f5952.png/melon/resize/65x92/strip/true" length="0" type="image/png/melon/resize/65x92/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[내 마음에 새겨진 이름 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8763</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8763</guid>
-            <pubDate>Wed, 08 May 2024 22:12:10 GMT</pubDate>
-            <content:encoded><![CDATA[2024.05.10(금) 20:00]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/05/202405032032236b07889c-1024-49cc-b8e2-fbf8e155a2ea.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
     </channel>
 </rss>
