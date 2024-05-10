@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 May 2024 04:15:09 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 May 2024 05:12:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Fri, 10 May 2024 03:13:36 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>24.05.17(금)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/05/20240510094037fdd85987-5f62-4162-b39c-ae07065cab54.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[PITTA 강형호 콘서트：New Normal Life－부산 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8787</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8787</guid>
+            <pubDate>Fri, 10 May 2024 05:12:28 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>24.05.17(금)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/05/202405091759005e0aa494-8edb-4d3f-affd-b1932dd36521.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
         <item>
             <title><![CDATA[제65회 라이브 클럽 데이－블라인드 티켓 오픈 안내]]></title>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 09 May 2024 23:12:33 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>24.05.13(월)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/05/20240508190652160eee2e-3c96-459a-bc0f-3bdaec383e0e.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[DRINK DANCE AND LOVE ALL：김오키 뻐킹매드니스 X 잭킹콩 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8774</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8774</guid>
-            <pubDate>Thu, 09 May 2024 23:12:33 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>24.05.13(월)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/05/20240508154614871bb73d-688c-4e12-97f8-cdfa45b1cd5c.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
