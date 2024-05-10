@@ -1,8 +1,91 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://ticket.melon.com/csoon/index.htm</id>
-    <title>멜론 티켓</title>
-    <updated>2024-05-10T21:13:31.123Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>멜론 티켓</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Fri, 10 May 2024 22:13:35 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[PITTA 강형호 콘서트：New Normal Life－부산 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8787</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8787</guid>
+            <pubDate>Fri, 10 May 2024 22:13:25 GMT</pubDate>
+            <content:encoded><![CDATA[2024.05.17(금) 16:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/05/202405091759005e0aa494-8edb-4d3f-affd-b1932dd36521.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[다린 EP ‘serenade’ 발매 기념 콘서트－서울 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8786</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8786</guid>
+            <pubDate>Fri, 10 May 2024 22:13:25 GMT</pubDate>
+            <content:encoded><![CDATA[2024.05.17(금) 19:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/05/202405091017248f51d9e6-3a6a-4656-a0cb-8e9b08d1a86e.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[다린 EP ‘serenade’ 발매 기념 콘서트－부산 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8785</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8785</guid>
+            <pubDate>Fri, 10 May 2024 22:13:25 GMT</pubDate>
+            <content:encoded><![CDATA[2024.05.17(금) 20:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/05/20240509103725fdbeb91b-4bca-4d95-bf15-54f01edd3ff2.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[2024 UKISS FAN CONCERT ‘First Memories’ 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8784</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8784</guid>
+            <pubDate>Fri, 10 May 2024 22:13:25 GMT</pubDate>
+            <content:encoded><![CDATA[2024.05.17(금) 20:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/05/20240510094037fdd85987-5f62-4162-b39c-ae07065cab54.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[썸머스프링 루프탑파티 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8783</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8783</guid>
+            <pubDate>Fri, 10 May 2024 22:13:25 GMT</pubDate>
+            <content:encoded><![CDATA[2024.05.13(월) 08:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/05/20240509134428f5e97f72-9c58-41c1-b4fb-5a20ecedb133.png/melon/resize/65x92/strip/true" length="0" type="image/png/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[2024 신라힙합페스티벌（경주힙페）－EXCON 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8782</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8782</guid>
+            <pubDate>Fri, 10 May 2024 22:13:25 GMT</pubDate>
+            <content:encoded><![CDATA[오픈일정 보기 &gt;]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/05/202405091007130f877e2e-c774-426b-b53d-c3fcabaf07d9.png/melon/resize/65x92/strip/true" length="0" type="image/png/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[제65회 라이브 클럽 데이－블라인드 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8781</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8781</guid>
+            <pubDate>Fri, 10 May 2024 22:13:25 GMT</pubDate>
+            <content:encoded><![CDATA[2024.05.14(화) 15:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/05/2024050916392991975d10-e3d7-43ba-bf12-5b0543d10bbb.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[2024 SUPER JUNIOR 〈SUPER SHOW SPIN－OFF：Halftime〉 in SEOUL 시야제한석 추가 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8779</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8779</guid>
+            <pubDate>Fri, 10 May 2024 22:13:25 GMT</pubDate>
+            <content:encoded><![CDATA[2024.05.13(월) 20:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/05/202405081420536ffe8e02-694e-4ad3-9f93-fd6b9c9db667.png/melon/resize/65x92/strip/true" length="0" type="image/png/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 〈4월은 너의 거짓말〉 1차 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8778</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8778</guid>
+            <pubDate>Fri, 10 May 2024 22:13:25 GMT</pubDate>
+            <content:encoded><![CDATA[2024.05.17(금) 11:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/05/20240509130244ed3d0fbf-417c-41df-9d97-1fb35c9cdccb.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[사공 단독 콘서트：휴일 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8777</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8777</guid>
+            <pubDate>Fri, 10 May 2024 22:13:25 GMT</pubDate>
+            <content:encoded><![CDATA[2024.05.13(월) 14:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/05/20240508190652160eee2e-3c96-459a-bc0f-3bdaec383e0e.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+    </channel>
+</rss>
