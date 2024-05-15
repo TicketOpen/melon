@@ -1,8 +1,91 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://ticket.melon.com/csoon/index.htm</id>
-    <title>멜론 티켓</title>
-    <updated>2024-05-15T10:14:15.328Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>멜론 티켓</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Wed, 15 May 2024 11:11:37 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[온 단독콘서트 무아몽중（無我夢中）티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8804</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8804</guid>
+            <pubDate>Wed, 15 May 2024 11:11:24 GMT</pubDate>
+            <content:encoded><![CDATA[2024.05.22(수) 20:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/05/2024051415363583690a90-fe98-42e4-985e-2be71d297be0.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[성영주 ‘밀어내고 당기고’ 앨범 발매 기념 콘서트 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8803</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8803</guid>
+            <pubDate>Wed, 15 May 2024 11:11:24 GMT</pubDate>
+            <content:encoded><![CDATA[2024.05.15(수) 18:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/05/2024051315100087e6eeee-398c-4940-a38e-eb15ca886a1f.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[Colorful Stage＃5（컬러풀 스테이지＃5）블루파프리카 & 엔분의일 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8802</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8802</guid>
+            <pubDate>Wed, 15 May 2024 11:11:24 GMT</pubDate>
+            <content:encoded><![CDATA[2024.05.20(월) 20:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/05/2024051416371866538209-8b5e-4dae-9adf-920c54506419.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[오왠의 ‘어떤 이야기를 들려드릴까요？’ Ep．5 이오늘，임소정 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8801</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8801</guid>
+            <pubDate>Wed, 15 May 2024 11:11:24 GMT</pubDate>
+            <content:encoded><![CDATA[2024.05.15(수) 20:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/05/20240513143346132433a8-113c-4b34-b090-74d56dfaf926.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[나만 알고 싶은 인디 Ep．39 택우 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8800</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8800</guid>
+            <pubDate>Wed, 15 May 2024 11:11:24 GMT</pubDate>
+            <content:encoded><![CDATA[2024.05.15(수) 19:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/05/2024051315383606be9ba8-6077-4880-8875-27bb7255024e.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 〈프랑켄슈타인〉 10주년 기념공연 2차 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8798</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8798</guid>
+            <pubDate>Wed, 15 May 2024 11:11:24 GMT</pubDate>
+            <content:encoded><![CDATA[2024.05.21(화) 11:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/05/2024051415273131d8976e-db91-49f7-983e-3338917b6fb7.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[싱어송와이더＃1 주니엘 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8797</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8797</guid>
+            <pubDate>Wed, 15 May 2024 11:11:24 GMT</pubDate>
+            <content:encoded><![CDATA[2024.05.17(금) 18:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/05/20240513175122a4efe14e-99f6-451f-ae8d-72085499ea0e.png/melon/resize/65x92/strip/true" length="0" type="image/png/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[영소 단독 콘서트 ‘STAY’：롤링 29주년 기념 공연 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8796</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8796</guid>
+            <pubDate>Wed, 15 May 2024 11:11:24 GMT</pubDate>
+            <content:encoded><![CDATA[2024.05.21(화) 20:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/05/202405131635599b8233d6-25f2-482e-affa-ac4c41841c7d.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[2024 TAEHO FAN SIGN EVENT 〈37℃：너의 찬란한 내일을 위해〉 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8794</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8794</guid>
+            <pubDate>Wed, 15 May 2024 11:11:24 GMT</pubDate>
+            <content:encoded><![CDATA[2024.05.14(화) 20:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/05/20240513111646c0c31204-1b3c-4a57-b844-a14ffa582455.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[2024 TAEHO FAN CONCERT 〈37℃：너의 찬란한 내일을 위해〉 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8793</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8793</guid>
+            <pubDate>Wed, 15 May 2024 11:11:24 GMT</pubDate>
+            <content:encoded><![CDATA[2024.05.14(화) 18:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/05/20240513160912ef32fc37-f08d-46af-9ae0-76072be5cdcc.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+    </channel>
+</rss>
