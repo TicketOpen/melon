@@ -1,8 +1,91 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://ticket.melon.com/csoon/index.htm#orderType=0&amp;pageIndex=1&amp;schGcode=GENRE_ALL&amp;schText=&amp;schDt=</id>
-    <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
-    <updated>2024-05-17T02:25:55.370Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Fri, 17 May 2024 03:14:21 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[제65회 라이브 클럽 데이－일반 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8799</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8799</guid>
+            <pubDate>Fri, 17 May 2024 03:14:14 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>24.05.17(금)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/05/20240513134706e7356e3a-8fe5-4f95-b69e-15006305edc9.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 〈벤자민 버튼〉 마지막 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8815</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8815</guid>
+            <pubDate>Fri, 17 May 2024 03:14:14 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>24.05.24(금)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/05/20240517092616d9606069-7d11-4592-b4cf-fd03edae88ac.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[세종문화회관 컨템퍼러리 시즌 〈싱크 넥스트 24〉 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8805</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8805</guid>
+            <pubDate>Fri, 17 May 2024 03:14:14 GMT</pubDate>
+            <content:encoded><![CDATA[오픈일정 보기 &gt;]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/05/20240516095915899882b4-4774-4cf0-b1d2-109859dfa86f.png/melon/resize/160x225/strip/true" length="0" type="image/png/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[정밀아 단독공연 〈초여름의 물결〉 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8816</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8816</guid>
+            <pubDate>Fri, 17 May 2024 03:14:14 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>24.05.22(수)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/05/2024051617514785d93205-127b-4312-a480-575f2327c682.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[김현창 첫 정규 앨범 단독 콘서트 〈살아서 슬퍼야지，그렇게 선명히 너를 사랑해야지〉 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8814</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8814</guid>
+            <pubDate>Fri, 17 May 2024 03:14:14 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>24.05.23(목)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/05/20240516142720100452ae-b5e5-41e9-b171-f85db35edeb7.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[Happy We；Na Day 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8810</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8810</guid>
+            <pubDate>Fri, 17 May 2024 03:14:14 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>24.05.20(월)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/05/202405161354224aaab5c1-fae0-4998-858c-e42855e8a6bc.Jpg/melon/resize/160x225/strip/true" length="0" type="image/Jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[놀플라워 2nd EP앨범 쇼케이스 〈Take me higher〉 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8813</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8813</guid>
+            <pubDate>Fri, 17 May 2024 03:14:14 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>24.05.21(화)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/05/20240516165229bf57004e-4418-48aa-99f2-67acb40282a8.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[먼데이프로젝트 시즌7 OUR SUMMER［아디오스 오디오 단독 콘서트］티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8807</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8807</guid>
+            <pubDate>Fri, 17 May 2024 03:14:14 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>24.05.22(수)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/05/202405141838414b619339-f97a-4c4d-b841-e1b30155e1a2.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[HBO Vol．3 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8812</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8812</guid>
+            <pubDate>Fri, 17 May 2024 03:14:14 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>24.05.21(화)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/05/20240516144758d61eadfa-348f-46e1-865f-092c7b11834a.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[Mellow Kitchen with Friends 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8811</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8811</guid>
+            <pubDate>Fri, 17 May 2024 03:14:14 GMT</pubDate>
+            <content:encoded><![CDATA[오픈일정 보기 &gt;]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/05/20240516131601bb8a4ef2-d868-498e-accf-0cd3338ff4ec.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+    </channel>
+</rss>
