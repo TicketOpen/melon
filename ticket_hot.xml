@@ -4,9 +4,17 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 May 2024 04:16:58 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 May 2024 05:13:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이적 Curated 05 김필선 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8846</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8846</guid>
+            <pubDate>Fri, 24 May 2024 05:13:32 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>24.05.24(금)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/05/20240523150452c7241280-0c9f-4ecf-ad59-c34e9e016cfc.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
         <item>
             <title><![CDATA[뮤지컬 〈젠틀맨스 가이드：사랑과 살인편〉 1차 티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8834</link>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 24 May 2024 04:16:51 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>24.05.29(수)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/05/20240522101058359c978e-3a9a-4010-bb04-285691108483.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[민강 단독 콘서트 ‘BORNGARDEN’ 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8836</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8836</guid>
-            <pubDate>Fri, 24 May 2024 04:16:51 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>24.05.23(목)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/05/202405211817445bebb8a7-61a4-49de-a79c-3ae0e14f0a0c.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
