@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 판매중</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 25 May 2024 14:12:14 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 May 2024 15:13:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -483,29 +483,29 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/04/20240409162036a27bfeb4-a8c6-4a12-b2b7-d93a64d22214.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
-            <title><![CDATA[노래는 맛있게，표정은 밝게，마음은 즐겁게]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=209780</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=209780</guid>
-            <pubDate>Sat, 25 May 2024 14:12:13 GMT</pubDate>
+            <title><![CDATA[2024 SUHO CONCERT 〈SU：HOME〉]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=209640</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=209640</guid>
+            <pubDate>Sat, 25 May 2024 15:13:24 GMT</pubDate>
             <content:encoded><![CDATA[<td>
                             <div class="show_infor">
                                 <div class="thumb_90x125  img">
                                     <a href="#">
-                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/04/20240419102550e3d39a56-0e78-44e4-ba48-8056cf0e4b11.jpg/melon/resize/90x125/strip/true" alt="">
+                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/03/2024032214522293c9ef74-b1aa-4147-93a2-ef5c712712f3.jpg/melon/resize/90x125/strip/true" alt="">
                                         <span class="frame"></span>
                                     </a>
                                 </div>
                                 <p class="infor_text">
                                     <span class="ico_wrap">
-                                        <span class="ico_list ico_list4"> 판매중</span></span>
-                                    <span class="show_title"><a href="/performance/index.htm?prodId=209780">노래는 맛있게，표정은 밝게，마음은 즐겁게</a></span>
+                                        <span class="ico_list ico_list1">단독판매</span><span class="ico_list ico_list4"> 판매중</span></span>
+                                    <span class="show_title"><a href="/performance/index.htm?prodId=209640">2024 SUHO CONCERT 〈SU：HOME〉</a></span>
                                 </p>
                             </div>
                         </td>
                         <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
-                            2024.05.24 - 2024.05.25</td>
-                        <td class="show_loc">세종문화회관 체임버홀</td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/04/20240419102550e3d39a56-0e78-44e4-ba48-8056cf0e4b11.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+                            2024.05.25 - 2024.05.26</td>
+                        <td class="show_loc">올림픽공원 올림픽홀</td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/03/2024032214522293c9ef74-b1aa-4147-93a2-ef5c712712f3.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
     </channel>
 </rss>
