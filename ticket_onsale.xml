@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 판매중</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 May 2024 14:12:59 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 May 2024 15:12:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -433,31 +433,6 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/04/2024040316362798815caf-e155-4bc2-b32f-638ef52b4f28.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
-            <title><![CDATA[오왠의 ‘어떤 이야기를 들려드릴까요？’ Ep．5 이오늘，임소정]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=209873</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=209873</guid>
-            <pubDate>Tue, 28 May 2024 14:12:58 GMT</pubDate>
-            <content:encoded><![CDATA[<td>
-                            <div class="show_infor">
-                                <div class="thumb_90x125  img">
-                                    <a href="#">
-                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/05/2024051310140224be3b40-9e7c-40c2-a212-cbc6c9e45914.jpg/melon/resize/90x125/strip/true" alt="">
-                                        <span class="frame"></span>
-                                    </a>
-                                </div>
-                                <p class="infor_text">
-                                    <span class="ico_wrap">
-                                        <span class="ico_list ico_list1">단독판매</span><span class="ico_list ico_list4"> 판매중</span></span>
-                                    <span class="show_title"><a href="/performance/index.htm?prodId=209873">오왠의 ‘어떤 이야기를 들려드릴까요？’ Ep．5 이오늘，임소정</a></span>
-                                </p>
-                            </div>
-                        </td>
-                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
-                            2024.05.28 - 2024.05.28</td>
-                        <td class="show_loc">클럽온에어 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/05/2024051310140224be3b40-9e7c-40c2-a212-cbc6c9e45914.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
             <title><![CDATA[제16회 서울재즈페스티벌 2024 블라인드]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=209203</link>
             <guid>https://ticket.melon.com/performance/index.htm?prodId=209203</guid>
@@ -506,6 +481,31 @@
                             2024.05.31 - 2024.06.02</td>
                         <td class="show_loc">올림픽공원 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/12/20231222152140fa5745a9-f552-4e09-9c1a-928bc3790bbc.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[제16회 서울재즈페스티벌 2024]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=209294</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=209294</guid>
+            <pubDate>Tue, 28 May 2024 15:12:54 GMT</pubDate>
+            <content:encoded><![CDATA[<td>
+                            <div class="show_infor">
+                                <div class="thumb_90x125  img">
+                                    <a href="#">
+                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/04/202404171201125478ad2a-d63b-44a1-b5c4-6c822898541f.jpg/melon/resize/90x125/strip/true" alt="">
+                                        <span class="frame"></span>
+                                    </a>
+                                </div>
+                                <p class="infor_text">
+                                    <span class="ico_wrap">
+                                        <span class="ico_list ico_list1">단독판매</span><span class="ico_list ico_list4"> 판매중</span></span>
+                                    <span class="show_title"><a href="/performance/index.htm?prodId=209294">제16회 서울재즈페스티벌 2024</a></span>
+                                </p>
+                            </div>
+                        </td>
+                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
+                            2024.05.31 - 2024.06.02</td>
+                        <td class="show_loc">올림픽공원 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/04/202404171201125478ad2a-d63b-44a1-b5c4-6c822898541f.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
     </channel>
 </rss>
