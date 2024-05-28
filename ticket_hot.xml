@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 May 2024 08:18:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 May 2024 09:13:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Tue, 28 May 2024 06:18:06 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>24.05.29(수)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/05/20240523113458c6d5b177-6c86-4f41-85b2-a2b8fbb07445.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[전자양 단독공연 〈KING OF NOISE〉 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8853</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8853</guid>
+            <pubDate>Tue, 28 May 2024 09:13:46 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>24.06.04(화)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/05/20240527160014d7a147e8-82e4-4ba2-9129-f374baac1ca2.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
         <item>
             <title><![CDATA[2024 EXCON－HIPHOP DAY 티켓 오픈 안내]]></title>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 28 May 2024 06:18:06 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>24.05.30(목)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/05/20240523090735b8ce8360-c007-4352-9ae7-e6c4b2ca0d13.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[2024 OWEN X MARV CONCERT：TOTAL ECLIPSE 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8844</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8844</guid>
-            <pubDate>Tue, 28 May 2024 06:18:06 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>24.05.27(월)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/05/20240522191115a0b4b322-c60b-4d5f-ae78-185bca20887b.png/melon/resize/160x225/strip/true" length="0" type="image/png/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
