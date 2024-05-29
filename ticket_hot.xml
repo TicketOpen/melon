@@ -1,8 +1,91 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://ticket.melon.com/csoon/index.htm#orderType=0&amp;pageIndex=1&amp;schGcode=GENRE_ALL&amp;schText=&amp;schDt=</id>
-    <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
-    <updated>2024-05-29T06:18:03.583Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Wed, 29 May 2024 07:13:03 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[먼데이프로젝트 시즌7 Our Universe［언오피셜（UNXL）단독 콘서트］티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8856</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8856</guid>
+            <pubDate>Wed, 29 May 2024 07:12:56 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>24.06.06(목)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/05/20240528183705cf62b632-4ca5-4fbc-8df5-801b17d9270d.png/melon/resize/160x225/strip/true" length="0" type="image/png/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[먼데이프로젝트 시즌7 청춘의 밤［히읗 단독 콘서트］티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8855</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8855</guid>
+            <pubDate>Wed, 29 May 2024 07:12:56 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>24.06.05(수)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/05/20240528180259d18bcdb7-54c0-4cf2-b5ee-74bbc930da6b.png/melon/resize/160x225/strip/true" length="0" type="image/png/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[공중그늘 단독 콘서트：Fresh Start 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8854</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8854</guid>
+            <pubDate>Wed, 29 May 2024 07:12:56 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>24.06.04(화)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/05/20240528164127dbaea12d-3221-42f3-a472-f2e5c3d110a8.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[KAI INTO THE WORLD－SEOUL 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8857</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8857</guid>
+            <pubDate>Wed, 29 May 2024 07:12:56 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>24.05.31(금)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/05/2024052817094761a56ed8-48ce-4d7d-97fd-709fbe5bb84f.png/melon/resize/160x225/strip/true" length="0" type="image/png/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[이적 Curated 05 김필선 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8846</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8846</guid>
+            <pubDate>Wed, 29 May 2024 07:12:56 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>24.05.24(금)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/05/20240523150452c7241280-0c9f-4ecf-ad59-c34e9e016cfc.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[［오픈일 변경］더 맨 얼라이브 〈초이스〉 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8840</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8840</guid>
+            <pubDate>Wed, 29 May 2024 07:12:56 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>24.05.29(수)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/05/20240523113458c6d5b177-6c86-4f41-85b2-a2b8fbb07445.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[전자양 단독공연 〈KING OF NOISE〉 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8853</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8853</guid>
+            <pubDate>Wed, 29 May 2024 07:12:56 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>24.06.04(화)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/05/20240527160014d7a147e8-82e4-4ba2-9129-f374baac1ca2.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[2024 EXCON－HIPHOP DAY 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8851</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8851</guid>
+            <pubDate>Wed, 29 May 2024 07:12:56 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>24.05.27(월)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/05/20240527132021e736fd17-be6f-4931-9b94-b12702450979.png/melon/resize/160x225/strip/true" length="0" type="image/png/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 〈베르사유의 장미〉 1차 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8843</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8843</guid>
+            <pubDate>Wed, 29 May 2024 07:12:56 GMT</pubDate>
+            <content:encoded><![CDATA[오픈일정 보기 &gt;]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/05/20240523090052affac8bb-5cce-4ea1-9b8b-346325766402.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[We are Bump2Soul！티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8850</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8850</guid>
+            <pubDate>Wed, 29 May 2024 07:12:56 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>24.05.28(화)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/05/20240524150804bfd98257-3f7d-4624-a254-af91ffde434a.JPG/melon/resize/160x225/strip/true" length="0" type="image/JPG/melon/resize/160x225/strip/true"/>
+        </item>
+    </channel>
+</rss>
