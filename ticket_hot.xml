@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 May 2024 03:15:47 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 May 2024 04:18:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,6 +30,14 @@
             <pubDate>Wed, 29 May 2024 03:15:41 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>24.06.04(화)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/05/20240528164127dbaea12d-3221-42f3-a472-f2e5c3d110a8.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[KAI INTO THE WORLD－SEOUL 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8857</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8857</guid>
+            <pubDate>Wed, 29 May 2024 04:17:55 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>24.05.31(금)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/05/2024052817094761a56ed8-48ce-4d7d-97fd-709fbe5bb84f.png/melon/resize/160x225/strip/true" length="0" type="image/png/melon/resize/160x225/strip/true"/>
         </item>
         <item>
             <title><![CDATA[이적 Curated 05 김필선 티켓 오픈 안내]]></title>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 29 May 2024 03:15:41 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>24.05.28(화)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/05/20240524150804bfd98257-3f7d-4624-a254-af91ffde434a.JPG/melon/resize/160x225/strip/true" length="0" type="image/JPG/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[2024 OWEN X MARV FANSIGN EVENT：TOTAL ECLIPSE 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8849</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8849</guid>
-            <pubDate>Wed, 29 May 2024 03:15:41 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>24.05.27(월)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/05/20240523182245266ccff3-f49d-459e-b9d6-59cf8de7d2a8.png/melon/resize/160x225/strip/true" length="0" type="image/png/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
