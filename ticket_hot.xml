@@ -1,8 +1,91 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://ticket.melon.com/csoon/index.htm#orderType=0&amp;pageIndex=1&amp;schGcode=GENRE_ALL&amp;schText=&amp;schDt=</id>
-    <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
-    <updated>2024-06-01T17:12:02.713Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Sat, 01 Jun 2024 18:16:38 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2024 EXCON－HIPHOP DAY 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8851</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8851</guid>
+            <pubDate>Sat, 01 Jun 2024 18:16:31 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>24.05.27(월)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/05/20240531162302da3a7beb-5725-4cea-91b3-a51866349c57.png/melon/resize/160x225/strip/true" length="0" type="image/png/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[［오픈일 변경］KAI INTO THE WORLD－SEOUL 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8857</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8857</guid>
+            <pubDate>Sat, 01 Jun 2024 18:16:31 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>24.06.04(화)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/05/20240530131607f5d05297-1fe5-48bf-9222-304a581d73fa.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[2024년 겸 단독공연［희미해지는 것들 사이에서］티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8870</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8870</guid>
+            <pubDate>Sat, 01 Jun 2024 18:16:31 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>24.06.05(수)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/05/2024053017191192d0f8d0-6029-4307-98e0-9b8cee758927.png/melon/resize/160x225/strip/true" length="0" type="image/png/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[피에타 단독 공연 ‘독백의 단어’ 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8872</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8872</guid>
+            <pubDate>Sat, 01 Jun 2024 18:16:31 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>24.06.07(금)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/05/20240530163815eb39f99b-93c3-499a-a5ec-eb58edf4ee71.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[크루즈 디에즈－RGB，세기의 컬러들 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8867</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8867</guid>
+            <pubDate>Sat, 01 Jun 2024 18:16:31 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>24.05.31(금)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/05/20240530164045830f9588-6a6c-41c1-8cb0-b973651d0d6c.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[2024 LADYBOUNCE CONCERT：Back to the Bounce 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8874</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8874</guid>
+            <pubDate>Sat, 01 Jun 2024 18:16:31 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>24.06.04(화)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/05/202405301602376f8fe457-e9ef-4844-b9f4-f71cd6be353b.png/melon/resize/160x225/strip/true" length="0" type="image/png/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[박준하（JUNHA PARK）단독 콘서트 〈한여름 밤의 꿈〉 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8869</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8869</guid>
+            <pubDate>Sat, 01 Jun 2024 18:16:31 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>24.06.04(화)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/05/20240530145355aa1b1c46-0a9b-4b5a-819f-08afb0dbd2c8.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[지푸 x 디제이티즈 ‘First Time’ 앨범 발매 쇼케이스 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8871</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8871</guid>
+            <pubDate>Sat, 01 Jun 2024 18:16:31 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>24.06.07(금)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/05/2024053014421429ba8c0d-fac3-49c2-8944-c5811de50967.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[CRASH INTO THE MOON Ep．1 오왠，홈존，정수민 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8866</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8866</guid>
+            <pubDate>Sat, 01 Jun 2024 18:16:31 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>24.05.31(금)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/05/20240529181208acac82ac-f3a7-4ec1-b1cd-ff47f1ed431e.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[한로로 2nd EP 발매기념 단독콘서트 ‘집’ 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8837</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8837</guid>
+            <pubDate>Sat, 01 Jun 2024 18:16:31 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>24.05.29(수)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/05/20240522101058359c978e-3a9a-4010-bb04-285691108483.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+    </channel>
+</rss>
