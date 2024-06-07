@@ -4,9 +4,17 @@
         <title>멜론 티켓</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 07 Jun 2024 10:14:14 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Jun 2024 11:12:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[은종 단독 콘서트：별뜨기 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8897</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8897</guid>
+            <pubDate>Fri, 07 Jun 2024 11:12:33 GMT</pubDate>
+            <content:encoded><![CDATA[2024.06.10(월) 20:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/06/20240606043501fd99d442-aa32-4e7b-84cf-355772379f9e.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
         <item>
             <title><![CDATA[오왠의 ‘어떤 이야기를 들려드릴까요？’ Ep．6 시소，정예원 티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8896</link>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 07 Jun 2024 08:17:33 GMT</pubDate>
             <content:encoded><![CDATA[2024.06.10(월) 18:00]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/06/20240605103319891608c6-63c5-4d98-9702-d0520c0eff21.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[TUNE UP STAGE［튠업 25기 선정기념 공연 ＃03．김뜻돌 X 다섯］티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8886</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8886</guid>
-            <pubDate>Fri, 07 Jun 2024 08:17:33 GMT</pubDate>
-            <content:encoded><![CDATA[2024.06.10(월) 18:00]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/06/2024060510562686be3474-d6b3-404e-b507-d61bf76d2e3a.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
     </channel>
 </rss>
