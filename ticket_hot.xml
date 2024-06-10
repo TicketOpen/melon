@@ -1,8 +1,91 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://ticket.melon.com/csoon/index.htm#orderType=0&amp;pageIndex=1&amp;schGcode=GENRE_ALL&amp;schText=&amp;schDt=</id>
-    <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
-    <updated>2024-06-10T03:15:05.198Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Mon, 10 Jun 2024 04:18:13 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[박다울X유태평양X류성실 〈돌고 돌고〉 _싱크넥스트24 추가 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8893</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8893</guid>
+            <pubDate>Mon, 10 Jun 2024 04:18:07 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>24.06.10(월)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/06/20240607100913caa13f3a-6f68-4161-8401-814e3b6b2998.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[2024 타임캡슐 슈퍼콘서트 전국투어 in 인천 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8543</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8543</guid>
+            <pubDate>Mon, 10 Jun 2024 04:18:07 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>24.03.19(화)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/06/202406071434193bcbd826-0ccf-4ed7-8f14-3f364f35db7a.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[아리아라이브 2024 이모션 인 서울 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8892</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8892</guid>
+            <pubDate>Mon, 10 Jun 2024 04:18:07 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>24.06.07(금)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/06/20240607100805d35e949c-87ef-49b4-a741-fbb5c894af70.png/melon/resize/160x225/strip/true" length="0" type="image/png/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[은종 단독 콘서트：별뜨기 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8897</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8897</guid>
+            <pubDate>Mon, 10 Jun 2024 04:18:07 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>24.06.10(월)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/06/20240606043501fd99d442-aa32-4e7b-84cf-355772379f9e.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[오왠의 ‘어떤 이야기를 들려드릴까요？’ Ep．6 시소，정예원 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8896</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8896</guid>
+            <pubDate>Mon, 10 Jun 2024 04:18:07 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>24.06.10(월)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/06/2024060516305717fb9ce9-06ea-4753-9b27-c47884a086c3.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[민영기ｘ김소향 Greatest Voice with Piano 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8894</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8894</guid>
+            <pubDate>Mon, 10 Jun 2024 04:18:07 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>24.06.08(토)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/06/2024060516013285500ef4-0768-47f1-a55e-c51ebafe398d.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[먼데이프로젝트 시즌7 Our Universe［시인을 위하여 단독 콘서트］티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8891</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8891</guid>
+            <pubDate>Mon, 10 Jun 2024 04:18:07 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>24.06.13(목)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/06/20240605152540c1bb3b6d-0ddb-4b57-987b-b9b7eecee169.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[맢동산 응원봉 및 콘서트 선예매 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8890</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8890</guid>
+            <pubDate>Mon, 10 Jun 2024 04:18:07 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>24.06.07(금)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/06/2024060510315603f5b9d1-ae7d-420c-96ef-d304d4d50f21.JPG/melon/resize/160x225/strip/true" length="0" type="image/JPG/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[TUNE UP STAGE［튠업 25기 선정기념 공연 ＃03．김뜻돌 X 다섯］티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8886</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8886</guid>
+            <pubDate>Mon, 10 Jun 2024 04:18:07 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>24.06.10(월)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/06/2024060510562686be3474-d6b3-404e-b507-d61bf76d2e3a.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[먼데이프로젝트 시즌7 OUR SUMMER［잭킹콩 단독 콘서트］티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8883</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8883</guid>
+            <pubDate>Mon, 10 Jun 2024 04:18:07 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>24.06.12(수)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/06/20240605110948367a4d4a-150b-4556-b4fd-ecc4c7d82de0.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+    </channel>
+</rss>
