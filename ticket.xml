@@ -4,9 +4,17 @@
         <title>멜론 티켓</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 12 Jun 2024 02:02:45 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Jun 2024 03:15:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2024 B－day PARTY－LEETEUK［LUCKY 777］티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8911</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8911</guid>
+            <pubDate>Wed, 12 Jun 2024 03:15:15 GMT</pubDate>
+            <content:encoded><![CDATA[오픈일정 보기 &gt;]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/06/2024061114075563dded21-2a0e-457f-a528-6f5ca4164748.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
         <item>
             <title><![CDATA[소란한 여름밤 티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8909</link>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 11 Jun 2024 23:12:58 GMT</pubDate>
             <content:encoded><![CDATA[2024.06.11(화) 20:00]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/06/2024060715191187c7fbd6-2313-46a5-bad2-deb35dc278e5.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[은종 단독 콘서트：별뜨기 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8897</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8897</guid>
-            <pubDate>Tue, 11 Jun 2024 23:12:58 GMT</pubDate>
-            <content:encoded><![CDATA[2024.06.10(월) 20:00]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/06/20240606043501fd99d442-aa32-4e7b-84cf-355772379f9e.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
     </channel>
 </rss>
