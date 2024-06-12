@@ -4,9 +4,17 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 11 Jun 2024 23:13:10 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Jun 2024 00:59:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2024 EXCON（엑스콘）－HIPHOP DAY（경주힙페）티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8851</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8851</guid>
+            <pubDate>Wed, 12 Jun 2024 00:59:33 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>24.05.27(월)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/05/20240531162302da3a7beb-5725-4cea-91b3-a51866349c57.png/melon/resize/160x225/strip/true" length="0" type="image/png/melon/resize/160x225/strip/true"/>
+        </item>
         <item>
             <title><![CDATA[소란한 여름밤 티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8909</link>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 11 Jun 2024 23:13:04 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>24.06.11(화)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/06/2024060715191187c7fbd6-2313-46a5-bad2-deb35dc278e5.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 〈젠틀맨스 가이드：사랑과 살인편〉 2차 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8903</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8903</guid>
-            <pubDate>Tue, 11 Jun 2024 23:13:04 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>24.06.13(목)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/06/2024060714593299614cba-9ce4-4fdf-8682-085acc90a924.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
