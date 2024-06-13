@@ -4,7 +4,7 @@
         <title>멜론 티켓</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 13 Jun 2024 07:13:06 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Jun 2024 08:17:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -64,6 +64,14 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/06/202406121116107696b7ac-c1fa-419c-b0d5-9b319dccfdd5.png/melon/resize/65x92/strip/true" length="0" type="image/png/melon/resize/65x92/strip/true"/>
         </item>
         <item>
+            <title><![CDATA[2024 뮤지컬 노트르담 드 파리 한국어버전－천안 OP석 추가 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8914</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8914</guid>
+            <pubDate>Thu, 13 Jun 2024 08:16:48 GMT</pubDate>
+            <content:encoded><![CDATA[2024.06.14(금) 16:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/06/2024061315152265bd3c15-fc19-4d17-a1a3-d3a189ff7ce2.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
             <title><![CDATA[VANNER（배너）공식 팬클럽 〈VVS〉 2기 모집 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8913</link>
             <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8913</guid>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 13 Jun 2024 05:14:41 GMT</pubDate>
             <content:encoded><![CDATA[오픈일정 보기 &gt;]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/06/2024061114075563dded21-2a0e-457f-a528-6f5ca4164748.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[소란한 여름밤 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8909</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8909</guid>
-            <pubDate>Thu, 13 Jun 2024 05:14:41 GMT</pubDate>
-            <content:encoded><![CDATA[2024.06.12(수) 20:00]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/06/20240612142145cca5c254-4f75-4263-8354-f1efad2181d1.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
     </channel>
 </rss>
