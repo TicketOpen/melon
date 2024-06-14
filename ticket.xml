@@ -4,7 +4,7 @@
         <title>멜론 티켓</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 14 Jun 2024 04:16:52 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Jun 2024 05:13:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Fri, 14 Jun 2024 04:16:42 GMT</pubDate>
             <content:encoded><![CDATA[오픈일정 보기 &gt;]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/06/20240614100937d994478e-c7d5-44bd-b244-b34bd2fd1244.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[2024 박서준 팬미팅 ‘서준시（時）’－서울 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8929</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8929</guid>
+            <pubDate>Fri, 14 Jun 2024 05:13:20 GMT</pubDate>
+            <content:encoded><![CDATA[오픈일정 보기 &gt;]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/06/2024061413164212dcee2f-0699-4ba3-aad7-feb1123e4ce7.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
         <item>
             <title><![CDATA[Tuesday Beach Club 단독 콘서트：Through the Lights 티켓 오픈 안내]]></title>
@@ -86,14 +94,6 @@
             <pubDate>Fri, 14 Jun 2024 04:16:42 GMT</pubDate>
             <content:encoded><![CDATA[2024.06.13(목) 17:00]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/06/2024061311492566b8abf4-0c02-4b58-bd72-c4768ea766ef.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[2024 주호 CONCERT 주주총회 ‘SPARKLE’ 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8916</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8916</guid>
-            <pubDate>Fri, 14 Jun 2024 04:16:42 GMT</pubDate>
-            <content:encoded><![CDATA[오픈일정 보기 &gt;]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/06/20240612180939c41add58-38c3-49cb-b1e2-b4a88005b5a6.png/melon/resize/65x92/strip/true" length="0" type="image/png/melon/resize/65x92/strip/true"/>
         </item>
     </channel>
 </rss>
