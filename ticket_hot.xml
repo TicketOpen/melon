@@ -4,9 +4,17 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 17 Jun 2024 07:14:15 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Jun 2024 08:18:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2024（G）I－DLE WORLD TOUR［iDOL］IN SEOUL 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8864</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8864</guid>
+            <pubDate>Mon, 17 Jun 2024 08:17:59 GMT</pubDate>
+            <content:encoded><![CDATA[오픈일정 보기 &gt;]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/06/202406171620278e4dac52-5fac-4df5-bded-68784a4322da.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
         <item>
             <title><![CDATA[이번 정류장은－EP．2 예빛 티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8930</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 17 Jun 2024 07:14:08 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>24.06.18(화)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/06/202406131514284afa1abe-2082-411b-ac87-f0394b876c76.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[차우주 생일 콘서트：fall apart 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8922</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8922</guid>
-            <pubDate>Mon, 17 Jun 2024 07:14:08 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>24.06.14(금)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/06/2024061217411316ef516c-9876-44a0-b2b7-7e1e6998e120.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
