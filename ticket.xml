@@ -4,9 +4,17 @@
         <title>멜론 티켓</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 28 Jun 2024 08:16:30 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Jun 2024 09:14:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[전진희 10주년 기념 단독 콘서트 〈영원 속에서〉 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8982</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8982</guid>
+            <pubDate>Fri, 28 Jun 2024 09:14:35 GMT</pubDate>
+            <content:encoded><![CDATA[2024.07.05(금) 20:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/06/20240628140221b7a339a2-d17d-4aee-8a4e-ded2ee06c9cb.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
         <item>
             <title><![CDATA[BoA LIVE TOUR－BoA：One’s Own 티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8979</link>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 28 Jun 2024 07:13:35 GMT</pubDate>
             <content:encoded><![CDATA[2024.07.01(월) 19:00]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/06/20240626095925ca78a8c7-44d1-46c1-9e3c-eedc84f257c5.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[김준서：틈 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8970</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8970</guid>
-            <pubDate>Fri, 28 Jun 2024 07:13:35 GMT</pubDate>
-            <content:encoded><![CDATA[2024.07.03(수) 20:00]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/06/202406251117078c4e89ae-a1f6-4b9f-8a45-02e092815bde.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
     </channel>
 </rss>
