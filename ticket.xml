@@ -1,8 +1,91 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://ticket.melon.com/csoon/index.htm</id>
-    <title>멜론 티켓</title>
-    <updated>2024-06-28T19:10:30.630Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>멜론 티켓</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Fri, 28 Jun 2024 20:13:53 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[전진희 10주년 기념 단독 콘서트 〈영원 속에서〉 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8982</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8982</guid>
+            <pubDate>Fri, 28 Jun 2024 20:13:40 GMT</pubDate>
+            <content:encoded><![CDATA[2024.07.05(금) 20:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/06/20240628140221b7a339a2-d17d-4aee-8a4e-ded2ee06c9cb.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[BoA LIVE TOUR－BoA：One’s Own 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8979</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8979</guid>
+            <pubDate>Fri, 28 Jun 2024 20:13:40 GMT</pubDate>
+            <content:encoded><![CDATA[오픈일정 보기 &gt;]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/06/20240627220244157d415f-192c-440e-bcee-64b24a29e679.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[2024 K．WILL FANMEETING 〈케엠핑〉 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8978</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8978</guid>
+            <pubDate>Fri, 28 Jun 2024 20:13:40 GMT</pubDate>
+            <content:encoded><![CDATA[오픈일정 보기 &gt;]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/06/20240627170015d8775c58-34cf-4cb8-9dae-b8b0ba07307f.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[Dive into CREZL 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8977</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8977</guid>
+            <pubDate>Fri, 28 Jun 2024 20:13:40 GMT</pubDate>
+            <content:encoded><![CDATA[2024.07.01(월) 19:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/06/20240627182412ae45ee43-6e4c-4c96-b2e8-c01e1acc6716.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[Hathaw9y X PATZ ‘Leap’ 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8976</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8976</guid>
+            <pubDate>Fri, 28 Jun 2024 20:13:40 GMT</pubDate>
+            <content:encoded><![CDATA[2024.07.05(금) 20:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/06/202406271622338261857c-6b64-40c1-930e-52b7c6ed903c.png/melon/resize/65x92/strip/true" length="0" type="image/png/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[먼데이프로젝트 시즌7［Add All Ears（에드올이얼스）단독 콘서트 ‘목소리 청음회’］티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8975</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8975</guid>
+            <pubDate>Fri, 28 Jun 2024 20:13:40 GMT</pubDate>
+            <content:encoded><![CDATA[2024.07.04(목) 20:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/06/2024062710125754fde224-ac74-418f-9693-182df877670b.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤직 코멘터리：Talkback＃2 ‘솔루션스’ 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8974</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8974</guid>
+            <pubDate>Fri, 28 Jun 2024 20:13:40 GMT</pubDate>
+            <content:encoded><![CDATA[2024.06.28(금) 20:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/06/20240625144253257d7a64-fe97-4f74-997a-e21a7fb66f39.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[2024 맢동산 팬콘서트［워커홀릭］MD 상품 선주문 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8973</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8973</guid>
+            <pubDate>Fri, 28 Jun 2024 20:13:40 GMT</pubDate>
+            <content:encoded><![CDATA[2024.06.27(목) 20:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/06/20240625144933a312c2cb-69fe-4bb1-94c3-df92693729a1.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[먼데이프로젝트 시즌7 OUR SUMMER［적란운 단독 콘서트］티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8972</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8972</guid>
+            <pubDate>Fri, 28 Jun 2024 20:13:40 GMT</pubDate>
+            <content:encoded><![CDATA[2024.07.03(수) 20:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/06/20240626104357a73c2029-0bcc-4955-80ea-2a1211f2db49.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[EARS－UP Vol．38 ⎽ 김뜻돌，해파 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8971</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8971</guid>
+            <pubDate>Fri, 28 Jun 2024 20:13:40 GMT</pubDate>
+            <content:encoded><![CDATA[2024.07.01(월) 19:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/06/20240626095925ca78a8c7-44d1-46c1-9e3c-eedc84f257c5.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+    </channel>
+</rss>
