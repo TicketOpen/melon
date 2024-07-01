@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 30 Jun 2024 23:14:34 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Jul 2024 01:06:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -48,6 +48,14 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/06/20240628140221b7a339a2-d17d-4aee-8a4e-ded2ee06c9cb.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
         <item>
+            <title><![CDATA[소금창고 개방 vol．4 〈여름날의 생각〉 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8983</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8983</guid>
+            <pubDate>Mon, 01 Jul 2024 01:06:47 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>24.07.02(화)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/06/20240628134234be8f8bb4-5599-4f8c-8c46-1e720d40fef6.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
             <title><![CDATA[Soundberry Festa’ 24 티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8938</link>
             <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8938</guid>
@@ -78,14 +86,6 @@
             <pubDate>Sun, 30 Jun 2024 21:13:24 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>24.07.03(수)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/06/20240626104357a73c2029-0bcc-4955-80ea-2a1211f2db49.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[EARS－UP Vol．38 ⎽ 김뜻돌，해파 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8971</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8971</guid>
-            <pubDate>Sun, 30 Jun 2024 21:13:24 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>24.07.01(월)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/06/20240626095925ca78a8c7-44d1-46c1-9e3c-eedc84f257c5.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
