@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 판매중</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 Jul 2024 14:13:11 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Jul 2024 15:14:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -283,31 +283,6 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/04/20240423172356136720c2-47ce-4806-9720-51f10f152487.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
-            <title><![CDATA[맢동산 응원봉 및 콘서트 선예매]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=209980</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=209980</guid>
-            <pubDate>Tue, 02 Jul 2024 13:16:09 GMT</pubDate>
-            <content:encoded><![CDATA[<td>
-                            <div class="show_infor">
-                                <div class="thumb_90x125  img">
-                                    <a href="#">
-                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/06/20240605095544b64e4769-7d45-4b51-a3cd-d768c517a6dc.JPG/melon/resize/90x125/strip/true" alt="">
-                                        <span class="frame"></span>
-                                    </a>
-                                </div>
-                                <p class="infor_text">
-                                    <span class="ico_wrap">
-                                        <span class="ico_list ico_list1">단독판매</span><span class="ico_list ico_list4"> 판매중</span></span>
-                                    <span class="show_title"><a href="/performance/index.htm?prodId=209980">맢동산 응원봉 및 콘서트 선예매</a></span>
-                                </p>
-                            </div>
-                        </td>
-                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
-                            2024.06.07 - 2024.07.02</td>
-                        <td class="show_loc">- </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/06/20240605095544b64e4769-7d45-4b51-a3cd-d768c517a6dc.JPG/melon/resize/90x125/strip/true" length="0" type="image/JPG/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
             <title><![CDATA[［2024’여름특별공연 연극 새빨간 거짓말］－부산]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=209734</link>
             <guid>https://ticket.melon.com/performance/index.htm?prodId=209734</guid>
@@ -506,6 +481,31 @@
                             2024.07.05 - 2024.07.07</td>
                         <td class="show_loc">일산 킨텍스(KINTEX) 야외 글로벌 스테이지(KINTEX 제2전시장)</td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/02/202402211356400c7f8b20-2a5f-4aa8-9c06-fe72004a0c91.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[김오키 새턴발라드 〈러브 인 새턴〉 _싱크넥스트24]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=209886</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=209886</guid>
+            <pubDate>Tue, 02 Jul 2024 15:14:19 GMT</pubDate>
+            <content:encoded><![CDATA[<td>
+                            <div class="show_infor">
+                                <div class="thumb_90x125  img">
+                                    <a href="#">
+                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/05/2024051609465580894bc8-b6d4-4ab8-b4b7-363c2318c59e.jpg/melon/resize/90x125/strip/true" alt="">
+                                        <span class="frame"></span>
+                                    </a>
+                                </div>
+                                <p class="infor_text">
+                                    <span class="ico_wrap">
+                                        <span class="ico_list ico_list4"> 판매중</span></span>
+                                    <span class="show_title"><a href="/performance/index.htm?prodId=209886">김오키 새턴발라드 〈러브 인 새턴〉 _싱크넥스트24</a></span>
+                                </p>
+                            </div>
+                        </td>
+                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
+                            2024.07.05 - 2024.07.06</td>
+                        <td class="show_loc">세종문화회관 S씨어터</td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/05/2024051609465580894bc8-b6d4-4ab8-b4b7-363c2318c59e.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
     </channel>
 </rss>
