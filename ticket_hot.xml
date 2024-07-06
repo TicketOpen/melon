@@ -1,8 +1,91 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://ticket.melon.com/csoon/index.htm#orderType=0&amp;pageIndex=1&amp;schGcode=GENRE_ALL&amp;schText=&amp;schDt=</id>
-    <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
-    <updated>2024-07-06T02:33:17.315Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Sat, 06 Jul 2024 03:16:56 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2024 RIIZE FAN－CON ‘RIIZING DAY’ FINALE in SEOUL 회차 추가 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9016</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9016</guid>
+            <pubDate>Sat, 06 Jul 2024 03:16:49 GMT</pubDate>
+            <content:encoded><![CDATA[오픈일정 보기 &gt;]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/07/202407041746485229b0c1-76b6-42de-bf2d-b2289d2201fe.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[“별은” 팬 콘서트［lovelovelove！］티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9015</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9015</guid>
+            <pubDate>Sat, 06 Jul 2024 03:16:49 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>24.07.10(수)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/07/202407041652519618f4d5-7693-4291-9266-2a0f33672a66.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤직 코멘터리：Talkback ＃3 ‘dori’ 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9014</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9014</guid>
+            <pubDate>Sat, 06 Jul 2024 03:16:49 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>24.07.10(수)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/07/2024070416533934c0f469-f4d6-41e9-9753-f469a8080152.png/melon/resize/160x225/strip/true" length="0" type="image/png/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[크랙샷 단독 콘서트：충돌 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9013</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9013</guid>
+            <pubDate>Sat, 06 Jul 2024 03:16:49 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>24.07.09(화)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/07/202407041614023a4ad8a1-7b76-4156-9d67-03c734785a15.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[festival SUM 2024－Playground with 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8985</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8985</guid>
+            <pubDate>Sat, 06 Jul 2024 03:16:49 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>24.07.04(목)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/07/20240704152941ae5c15ba-b098-4da2-a8a6-7fcce3f8849d.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[서울시발레단 더블 빌 〈한스 판 마넨x차진엽〉 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9012</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9012</guid>
+            <pubDate>Sat, 06 Jul 2024 03:16:49 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>24.07.09(화)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/07/2024070415110122d83f87-fa06-414e-9a66-425193ce2306.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[서울시발레단 창단 공연 〈한여름 밤의 꿈〉 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9011</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9011</guid>
+            <pubDate>Sat, 06 Jul 2024 03:16:49 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>24.07.09(화)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/07/20240704150226cd7c0ec9-d7b3-4fc4-bb8d-9a01c727364e.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 〈4월은 너의 거짓말〉 마지막 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9010</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9010</guid>
+            <pubDate>Sat, 06 Jul 2024 03:16:49 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>24.07.09(화)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/07/20240704132406b45ce2e8-1e6a-46de-b758-b0304ff558e6.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[EK 1st CONCERT［ESCAPE］티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8991</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8991</guid>
+            <pubDate>Sat, 06 Jul 2024 03:16:49 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>24.07.03(수)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/07/20240703092802130e91eb-ca4f-437a-8319-3ff6ac9ee1a9.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[2024 MAFHILLS（맢동산）FAN CONCERT：Workaholic’ 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8990</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8990</guid>
+            <pubDate>Sat, 06 Jul 2024 03:16:49 GMT</pubDate>
+            <content:encoded><![CDATA[오픈일정 보기 &gt;]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/07/2024070111262114603975-64a7-49df-950d-246125e1ba51.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+    </channel>
+</rss>
