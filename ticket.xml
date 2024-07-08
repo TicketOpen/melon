@@ -4,9 +4,25 @@
         <title>멜론 티켓</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 Jul 2024 02:32:44 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Jul 2024 03:16:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[BAND DALDAM 부산 소극장 콘서트－고향으로！티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9018</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9018</guid>
+            <pubDate>Mon, 08 Jul 2024 03:16:23 GMT</pubDate>
+            <content:encoded><![CDATA[2024.07.12(금) 20:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/07/2024070517013400072a37-ce01-4fc3-83cf-9f466814a742.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[준생 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9017</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9017</guid>
+            <pubDate>Mon, 08 Jul 2024 03:16:23 GMT</pubDate>
+            <content:encoded><![CDATA[2024.07.11(목) 12:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/07/20240708111121d80b9a8b-90a7-424b-8f3e-b1775f6e571f.png/melon/resize/65x92/strip/true" length="0" type="image/png/melon/resize/65x92/strip/true"/>
+        </item>
         <item>
             <title><![CDATA[2024 RIIZE FAN－CON ‘RIIZING DAY’ FINALE in SEOUL 회차 추가 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9016</link>
@@ -70,22 +86,6 @@
             <pubDate>Sun, 07 Jul 2024 22:13:10 GMT</pubDate>
             <content:encoded><![CDATA[2024.07.09(화) 20:00]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/07/202407031451252bb57c46-e859-4d6f-afdf-b253b9578adf.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[2024 더베인 단독콘서트 〈MONSTER X 0803〉 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9008</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9008</guid>
-            <pubDate>Sun, 07 Jul 2024 22:13:10 GMT</pubDate>
-            <content:encoded><![CDATA[2024.07.09(화) 20:00]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/07/20240703161211c6867d97-8e2c-4b94-85d1-5edb53d8e453.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[먼데이프로젝트 시즌7 OUR SUMMER［‘여유와 설빈’ 단독 콘서트］티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9007</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9007</guid>
-            <pubDate>Sun, 07 Jul 2024 22:13:10 GMT</pubDate>
-            <content:encoded><![CDATA[2024.07.11(목) 20:00]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/07/2024070313570884564645-f982-4aa6-979e-a98342107b1f.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
     </channel>
 </rss>
