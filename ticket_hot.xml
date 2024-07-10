@@ -4,9 +4,17 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 10 Jul 2024 05:14:25 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Jul 2024 06:19:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[［시즌권］한강수영장 입장권 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9034</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9034</guid>
+            <pubDate>Wed, 10 Jul 2024 06:19:12 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>24.07.12(금)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/07/2024071014591425ce3eb7-3cdf-42ab-a09b-b8d68ea218bf.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
         <item>
             <title><![CDATA[2024 포세이돈 워터 뮤직 페스티벌 티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9000</link>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 10 Jul 2024 03:16:11 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>24.07.17(수)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/07/202407091541471c79f539-ff88-4049-abfb-c96bc2718081.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[ARTSPACE：TYPE 1 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9033</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9033</guid>
-            <pubDate>Wed, 10 Jul 2024 05:14:18 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>24.07.11(목)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/07/202407091441198650a3ce-6195-42a8-82c1-3854b507a48d.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
