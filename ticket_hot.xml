@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 Jul 2024 23:16:24 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Jul 2024 01:01:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Tue, 09 Jul 2024 22:14:11 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>24.07.11(목)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/07/20240708111121d80b9a8b-90a7-424b-8f3e-b1775f6e571f.png/melon/resize/160x225/strip/true" length="0" type="image/png/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 〈프랑켄슈타인〉 10주년 기념공연 마지막 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9027</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9027</guid>
+            <pubDate>Wed, 10 Jul 2024 01:01:35 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>24.07.16(화)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/07/2024070916033262ff8a6f-572d-46c4-86ba-7eab06028bce.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
         <item>
             <title><![CDATA[2024 Red Velvet FANCON TOUR 〈HAPPINESS：My Dear，ReVe1uv〉 in SEOUL 추가 회차 티켓 오픈 안내]]></title>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 09 Jul 2024 22:14:11 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>24.07.10(수)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/07/202407041652519618f4d5-7693-4291-9266-2a0f33672a66.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤직 코멘터리：Talkback ＃3 ‘dori’ 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9014</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9014</guid>
-            <pubDate>Tue, 09 Jul 2024 22:14:11 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>24.07.10(수)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/07/2024070416533934c0f469-f4d6-41e9-9753-f469a8080152.png/melon/resize/160x225/strip/true" length="0" type="image/png/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
