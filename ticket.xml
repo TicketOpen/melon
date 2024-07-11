@@ -4,9 +4,17 @@
         <title>멜론 티켓</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 Jul 2024 08:17:37 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Jul 2024 09:15:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[윤정환 1st Fan Concert 〈CANCELLATION〉 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9046</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9046</guid>
+            <pubDate>Thu, 11 Jul 2024 09:15:25 GMT</pubDate>
+            <content:encoded><![CDATA[2024.07.12(금) 18:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/07/20240711145145447f83fd-8f26-43e0-acac-bbe4037c4558.png/melon/resize/65x92/strip/true" length="0" type="image/png/melon/resize/65x92/strip/true"/>
+        </item>
         <item>
             <title><![CDATA[옥상달빛 전국투어 〈정말 고마워서 갑니다 2024〉 ‘동해’，‘경주’，‘포항’，‘부산’ 티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9044</link>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 11 Jul 2024 07:15:10 GMT</pubDate>
             <content:encoded><![CDATA[2024.07.11(목) 11:00]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/07/202407091441198650a3ce-6195-42a8-82c1-3854b507a48d.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[밀어낼수록 가까워지는 우린 〈재즈처럼〉 2024 팬미팅 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9032</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9032</guid>
-            <pubDate>Thu, 11 Jul 2024 07:15:10 GMT</pubDate>
-            <content:encoded><![CDATA[2024.07.12(금) 20:00]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/07/202407091553164adc0643-c591-48f9-a008-92db9b139312.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
     </channel>
 </rss>
