@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 Jul 2024 04:18:38 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Jul 2024 05:13:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -48,6 +48,14 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/07/20240710152836a00d9e82-59d4-4aa6-8eb8-e963486debfa.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
         <item>
+            <title><![CDATA[앤서니 라자로 서울 공연（Anthony Lazaro in Seoul）티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9039</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9039</guid>
+            <pubDate>Thu, 11 Jul 2024 05:13:44 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>24.07.15(월)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/07/202407101513218d5bdb77-a9b9-45e0-91ec-900cb3dfef7b.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
             <title><![CDATA[［시즌권］한강수영장 입장권 티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9034</link>
             <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9034</guid>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 11 Jul 2024 03:17:41 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>24.07.08(월)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/07/20240702171318c79c0ab5-b62d-4c7d-b70a-f2f7f827f952.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[2024 RIIZE FAN－CON ‘RIIZING DAY’ FINALE in SEOUL 회차 추가 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9016</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9016</guid>
-            <pubDate>Thu, 11 Jul 2024 03:17:41 GMT</pubDate>
-            <content:encoded><![CDATA[오픈일정 보기 &gt;]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/07/202407041746485229b0c1-76b6-42de-bf2d-b2289d2201fe.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
