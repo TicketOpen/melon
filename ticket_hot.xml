@@ -4,9 +4,17 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 Jul 2024 09:15:38 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Jul 2024 10:14:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Summer Breeze 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=8986</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=8986</guid>
+            <pubDate>Thu, 11 Jul 2024 10:14:06 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>24.07.01(월)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/07/20240711185005bf64ab0c-ecfe-4968-a9ba-03e5901857a2.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
         <item>
             <title><![CDATA[【카이 인투 더 월드】 2024 월드투어 리사이틀－일본（연기공연）티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9040</link>
@@ -22,6 +30,14 @@
             <pubDate>Thu, 11 Jul 2024 09:15:31 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>24.07.12(금)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/07/20240711145145447f83fd-8f26-43e0-acac-bbe4037c4558.png/melon/resize/160x225/strip/true" length="0" type="image/png/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[2024 PRIMROSE FAN CONCERT：TIME TO REBUILD 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9047</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9047</guid>
+            <pubDate>Thu, 11 Jul 2024 10:14:06 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>24.07.12(금)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/07/20240711143832e6331d0f-6964-4859-8af0-5520cdc8c213.png/melon/resize/160x225/strip/true" length="0" type="image/png/melon/resize/160x225/strip/true"/>
         </item>
         <item>
             <title><![CDATA[2024 YEBIN’S FAN SIGN EVENT：YEPPY BIRTHDAY 티켓 오픈 안내]]></title>
@@ -70,22 +86,6 @@
             <pubDate>Thu, 11 Jul 2024 07:15:15 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>24.07.12(금)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/07/20240709155914b52f974d-3fa3-4fe5-9257-cd341ef597c8.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[옥상달빛 전국투어 〈정말 고마워서 갑니다 2024〉 ‘동해’，‘경주’，‘포항’，‘부산’ 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9044</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9044</guid>
-            <pubDate>Thu, 11 Jul 2024 08:17:32 GMT</pubDate>
-            <content:encoded><![CDATA[오픈일정 보기 &gt;]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/07/202407101602137263e0b6-66f3-41b4-a701-206ec87caeca.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[쿠잉 단독 콘서트［SUMMER KISS］티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9038</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9038</guid>
-            <pubDate>Thu, 11 Jul 2024 07:15:15 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>24.07.17(수)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/07/20240710152836a00d9e82-59d4-4aa6-8eb8-e963486debfa.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
