@@ -1,8 +1,91 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://ticket.melon.com/csoon/index.htm</id>
-    <title>멜론 티켓</title>
-    <updated>2024-07-14T06:21:47.176Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>멜론 티켓</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Sun, 14 Jul 2024 07:14:35 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Soundberry Festa’ 24－부산 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9052</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9052</guid>
+            <pubDate>Sun, 14 Jul 2024 07:14:22 GMT</pubDate>
+            <content:encoded><![CDATA[2024.07.15(월) 18:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/07/202407121717539b391cef-8583-46af-8d22-ada5c52613d8.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[김신록X손현선 〈없는 시간〉 _싱크넥스트24 추가 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9051</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9051</guid>
+            <pubDate>Sun, 14 Jul 2024 07:14:22 GMT</pubDate>
+            <content:encoded><![CDATA[2024.07.15(월) 16:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/07/20240712104415c1a7e0c3-e16c-45a4-b797-6b7f17734032.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[2024（G）I－DLE WORLD TOUR［iDOL］IN SEOUL 추가 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9050</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9050</guid>
+            <pubDate>Sun, 14 Jul 2024 07:14:22 GMT</pubDate>
+            <content:encoded><![CDATA[2024.07.15(월) 20:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/07/202407111526340f8745b6-2dd2-4a0a-9255-83f8588dc68b.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[EARS-UP＃39_이랑，정의농（鄭宜農，Enno Cheng）티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9049</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9049</guid>
+            <pubDate>Sun, 14 Jul 2024 07:14:22 GMT</pubDate>
+            <content:encoded><![CDATA[2024.07.15(월) 19:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/07/20240711171038173b0314-61ec-42e5-844c-98da9d6f89cf.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[향（HYANG）단독 공연：Take off 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9048</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9048</guid>
+            <pubDate>Sun, 14 Jul 2024 07:14:22 GMT</pubDate>
+            <content:encoded><![CDATA[2024.07.16(화) 20:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/07/202407121001357d1699fa-dc86-4fb0-a264-9d83a9d0a1c6.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[2024 PRIMROSE FAN CONCERT：TIME TO REBUILD 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9047</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9047</guid>
+            <pubDate>Sun, 14 Jul 2024 07:14:22 GMT</pubDate>
+            <content:encoded><![CDATA[2024.07.12(금) 19:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/07/20240711143832e6331d0f-6964-4859-8af0-5520cdc8c213.png/melon/resize/65x92/strip/true" length="0" type="image/png/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[윤정환 1st Fan Concert 〈CANCELLATION〉 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9046</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9046</guid>
+            <pubDate>Sun, 14 Jul 2024 07:14:22 GMT</pubDate>
+            <content:encoded><![CDATA[2024.07.12(금) 18:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/07/20240711145145447f83fd-8f26-43e0-acac-bbe4037c4558.png/melon/resize/65x92/strip/true" length="0" type="image/png/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[옥상달빛 전국투어 〈정말 고마워서 갑니다 2024〉 ‘동해’，‘경주’，‘포항’，‘부산’ 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9044</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9044</guid>
+            <pubDate>Sun, 14 Jul 2024 07:14:22 GMT</pubDate>
+            <content:encoded><![CDATA[오픈일정 보기 &gt;]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/07/202407101602137263e0b6-66f3-41b4-a701-206ec87caeca.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[옥상달빛 전국투어 〈정말 고마워서 갑니다 2024〉 ‘창원’，‘여수’，‘제주 구좌’，‘제주 한경’ 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9043</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9043</guid>
+            <pubDate>Sun, 14 Jul 2024 07:14:22 GMT</pubDate>
+            <content:encoded><![CDATA[오픈일정 보기 &gt;]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/07/20240710162255c77bbf87-fc87-4299-a24d-22b4e12c2760.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[옥상달빛 전국투어 〈정말 고마워서 갑니다 2024〉 ‘대전’，‘군산’，‘전주’ 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9042</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9042</guid>
+            <pubDate>Sun, 14 Jul 2024 07:14:22 GMT</pubDate>
+            <content:encoded><![CDATA[오픈일정 보기 &gt;]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/07/20240710170751b22f6f01-7e84-405a-8150-cf33d7ef532f.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+    </channel>
+</rss>
