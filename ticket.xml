@@ -1,8 +1,91 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://ticket.melon.com/csoon/index.htm</id>
-    <title>멜론 티켓</title>
-    <updated>2024-07-19T11:12:42.058Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>멜론 티켓</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Fri, 19 Jul 2024 12:25:34 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[현대카드 Curated 94 SOLE 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9078</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9078</guid>
+            <pubDate>Fri, 19 Jul 2024 12:25:22 GMT</pubDate>
+            <content:encoded><![CDATA[2024.07.22(월) 18:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/07/20240719111443438eaad2-e964-418b-bcfe-03401f486bfe.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[샘 헨쇼 내한공연 Samm Henshaw LIVE IN SEOUL 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9075</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9075</guid>
+            <pubDate>Fri, 19 Jul 2024 12:25:22 GMT</pubDate>
+            <content:encoded><![CDATA[2024.07.26(금) 12:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/07/20240718113155986a611c-1f74-44f5-9f08-0c7b564a1814.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[9001 단독 콘서트 〈Digital Hello〉 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9074</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9074</guid>
+            <pubDate>Fri, 19 Jul 2024 12:25:22 GMT</pubDate>
+            <content:encoded><![CDATA[2024.07.22(월) 20:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/07/202407171846178a29df0e-6b64-4982-9fcc-b0fc8038a8ea.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[IVE THE 1ST WORLD TOUR ‘SHOW WHAT I HAVE’－ENCORE 시야제한석 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9072</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9072</guid>
+            <pubDate>Fri, 19 Jul 2024 12:25:22 GMT</pubDate>
+            <content:encoded><![CDATA[2024.07.22(월) 20:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/07/202407181032193b3a762f-1ac1-4e47-8680-5b28bdb06bfe.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[All Day，JAZZ SHOW！（올데이，재즈쇼！）티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9071</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9071</guid>
+            <pubDate>Fri, 19 Jul 2024 12:25:22 GMT</pubDate>
+            <content:encoded><![CDATA[2024.07.25(목) 14:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/07/20240718102047ece2fb51-8abe-4186-8fb3-880fc534f613.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[먼데이프로젝트 시즌7 OUR SUMMER［카디 단독 콘서트］티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9069</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9069</guid>
+            <pubDate>Fri, 19 Jul 2024 12:25:22 GMT</pubDate>
+            <content:encoded><![CDATA[2024.07.25(목) 20:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/07/20240717172911ecddaa1e-d38c-4317-916c-25e56d173a9d.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[먼데이프로젝트 시즌7［화이트유즈드삭스 단독 콘서트 ‘Our Last Summer’］티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9068</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9068</guid>
+            <pubDate>Fri, 19 Jul 2024 12:25:22 GMT</pubDate>
+            <content:encoded><![CDATA[2024.07.25(목) 19:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/07/202407171830581781385f-530d-4c0f-8c1d-bfc70de50bd8.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[최정윤 단독 콘서트 ‘summer swim’ 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9067</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9067</guid>
+            <pubDate>Fri, 19 Jul 2024 12:25:22 GMT</pubDate>
+            <content:encoded><![CDATA[2024.07.25(목) 20:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/07/20240717170750f923e650-e088-47c9-b31f-6c4f96cd2e27.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[이병찬 여름 소극장 공연 ‘한여름밤，그리고’ 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9066</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9066</guid>
+            <pubDate>Fri, 19 Jul 2024 12:25:22 GMT</pubDate>
+            <content:encoded><![CDATA[2024.07.19(금) 20:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/07/20240716181002636aeb4f-0e71-4366-8b11-c354ec3e1f48.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[2024 KIM MYUNGSOO ASIA TOUR FANMEETING 〈REBOOT〉 in SEOUL 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9064</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9064</guid>
+            <pubDate>Fri, 19 Jul 2024 12:25:22 GMT</pubDate>
+            <content:encoded><![CDATA[오픈일정 보기 &gt;]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/07/20240716175203c5560e32-df74-430e-86e1-18cd83a51008.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+    </channel>
+</rss>
