@@ -4,9 +4,17 @@
         <title>멜론 티켓</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 23 Jul 2024 01:01:58 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Jul 2024 02:32:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2024 LEE SEONG JONG ASIA TOUR 〈다시，시작〉 IN SEOUL 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9088</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9088</guid>
+            <pubDate>Tue, 23 Jul 2024 02:32:21 GMT</pubDate>
+            <content:encoded><![CDATA[2024.07.30(화) 20:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/07/2024072215061320025a68-2ea7-4d92-bed9-e84c1eca746e.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
         <item>
             <title><![CDATA[2024 울산서머페스티벌－쇼！음악중심 티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9086</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 22 Jul 2024 19:12:32 GMT</pubDate>
             <content:encoded><![CDATA[2024.07.26(금) 12:00]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/07/20240718113155986a611c-1f74-44f5-9f08-0c7b564a1814.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[9001 단독 콘서트 〈Digital Hello〉 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9074</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9074</guid>
-            <pubDate>Mon, 22 Jul 2024 19:12:32 GMT</pubDate>
-            <content:encoded><![CDATA[2024.07.22(월) 20:00]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/07/202407171846178a29df0e-6b64-4982-9fcc-b0fc8038a8ea.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
     </channel>
 </rss>
