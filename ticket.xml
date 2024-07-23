@@ -4,9 +4,25 @@
         <title>멜론 티켓</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 23 Jul 2024 04:16:49 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Jul 2024 05:15:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뮤지컬 〈젠틀맨스 가이드：사랑과 살인편〉 4차 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9091</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9091</guid>
+            <pubDate>Tue, 23 Jul 2024 05:14:54 GMT</pubDate>
+            <content:encoded><![CDATA[2024.07.11(목) 14:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/07/20240722113700a05d95d6-0589-43e2-a7d2-757ff16882ef.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[소년：달 단독 공연 〈여름이 꺼진 자리에서〉 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9090</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9090</guid>
+            <pubDate>Tue, 23 Jul 2024 05:14:54 GMT</pubDate>
+            <content:encoded><![CDATA[2024.07.26(금) 20:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/07/20240722120025af227803-39e3-40dc-8b6a-60b58bf10c5b.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
         <item>
             <title><![CDATA[2024 LEE SEONG JONG ASIA TOUR 〈다시，시작〉 IN SEOUL 티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9088</link>
@@ -21,7 +37,7 @@
             <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9086</guid>
             <pubDate>Mon, 22 Jul 2024 19:12:32 GMT</pubDate>
             <content:encoded><![CDATA[2024.07.26(금) 20:00]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/07/20240719163220f4ea3e7d-76d5-47b0-8a00-7270c2ac88b0.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/07/202407231412033c4d86f1-575b-4795-90a2-6e693125d5be.png/melon/resize/65x92/strip/true" length="0" type="image/png/melon/resize/65x92/strip/true"/>
         </item>
         <item>
             <title><![CDATA[2024 PARK KANG HYUN FAN MEETING 〈IN：JOY DAY〉 티켓 오픈 안내]]></title>
@@ -70,22 +86,6 @@
             <pubDate>Mon, 22 Jul 2024 19:12:32 GMT</pubDate>
             <content:encoded><![CDATA[2024.07.23(화) 20:00]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/07/20240719154535bfbd78ff-15f5-4389-a226-095743173e12.JPG/melon/resize/65x92/strip/true" length="0" type="image/JPG/melon/resize/65x92/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[현대카드 Curated 94 SOLE 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9078</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9078</guid>
-            <pubDate>Mon, 22 Jul 2024 19:12:32 GMT</pubDate>
-            <content:encoded><![CDATA[2024.07.22(월) 18:00]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/07/20240719111443438eaad2-e964-418b-bcfe-03401f486bfe.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[샘 헨쇼 내한공연 Samm Henshaw LIVE IN SEOUL 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9075</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9075</guid>
-            <pubDate>Mon, 22 Jul 2024 19:12:32 GMT</pubDate>
-            <content:encoded><![CDATA[2024.07.26(금) 12:00]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/07/20240718113155986a611c-1f74-44f5-9f08-0c7b564a1814.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
     </channel>
 </rss>
