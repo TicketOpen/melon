@@ -1,8 +1,91 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://ticket.melon.com/csoon/index.htm</id>
-    <title>멜론 티켓</title>
-    <updated>2024-07-27T09:13:55.901Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>멜론 티켓</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Sat, 27 Jul 2024 10:14:02 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2024 KEYLAND ON：AND ON 〈＃〉 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9108</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9108</guid>
+            <pubDate>Sat, 27 Jul 2024 10:13:49 GMT</pubDate>
+            <content:encoded><![CDATA[오픈일정 보기 &gt;]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/07/2024072517483871395449-23c4-4abc-ac78-e61b3ccc2c80.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[WONDERLIVET 2024（원더리벳 2024）－블라인드 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9107</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9107</guid>
+            <pubDate>Sat, 27 Jul 2024 10:13:49 GMT</pubDate>
+            <content:encoded><![CDATA[2024.07.30(화) 12:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/07/2024072517193425ec38a8-de93-4a27-aca3-7a55dfc9fe94.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[WONDERLIVET 2024（원더리벳 2024）티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9106</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9106</guid>
+            <pubDate>Sat, 27 Jul 2024 10:13:49 GMT</pubDate>
+            <content:encoded><![CDATA[2024.08.08(목) 12:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/07/202407251550438b7c1b3b-209c-45fb-99b9-8780adb19bce.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[칸예 웨스트 〈Ye x Ty Dolla Sign Vultures Listening Experience〉 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9105</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9105</guid>
+            <pubDate>Sat, 27 Jul 2024 10:13:49 GMT</pubDate>
+            <content:encoded><![CDATA[오픈일정 보기 &gt;]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/07/202407251727294b2613ca-b938-4023-bbf3-e0a26184c847.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[필름콘서트－태극기 휘날리며 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9104</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9104</guid>
+            <pubDate>Sat, 27 Jul 2024 10:13:49 GMT</pubDate>
+            <content:encoded><![CDATA[2024.08.01(목) 14:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/07/20240724213922034ca19b-340f-4a0a-90e1-e966d1d7b41a.png/melon/resize/65x92/strip/true" length="0" type="image/png/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[요시마타 료：토크 콘서트 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9103</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9103</guid>
+            <pubDate>Sat, 27 Jul 2024 10:13:49 GMT</pubDate>
+            <content:encoded><![CDATA[2024.08.01(목) 14:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/07/202407242222376adaaae7-61c3-46b3-ae1f-c6d1f6348338.png/melon/resize/65x92/strip/true" length="0" type="image/png/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[레전드 오브 록 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9102</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9102</guid>
+            <pubDate>Sat, 27 Jul 2024 10:13:49 GMT</pubDate>
+            <content:encoded><![CDATA[2024.08.01(목) 14:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/07/20240724171408cfdda11b-09b8-43ad-a4ed-219cf8c0c959.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[먼데이프로젝트 시즌7 My Universe［수잔 단독 콘서트］티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9101</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9101</guid>
+            <pubDate>Sat, 27 Jul 2024 10:13:49 GMT</pubDate>
+            <content:encoded><![CDATA[2024.08.01(목) 20:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/07/2024072414395353ab9b5b-fe6c-47c1-adbd-52ccb075759c.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[Rokudenashi Oneman Live「Vol．0」Live in Korea 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9100</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9100</guid>
+            <pubDate>Sat, 27 Jul 2024 10:13:49 GMT</pubDate>
+            <content:encoded><![CDATA[2024.07.31(수) 19:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/07/20240724185223c6f91f2c-e590-486b-8f48-cd82bf787eed.png/melon/resize/65x92/strip/true" length="0" type="image/png/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[임용훈 콘서트 Brazil With My Soul 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9099</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9099</guid>
+            <pubDate>Sat, 27 Jul 2024 10:13:49 GMT</pubDate>
+            <content:encoded><![CDATA[2024.07.26(금) 09:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/07/20240724114632851eb164-4da6-4e6e-80d8-badddd092660.png/melon/resize/65x92/strip/true" length="0" type="image/png/melon/resize/65x92/strip/true"/>
+        </item>
+    </channel>
+</rss>
