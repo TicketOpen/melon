@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 판매중</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 29 Jul 2024 14:13:40 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Jul 2024 15:15:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -483,29 +483,29 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/07/202407121026245f140857-3e10-46f3-b3bc-d07218786740.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
-            <title><![CDATA[먼데이프로젝트 시즌7 OUR SUMMER［‘여유와 설빈’ 단독 콘서트］]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=210082</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=210082</guid>
-            <pubDate>Mon, 29 Jul 2024 14:13:39 GMT</pubDate>
+            <title><![CDATA[먼데이프로젝트 시즌7［벤치위레오 단독 콘서트 ‘푸른 늑대의 시간’］]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=210076</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=210076</guid>
+            <pubDate>Mon, 29 Jul 2024 15:15:06 GMT</pubDate>
             <content:encoded><![CDATA[<td>
                             <div class="show_infor">
                                 <div class="thumb_90x125  img">
                                     <a href="#">
-                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/07/202407031121572c5903e6-ff6e-4a6e-9333-bdd92cfe6a15.jpg/melon/resize/90x125/strip/true" alt="">
+                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/07/202407021430061f3294a1-d2e7-4bea-8df4-efbbde12d01b.jpg/melon/resize/90x125/strip/true" alt="">
                                         <span class="frame"></span>
                                     </a>
                                 </div>
                                 <p class="infor_text">
                                     <span class="ico_wrap">
                                         <span class="ico_list ico_list1">단독판매</span><span class="ico_list ico_list4"> 판매중</span></span>
-                                    <span class="show_title"><a href="/performance/index.htm?prodId=210082">먼데이프로젝트 시즌7 OUR SUMMER［‘여유와 설빈’ 단독 콘서트］</a></span>
+                                    <span class="show_title"><a href="/performance/index.htm?prodId=210076">먼데이프로젝트 시즌7［벤치위레오 단독 콘서트 ‘푸른 늑대의 시간’］</a></span>
                                 </p>
                             </div>
                         </td>
                         <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
-                            2024.07.29 - 2024.07.29</td>
+                            2024.07.30 - 2024.07.30</td>
                         <td class="show_loc">클럽온에어 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/07/202407031121572c5903e6-ff6e-4a6e-9333-bdd92cfe6a15.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/07/202407021430061f3294a1-d2e7-4bea-8df4-efbbde12d01b.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
     </channel>
 </rss>
