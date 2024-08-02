@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 02 Aug 2024 02:33:54 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Aug 2024 03:17:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Fri, 02 Aug 2024 02:33:48 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>24.04.08(월)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/08/20240802104137f71dfd5b-1de2-4e74-9c8c-c3818dac25e9.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[서울숲재즈페스티벌 2024 공식 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9132</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9132</guid>
+            <pubDate>Fri, 02 Aug 2024 03:17:19 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>24.08.06(화)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/08/202408020959347a593c12-6252-462f-b655-f86b4088035b.png/melon/resize/160x225/strip/true" length="0" type="image/png/melon/resize/160x225/strip/true"/>
         </item>
         <item>
             <title><![CDATA[디깅 나우：반디 ‘별과 너와 밤’ 발매 쇼케이스 티켓 오픈 안내]]></title>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 02 Aug 2024 02:33:48 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>24.08.08(목)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/07/202407311554200472f7b5-3271-44e6-af0b-37e54b17a017.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[ONE UNIVERSE FESTIVAL 2024（원유니버스페스티벌 2024）티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9110</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9110</guid>
-            <pubDate>Fri, 02 Aug 2024 02:33:48 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>24.08.01(목)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/07/20240727203450c3758a06-9543-42b4-9fcb-57e0b9588bc6.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
