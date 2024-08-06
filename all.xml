@@ -1,7 +1,671 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://TicketOpen.github.io/melon/all.xml</id>
-    <title>Combined feed</title>
-    <updated>2024-08-06T21:13:10.126Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Combined feed</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Tue, 06 Aug 2024 22:13:48 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2024 IU HEREH WORLD TOUR CONCERT ENCORE：THE WINNING 티켓 오픈 안내 (멜론 티켓)]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9150</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9150</guid>
+            <pubDate>Tue, 06 Aug 2024 22:13:35 GMT</pubDate>
+            <content:encoded><![CDATA[오픈일정 보기 &gt;]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/08/20240806153017ba6eea2b-51b1-44a5-9a4a-da49a721a5a6.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 〈젠틀맨스 가이드：사랑과 살인편〉 5차 티켓 오픈 안내 (멜론 티켓)]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9148</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9148</guid>
+            <pubDate>Tue, 06 Aug 2024 22:13:35 GMT</pubDate>
+            <content:encoded><![CDATA[2024.08.09(금) 15:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/08/202408051747148cd8f3f3-e7a8-40e3-a290-8b8acb700c21.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[‘김동하 단독’ 스탠드업 코미디 MOODO with 메타코미디 티켓 오픈 안내 (멜론 티켓)]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9147</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9147</guid>
+            <pubDate>Tue, 06 Aug 2024 22:13:35 GMT</pubDate>
+            <content:encoded><![CDATA[2024.08.08(목) 19:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/08/20240805180519dda21280-e0e1-469a-9491-a994810f16e7.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[evenif［DOT．DOT．DOT．］티켓 오픈 안내 (멜론 티켓)]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9145</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9145</guid>
+            <pubDate>Tue, 06 Aug 2024 22:13:35 GMT</pubDate>
+            <content:encoded><![CDATA[2024.08.12(월) 20:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/08/202408051736069e0c64da-63f0-44ba-b6a2-92f7999615eb.png/melon/resize/65x92/strip/true" length="0" type="image/png/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[위아더나잇 소극장 공연 〈그리고：＆，Draw〉 티켓 오픈 안내 (멜론 티켓)]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9144</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9144</guid>
+            <pubDate>Tue, 06 Aug 2024 22:13:35 GMT</pubDate>
+            <content:encoded><![CDATA[2024.08.08(목) 19:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/08/20240805211035b7947b2c-e7f2-40cc-805d-5cf72e6a82b4.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[청춘폴나잇 2024 티켓 오픈 안내 (멜론 티켓)]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9143</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9143</guid>
+            <pubDate>Tue, 06 Aug 2024 22:13:35 GMT</pubDate>
+            <content:encoded><![CDATA[2024.08.06(화) 18:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/08/202408051751352d9e6d41-eb4f-413a-89c1-d56f3d674a31.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[중식이 밴드 10주년 콘서트 〈종말의 날〉 티켓 오픈 안내 (멜론 티켓)]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9142</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9142</guid>
+            <pubDate>Tue, 06 Aug 2024 22:13:35 GMT</pubDate>
+            <content:encoded><![CDATA[2024.08.06(화) 12:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/08/2024080516414481dd09f3-6f12-48b9-b894-2f3b97dcf3c7.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[2024 CNBLUE LIVE－VOYAGE into X 티켓 오픈 안내 (멜론 티켓)]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9140</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9140</guid>
+            <pubDate>Tue, 06 Aug 2024 22:13:35 GMT</pubDate>
+            <content:encoded><![CDATA[오픈일정 보기 &gt;]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/08/20240802110534abf2f4e1-b02b-4870-9b00-c5d673da1870.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[2024 미술관 옆 공연장－페인팅 더 뮤직 티켓 오픈 안내 (멜론 티켓)]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9139</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9139</guid>
+            <pubDate>Tue, 06 Aug 2024 22:13:35 GMT</pubDate>
+            <content:encoded><![CDATA[2024.08.06(화) 14:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/08/20240802111907e852ee04-3253-440e-a30e-5a2ddf7a6d8a.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[12BH 2nd EP ALBUM SHOWCASE ‘SINK！’ 티켓 오픈 안내 (멜론 티켓)]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9137</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9137</guid>
+            <pubDate>Tue, 06 Aug 2024 22:13:35 GMT</pubDate>
+            <content:encoded><![CDATA[2024.08.09(금) 20:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/08/20240805092450c4ad6235-3495-4154-8aff-9867f0777ef6.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[2024 IU HEREH WORLD TOUR CONCERT ENCORE：THE WINNING 티켓 오픈 안내 (멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식)]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9150</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9150</guid>
+            <pubDate>Tue, 06 Aug 2024 22:13:40 GMT</pubDate>
+            <content:encoded><![CDATA[오픈일정 보기 &gt;]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/08/20240806153017ba6eea2b-51b1-44a5-9a4a-da49a721a5a6.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[2024 ONEWE GOLDEN FESTA：ONEderland 티켓 오픈 안내 (멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식)]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9134</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9134</guid>
+            <pubDate>Tue, 06 Aug 2024 22:13:40 GMT</pubDate>
+            <content:encoded><![CDATA[오픈일정 보기 &gt;]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/08/20240801173802ba233fa9-dc0f-410d-b016-c0350c430b7e.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[evenif［DOT．DOT．DOT．］티켓 오픈 안내 (멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식)]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9145</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9145</guid>
+            <pubDate>Tue, 06 Aug 2024 22:13:40 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>24.08.12(월)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/08/202408051736069e0c64da-63f0-44ba-b6a2-92f7999615eb.png/melon/resize/160x225/strip/true" length="0" type="image/png/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 〈젠틀맨스 가이드：사랑과 살인편〉 5차 티켓 오픈 안내 (멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식)]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9148</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9148</guid>
+            <pubDate>Tue, 06 Aug 2024 22:13:40 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>24.08.09(금)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/08/202408051747148cd8f3f3-e7a8-40e3-a290-8b8acb700c21.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[위아더나잇 소극장 공연 〈그리고：＆，Draw〉 티켓 오픈 안내 (멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식)]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9144</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9144</guid>
+            <pubDate>Tue, 06 Aug 2024 22:13:40 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>24.08.08(목)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/08/20240805211035b7947b2c-e7f2-40cc-805d-5cf72e6a82b4.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[‘김동하 단독’ 스탠드업 코미디 MOODO with 메타코미디 티켓 오픈 안내 (멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식)]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9147</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9147</guid>
+            <pubDate>Tue, 06 Aug 2024 22:13:40 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>24.08.08(목)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/08/20240805180519dda21280-e0e1-469a-9491-a994810f16e7.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[청춘폴나잇 2024 티켓 오픈 안내 (멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식)]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9143</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9143</guid>
+            <pubDate>Tue, 06 Aug 2024 22:13:40 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>24.08.06(화)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/08/202408051751352d9e6d41-eb4f-413a-89c1-d56f3d674a31.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[2024 CNBLUE LIVE－VOYAGE into X 티켓 오픈 안내 (멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식)]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9140</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9140</guid>
+            <pubDate>Tue, 06 Aug 2024 22:13:40 GMT</pubDate>
+            <content:encoded><![CDATA[오픈일정 보기 &gt;]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/08/20240802110534abf2f4e1-b02b-4870-9b00-c5d673da1870.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[중식이 밴드 10주년 콘서트 〈종말의 날〉 티켓 오픈 안내 (멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식)]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9142</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9142</guid>
+            <pubDate>Tue, 06 Aug 2024 22:13:40 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>24.08.06(화)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/08/2024080516414481dd09f3-6f12-48b9-b894-2f3b97dcf3c7.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[12BH 2nd EP ALBUM SHOWCASE ‘SINK！’ 티켓 오픈 안내 (멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식)]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9137</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9137</guid>
+            <pubDate>Tue, 06 Aug 2024 22:13:40 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>24.08.09(금)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/08/20240805092450c4ad6235-3495-4154-8aff-9867f0777ef6.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[［서울 대학로］연극 라면 (멜론티켓 ─ 판매중)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=207987</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=207987</guid>
+            <pubDate>Tue, 06 Aug 2024 22:13:47 GMT</pubDate>
+            <content:encoded><![CDATA[<td>
+                            <div class="show_infor">
+                                <div class="thumb_90x125  img">
+                                    <a href="#">
+                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/03/202303171047117fdc060a-8274-4ab8-ab99-990489e4f652.jpg/melon/resize/90x125/strip/true" alt="">
+                                        <span class="frame"></span>
+                                    </a>
+                                </div>
+                                <p class="infor_text">
+                                    <span class="ico_wrap">
+                                        <span class="ico_list ico_list4"> 판매중</span></span>
+                                    <span class="show_title"><a href="/performance/index.htm?prodId=207987">［서울 대학로］연극 라면</a></span>
+                                </p>
+                            </div>
+                        </td>
+                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
+                            2023.03.20 - 오픈런</td>
+                        <td class="show_loc">해피씨어터 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/03/202303171047117fdc060a-8274-4ab8-ab99-990489e4f652.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[상실의 징후들 (멜론티켓 ─ 판매중)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=208323</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=208323</guid>
+            <pubDate>Tue, 06 Aug 2024 22:13:47 GMT</pubDate>
+            <content:encoded><![CDATA[<td>
+                            <div class="show_infor">
+                                <div class="thumb_90x125  img">
+                                    <a href="#">
+                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/06/20230620103210bee63153-793b-4cee-ae85-6434493e90f5.jpg/melon/resize/90x125/strip/true" alt="">
+                                        <span class="frame"></span>
+                                    </a>
+                                </div>
+                                <p class="infor_text">
+                                    <span class="ico_wrap">
+                                        <span class="ico_list ico_list4"> 판매중</span></span>
+                                    <span class="show_title"><a href="/performance/index.htm?prodId=208323">상실의 징후들</a></span>
+                                </p>
+                            </div>
+                        </td>
+                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
+                            2023.06.10 - 2024.08.31</td>
+                        <td class="show_loc">뮤지엄 원 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/06/20230620103210bee63153-793b-4cee-ae85-6434493e90f5.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[새벽부터 황혼까지－스웨덴 국립미술관 컬렉션 (멜론티켓 ─ 판매중)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=209628</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=209628</guid>
+            <pubDate>Tue, 06 Aug 2024 22:13:47 GMT</pubDate>
+            <content:encoded><![CDATA[<td>
+                            <div class="show_infor">
+                                <div class="thumb_90x125  img">
+                                    <a href="#">
+                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/03/20240318143630ad2dca31-a342-4605-91ab-61107be501b3.jpg/melon/resize/90x125/strip/true" alt="">
+                                        <span class="frame"></span>
+                                    </a>
+                                </div>
+                                <p class="infor_text">
+                                    <span class="ico_wrap">
+                                        <span class="ico_list ico_list4"> 판매중</span></span>
+                                    <span class="show_title"><a href="/performance/index.htm?prodId=209628">새벽부터 황혼까지－스웨덴&nbsp;국립미술관 컬렉션</a></span>
+                                </p>
+                            </div>
+                        </td>
+                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
+                            2024.03.21 - 2024.08.25</td>
+                        <td class="show_loc">마이아트뮤지엄 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/03/20240318143630ad2dca31-a342-4605-91ab-61107be501b3.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[플레이모빌 50주년 기념전－플레이모빌 맨션：6개의 방으로 놀러와 (멜론티켓 ─ 판매중)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=209801</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=209801</guid>
+            <pubDate>Tue, 06 Aug 2024 22:13:47 GMT</pubDate>
+            <content:encoded><![CDATA[<td>
+                            <div class="show_infor">
+                                <div class="thumb_90x125  img">
+                                    <a href="#">
+                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/04/20240423200040fa13bf2a-15f0-4518-9024-1e83cfabf109.jpg/melon/resize/90x125/strip/true" alt="">
+                                        <span class="frame"></span>
+                                    </a>
+                                </div>
+                                <p class="infor_text">
+                                    <span class="ico_wrap">
+                                        <span class="ico_list ico_list4"> 판매중</span></span>
+                                    <span class="show_title"><a href="/performance/index.htm?prodId=209801">플레이모빌&nbsp;50주년 기념전－플레이모빌&nbsp;맨션：6개의 방으로 놀러와</a></span>
+                                </p>
+                            </div>
+                        </td>
+                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
+                            2024.04.19 - 2024.08.11</td>
+                        <td class="show_loc">뉴스뮤지엄 연희 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/04/20240423200040fa13bf2a-15f0-4518-9024-1e83cfabf109.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[리얼뱅크시 REAL BANKSY－Banksy is NOWHERE (멜론티켓 ─ 판매중)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=209864</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=209864</guid>
+            <pubDate>Tue, 06 Aug 2024 22:13:47 GMT</pubDate>
+            <content:encoded><![CDATA[<td>
+                            <div class="show_infor">
+                                <div class="thumb_90x125  img">
+                                    <a href="#">
+                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/08/202408021034235c3a5d02-b8a4-4609-bda2-c1b36bea9171.jpg/melon/resize/90x125/strip/true" alt="">
+                                        <span class="frame"></span>
+                                    </a>
+                                </div>
+                                <p class="infor_text">
+                                    <span class="ico_wrap">
+                                        <span class="ico_list ico_list4"> 판매중</span></span>
+                                    <span class="show_title"><a href="/performance/index.htm?prodId=209864">리얼뱅크시 REAL BANKSY－Banksy is NOWHERE</a></span>
+                                </p>
+                            </div>
+                        </td>
+                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
+                            2024.05.10 - 2024.10.20</td>
+                        <td class="show_loc">그라운드서울 기획전시관 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/08/202408021034235c3a5d02-b8a4-4609-bda2-c1b36bea9171.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[크루즈 디에즈－RGB，세기의 컬러들 (멜론티켓 ─ 판매중)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=209956</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=209956</guid>
+            <pubDate>Tue, 06 Aug 2024 22:13:47 GMT</pubDate>
+            <content:encoded><![CDATA[<td>
+                            <div class="show_infor">
+                                <div class="thumb_90x125  img">
+                                    <a href="#">
+                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/05/202405301652402eaae4cc-afcf-49d9-8ea9-dd97087fa959.jpg/melon/resize/90x125/strip/true" alt="">
+                                        <span class="frame"></span>
+                                    </a>
+                                </div>
+                                <p class="infor_text">
+                                    <span class="ico_wrap">
+                                        <span class="ico_list ico_list4"> 판매중</span></span>
+                                    <span class="show_title"><a href="/performance/index.htm?prodId=209956">크루즈&nbsp;디에즈－RGB，세기의 컬러들</a></span>
+                                </p>
+                            </div>
+                        </td>
+                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
+                            2024.06.01 - 2024.09.18</td>
+                        <td class="show_loc">예술의전당 한가람미술관 제 7전시실</td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/05/202405301652402eaae4cc-afcf-49d9-8ea9-dd97087fa959.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 〈프랑켄슈타인〉 10주년 기념공연 (멜론티켓 ─ 판매중)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=209765</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=209765</guid>
+            <pubDate>Tue, 06 Aug 2024 22:13:47 GMT</pubDate>
+            <content:encoded><![CDATA[<td>
+                            <div class="show_infor">
+                                <div class="thumb_90x125  img">
+                                    <a href="#">
+                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/04/20240423172356136720c2-47ce-4806-9720-51f10f152487.jpg/melon/resize/90x125/strip/true" alt="">
+                                        <span class="frame"></span>
+                                    </a>
+                                </div>
+                                <p class="infor_text">
+                                    <span class="ico_wrap">
+                                        <span class="ico_list ico_list1">1열보유</span><span class="ico_list ico_list4"> 판매중</span></span>
+                                    <span class="show_title"><a href="/performance/index.htm?prodId=209765">뮤지컬 〈프랑켄슈타인〉 10주년 기념공연</a></span>
+                                </p>
+                            </div>
+                        </td>
+                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
+                            2024.06.05 - 2024.08.25</td>
+                        <td class="show_loc">블루스퀘어 신한카드홀 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/04/20240423172356136720c2-47ce-4806-9720-51f10f152487.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[［2024’여름특별공연 연극 새빨간 거짓말］－부산 (멜론티켓 ─ 판매중)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=209734</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=209734</guid>
+            <pubDate>Tue, 06 Aug 2024 22:13:47 GMT</pubDate>
+            <content:encoded><![CDATA[<td>
+                            <div class="show_infor">
+                                <div class="thumb_90x125  img">
+                                    <a href="#">
+                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/04/20240424170225cf362e84-4054-407f-993b-99bdd0709c52.jpg/melon/resize/90x125/strip/true" alt="">
+                                        <span class="frame"></span>
+                                    </a>
+                                </div>
+                                <p class="infor_text">
+                                    <span class="ico_wrap">
+                                        <span class="ico_list ico_list4"> 판매중</span></span>
+                                    <span class="show_title"><a href="/performance/index.htm?prodId=209734">［2024’여름특별공연 연극 새빨간 거짓말］－부산</a></span>
+                                </p>
+                            </div>
+                        </td>
+                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
+                            2024.06.14 - 2024.09.08</td>
+                        <td class="show_loc">부산메트로홀 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/04/20240424170225cf362e84-4054-407f-993b-99bdd0709c52.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 〈4월은 너의 거짓말〉 (멜론티켓 ─ 판매중)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=209858</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=209858</guid>
+            <pubDate>Tue, 06 Aug 2024 22:13:47 GMT</pubDate>
+            <content:encoded><![CDATA[<td>
+                            <div class="show_infor">
+                                <div class="thumb_90x125  img">
+                                    <a href="#">
+                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/07/2024070313495729b3c502-7b06-4b1e-b5ae-92e1c2d5bb64.jpg/melon/resize/90x125/strip/true" alt="">
+                                        <span class="frame"></span>
+                                    </a>
+                                </div>
+                                <p class="infor_text">
+                                    <span class="ico_wrap">
+                                        <span class="ico_list ico_list4"> 판매중</span></span>
+                                    <span class="show_title"><a href="/performance/index.htm?prodId=209858">뮤지컬 〈4월은 너의 거짓말〉</a></span>
+                                </p>
+                            </div>
+                        </td>
+                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
+                            2024.06.28 - 2024.08.25</td>
+                        <td class="show_loc">예술의전당 CJ 토월극장</td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/07/2024070313495729b3c502-7b06-4b1e-b5ae-92e1c2d5bb64.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 〈젠틀맨스 가이드：사랑과 살인편〉 (멜론티켓 ─ 판매중)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=209919</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=209919</guid>
+            <pubDate>Tue, 06 Aug 2024 22:13:47 GMT</pubDate>
+            <content:encoded><![CDATA[<td>
+                            <div class="show_infor">
+                                <div class="thumb_90x125  img">
+                                    <a href="#">
+                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/05/2024052315061282232f40-b3b5-4d13-b07d-d096fe5c1f44.jpg/melon/resize/90x125/strip/true" alt="">
+                                        <span class="frame"></span>
+                                    </a>
+                                </div>
+                                <p class="infor_text">
+                                    <span class="ico_wrap">
+                                        <span class="ico_list ico_list1">1열보유</span><span class="ico_list ico_list4"> 판매중</span></span>
+                                    <span class="show_title"><a href="/performance/index.htm?prodId=209919">뮤지컬 〈젠틀맨스 가이드：사랑과 살인편〉</a></span>
+                                </p>
+                            </div>
+                        </td>
+                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
+                            2024.07.06 - 2024.10.20</td>
+                        <td class="show_loc">광림아트센터 BBCH홀</td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/05/2024052315061282232f40-b3b5-4d13-b07d-d096fe5c1f44.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[2024 상상톡톡미술관 기획전시 톡！톡！ 뮤지엄 (멜론티켓 ─ 판매중)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=210000</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=210000</guid>
+            <pubDate>Tue, 06 Aug 2024 22:13:47 GMT</pubDate>
+            <content:encoded><![CDATA[<td>
+                            <div class="show_infor">
+                                <div class="thumb_90x125  img">
+                                    <a href="#">
+                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/06/2024061215295836009adc-f29f-4676-ab02-3534d4491102.jpg/melon/resize/90x125/strip/true" alt="">
+                                        <span class="frame"></span>
+                                    </a>
+                                </div>
+                                <p class="infor_text">
+                                    <span class="ico_wrap">
+                                        <span class="ico_list ico_list4"> 판매중</span></span>
+                                    <span class="show_title"><a href="/performance/index.htm?prodId=210000">2024 상상톡톡미술관 기획전시 톡！톡！ 뮤지엄</a></span>
+                                </p>
+                            </div>
+                        </td>
+                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
+                            2024.07.09 - 2024.10.13</td>
+                        <td class="show_loc">꿈의숲아트센터 상상톡톡미술관</td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/06/2024061215295836009adc-f29f-4676-ab02-3534d4491102.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[［얼리버드］하비에르 카예하 특별전－이곳에 예술은 없다 (멜론티켓 ─ 판매중)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=210036</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=210036</guid>
+            <pubDate>Tue, 06 Aug 2024 22:13:47 GMT</pubDate>
+            <content:encoded><![CDATA[<td>
+                            <div class="show_infor">
+                                <div class="thumb_90x125  img">
+                                    <a href="#">
+                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/06/20240620173459e49bc42f-1594-4434-8e6a-fd3862927649.jpg/melon/resize/90x125/strip/true" alt="">
+                                        <span class="frame"></span>
+                                    </a>
+                                </div>
+                                <p class="infor_text">
+                                    <span class="ico_wrap">
+                                        <span class="ico_list ico_list4"> 판매중</span></span>
+                                    <span class="show_title"><a href="/performance/index.htm?prodId=210036">［얼리버드］하비에르 카예하 특별전－이곳에 예술은 없다</a></span>
+                                </p>
+                            </div>
+                        </td>
+                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
+                            2024.07.12 - 2024.08.31</td>
+                        <td class="show_loc">예술의전당 한가람미술관</td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/06/20240620173459e49bc42f-1594-4434-8e6a-fd3862927649.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[［시즌권］한강수영장 입장권 (멜론티켓 ─ 판매중)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=210117</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=210117</guid>
+            <pubDate>Tue, 06 Aug 2024 22:13:47 GMT</pubDate>
+            <content:encoded><![CDATA[<td>
+                            <div class="show_infor">
+                                <div class="thumb_90x125  img">
+                                    <a href="#">
+                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/07/20240722171330e4b23ce9-6e21-4f48-a804-85100f0634fe.jpg/melon/resize/90x125/strip/true" alt="">
+                                        <span class="frame"></span>
+                                    </a>
+                                </div>
+                                <p class="infor_text">
+                                    <span class="ico_wrap">
+                                        <span class="ico_list ico_list4"> 판매중</span></span>
+                                    <span class="show_title"><a href="/performance/index.htm?prodId=210117">［시즌권］한강수영장 입장권</a></span>
+                                </p>
+                            </div>
+                        </td>
+                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
+                            2024.07.12 - 2024.08.18</td>
+                        <td class="show_loc">여의도/잠원/난지 한강공원 수영장 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/07/20240722171330e4b23ce9-6e21-4f48-a804-85100f0634fe.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[［주간권］한강수영장 입장권 (멜론티켓 ─ 판매중)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=210132</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=210132</guid>
+            <pubDate>Tue, 06 Aug 2024 22:13:47 GMT</pubDate>
+            <content:encoded><![CDATA[<td>
+                            <div class="show_infor">
+                                <div class="thumb_90x125  img">
+                                    <a href="#">
+                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/07/20240711171224fb8d844f-d98a-4bfa-84c5-3cb21602d276.jpg/melon/resize/90x125/strip/true" alt="">
+                                        <span class="frame"></span>
+                                    </a>
+                                </div>
+                                <p class="infor_text">
+                                    <span class="ico_wrap">
+                                        <span class="ico_list ico_list4"> 판매중</span></span>
+                                    <span class="show_title"><a href="/performance/index.htm?prodId=210132">［주간권］한강수영장 입장권</a></span>
+                                </p>
+                            </div>
+                        </td>
+                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
+                            2024.07.12 - 2024.08.18</td>
+                        <td class="show_loc">여의도/잠원/난지 한강공원 수영장 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/07/20240711171224fb8d844f-d98a-4bfa-84c5-3cb21602d276.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 〈베르사유의 장미〉 (멜론티켓 ─ 판매중)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=209927</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=209927</guid>
+            <pubDate>Tue, 06 Aug 2024 22:13:47 GMT</pubDate>
+            <content:encoded><![CDATA[<td>
+                            <div class="show_infor">
+                                <div class="thumb_90x125  img">
+                                    <a href="#">
+                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/05/2024052819390959351f00-51ba-4540-9c9c-9588bc1ada99.jpg/melon/resize/90x125/strip/true" alt="">
+                                        <span class="frame"></span>
+                                    </a>
+                                </div>
+                                <p class="infor_text">
+                                    <span class="ico_wrap">
+                                        <span class="ico_list ico_list1">좌석우위</span><span class="ico_list ico_list4"> 판매중</span></span>
+                                    <span class="show_title"><a href="/performance/index.htm?prodId=209927">뮤지컬 〈베르사유의 장미〉</a></span>
+                                </p>
+                            </div>
+                        </td>
+                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
+                            2024.07.16 - 2024.10.13</td>
+                        <td class="show_loc">충무아트센터 대극장</td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/05/2024052819390959351f00-51ba-4540-9c9c-9588bc1ada99.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[준생 (멜론티켓 ─ 판매중)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=210097</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=210097</guid>
+            <pubDate>Tue, 06 Aug 2024 22:13:47 GMT</pubDate>
+            <content:encoded><![CDATA[<td>
+                            <div class="show_infor">
+                                <div class="thumb_90x125  img">
+                                    <a href="#">
+                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/07/2024071011335919aba652-319e-43cc-9bd3-ef2b0f3e617d.png/melon/resize/90x125/strip/true" alt="">
+                                        <span class="frame"></span>
+                                    </a>
+                                </div>
+                                <p class="infor_text">
+                                    <span class="ico_wrap">
+                                        <span class="ico_list ico_list4"> 판매중</span></span>
+                                    <span class="show_title"><a href="/performance/index.htm?prodId=210097">준생</a></span>
+                                </p>
+                            </div>
+                        </td>
+                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
+                            2024.07.24 - 2024.09.01</td>
+                        <td class="show_loc">씨어터쿰 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/07/2024071011335919aba652-319e-43cc-9bd3-ef2b0f3e617d.png/melon/resize/90x125/strip/true" length="0" type="image/png/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[［야간권］한강수영장 입장권 (멜론티켓 ─ 판매중)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=210168</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=210168</guid>
+            <pubDate>Tue, 06 Aug 2024 22:13:47 GMT</pubDate>
+            <content:encoded><![CDATA[<td>
+                            <div class="show_infor">
+                                <div class="thumb_90x125  img">
+                                    <a href="#">
+                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/07/20240722174423275ae224-462e-4729-9e98-35e095e52380.jpg/melon/resize/90x125/strip/true" alt="">
+                                        <span class="frame"></span>
+                                    </a>
+                                </div>
+                                <p class="infor_text">
+                                    <span class="ico_wrap">
+                                        <span class="ico_list ico_list4"> 판매중</span></span>
+                                    <span class="show_title"><a href="/performance/index.htm?prodId=210168">［야간권］한강수영장 입장권</a></span>
+                                </p>
+                            </div>
+                        </td>
+                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
+                            2024.07.24 - 2024.08.11</td>
+                        <td class="show_loc">여의도/잠원/난지 한강공원 수영장 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/07/20240722174423275ae224-462e-4729-9e98-35e095e52380.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[［서울앵콜］뮤지컬 캐치！티니핑 〈두근두근 싱어롱 콘서트！〉 (멜론티켓 ─ 판매중)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=209990</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=209990</guid>
+            <pubDate>Tue, 06 Aug 2024 22:13:47 GMT</pubDate>
+            <content:encoded><![CDATA[<td>
+                            <div class="show_infor">
+                                <div class="thumb_90x125  img">
+                                    <a href="#">
+                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/06/20240610133735b70b04c2-bc4d-48a3-9557-90060b647134.jpg/melon/resize/90x125/strip/true" alt="">
+                                        <span class="frame"></span>
+                                    </a>
+                                </div>
+                                <p class="infor_text">
+                                    <span class="ico_wrap">
+                                        <span class="ico_list ico_list4"> 판매중</span></span>
+                                    <span class="show_title"><a href="/performance/index.htm?prodId=209990">［서울앵콜］뮤지컬 캐치！티니핑 〈두근두근 싱어롱 콘서트！〉</a></span>
+                                </p>
+                            </div>
+                        </td>
+                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
+                            2024.08.01 - 2024.08.18</td>
+                        <td class="show_loc">이화여자대학교 삼성홀</td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/06/20240610133735b70b04c2-bc4d-48a3-9557-90060b647134.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[9001 단독 콘서트 〈Digital Hello〉 (멜론티켓 ─ 판매중)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=210155</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=210155</guid>
+            <pubDate>Tue, 06 Aug 2024 22:13:47 GMT</pubDate>
+            <content:encoded><![CDATA[<td>
+                            <div class="show_infor">
+                                <div class="thumb_90x125  img">
+                                    <a href="#">
+                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/07/2024071811503673b45d2a-46df-4fa4-8ad0-e34eaf6a26d1.jpg/melon/resize/90x125/strip/true" alt="">
+                                        <span class="frame"></span>
+                                    </a>
+                                </div>
+                                <p class="infor_text">
+                                    <span class="ico_wrap">
+                                        <span class="ico_list ico_list1">단독판매</span><span class="ico_list ico_list4"> 판매중</span></span>
+                                    <span class="show_title"><a href="/performance/index.htm?prodId=210155">9001 단독 콘서트 〈Digital Hello〉</a></span>
+                                </p>
+                            </div>
+                        </td>
+                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
+                            2024.08.05 - 2024.08.11</td>
+                        <td class="show_loc">클럽온에어 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/07/2024071811503673b45d2a-46df-4fa4-8ad0-e34eaf6a26d1.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[New Link 단독 콘서트 ‘WAKE UP！！’ (멜론티켓 ─ 판매중)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=210074</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=210074</guid>
+            <pubDate>Tue, 06 Aug 2024 22:13:47 GMT</pubDate>
+            <content:encoded><![CDATA[<td>
+                            <div class="show_infor">
+                                <div class="thumb_90x125  img">
+                                    <a href="#">
+                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/07/20240701182638986386e2-bb45-4f54-a3b4-8fa903575a2a.png/melon/resize/90x125/strip/true" alt="">
+                                        <span class="frame"></span>
+                                    </a>
+                                </div>
+                                <p class="infor_text">
+                                    <span class="ico_wrap">
+                                        <span class="ico_list ico_list1">단독판매</span><span class="ico_list ico_list4"> 판매중</span></span>
+                                    <span class="show_title"><a href="/performance/index.htm?prodId=210074">New Link 단독 콘서트 ‘WAKE UP！！’ </a></span>
+                                </p>
+                            </div>
+                        </td>
+                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
+                            2024.08.08 - 2024.08.08</td>
+                        <td class="show_loc">롤링홀 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/07/20240701182638986386e2-bb45-4f54-a3b4-8fa903575a2a.png/melon/resize/90x125/strip/true" length="0" type="image/png/melon/resize/90x125/strip/true"/>
+        </item>
+    </channel>
+</rss>
