@@ -1,8 +1,91 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://ticket.melon.com/csoon/index.htm</id>
-    <title>멜론 티켓</title>
-    <updated>2024-08-07T12:28:07.896Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>멜론 티켓</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Wed, 07 Aug 2024 13:18:33 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[BoA LIVE TOUR－BoA：One’s Own 추가 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9158</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9158</guid>
+            <pubDate>Wed, 07 Aug 2024 13:18:20 GMT</pubDate>
+            <content:encoded><![CDATA[2024.08.08(목) 16:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/08/202408071121156867a0a5-9dda-4d8d-9e8b-af90b8b0f435.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[원 썸머 나잇 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9157</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9157</guid>
+            <pubDate>Wed, 07 Aug 2024 13:18:20 GMT</pubDate>
+            <content:encoded><![CDATA[2024.08.09(금) 14:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/08/20240807102343c2cd04ec-b347-4034-8d64-952def1d994f.png/melon/resize/65x92/strip/true" length="0" type="image/png/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[테종 단독 콘서트 〈METAMORPHOSIS：From Pervert To Puirty〉 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9155</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9155</guid>
+            <pubDate>Wed, 07 Aug 2024 13:18:20 GMT</pubDate>
+            <content:encoded><![CDATA[2024.08.14(수) 20:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/08/20240806174146d99a2f83-ef50-414b-bf02-0698dc322f49.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[먼데이프로젝트 IN 라이브클럽［품바21 단독 콘서트］티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9154</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9154</guid>
+            <pubDate>Wed, 07 Aug 2024 13:18:20 GMT</pubDate>
+            <content:encoded><![CDATA[2024.08.14(수) 19:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/08/20240806174729fa4012b1-f3f0-437f-a23e-b9264979b12b.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 〈베르사유의 장미〉 4차 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9153</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9153</guid>
+            <pubDate>Wed, 07 Aug 2024 13:18:20 GMT</pubDate>
+            <content:encoded><![CDATA[2024.08.14(수) 11:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/08/20240806170448b0078695-fe96-4bb9-a8fe-814645161a43.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[2024 IU HEREH WORLD TOUR CONCERT ENCORE：THE WINNING 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9150</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9150</guid>
+            <pubDate>Wed, 07 Aug 2024 13:18:20 GMT</pubDate>
+            <content:encoded><![CDATA[오픈일정 보기 &gt;]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/08/20240806153017ba6eea2b-51b1-44a5-9a4a-da49a721a5a6.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 〈젠틀맨스 가이드：사랑과 살인편〉 5차 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9148</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9148</guid>
+            <pubDate>Wed, 07 Aug 2024 13:18:20 GMT</pubDate>
+            <content:encoded><![CDATA[2024.08.09(금) 15:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/08/202408051747148cd8f3f3-e7a8-40e3-a290-8b8acb700c21.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[‘김동하 단독’ 스탠드업 코미디 MOODO with 메타코미디 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9147</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9147</guid>
+            <pubDate>Wed, 07 Aug 2024 13:18:20 GMT</pubDate>
+            <content:encoded><![CDATA[2024.08.08(목) 19:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/08/20240805180519dda21280-e0e1-469a-9491-a994810f16e7.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[evenif［DOT．DOT．DOT．］티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9145</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9145</guid>
+            <pubDate>Wed, 07 Aug 2024 13:18:20 GMT</pubDate>
+            <content:encoded><![CDATA[2024.08.12(월) 20:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/08/202408051736069e0c64da-63f0-44ba-b6a2-92f7999615eb.png/melon/resize/65x92/strip/true" length="0" type="image/png/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[위아더나잇 소극장 공연 〈그리고：＆，Draw〉 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9144</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9144</guid>
+            <pubDate>Wed, 07 Aug 2024 13:18:20 GMT</pubDate>
+            <content:encoded><![CDATA[2024.08.08(목) 19:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/08/20240805211035b7947b2c-e7f2-40cc-805d-5cf72e6a82b4.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+    </channel>
+</rss>
