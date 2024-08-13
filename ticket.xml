@@ -4,9 +4,25 @@
         <title>멜론 티켓</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 13 Aug 2024 04:17:25 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Aug 2024 05:14:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뮤지컬 〈시카고〉－전주 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9183</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9183</guid>
+            <pubDate>Tue, 13 Aug 2024 05:14:13 GMT</pubDate>
+            <content:encoded><![CDATA[2024.08.16(금) 14:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/08/202408122252293a041ffc-afaf-4a1b-9244-02cf0763ffa9.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 〈리지〉 2차 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9182</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9182</guid>
+            <pubDate>Tue, 13 Aug 2024 05:14:13 GMT</pubDate>
+            <content:encoded><![CDATA[2024.08.16(금) 14:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/08/20240812162325c011cd30-358d-4e88-9f06-8c13226c5d08.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
         <item>
             <title><![CDATA[이제 단독 콘서트 ‘찰칵！’ 티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9181</link>
@@ -70,22 +86,6 @@
             <pubDate>Tue, 13 Aug 2024 04:17:12 GMT</pubDate>
             <content:encoded><![CDATA[2024.08.16(금) 20:00]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/08/202408091513393cd46c77-3791-40b6-8685-8dd570492036.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[Johnnivan Live in Seoul 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9171</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9171</guid>
-            <pubDate>Tue, 13 Aug 2024 04:17:12 GMT</pubDate>
-            <content:encoded><![CDATA[2024.08.16(금) 20:00]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/08/2024080818060669e579f4-16ad-45a0-bcff-9e8cff381213.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤직 코멘터리：Talkback ＃4 ‘After Thoughts’ 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9170</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9170</guid>
-            <pubDate>Tue, 13 Aug 2024 04:17:12 GMT</pubDate>
-            <content:encoded><![CDATA[2024.08.13(화) 20:00]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/08/20240808173415b391c99b-d0de-4cae-91de-e92347b1b02d.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
     </channel>
 </rss>
