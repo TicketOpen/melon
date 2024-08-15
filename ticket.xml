@@ -1,8 +1,91 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://ticket.melon.com/csoon/index.htm</id>
-    <title>멜론 티켓</title>
-    <updated>2024-08-15T05:14:39.081Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>멜론 티켓</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Thu, 15 Aug 2024 06:20:42 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[먼데이프로젝트 시즌7 THE MASTER［Robiq 단독 콘서트］티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9189</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9189</guid>
+            <pubDate>Thu, 15 Aug 2024 06:20:29 GMT</pubDate>
+            <content:encoded><![CDATA[2024.08.22(목) 19:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/08/20240814133931f88738ae-0293-4e18-89a9-37c6bd6387a1.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[먼데이프로젝트 시즌7［찬주 단독 콘서트 ‘일기장’］티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9188</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9188</guid>
+            <pubDate>Thu, 15 Aug 2024 06:20:29 GMT</pubDate>
+            <content:encoded><![CDATA[2024.08.22(목) 20:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/08/20240814134822f3f1e9ed-6b15-469d-9514-dcab7ba5a824.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[대한민국국악관현악축제 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9187</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9187</guid>
+            <pubDate>Thu, 15 Aug 2024 06:20:29 GMT</pubDate>
+            <content:encoded><![CDATA[오픈일정 보기 &gt;]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/08/202408141039197cf6ded1-1081-46d8-ad56-75f0c4e56cf3.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[먼데이프로젝트 시즌7［디어클라우드 단독 콘서트 ‘Ground zero’］티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9186</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9186</guid>
+            <pubDate>Thu, 15 Aug 2024 06:20:29 GMT</pubDate>
+            <content:encoded><![CDATA[2024.08.21(수) 20:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/08/20240813154456d0e25b2e-acf4-4156-91f4-59fc6d104dd8.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[［얼리버드］툴루즈 로트렉：몽마르트의 별 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9185</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9185</guid>
+            <pubDate>Thu, 15 Aug 2024 06:20:29 GMT</pubDate>
+            <content:encoded><![CDATA[2024.08.19(월) 09:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/08/20240813154514dfff9d88-43c9-40d2-bea9-73d391e049de.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[불타는 트롯맨 TOP7 엔딩 콘서트 〈약속：You and I〉 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9184</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9184</guid>
+            <pubDate>Thu, 15 Aug 2024 06:20:29 GMT</pubDate>
+            <content:encoded><![CDATA[2024.08.22(목) 14:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/08/2024081313450318f87a00-f1f0-4218-8522-2aedf7aba355.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 〈시카고〉－전주 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9183</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9183</guid>
+            <pubDate>Thu, 15 Aug 2024 06:20:29 GMT</pubDate>
+            <content:encoded><![CDATA[2024.08.16(금) 14:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/08/202408122252293a041ffc-afaf-4a1b-9244-02cf0763ffa9.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 〈리지〉 2차 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9182</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9182</guid>
+            <pubDate>Thu, 15 Aug 2024 06:20:29 GMT</pubDate>
+            <content:encoded><![CDATA[2024.08.16(금) 14:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/08/20240812162325c011cd30-358d-4e88-9f06-8c13226c5d08.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[이제 단독 콘서트 ‘찰칵！’ 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9181</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9181</guid>
+            <pubDate>Thu, 15 Aug 2024 06:20:29 GMT</pubDate>
+            <content:encoded><![CDATA[2024.08.20(화) 20:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/08/20240812171153e6d04d44-dcd6-423f-bb61-2600d4e470bc.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[Dive to garden 1st Concert ‘Flutter 24’ 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9180</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9180</guid>
+            <pubDate>Thu, 15 Aug 2024 06:20:29 GMT</pubDate>
+            <content:encoded><![CDATA[2024.08.16(금) 20:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/08/20240812210120bce75e21-d86a-4283-9930-6d0cbfe4b2d1.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+    </channel>
+</rss>
