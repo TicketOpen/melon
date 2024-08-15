@@ -4,9 +4,25 @@
         <title>멜론 티켓</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 15 Aug 2024 02:21:31 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Aug 2024 03:16:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[먼데이프로젝트 시즌7 THE MASTER［Robiq 단독 콘서트］티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9189</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9189</guid>
+            <pubDate>Thu, 15 Aug 2024 03:15:47 GMT</pubDate>
+            <content:encoded><![CDATA[2024.08.22(목) 19:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/08/20240814133931f88738ae-0293-4e18-89a9-37c6bd6387a1.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[먼데이프로젝트 시즌7［찬주 단독 콘서트 ‘일기장’］티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9188</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9188</guid>
+            <pubDate>Thu, 15 Aug 2024 03:15:47 GMT</pubDate>
+            <content:encoded><![CDATA[2024.08.22(목) 20:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/08/20240814134822f3f1e9ed-6b15-469d-9514-dcab7ba5a824.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
         <item>
             <title><![CDATA[대한민국국악관현악축제 티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9187</link>
@@ -70,22 +86,6 @@
             <pubDate>Wed, 14 Aug 2024 22:14:06 GMT</pubDate>
             <content:encoded><![CDATA[2024.08.16(금) 20:00]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/08/20240812210120bce75e21-d86a-4283-9930-6d0cbfe4b2d1.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[BOSS RIIZE POP－UP Exhibition 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9179</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9179</guid>
-            <pubDate>Wed, 14 Aug 2024 22:14:06 GMT</pubDate>
-            <content:encoded><![CDATA[2024.08.12(월) 18:00]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/08/20240809155552be045943-e86a-4ac6-a304-cc62b0fe0ba1.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[맥거핀（MGFF）MONOPOLY－부산 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9178</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9178</guid>
-            <pubDate>Wed, 14 Aug 2024 22:14:06 GMT</pubDate>
-            <content:encoded><![CDATA[2024.08.20(화) 20:00]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/08/2024081022271458151ffe-efde-45f3-a690-067a37c2eb31.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
     </channel>
 </rss>
