@@ -4,9 +4,25 @@
         <title>멜론 티켓</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 21 Aug 2024 08:19:15 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Aug 2024 09:15:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[［RAD MILLI］Release Party 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9218</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9218</guid>
+            <pubDate>Wed, 21 Aug 2024 09:15:28 GMT</pubDate>
+            <content:encoded><![CDATA[2024.08.22(목) 18:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/08/2024082017053777b63628-0e8c-4d56-81e1-0e46cda9c052.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[공연 선명한 계절（사뮈，포그，전자양）티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9217</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9217</guid>
+            <pubDate>Wed, 21 Aug 2024 09:15:28 GMT</pubDate>
+            <content:encoded><![CDATA[2024.08.23(금) 18:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/08/202408211219439dabe8a6-98c7-4ac5-ac48-fca39d660a74.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
         <item>
             <title><![CDATA[2024 임수향 팬미팅 〈Hyangnight〉 티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9216</link>
@@ -70,22 +86,6 @@
             <pubDate>Wed, 21 Aug 2024 08:19:00 GMT</pubDate>
             <content:encoded><![CDATA[2024.08.23(금) 18:00]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/08/2024081920412150e1576c-ca84-475d-8f38-8354bb584fba.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[네미시스 라이브 콘서트 ‘september’ 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9204</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9204</guid>
-            <pubDate>Wed, 21 Aug 2024 08:19:00 GMT</pubDate>
-            <content:encoded><![CDATA[2024.08.22(목) 20:00]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/08/202408161645567e886283-2a23-470e-9ba8-45e0915e0d8a.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[K．will OFFICIAL FANCLUB［HYUNGKNIGHT］7기 모집 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9202</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9202</guid>
-            <pubDate>Wed, 21 Aug 2024 08:19:00 GMT</pubDate>
-            <content:encoded><![CDATA[2024.08.22(목) 14:00]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/08/2024081615494101b8f620-4052-41c3-ab5f-db712e7fb690.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
     </channel>
 </rss>
