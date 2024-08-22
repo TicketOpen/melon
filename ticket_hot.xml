@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 22 Aug 2024 08:18:01 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 22 Aug 2024 09:15:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Thu, 22 Aug 2024 08:17:55 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>24.08.28(수)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/08/20240821185328804f6ced-d524-4fec-b194-86ee2c7bd335.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[ADOBT STAGE：전기뱀장어 단독 공연－부산 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9227</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9227</guid>
+            <pubDate>Thu, 22 Aug 2024 09:14:59 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>24.08.28(수)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/08/20240822095136b3d8483c-d60c-4cbb-a1db-631ae8e7943d.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
         <item>
             <title><![CDATA[디깅 나우：벤치위레오 단독 콘서트 ‘향항（香港）’ 티켓 오픈 안내]]></title>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 22 Aug 2024 08:17:55 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>24.08.23(금)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/08/20240821112625df6c52f7-7b7f-4637-9e7a-f4a8ddbca0dd.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[2024 임수향 팬미팅 〈Hyangnight〉 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9216</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9216</guid>
-            <pubDate>Thu, 22 Aug 2024 08:17:55 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>24.08.27(화)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/08/2024082018173951fe256e-0d53-4b91-95c8-527f14916559.png/melon/resize/160x225/strip/true" length="0" type="image/png/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
