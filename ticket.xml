@@ -1,8 +1,91 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://ticket.melon.com/csoon/index.htm</id>
-    <title>멜론 티켓</title>
-    <updated>2024-08-23T05:14:42.936Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>멜론 티켓</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Fri, 23 Aug 2024 06:19:36 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2024 ONEW FAN CONCERT ‘Hola！’ 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9233</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9233</guid>
+            <pubDate>Fri, 23 Aug 2024 06:19:24 GMT</pubDate>
+            <content:encoded><![CDATA[오픈일정 보기 &gt;]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/08/20240822170719b264f2f2-32d4-462e-8df4-c703a2ebb348.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[2024 ONEW FAN CONCERT ‘Hola！’ TICKET OEPN]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9232</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9232</guid>
+            <pubDate>Fri, 23 Aug 2024 06:19:24 GMT</pubDate>
+            <content:encoded><![CDATA[오픈일정 보기 &gt;]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/08/202408221709477d336877-6d8f-4a58-b268-f0fee567bab1.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[밍기뉴 솔로셋 콘서트 〈하고 싶었던 말〉 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9231</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9231</guid>
+            <pubDate>Fri, 23 Aug 2024 06:19:24 GMT</pubDate>
+            <content:encoded><![CDATA[2024.08.26(월) 18:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/08/20240822161115dfb5ec97-633f-49f1-84e8-bc4fca72d7d3.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[이동욱 공식 팬클럽 모집 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9230</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9230</guid>
+            <pubDate>Fri, 23 Aug 2024 06:19:24 GMT</pubDate>
+            <content:encoded><![CDATA[2024.08.26(월) 12:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/08/2024082217362914f7bc2c-ebee-417f-a93f-0aba35bfbf54.png/melon/resize/65x92/strip/true" length="0" type="image/png/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[‘OUR FIRST STAGE’ TOUR：SEORI 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9229</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9229</guid>
+            <pubDate>Fri, 23 Aug 2024 06:19:24 GMT</pubDate>
+            <content:encoded><![CDATA[2024.08.23(금) 19:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/08/202408221508182597e2f2-b9d8-4790-b57d-bcca29cef953.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[EARS－UP＃41_장들레，최고은 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9228</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9228</guid>
+            <pubDate>Fri, 23 Aug 2024 06:19:24 GMT</pubDate>
+            <content:encoded><![CDATA[2024.08.26(월) 19:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/08/20240822151415e8d01a48-1fe0-4239-b4d2-f0cf66952ddb.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[ADOBT STAGE：전기뱀장어 단독 공연－부산 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9227</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9227</guid>
+            <pubDate>Fri, 23 Aug 2024 06:19:24 GMT</pubDate>
+            <content:encoded><![CDATA[2024.08.28(수) 20:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/08/20240822095136b3d8483c-d60c-4cbb-a1db-631ae8e7943d.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[숨비x베리코이버니 〈 Who we love 〉 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9225</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9225</guid>
+            <pubDate>Fri, 23 Aug 2024 06:19:24 GMT</pubDate>
+            <content:encoded><![CDATA[2024.08.28(수) 20:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/08/20240821185328804f6ced-d524-4fec-b194-86ee2c7bd335.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[디깅 나우：벤치위레오 단독 콘서트 ‘향항（香港）’ 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9223</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9223</guid>
+            <pubDate>Fri, 23 Aug 2024 06:19:24 GMT</pubDate>
+            <content:encoded><![CDATA[2024.08.29(목) 20:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/08/20240821181513305ea6e3-e613-47df-88fc-b73112891700.png/melon/resize/65x92/strip/true" length="0" type="image/png/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[스킵잭 첫 정규 앨범 발매 기념 콘서트：giveusasalvation．티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9222</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9222</guid>
+            <pubDate>Fri, 23 Aug 2024 06:19:24 GMT</pubDate>
+            <content:encoded><![CDATA[2024.08.29(목) 20:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/08/20240821181222cbfcc3d6-f242-4a55-8d13-518bbbfc65fd.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+    </channel>
+</rss>
