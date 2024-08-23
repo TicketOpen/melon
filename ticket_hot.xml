@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 23 Aug 2024 10:14:59 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Aug 2024 11:11:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Fri, 23 Aug 2024 07:14:11 GMT</pubDate>
             <content:encoded><![CDATA[오픈일정 보기 &gt;]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/08/2024082316093269be4c0f-a33c-4d04-a072-157a062b25f7.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[VASSLINE 20th Anniversary：BLOOD OF IMMORTALITY 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9237</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9237</guid>
+            <pubDate>Fri, 23 Aug 2024 11:11:52 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>24.08.27(화)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/08/2024082315190686e33e88-73a9-4154-ac74-439eb35a25b2.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
         <item>
             <title><![CDATA[러빔（LUVIM）1st concert 〈하나님의 열심〉 티켓 오픈 안내]]></title>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 23 Aug 2024 08:18:54 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>24.08.26(월)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/08/20240822221903ed3fe397-4540-48a6-953f-3a2f389cd3f9.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[밍기뉴 솔로셋 콘서트 〈하고 싶었던 말〉 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9231</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9231</guid>
-            <pubDate>Fri, 23 Aug 2024 06:19:30 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>24.08.26(월)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/08/20240822161115dfb5ec97-633f-49f1-84e8-bc4fca72d7d3.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
