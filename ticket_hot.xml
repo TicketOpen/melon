@@ -1,8 +1,91 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://ticket.melon.com/csoon/index.htm#orderType=0&amp;pageIndex=1&amp;schGcode=GENRE_ALL&amp;schText=&amp;schDt=</id>
-    <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
-    <updated>2024-08-24T15:13:43.609Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Sat, 24 Aug 2024 16:16:34 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[황금카니발 2024 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9161</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9161</guid>
+            <pubDate>Sat, 24 Aug 2024 16:16:27 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>24.08.14(수)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/08/20240807164404bfd95e6c-9156-4971-8492-925680ee6cad.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[2024 SF9 FAN－CON ‘My 8antasia’ 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9234</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9234</guid>
+            <pubDate>Sat, 24 Aug 2024 16:16:27 GMT</pubDate>
+            <content:encoded><![CDATA[오픈일정 보기 &gt;]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/08/2024082316093269be4c0f-a33c-4d04-a072-157a062b25f7.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[VASSLINE 20th Anniversary：BLOOD OF IMMORTALITY 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9237</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9237</guid>
+            <pubDate>Sat, 24 Aug 2024 16:16:27 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>24.08.27(화)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/08/2024082315190686e33e88-73a9-4154-ac74-439eb35a25b2.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[러빔（LUVIM）1st concert 〈하나님의 열심〉 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9219</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9219</guid>
+            <pubDate>Sat, 24 Aug 2024 16:16:27 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>24.08.26(월)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/08/20240823143041898531f2-035c-4d3f-b0c3-9eba7b8cba6e.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[2024 CNBLUE LIVE－VOYAGE into X 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9140</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9140</guid>
+            <pubDate>Sat, 24 Aug 2024 16:16:27 GMT</pubDate>
+            <content:encoded><![CDATA[오픈일정 보기 &gt;]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/08/20240802110534abf2f4e1-b02b-4870-9b00-c5d673da1870.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[‘OUR FIRST STAGE’ TOUR：SEORI 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9229</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9229</guid>
+            <pubDate>Sat, 24 Aug 2024 16:16:27 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>24.08.23(금)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/08/202408221508182597e2f2-b9d8-4790-b57d-bcca29cef953.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[2024 ONEW FAN CONCERT ‘Hola！’ TICKET OEPN]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9232</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9232</guid>
+            <pubDate>Sat, 24 Aug 2024 16:16:27 GMT</pubDate>
+            <content:encoded><![CDATA[오픈일정 보기 &gt;]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/08/202408221709477d336877-6d8f-4a58-b268-f0fee567bab1.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[2024 ONEW FAN CONCERT ‘Hola！’ 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9233</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9233</guid>
+            <pubDate>Sat, 24 Aug 2024 16:16:27 GMT</pubDate>
+            <content:encoded><![CDATA[오픈일정 보기 &gt;]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/08/20240822170719b264f2f2-32d4-462e-8df4-c703a2ebb348.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[이동욱 공식 팬클럽 모집 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9230</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9230</guid>
+            <pubDate>Sat, 24 Aug 2024 16:16:27 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>24.08.26(월)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/08/2024082217362914f7bc2c-ebee-417f-a93f-0aba35bfbf54.png/melon/resize/160x225/strip/true" length="0" type="image/png/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 〈시카고〉－광주 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9235</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9235</guid>
+            <pubDate>Sat, 24 Aug 2024 16:16:27 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>24.08.26(월)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/08/20240822221903ed3fe397-4540-48a6-953f-3a2f389cd3f9.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+    </channel>
+</rss>
