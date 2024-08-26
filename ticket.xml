@@ -4,9 +4,17 @@
         <title>멜론 티켓</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 26 Aug 2024 04:17:40 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 26 Aug 2024 05:14:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[싱어송와이더 ＃4 위수 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9244</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9244</guid>
+            <pubDate>Mon, 26 Aug 2024 05:14:10 GMT</pubDate>
+            <content:encoded><![CDATA[2024.08.28(수) 18:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/08/20240823163618b77b7873-3437-4fba-b502-4dc0aa05135a.png/melon/resize/65x92/strip/true" length="0" type="image/png/melon/resize/65x92/strip/true"/>
+        </item>
         <item>
             <title><![CDATA[After Thoughts Concert ‘CEDAR’ 티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9243</link>
@@ -24,11 +32,11 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/08/202408231727422bd8f6a3-69da-4f43-acc6-aca0cf1d4144.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
         <item>
-            <title><![CDATA[디깅 나우：변하은 단독공연 ‘마지막 오늘의 노래’ 티켓 오픈 안내]]></title>
+            <title><![CDATA[［오픈시간변경］디깅 나우：변하은 단독공연 ‘마지막 오늘의 노래’ 티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9241</link>
             <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9241</guid>
             <pubDate>Mon, 26 Aug 2024 04:17:27 GMT</pubDate>
-            <content:encoded><![CDATA[2024.08.30(금) 20:00]]></content:encoded>
+            <content:encoded><![CDATA[2024.08.30(금) 14:00]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/08/2024082316272483f4d398-6e16-4f49-80c0-7c9f9fd70f96.png/melon/resize/65x92/strip/true" length="0" type="image/png/melon/resize/65x92/strip/true"/>
         </item>
         <item>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 26 Aug 2024 04:17:27 GMT</pubDate>
             <content:encoded><![CDATA[오픈일정 보기 &gt;]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/08/2024082316093269be4c0f-a33c-4d04-a072-157a062b25f7.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[2024 ONEW FAN CONCERT ‘Hola！’ 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9233</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9233</guid>
-            <pubDate>Mon, 26 Aug 2024 04:17:27 GMT</pubDate>
-            <content:encoded><![CDATA[오픈일정 보기 &gt;]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/08/20240822170719b264f2f2-32d4-462e-8df4-c703a2ebb348.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
     </channel>
 </rss>
