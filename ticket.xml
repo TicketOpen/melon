@@ -4,9 +4,17 @@
         <title>멜론 티켓</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 28 Aug 2024 10:15:04 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 28 Aug 2024 11:12:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[티카콘（TIKACON）：프랭클리 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9256</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9256</guid>
+            <pubDate>Wed, 28 Aug 2024 11:12:09 GMT</pubDate>
+            <content:encoded><![CDATA[2024.09.02(월) 20:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/08/20240827183323ef61ed24-589d-4ee4-b93f-26963a1725eb.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
         <item>
             <title><![CDATA[Anding Credits 티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9254</link>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 28 Aug 2024 10:14:52 GMT</pubDate>
             <content:encoded><![CDATA[2024.08.27(화) 18:00]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/08/20240826143835eb9fbcab-b81c-4bf9-975f-380dc2404dae.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[OFF THE MENU TOUR 2024 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9245</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9245</guid>
-            <pubDate>Wed, 28 Aug 2024 10:14:52 GMT</pubDate>
-            <content:encoded><![CDATA[2024.08.28(수) 20:00]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/08/202408261723246fa0a0b0-9ad4-426c-b6be-3c2cde605f1a.png/melon/resize/65x92/strip/true" length="0" type="image/png/melon/resize/65x92/strip/true"/>
         </item>
     </channel>
 </rss>
