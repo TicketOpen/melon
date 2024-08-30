@@ -4,9 +4,17 @@
         <title>멜론 티켓</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 30 Aug 2024 08:19:27 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 30 Aug 2024 09:16:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[wee＇s ＃1 LET ME KNOW X Dragon Pony 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9262</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9262</guid>
+            <pubDate>Fri, 30 Aug 2024 09:16:09 GMT</pubDate>
+            <content:encoded><![CDATA[2024.09.05(목) 20:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/08/20240829154354802dfd65-3c85-4fb8-b4ac-bcf6659db7fa.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
         <item>
             <title><![CDATA[2024 CHEN FAN－CON ‘Beyond the DOOR’ in Seoul 티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9260</link>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 30 Aug 2024 06:20:29 GMT</pubDate>
             <content:encoded><![CDATA[2024.08.30(금) 14:00]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/08/20240826155827b8a9819b-6086-4769-a79b-1fd2a7ddd7c2.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 〈시카고〉－수원 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9249</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9249</guid>
-            <pubDate>Fri, 30 Aug 2024 06:20:29 GMT</pubDate>
-            <content:encoded><![CDATA[2024.08.30(금) 15:00]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/08/202408291451417ad6e4f6-afdc-4e2c-b8fe-a409f6b33227.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
     </channel>
 </rss>
