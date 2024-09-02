@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 02 Sep 2024 10:15:48 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Sep 2024 11:12:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -48,6 +48,14 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/08/202408301657438ac9def8-b06b-4873-8cc3-1e3706f17f59.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
         <item>
+            <title><![CDATA[2024 사운드웨이브 소셜 페스티벌 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9265</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9265</guid>
+            <pubDate>Mon, 02 Sep 2024 11:12:14 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>24.09.09(월)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/08/20240830165004ded2852e-170f-4d7e-85e1-11d01d8eea8c.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
             <title><![CDATA[로열 클래식 발레단 내한공연 〈호두까기 인형〉－부산 티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9257</link>
             <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9257</guid>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 02 Sep 2024 10:15:41 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>24.08.29(목)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/08/2024082717121416627799-3b60-4ead-b7e1-b1e7428d4b4c.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[TONE STUDIO LIVE 〈사비나앤드론즈（Savina ＆ Drones）〉 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9253</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9253</guid>
-            <pubDate>Mon, 02 Sep 2024 10:15:41 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>24.09.04(수)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/08/202408271650162a299643-6344-411c-9c58-f952219c390a.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
