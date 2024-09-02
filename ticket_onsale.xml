@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 판매중</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 02 Sep 2024 14:13:55 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Sep 2024 15:15:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -231,31 +231,6 @@
                             2024.08.26 - 2024.09.15</td>
                         <td class="show_loc">- </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/08/20240822182703a3d02231-0115-493a-be5a-eacabffa4a95.png/melon/resize/90x125/strip/true" length="0" type="image/png/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[먼데이프로젝트 IN 라이브클럽［품바21 단독 콘서트］]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=210233</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=210233</guid>
-            <pubDate>Mon, 02 Sep 2024 13:20:26 GMT</pubDate>
-            <content:encoded><![CDATA[<td>
-                            <div class="show_infor">
-                                <div class="thumb_90x125  img">
-                                    <a href="#">
-                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/08/20240806162038212a4284-acba-4a19-ac88-6e6283e4032f.jpg/melon/resize/90x125/strip/true" alt="">
-                                        <span class="frame"></span>
-                                    </a>
-                                </div>
-                                <p class="infor_text">
-                                    <span class="ico_wrap">
-                                        <span class="ico_list ico_list1">단독판매</span><span class="ico_list ico_list4"> 판매중</span></span>
-                                    <span class="show_title"><a href="/performance/index.htm?prodId=210233">먼데이프로젝트 IN 라이브클럽［품바21 단독 콘서트］</a></span>
-                                </p>
-                            </div>
-                        </td>
-                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
-                            2024.09.02 - 2024.09.02</td>
-                        <td class="show_loc">카페 언플러그드 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/08/20240806162038212a4284-acba-4a19-ac88-6e6283e4032f.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
             <title><![CDATA[오왠의 ‘어떤 이야기를 들려드릴까요？’ Ep．7 그_냥，위로]]></title>
@@ -506,6 +481,31 @@
                             2024.09.07 - 2024.09.07</td>
                         <td class="show_loc">고라니특공대 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/08/202408071611168e95b2a6-5f4e-4619-aa88-4637f20ee76e.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[Dive to garden 1st Concert ‘Flutter 24’]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=210256</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=210256</guid>
+            <pubDate>Mon, 02 Sep 2024 15:15:12 GMT</pubDate>
+            <content:encoded><![CDATA[<td>
+                            <div class="show_infor">
+                                <div class="thumb_90x125  img">
+                                    <a href="#">
+                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/08/202408122122505d730cb7-73ce-4d5f-a896-1d75e61f62bc.jpg/melon/resize/90x125/strip/true" alt="">
+                                        <span class="frame"></span>
+                                    </a>
+                                </div>
+                                <p class="infor_text">
+                                    <span class="ico_wrap">
+                                        <span class="ico_list ico_list1">단독판매</span><span class="ico_list ico_list4"> 판매중</span></span>
+                                    <span class="show_title"><a href="/performance/index.htm?prodId=210256">Dive to garden 1st Concert ‘Flutter 24’</a></span>
+                                </p>
+                            </div>
+                        </td>
+                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
+                            2024.09.07 - 2024.09.07</td>
+                        <td class="show_loc">KT&amp;G 상상마당 홍대 라이브홀 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/08/202408122122505d730cb7-73ce-4d5f-a896-1d75e61f62bc.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
     </channel>
 </rss>
