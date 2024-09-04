@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 04 Sep 2024 08:18:20 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 Sep 2024 09:16:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -38,6 +38,14 @@
             <pubDate>Wed, 04 Sep 2024 07:14:06 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>24.09.10(화)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/09/202409031701235278233b-c3c8-4cc4-b227-7c45ed368d5d.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[제68회 라이브 클럽 데이－블라인드 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9272</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9272</guid>
+            <pubDate>Wed, 04 Sep 2024 09:16:01 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>24.09.06(금)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/09/20240904103606aea67619-08b6-4741-81e7-5d1368ade953.png/melon/resize/160x225/strip/true" length="0" type="image/png/melon/resize/160x225/strip/true"/>
         </item>
         <item>
             <title><![CDATA[티카콘（TIKACON）：프랭클리 티켓 오픈 안내]]></title>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 04 Sep 2024 07:14:06 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>24.09.03(화)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/08/202408301657438ac9def8-b06b-4873-8cc3-1e3706f17f59.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[2024 사운드웨이브 소셜 페스티벌 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9265</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9265</guid>
-            <pubDate>Wed, 04 Sep 2024 07:14:06 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>24.09.09(월)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/08/20240830165004ded2852e-170f-4d7e-85e1-11d01d8eea8c.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
