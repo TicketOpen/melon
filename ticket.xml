@@ -4,9 +4,17 @@
         <title>멜론 티켓</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 06 Sep 2024 08:19:06 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Sep 2024 09:15:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[can＇t be blue 단독 공연 〈Blue Vinyl〉 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9282</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9282</guid>
+            <pubDate>Fri, 06 Sep 2024 09:15:13 GMT</pubDate>
+            <content:encoded><![CDATA[2024.09.09(월) 20:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/09/20240905182027a62b295c-57bd-435e-95b5-9e9649a1f276.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
         <item>
             <title><![CDATA[2024 카즈미 타테이시 트리오 내한공연－지브리，재즈를 만나다－（성남）티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9280</link>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 06 Sep 2024 08:18:53 GMT</pubDate>
             <content:encoded><![CDATA[2024.09.06(금) 15:00]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/09/20240904103606aea67619-08b6-4741-81e7-5d1368ade953.png/melon/resize/65x92/strip/true" length="0" type="image/png/melon/resize/65x92/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[［슈퍼 얼리버드］하이퍼리얼리즘 50주년 회고전 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9269</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9269</guid>
-            <pubDate>Fri, 06 Sep 2024 08:18:53 GMT</pubDate>
-            <content:encoded><![CDATA[2024.09.06(금) 10:00]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/09/202409051111523b12fa8f-c9af-447b-a192-6fc9dd2f6003.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
     </channel>
 </rss>

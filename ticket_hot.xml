@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 06 Sep 2024 08:19:06 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Sep 2024 09:15:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Fri, 06 Sep 2024 08:18:59 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>24.09.10(화)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/09/202409031701235278233b-c3c8-4cc4-b227-7c45ed368d5d.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[can＇t be blue 단독 공연 〈Blue Vinyl〉 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9282</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9282</guid>
+            <pubDate>Fri, 06 Sep 2024 09:15:19 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>24.09.09(월)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/09/20240905182027a62b295c-57bd-435e-95b5-9e9649a1f276.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
         <item>
             <title><![CDATA[제68회 라이브 클럽 데이－블라인드 티켓 오픈 안내]]></title>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 06 Sep 2024 08:18:59 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>24.09.09(월)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/09/202409051544016b9e2cde-7496-40b9-8e83-7b3977a401ee.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[［슈퍼 얼리버드］하이퍼리얼리즘 50주년 회고전 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9269</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9269</guid>
-            <pubDate>Fri, 06 Sep 2024 08:18:59 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>24.09.06(금)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/09/202409051111523b12fa8f-c9af-447b-a192-6fc9dd2f6003.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
