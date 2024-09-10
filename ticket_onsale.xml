@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 판매중</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 10 Sep 2024 03:17:18 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 Sep 2024 04:18:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -283,6 +283,31 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/08/20240812215852f75cece2-ec50-40e2-8616-2dd28ad193de.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
+            <title><![CDATA[박재범 공식팬클럽 〈JWalkerz〉 1기 모집]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=210370</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=210370</guid>
+            <pubDate>Tue, 10 Sep 2024 04:18:20 GMT</pubDate>
+            <content:encoded><![CDATA[<td>
+                            <div class="show_infor">
+                                <div class="thumb_90x125  img">
+                                    <a href="#">
+                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/09/202409092009182457da76-d600-4349-a742-35dafd4ed3ca.jpg/melon/resize/90x125/strip/true" alt="">
+                                        <span class="frame"></span>
+                                    </a>
+                                </div>
+                                <p class="infor_text">
+                                    <span class="ico_wrap">
+                                        <span class="ico_list ico_list1">단독판매</span><span class="ico_list ico_list4"> 판매중</span></span>
+                                    <span class="show_title"><a href="/performance/index.htm?prodId=210370">박재범 공식팬클럽 〈JWalkerz〉 1기 모집</a></span>
+                                </p>
+                            </div>
+                        </td>
+                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
+                            2024.09.12 - 2024.09.30</td>
+                        <td class="show_loc">- </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/09/202409092009182457da76-d600-4349-a742-35dafd4ed3ca.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
             <title><![CDATA[Memories of you：비안 정규 5집 발매 기념공연]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=210176</link>
             <guid>https://ticket.melon.com/performance/index.htm?prodId=210176</guid>
@@ -481,31 +506,6 @@
                             2024.09.14 - 2024.12.01</td>
                         <td class="show_loc">두산아트센터 연강홀</td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/07/202407191743245241d45e-8e36-463c-9330-ae7d76d1161b.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[손동훈，송하빈，이제규，박철현，김주환－스탠드업 코미디 MOODO with 메타코미디]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=210240</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=210240</guid>
-            <pubDate>Mon, 09 Sep 2024 23:15:32 GMT</pubDate>
-            <content:encoded><![CDATA[<td>
-                            <div class="show_infor">
-                                <div class="thumb_90x125  img">
-                                    <a href="#">
-                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/08/202408091603289b37821e-1e5e-41fb-87e5-4bde394c169f.jpg/melon/resize/90x125/strip/true" alt="">
-                                        <span class="frame"></span>
-                                    </a>
-                                </div>
-                                <p class="infor_text">
-                                    <span class="ico_wrap">
-                                        <span class="ico_list ico_list1">단독판매</span><span class="ico_list ico_list4"> 판매중</span></span>
-                                    <span class="show_title"><a href="/performance/index.htm?prodId=210240">손동훈，송하빈，이제규，박철현，김주환－스탠드업 코미디 MOODO with 메타코미디</a></span>
-                                </p>
-                            </div>
-                        </td>
-                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
-                            2024.09.18 - 2024.09.18</td>
-                        <td class="show_loc">종로 EDLS </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/08/202408091603289b37821e-1e5e-41fb-87e5-4bde394c169f.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
     </channel>
 </rss>

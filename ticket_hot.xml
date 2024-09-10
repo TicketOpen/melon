@@ -4,9 +4,17 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 10 Sep 2024 03:17:18 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 Sep 2024 04:18:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[박재범 공식팬클럽 〈JWalkerz〉 1기 모집 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9292</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9292</guid>
+            <pubDate>Tue, 10 Sep 2024 04:18:13 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>24.09.12(목)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/09/202409091843527b401cfe-80cc-4064-a407-8f8961705dfa.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
         <item>
             <title><![CDATA[케미 커넥트－기프트 X 김마리 티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9290</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 09 Sep 2024 23:15:26 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>24.09.12(목)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/09/20240904160646c030fa50-37b0-4f4d-b848-5c44eb7b5278.png/melon/resize/160x225/strip/true" length="0" type="image/png/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[김승주 앨범 발매 쇼케이스［소년만화 完］티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9275</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9275</guid>
-            <pubDate>Mon, 09 Sep 2024 23:15:26 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>24.09.12(목)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/09/202409041715148ab6a390-42a7-4932-b104-d5d84d588202.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
