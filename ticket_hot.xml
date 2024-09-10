@@ -4,9 +4,17 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 10 Sep 2024 01:06:43 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 Sep 2024 02:41:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[［2024_어린이 특별공연］연극 아빠와 난 초등1학년 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9289</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9289</guid>
+            <pubDate>Tue, 10 Sep 2024 02:41:27 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>24.09.10(화)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/09/2024090914090393d62595-3bc8-41f4-9ae3-336be7ed7140.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
         <item>
             <title><![CDATA[Sylo 내한공연 〈Dreamt that I Was〉 Tour in SEOUL 일반 티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9285</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 09 Sep 2024 23:15:26 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>24.09.12(목)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/09/20240904154435e8cff467-194f-48ae-a57e-5bfb524f1872.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[2024 카즈미 타테이시 트리오 내한공연－지브리，재즈를 만나다－（서울 마포）티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9279</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9279</guid>
-            <pubDate>Mon, 09 Sep 2024 23:15:26 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>24.09.10(화)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/09/2024090516354973df533e-cbee-4efb-b976-e77c209c78f1.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
