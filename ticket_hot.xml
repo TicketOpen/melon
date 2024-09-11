@@ -1,8 +1,91 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://ticket.melon.com/csoon/index.htm#orderType=0&amp;pageIndex=1&amp;schGcode=GENRE_ALL&amp;schText=&amp;schDt=</id>
-    <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
-    <updated>2024-09-11T11:14:07.975Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Wed, 11 Sep 2024 12:28:45 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[박장현 첫 단독 콘서트 〈첫 장〉 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9304</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9304</guid>
+            <pubDate>Wed, 11 Sep 2024 12:28:39 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>24.09.13(금)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/09/20240911170926644daef8-7870-429c-b37c-5920e670e30b.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[김동현의 캘린더 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9309</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9309</guid>
+            <pubDate>Wed, 11 Sep 2024 12:28:39 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>24.09.13(금)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/09/20240910221434f5a29dc3-d2f9-4f76-b39f-3d3ad364b407.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[올블레스 시그니처 원패스－언플러그드 홍대 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9299</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9299</guid>
+            <pubDate>Wed, 11 Sep 2024 12:28:39 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>24.09.20(금)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/09/20240910183725c361c7fe-d1e6-4be3-b355-c6e0e0a61a39.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[2024 CRAVITY FAN－CON 〈BEYOND YOUR MEMORIES〉 추가 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9307</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9307</guid>
+            <pubDate>Wed, 11 Sep 2024 12:28:39 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>24.09.13(금)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/09/2024091018211037f7f2fd-46b5-4b0a-9715-03f8f8a1b0cd.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[올블레스 시그니처 원패스－언플러그드 서교 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9300</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9300</guid>
+            <pubDate>Wed, 11 Sep 2024 12:28:39 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>24.09.20(금)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/09/20240910181905f0ae20e6-acd8-451d-a61f-86ee964e70b8.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[Confessin’：김민희 정규 2집 음반 쇼케이스 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9306</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9306</guid>
+            <pubDate>Wed, 11 Sep 2024 12:28:39 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>24.09.13(금)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/09/2024091018140310c42cde-6809-4360-8173-aba861921ee6.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[올블레스 시그니처 원패스－생기 스튜디오 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9301</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9301</guid>
+            <pubDate>Wed, 11 Sep 2024 12:28:39 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>24.09.20(금)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/09/202409101813243991efbf-7bd4-48ad-bafe-c5200ce9ef1e.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[올블레스 시그니처 원패스－공간비틀즈 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9302</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9302</guid>
+            <pubDate>Wed, 11 Sep 2024 12:28:39 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>24.09.20(금)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/09/20240910180737243813c0-056e-4445-8a85-001f3278295b.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[올블레스 시그니처 원패스－A．O．R 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9298</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9298</guid>
+            <pubDate>Wed, 11 Sep 2024 12:28:39 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>24.09.20(금)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/09/202409101753171410ecd5-cf71-41f5-8950-d78438dc2f5c.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[올블레스 시그니처 올패스 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9303</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9303</guid>
+            <pubDate>Wed, 11 Sep 2024 12:28:39 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>24.09.20(금)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/09/202409101748293c438426-29e7-4618-8783-430da49760e6.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+    </channel>
+</rss>
