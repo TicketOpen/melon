@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 13 Sep 2024 04:17:52 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 Sep 2024 05:14:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,6 +30,14 @@
             <pubDate>Fri, 13 Sep 2024 04:17:45 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>24.09.20(금)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/09/20240912160415485b9106-658e-4898-a233-b7434b3607aa.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[희미넴＆박성호의 문보우Live［크라잉넛］티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9317</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9317</guid>
+            <pubDate>Fri, 13 Sep 2024 05:14:34 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>24.09.19(목)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/09/20240912151841cabf91d2-56c5-474a-9c80-ddd5ccf83732.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
         <item>
             <title><![CDATA[박장현 첫 단독 콘서트 〈첫 장〉 티켓 오픈 안내]]></title>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 13 Sep 2024 04:17:45 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>24.09.20(금)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/09/20240910183725c361c7fe-d1e6-4be3-b355-c6e0e0a61a39.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[2024 CRAVITY FAN－CON 〈BEYOND YOUR MEMORIES〉 추가 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9307</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9307</guid>
-            <pubDate>Fri, 13 Sep 2024 04:17:45 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>24.09.13(금)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/09/2024091018211037f7f2fd-46b5-4b0a-9715-03f8f8a1b0cd.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
