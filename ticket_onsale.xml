@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 판매중</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 14 Sep 2024 14:13:02 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 14 Sep 2024 15:14:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -283,31 +283,6 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/07/20240725191824b9300c05-05ff-43f2-b491-7d0a1d9a0bd3.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
-            <title><![CDATA[드러머 조한샘 리사이틀－재즈로 만나는 대중음악]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=210213</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=210213</guid>
-            <pubDate>Fri, 13 Sep 2024 22:14:47 GMT</pubDate>
-            <content:encoded><![CDATA[<td>
-                            <div class="show_infor">
-                                <div class="thumb_90x125  img">
-                                    <a href="#">
-                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/07/20240730215157f53c489c-2d78-4f7d-9b63-bb94ca642099.jpg/melon/resize/90x125/strip/true" alt="">
-                                        <span class="frame"></span>
-                                    </a>
-                                </div>
-                                <p class="infor_text">
-                                    <span class="ico_wrap">
-                                        <span class="ico_list ico_list1">단독판매</span><span class="ico_list ico_list4"> 판매중</span></span>
-                                    <span class="show_title"><a href="/performance/index.htm?prodId=210213">드러머 조한샘 리사이틀－재즈로 만나는 대중음악</a></span>
-                                </p>
-                            </div>
-                        </td>
-                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
-                            2024.09.14 - 2024.09.14</td>
-                        <td class="show_loc">마포아트센터 플레이 맥</td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/07/20240730215157f53c489c-2d78-4f7d-9b63-bb94ca642099.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
             <title><![CDATA[［얼리버드］툴루즈 로트렉：몽마르트의 별]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=210259</link>
             <guid>https://ticket.melon.com/performance/index.htm?prodId=210259</guid>
@@ -506,6 +481,31 @@
                             2024.09.20 - 2024.09.20</td>
                         <td class="show_loc">클럽온에어 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/08/20240823160321c55713d7-708d-48da-9598-e44d910573d5.png/melon/resize/90x125/strip/true" length="0" type="image/png/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[티카콘（TIKACON）：프랭클리]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=210331</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=210331</guid>
+            <pubDate>Sat, 14 Sep 2024 15:14:26 GMT</pubDate>
+            <content:encoded><![CDATA[<td>
+                            <div class="show_infor">
+                                <div class="thumb_90x125  img">
+                                    <a href="#">
+                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/08/2024082718282927848598-1fd6-4f8b-b533-573681d1f0fb.jpg/melon/resize/90x125/strip/true" alt="">
+                                        <span class="frame"></span>
+                                    </a>
+                                </div>
+                                <p class="infor_text">
+                                    <span class="ico_wrap">
+                                        <span class="ico_list ico_list1">단독판매</span><span class="ico_list ico_list4"> 판매중</span></span>
+                                    <span class="show_title"><a href="/performance/index.htm?prodId=210331">티카콘（TIKACON）：프랭클리</a></span>
+                                </p>
+                            </div>
+                        </td>
+                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
+                            2024.09.20 - 2024.09.20</td>
+                        <td class="show_loc">프리즘홀 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/08/2024082718282927848598-1fd6-4f8b-b533-573681d1f0fb.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
     </channel>
 </rss>
