@@ -4,17 +4,9 @@
         <title>멜론 티켓</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 19 Sep 2024 11:13:10 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 19 Sep 2024 12:28:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[중식이밴드]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9342</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9342</guid>
-            <pubDate>Thu, 19 Sep 2024 11:12:58 GMT</pubDate>
-            <content:encoded><![CDATA[추후공지]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/web/thumb/Noimage_65x92.png" length="0" type="image/png"/>
-        </item>
         <item>
             <title><![CDATA[YB Concert 〈Curtain call〉 티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9330</link>
@@ -86,6 +78,14 @@
             <pubDate>Thu, 19 Sep 2024 08:20:42 GMT</pubDate>
             <content:encoded><![CDATA[2024.09.20(금) 20:00]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/09/202409121620346a7ef4fe-ffe9-461a-becc-7ed81486f8fd.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[『COME UP；First Stage』～이대로 아침까지～티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9319</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9319</guid>
+            <pubDate>Thu, 19 Sep 2024 12:28:45 GMT</pubDate>
+            <content:encoded><![CDATA[2024.09.13(금) 18:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/09/202409121625242c1e7d3e-b7ad-465e-bacc-41199748160b.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
     </channel>
 </rss>
