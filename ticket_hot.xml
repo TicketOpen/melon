@@ -4,9 +4,17 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 19 Sep 2024 10:16:32 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 19 Sep 2024 11:13:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[중식이밴드]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9342</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9342</guid>
+            <pubDate>Thu, 19 Sep 2024 11:13:03 GMT</pubDate>
+            <content:encoded><![CDATA[추후공지]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/web/thumb/Noimage_160x225.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[〈Balming Tiger World Expo 2024〉 티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9320</link>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 19 Sep 2024 08:20:47 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>24.09.26(목)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/09/20240913134913c793b2c6-e225-4747-92b4-3f88be1fb17f.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[먼데이프로젝트 시즌7［프랭클리 단독 콘서트 “STOP SIGN”］티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9325</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9325</guid>
-            <pubDate>Thu, 19 Sep 2024 08:20:47 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>24.09.25(수)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/09/202409131349374fd526da-0b12-4935-8f1f-7b1f6e957b87.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
