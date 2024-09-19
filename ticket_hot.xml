@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 19 Sep 2024 08:20:54 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 19 Sep 2024 09:16:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Thu, 19 Sep 2024 08:20:47 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>24.09.24(화)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/09/20240913170012239356fe-5bbf-4357-9689-ad7529ec0484.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[YB Concert 〈Curtain call〉 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9330</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9330</guid>
+            <pubDate>Thu, 19 Sep 2024 09:16:27 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>24.09.24(화)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/09/20240919093757bf8ce4c2-dd9a-406f-9b25-21a84f2758e4.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
         <item>
             <title><![CDATA[『COME UP；First Stage』～이대로 아침까지～티켓 오픈 안내]]></title>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 19 Sep 2024 08:20:47 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>24.09.25(수)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/09/202409131349374fd526da-0b12-4935-8f1f-7b1f6e957b87.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[2024 K－뮤직 시즌：굿밤 콘서트－부산 2차 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9321</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9321</guid>
-            <pubDate>Thu, 19 Sep 2024 08:20:47 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>24.09.20(금)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/09/202409131337487428f390-52d3-4a53-8b9a-d05ea1f5bb31.png/melon/resize/160x225/strip/true" length="0" type="image/png/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
