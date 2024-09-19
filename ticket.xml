@@ -4,9 +4,17 @@
         <title>멜론 티켓</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 19 Sep 2024 04:18:18 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 19 Sep 2024 05:15:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뮤지컬 〈리지〉 4차 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9328</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9328</guid>
+            <pubDate>Thu, 19 Sep 2024 05:14:54 GMT</pubDate>
+            <content:encoded><![CDATA[2024.09.24(화) 14:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/09/20240913170012239356fe-5bbf-4357-9689-ad7529ec0484.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
         <item>
             <title><![CDATA[수잔 단독 콘서트 ALIVE ‘Find your 알！’ 티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9327</link>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 19 Sep 2024 04:18:04 GMT</pubDate>
             <content:encoded><![CDATA[2024.09.19(목) 14:00]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/09/20240912151841cabf91d2-56c5-474a-9c80-ddd5ccf83732.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[sonicBLOOM 2024 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9316</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9316</guid>
-            <pubDate>Thu, 19 Sep 2024 04:18:04 GMT</pubDate>
-            <content:encoded><![CDATA[2024.09.13(금) 12:00]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/09/202409131543224bf60334-2832-4a20-9cd6-f0c5a310ac7f.png/melon/resize/65x92/strip/true" length="0" type="image/png/melon/resize/65x92/strip/true"/>
         </item>
     </channel>
 </rss>

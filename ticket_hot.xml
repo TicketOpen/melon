@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 19 Sep 2024 04:18:18 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 19 Sep 2024 05:15:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Thu, 19 Sep 2024 04:18:10 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>24.09.13(금)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/09/202409121625242c1e7d3e-b7ad-465e-bacc-41199748160b.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 〈리지〉 4차 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9328</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9328</guid>
+            <pubDate>Thu, 19 Sep 2024 05:15:00 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>24.09.24(화)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/09/20240913170012239356fe-5bbf-4357-9689-ad7529ec0484.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
         <item>
             <title><![CDATA[sonicBLOOM 2024 티켓 오픈 안내]]></title>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 19 Sep 2024 04:18:10 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>24.09.20(금)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/09/202409131337487428f390-52d3-4a53-8b9a-d05ea1f5bb31.png/melon/resize/160x225/strip/true" length="0" type="image/png/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[2024 Hyundai N Festival R4 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9314</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9314</guid>
-            <pubDate>Thu, 19 Sep 2024 04:18:10 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>24.09.13(금)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/09/202409121834104fbb152d-7ca6-4296-b78a-b60476554b57.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
