@@ -1,8 +1,91 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://ticket.melon.com/csoon/index.htm#orderType=0&amp;pageIndex=1&amp;schGcode=GENRE_ALL&amp;schText=&amp;schDt=</id>
-    <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
-    <updated>2024-09-24T09:16:49.740Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Tue, 24 Sep 2024 10:16:18 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[피지 블루 내한공연 Fiji Blue LIVE IN SEOUL ‘The Glide Tour Asia’ 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9347</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9347</guid>
+            <pubDate>Tue, 24 Sep 2024 10:16:12 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>24.09.30(월)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/09/20240924185435f74ee017-6a83-42e6-9263-0814ee2635db.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[윈디시티와 친구들：가을 맞이 조인트 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9351</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9351</guid>
+            <pubDate>Tue, 24 Sep 2024 10:16:12 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>24.09.25(수)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/09/20240924184253d4225f51-5d8f-4f3f-90d2-7404cd80c448.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[sonicBLOOM 2024 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9316</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9316</guid>
+            <pubDate>Tue, 24 Sep 2024 10:16:12 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>24.09.13(금)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/09/202409131543224bf60334-2832-4a20-9cd6-f0c5a310ac7f.png/melon/resize/160x225/strip/true" length="0" type="image/png/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[2024 THE CRY ground 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9246</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9246</guid>
+            <pubDate>Tue, 24 Sep 2024 10:16:12 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>24.08.27(화)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/09/20240924113934fdb1649e-0a8f-435a-9bf9-e8aad432be15.png/melon/resize/160x225/strip/true" length="0" type="image/png/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[2024 KIM YOUNG DAE FAN MEETING 〈YOUNGDAE’s INVITATION〉 IN SEOUL 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9356</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9356</guid>
+            <pubDate>Tue, 24 Sep 2024 10:16:12 GMT</pubDate>
+            <content:encoded><![CDATA[오픈일정 보기 &gt;]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/09/20240923174136c49feb2d-91e2-4db9-a4b3-e24dd4c8aa45.png/melon/resize/160x225/strip/true" length="0" type="image/png/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[［2024⎽셀러브리티 명품 로코］연극 이프온리 크리스마스특별 공연⎽대학로 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9353</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9353</guid>
+            <pubDate>Tue, 24 Sep 2024 10:16:12 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>24.09.27(금)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/09/2024092316493530f6f5ed-cf24-4f54-ad7b-2e6a5f91480e.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[홍진호의 순간；첼로의 숲 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9350</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9350</guid>
+            <pubDate>Tue, 24 Sep 2024 10:16:12 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>24.09.30(월)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/09/20240923164117ac60eca7-17cf-4224-b979-726c2ae0bc34.png/melon/resize/160x225/strip/true" length="0" type="image/png/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[［2024_셀러브리티 명품 로코］연극 이프온리 크리스마스특별 공연_부산 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9354</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9354</guid>
+            <pubDate>Tue, 24 Sep 2024 10:16:12 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>24.09.27(금)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/09/20240923163302add2e855-8a7d-434b-ba6a-c52782e6e56a.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[2024 DOYOUNG CONCERT［Dearest Youth，］시야제한석 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9349</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9349</guid>
+            <pubDate>Tue, 24 Sep 2024 10:16:12 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>24.09.24(화)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/09/202409230952440c569d2b-591b-4f11-8630-f65b02466589.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[CMYK：can’t be blue ＆ HYANG 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9345</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9345</guid>
+            <pubDate>Tue, 24 Sep 2024 10:16:12 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>24.09.30(월)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/09/20240923091521bf89b573-b2e5-429d-86e0-1247f226e0cc.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+    </channel>
+</rss>
