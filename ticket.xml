@@ -4,9 +4,17 @@
         <title>멜론 티켓</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 26 Sep 2024 02:46:52 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Sep 2024 03:20:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[먼데이프로젝트 시즌7［쿠인 단독 콘서트 ‘슈퍼점프：베타테스트’］티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9365</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9365</guid>
+            <pubDate>Thu, 26 Sep 2024 03:20:41 GMT</pubDate>
+            <content:encoded><![CDATA[2024.10.04(금) 19:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/09/20240925163818af66621c-842a-440b-88df-1a14d056fec3.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
         <item>
             <title><![CDATA[2024 윤딴딴 콘서트 〈단지 ‘딴’이 좋아서〉 티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9364</link>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 25 Sep 2024 18:20:11 GMT</pubDate>
             <content:encoded><![CDATA[2024.09.27(금) 09:00]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/09/2024092316493530f6f5ed-cf24-4f54-ad7b-2e6a5f91480e.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[윈디시티와 친구들：가을 맞이 조인트 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9351</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9351</guid>
-            <pubDate>Wed, 25 Sep 2024 18:20:11 GMT</pubDate>
-            <content:encoded><![CDATA[2024.09.25(수) 20:00]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/09/20240924184253d4225f51-5d8f-4f3f-90d2-7404cd80c448.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
     </channel>
 </rss>

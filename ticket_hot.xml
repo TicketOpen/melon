@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 26 Sep 2024 02:46:52 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Sep 2024 03:20:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Wed, 25 Sep 2024 18:20:17 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>24.10.02(수)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/09/202409251727321f7fb301-cb02-4b27-9ea5-ec7cf7f08f76.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[먼데이프로젝트 시즌7［쿠인 단독 콘서트 ‘슈퍼점프：베타테스트’］티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9365</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9365</guid>
+            <pubDate>Thu, 26 Sep 2024 03:20:46 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>24.10.04(금)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/09/20240925163818af66621c-842a-440b-88df-1a14d056fec3.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
         <item>
             <title><![CDATA[피지 블루 내한공연 Fiji Blue LIVE IN SEOUL 티켓 오픈 안내]]></title>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 25 Sep 2024 18:20:17 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>24.09.13(금)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/09/202409131543224bf60334-2832-4a20-9cd6-f0c5a310ac7f.png/melon/resize/160x225/strip/true" length="0" type="image/png/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[2024 THE CRY ground 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9246</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9246</guid>
-            <pubDate>Wed, 25 Sep 2024 18:20:17 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>24.08.27(화)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/09/20240924113934fdb1649e-0a8f-435a-9bf9-e8aad432be15.png/melon/resize/160x225/strip/true" length="0" type="image/png/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
