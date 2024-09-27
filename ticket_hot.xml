@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 27 Sep 2024 10:16:32 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Sep 2024 11:14:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -56,6 +56,14 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/09/20240923164117ac60eca7-17cf-4224-b979-726c2ae0bc34.png/melon/resize/160x225/strip/true" length="0" type="image/png/melon/resize/160x225/strip/true"/>
         </item>
         <item>
+            <title><![CDATA[홍선미 퀸텟 인 코리아 2024 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9374</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9374</guid>
+            <pubDate>Fri, 27 Sep 2024 11:14:03 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>24.10.01(화)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/09/20240926205342e1522cc1-80c4-46d2-809c-cfa0754e7dc1.png/melon/resize/160x225/strip/true" length="0" type="image/png/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
             <title><![CDATA[［2024_셀러브리티 명품 로코］연극 이프온리 크리스마스특별 공연_전주 티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9366</link>
             <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9366</guid>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 27 Sep 2024 10:16:26 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>24.10.04(금)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/09/20240925163818af66621c-842a-440b-88df-1a14d056fec3.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[피지 블루 내한공연 Fiji Blue LIVE IN SEOUL 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9347</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9347</guid>
-            <pubDate>Fri, 27 Sep 2024 10:16:26 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>24.09.30(월)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/09/20240924185435f74ee017-6a83-42e6-9263-0814ee2635db.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
