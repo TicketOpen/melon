@@ -4,9 +4,17 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 01 Oct 2024 04:19:15 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Oct 2024 05:15:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2024 에픽하이 콘서트 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9383</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9383</guid>
+            <pubDate>Tue, 01 Oct 2024 05:15:41 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>24.10.07(월)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/09/202409302035318547dd20-a456-41a9-85f5-46d9faa142e9.png/melon/resize/160x225/strip/true" length="0" type="image/png/melon/resize/160x225/strip/true"/>
+        </item>
         <item>
             <title><![CDATA[디깅 나우：규도 단독공연 ‘그날 여름 그리고 바다’ 발매 쇼케이스 티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9312</link>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 01 Oct 2024 04:19:09 GMT</pubDate>
             <content:encoded><![CDATA[오픈일정 보기 &gt;]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/09/20240926183014fa5cb01d-ad18-4bef-b60d-35bb7570482e.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤튜버콘 Vol 01 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9369</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9369</guid>
-            <pubDate>Tue, 01 Oct 2024 04:19:09 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>24.09.30(월)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/09/20240926181903fba4acc2-015b-4be1-9cb3-889f69942086.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
