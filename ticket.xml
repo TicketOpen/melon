@@ -4,9 +4,25 @@
         <title>멜론 티켓</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 04 Oct 2024 08:19:51 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Oct 2024 09:16:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이병찬 가을 소극장 공연 ‘ENCHANT’ 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9400</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9400</guid>
+            <pubDate>Fri, 04 Oct 2024 09:16:31 GMT</pubDate>
+            <content:encoded><![CDATA[2024.10.08(화) 20:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/10/20241002183809d9af8575-1e3d-47d1-94d4-d531f029efe4.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[Montreux Jazz Festival Japan 2024（몽트뢰 재즈 페스티벌 재팬 2024）티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9399</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9399</guid>
+            <pubDate>Fri, 04 Oct 2024 09:16:31 GMT</pubDate>
+            <content:encoded><![CDATA[2024.10.04(금) 18:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/10/20241003182651d73094e7-b5df-4781-910b-810b66be0d79.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
         <item>
             <title><![CDATA[땡땡이 프로젝트 vol1．D82 티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9397</link>
@@ -70,22 +86,6 @@
             <pubDate>Fri, 04 Oct 2024 08:19:40 GMT</pubDate>
             <content:encoded><![CDATA[2024.10.07(월) 10:00]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/10/20241002153207514525c6-a9ca-440c-acc6-21c410ef7d77.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[디깅 나우：엔분의일 단독공연 ‘락쿠스틱’ 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9388</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9388</guid>
-            <pubDate>Fri, 04 Oct 2024 08:19:40 GMT</pubDate>
-            <content:encoded><![CDATA[2024.10.10(목) 20:00]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/10/20241002133713307da22d-5c8f-4b3c-b940-6c4c2b783b64.png/melon/resize/65x92/strip/true" length="0" type="image/png/melon/resize/65x92/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[현대카드 Curated 95 한로로 X 윤마치 X QWER 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9387</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9387</guid>
-            <pubDate>Fri, 04 Oct 2024 08:19:40 GMT</pubDate>
-            <content:encoded><![CDATA[2024.10.02(수) 18:00]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/09/20240930153250e76ee043-a963-4f57-ad9b-ee96b69dbadc.png/melon/resize/65x92/strip/true" length="0" type="image/png/melon/resize/65x92/strip/true"/>
         </item>
     </channel>
 </rss>
