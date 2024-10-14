@@ -4,9 +4,17 @@
         <title>멜론 티켓</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 14 Oct 2024 11:14:05 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Oct 2024 12:31:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[ChoQMay Live in Seoul 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9443</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9443</guid>
+            <pubDate>Mon, 14 Oct 2024 12:30:47 GMT</pubDate>
+            <content:encoded><![CDATA[2024.10.18(금) 18:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/10/2024101113275491aeecf8-54f4-4ba4-b6b1-b013a62b0487.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
         <item>
             <title><![CDATA[2024 케이윌 앵콜 콘서트 〈All The Way〉：Christmas Edition 티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9440</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 14 Oct 2024 11:13:53 GMT</pubDate>
             <content:encoded><![CDATA[2024.10.14(월) 09:00]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/10/20241010110124c6c4a148-6886-4fd1-8c01-1a20c3215d67.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[［2024_셀러브리티 로코 연극］러브액츄얼리 첫번째 사연 크리스마스 특별공연_인천 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9428</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9428</guid>
-            <pubDate>Mon, 14 Oct 2024 11:13:53 GMT</pubDate>
-            <content:encoded><![CDATA[2024.10.14(월) 09:00]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/10/202410141030153f3ddd7c-51c3-4455-b75b-f5c87d2780d2.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
     </channel>
 </rss>
