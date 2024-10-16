@@ -4,7 +4,7 @@
         <title>멜론 티켓</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 16 Oct 2024 08:20:15 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Oct 2024 09:17:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,22 @@
             <pubDate>Wed, 16 Oct 2024 06:21:34 GMT</pubDate>
             <content:encoded><![CDATA[2024.10.22(화) 11:00]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/10/20241014155252de016bca-6512-4a5a-961e-205d7b6b99c8.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[2024 SAAY Busan 1st Concert，SAAY’S HOMECOMING 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9461</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9461</guid>
+            <pubDate>Wed, 16 Oct 2024 09:17:09 GMT</pubDate>
+            <content:encoded><![CDATA[2024.10.18(금) 12:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/10/20241016114607641b2e7a-714f-4782-8838-ffc4cfe5b483.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[KARDI 단독 콘서트［RED ZONE］2024 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9460</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9460</guid>
+            <pubDate>Wed, 16 Oct 2024 09:17:09 GMT</pubDate>
+            <content:encoded><![CDATA[2024.10.22(화) 20:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/10/20241015212906b698dc3e-2971-43f4-a9c0-48dd9dab7da3.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 〈맥베스〉 티켓 오픈 안내]]></title>
@@ -78,22 +94,6 @@
             <pubDate>Wed, 16 Oct 2024 06:21:35 GMT</pubDate>
             <content:encoded><![CDATA[2024.10.18(금) 14:00]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/10/2024101513280069a8e8cf-9568-4ffe-a9b7-9ddf85b15214.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[우예린 단독 공연［花音：화음］추가 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9449</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9449</guid>
-            <pubDate>Wed, 16 Oct 2024 06:21:35 GMT</pubDate>
-            <content:encoded><![CDATA[2024.10.18(금) 18:00]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/10/202410141756156fd3b017-0c4e-448f-b6f2-ae85927a0da4.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[김정훈 ＆ Leaveourtears ‘Pale Blue Night＃2’ 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9448</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9448</guid>
-            <pubDate>Wed, 16 Oct 2024 06:21:35 GMT</pubDate>
-            <content:encoded><![CDATA[2024.10.18(금) 20:00]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/10/20241014170556e51b2644-e209-4c9d-b18b-dd862220c32d.png/melon/resize/65x92/strip/true" length="0" type="image/png/melon/resize/65x92/strip/true"/>
         </item>
     </channel>
 </rss>
