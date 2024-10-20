@@ -1,8 +1,91 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://ticket.melon.com/csoon/index.htm#orderType=0&amp;pageIndex=1&amp;schGcode=GENRE_ALL&amp;schText=&amp;schDt=</id>
-    <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
-    <updated>2024-10-20T12:29:08.527Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Sun, 20 Oct 2024 13:20:09 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뮤지컬 〈마타하리〉 1차 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9444</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9444</guid>
+            <pubDate>Sun, 20 Oct 2024 13:20:03 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>24.10.22(화)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/10/2024101816563382dff794-a709-440d-bd64-77cc511d5c8b.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[［대구］연재 30주년 기념 명탐정 코난展 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9469</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9469</guid>
+            <pubDate>Sun, 20 Oct 2024 13:20:03 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>24.10.21(월)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/10/2024101716345218f4f31a-9c0b-45bd-831b-823c89fed25c.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[9와 숫자들 콘서트 〈AUTO REVERSE〉 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9470</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9470</guid>
+            <pubDate>Sun, 20 Oct 2024 13:20:03 GMT</pubDate>
+            <content:encoded><![CDATA[오픈일정 보기 &gt;]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/10/20241017170941e8992f83-34da-40c9-bfec-a4ef8d5fef25.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[박지은 첫번째 정규앨범 Honest 릴리즈 쇼케이스 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9475</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9475</guid>
+            <pubDate>Sun, 20 Oct 2024 13:20:03 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>24.10.24(목)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/10/2024101814250735e6373b-02d5-43aa-a5b9-66eee049368d.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[Off The Record Music Festival（오프 더 레코드 뮤직 페스티벌）티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9414</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9414</guid>
+            <pubDate>Sun, 20 Oct 2024 13:20:03 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>24.10.10(목)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/10/202410101823388dcf905b-a570-442b-853e-c8b66edfe172.png/melon/resize/160x225/strip/true" length="0" type="image/png/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 〈맥베스〉 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9458</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9458</guid>
+            <pubDate>Sun, 20 Oct 2024 13:20:03 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>24.10.22(화)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/10/2024101610423657f35ee3-4e34-4b11-bfd6-7a5c1ab50192.png/melon/resize/160x225/strip/true" length="0" type="image/png/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[서울전자음악단 단독공연 〈 Strange and beautiful 〉 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9462</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9462</guid>
+            <pubDate>Sun, 20 Oct 2024 13:20:03 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>24.10.22(화)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/10/2024101718050591e4d1a0-6a85-448c-a9f0-f221b5d28ad2.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[Gist ‘the Artist’ Concert 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9468</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9468</guid>
+            <pubDate>Sun, 20 Oct 2024 13:20:03 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>24.10.19(토)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/10/202410170955390d9999ad-b0aa-4f70-8fd4-057b86580bc0.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[캐치더영 데뷔 1주년 기념 콘서트 〈DREAM IT〉 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9467</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9467</guid>
+            <pubDate>Sun, 20 Oct 2024 13:20:03 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>24.10.21(월)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/10/20241017093738cc8f7349-d9bb-4399-804c-6c08ff819e2b.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[김지현 2집 음반 발매 쇼케이스［beyond the proscenium arch］티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9466</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9466</guid>
+            <pubDate>Sun, 20 Oct 2024 13:20:03 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>24.10.22(화)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/10/20241016150635b4ce2a1d-af28-4622-ac5b-9c43e8140f69.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+    </channel>
+</rss>
