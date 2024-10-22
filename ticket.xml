@@ -4,7 +4,7 @@
         <title>멜론 티켓</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Oct 2024 02:49:40 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Oct 2024 03:22:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -56,14 +56,6 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/10/2024101815241174cdf09d-e790-48dc-a92b-186ec747d93e.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
         <item>
-            <title><![CDATA[유니버설발레단 `호두까기인형` 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9483</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9483</guid>
-            <pubDate>Mon, 21 Oct 2024 23:15:15 GMT</pubDate>
-            <content:encoded><![CDATA[2024.10.24(목) 14:00]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/10/2024102117272975b45754-efe6-46a0-993b-fcd543a33af8.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
-        </item>
-        <item>
             <title><![CDATA[2024 정해인 팬미팅 ‘OUR TIME’ IN SEOUL 티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9482</link>
             <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9482</guid>
@@ -94,6 +86,14 @@
             <pubDate>Mon, 21 Oct 2024 23:15:15 GMT</pubDate>
             <content:encoded><![CDATA[2024.10.23(수) 20:00]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/10/20241018174444654a305a-a334-4c56-8c2b-027404793274.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[MUSIC RUNWAY #5 : 맥거핀 X 아사달 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9477</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9477</guid>
+            <pubDate>Tue, 22 Oct 2024 03:22:11 GMT</pubDate>
+            <content:encoded><![CDATA[2024.10.24(목) 20:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/10/2024102113484291c10615-a89c-4942-9f87-64bc64e10473.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
     </channel>
 </rss>
