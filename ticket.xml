@@ -4,7 +4,7 @@
         <title>멜론 티켓</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 21 Oct 2024 23:15:29 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Oct 2024 01:11:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Mon, 21 Oct 2024 23:15:15 GMT</pubDate>
             <content:encoded><![CDATA[2024.10.22(화) 11:00]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/10/2024101816563382dff794-a709-440d-bd64-77cc511d5c8b.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[2024 SUPERPOP JAPAN 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9488</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9488</guid>
+            <pubDate>Tue, 22 Oct 2024 01:11:09 GMT</pubDate>
+            <content:encoded><![CDATA[2024.10.25(금) 12:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/10/2024102116052484115399-1dc3-4547-9631-fe57472cbb04.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
         <item>
             <title><![CDATA[김마리 3rd EP 〈난기류에 대처하는 법〉 발매 기념 단독 콘서트 티켓 오픈 안내]]></title>
@@ -86,14 +94,6 @@
             <pubDate>Mon, 21 Oct 2024 23:15:15 GMT</pubDate>
             <content:encoded><![CDATA[2024.10.23(수) 20:00]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/10/20241018174444654a305a-a334-4c56-8c2b-027404793274.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[MUSIC RUNWAY #5 : 맥거핀 X 아사달 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9477</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9477</guid>
-            <pubDate>Mon, 21 Oct 2024 23:15:15 GMT</pubDate>
-            <content:encoded><![CDATA[2024.10.24(목) 20:00]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/10/2024102113484291c10615-a89c-4942-9f87-64bc64e10473.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
     </channel>
 </rss>
