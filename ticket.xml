@@ -4,7 +4,7 @@
         <title>멜론 티켓</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Oct 2024 08:20:29 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Oct 2024 09:16:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Tue, 22 Oct 2024 07:16:58 GMT</pubDate>
             <content:encoded><![CDATA[2024.10.22(화) 11:00]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/10/2024101816563382dff794-a709-440d-bd64-77cc511d5c8b.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[LOOK AT! GIRLS(Sanghee X Kawanishi Natsuki X n@di Live in Seoul) 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9491</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9491</guid>
+            <pubDate>Tue, 22 Oct 2024 09:16:35 GMT</pubDate>
+            <content:encoded><![CDATA[2024.10.25(금) 18:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/10/20241021112601723a6d0a-dbee-4641-822c-94a2a9ada655.png/melon/resize/65x92/strip/true" length="0" type="image/png/melon/resize/65x92/strip/true"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 〈이프덴〉 1차 티켓 오픈 안내]]></title>
@@ -86,14 +94,6 @@
             <pubDate>Tue, 22 Oct 2024 07:16:58 GMT</pubDate>
             <content:encoded><![CDATA[2024.10.23(수) 20:00]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/10/20241018150506be2da261-888d-49a3-a784-880a578d87bd.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 〈시카고〉－부산 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9480</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9480</guid>
-            <pubDate>Tue, 22 Oct 2024 07:16:58 GMT</pubDate>
-            <content:encoded><![CDATA[2024.10.24(목) 14:00]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/10/20241018151117885af86a-8d4a-4b11-aa06-3dd8fc20b2d3.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
     </channel>
 </rss>
