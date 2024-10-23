@@ -4,7 +4,7 @@
         <title>멜론 티켓</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Oct 2024 01:09:45 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Oct 2024 02:48:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Tue, 22 Oct 2024 23:15:46 GMT</pubDate>
             <content:encoded><![CDATA[2024.10.22(화) 11:00]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/10/2024101816563382dff794-a709-440d-bd64-77cc511d5c8b.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[2024 솔라(Solar)'s TALK CONCERT [주제파악] 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9493</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9493</guid>
+            <pubDate>Wed, 23 Oct 2024 02:48:01 GMT</pubDate>
+            <content:encoded><![CDATA[오픈일정 보기 &gt;]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/10/2024102217134469e23d74-e206-428a-828f-260549632074.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
         <item>
             <title><![CDATA[Mika Rottenberg: NoNoseKnows 티켓 오픈 안내]]></title>
@@ -86,14 +94,6 @@
             <pubDate>Tue, 22 Oct 2024 23:15:46 GMT</pubDate>
             <content:encoded><![CDATA[2024.10.25(금) 16:00]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/10/2024101815241174cdf09d-e790-48dc-a92b-186ec747d93e.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[2024 정해인 팬미팅 ‘OUR TIME’ IN SEOUL 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9482</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9482</guid>
-            <pubDate>Tue, 22 Oct 2024 23:15:46 GMT</pubDate>
-            <content:encoded><![CDATA[오픈일정 보기 &gt;]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/10/20241018161030ff27f41b-5759-43ad-8d40-a900ed3be6ce.png/melon/resize/65x92/strip/true" length="0" type="image/png/melon/resize/65x92/strip/true"/>
         </item>
     </channel>
 </rss>

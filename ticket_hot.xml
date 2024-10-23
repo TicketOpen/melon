@@ -4,9 +4,17 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Oct 2024 01:09:45 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Oct 2024 02:48:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2024 솔라(Solar)'s TALK CONCERT [주제파악] 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9493</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9493</guid>
+            <pubDate>Wed, 23 Oct 2024 02:48:07 GMT</pubDate>
+            <content:encoded><![CDATA[오픈일정 보기 &gt;]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/10/2024102217134469e23d74-e206-428a-828f-260549632074.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
         <item>
             <title><![CDATA[Mika Rottenberg: NoNoseKnows 티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9492</link>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 22 Oct 2024 23:15:53 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>24.10.24(목)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/10/20241021092818f6fa924f-3d45-4d63-b0f3-b0a9166976c6.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 〈이프덴〉 1차 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9490</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9490</guid>
-            <pubDate>Tue, 22 Oct 2024 23:15:53 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>24.10.25(금)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/10/2024102116594768b15e01-fc8b-4057-8239-fb596d43c7cb.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
