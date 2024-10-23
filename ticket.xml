@@ -4,7 +4,7 @@
         <title>멜론 티켓</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Oct 2024 04:18:49 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Oct 2024 05:16:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Tue, 22 Oct 2024 23:15:46 GMT</pubDate>
             <content:encoded><![CDATA[2024.10.22(화) 11:00]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/10/2024101816563382dff794-a709-440d-bd64-77cc511d5c8b.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[우리들의 우당탕탕 운동회 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9496</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9496</guid>
+            <pubDate>Wed, 23 Oct 2024 05:16:01 GMT</pubDate>
+            <content:encoded><![CDATA[2024.10.31(목) 14:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/10/20241023135012692d65d8-60a1-4167-8f13-81fa68bfd17b.png/melon/resize/65x92/strip/true" length="0" type="image/png/melon/resize/65x92/strip/true"/>
         </item>
         <item>
             <title><![CDATA[번아트페스티벌 티켓 오픈 안내]]></title>
@@ -86,14 +94,6 @@
             <pubDate>Tue, 22 Oct 2024 23:15:46 GMT</pubDate>
             <content:encoded><![CDATA[2024.10.24(목) 20:00]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/10/20241018174209d5cf9439-3846-415c-9212-facae2458b6d.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[Dear．Antares；나의 가장 밝은 별에게 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9486</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9486</guid>
-            <pubDate>Tue, 22 Oct 2024 23:15:46 GMT</pubDate>
-            <content:encoded><![CDATA[2024.10.24(목) 20:00]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/10/202410181517395bb7c9d1-f199-4aa2-b9d5-854ced150da5.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
     </channel>
 </rss>
