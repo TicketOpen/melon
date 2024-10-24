@@ -1,8 +1,91 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://ticket.melon.com/csoon/index.htm#orderType=0&amp;pageIndex=1&amp;schGcode=GENRE_ALL&amp;schText=&amp;schDt=</id>
-    <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
-    <updated>2024-10-24T20:17:56.730Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Thu, 24 Oct 2024 21:18:33 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[컬러풀 스테이지＃6 구구 X 컨파인드화이트 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9431</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9431</guid>
+            <pubDate>Thu, 24 Oct 2024 21:18:27 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>24.10.15(화)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/10/202410241901533fbf356a-310b-4a50-ab8d-f5d546a5c105.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[MMA2024 (멜론뮤직어워드) 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9506</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9506</guid>
+            <pubDate>Thu, 24 Oct 2024 21:18:27 GMT</pubDate>
+            <content:encoded><![CDATA[오픈일정 보기 &gt;]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/10/202410231605347ccf1d97-5839-40c2-b621-afab0691b2bb.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[문화의 날 One Night Only 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9476</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9476</guid>
+            <pubDate>Thu, 24 Oct 2024 21:18:27 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>24.10.28(월)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/10/2024102415432323824754-67bd-43ec-ae08-c72cc883463d.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[g0nny（거니）단독콘서트 “Ours” 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9500</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9500</guid>
+            <pubDate>Thu, 24 Oct 2024 21:18:27 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>24.10.28(월)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/10/20241023223732c387659d-8050-42fd-9f7e-205da26f67e3.png/melon/resize/160x225/strip/true" length="0" type="image/png/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[“검은잎들 [비행실] 발매 기념공연 〈야간비행〉” 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9501</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9501</guid>
+            <pubDate>Thu, 24 Oct 2024 21:18:27 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>24.11.01(금)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/10/20241023160943ffe7f04f-eb05-4055-acb0-2f9b262d7f4a.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[TONE STUDIO LIVE：검은잎들［비행실］발매 기념공연 ‘야간비행’ 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9502</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9502</guid>
+            <pubDate>Thu, 24 Oct 2024 21:18:27 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>24.10.30(수)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/10/20241023232217720793e2-4f2e-4484-b1df-c06d28186330.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[먼데이프로젝트 시즌7 My Universe [사공 단독 콘서트] 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9504</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9504</guid>
+            <pubDate>Thu, 24 Oct 2024 21:18:27 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>24.10.31(목)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/10/2024102313590669d7802c-ed05-41a8-b027-8645ddda0f32.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[먼데이프로젝트 시즌7［벤치위레오 단독 콘서트 ‘뱀（Slytherin）’］티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9503</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9503</guid>
+            <pubDate>Thu, 24 Oct 2024 21:18:27 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>24.10.31(목)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/10/20241024000455b074f803-513d-468f-86c1-b255a0d243fe.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[2024 COOMO 단독콘서트[RE:] 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9507</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9507</guid>
+            <pubDate>Thu, 24 Oct 2024 21:18:27 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>24.10.25(금)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/10/2024102318115131db9cd9-47e0-4f6f-80a7-a201089c16bd.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[SOUL DELIVERY 1st Concert 〈SOUL TRIP〉 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9499</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9499</guid>
+            <pubDate>Thu, 24 Oct 2024 21:18:27 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>24.10.28(월)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/10/202410231605018a8d8e16-dd52-4f4c-b571-9b62748d6d17.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+    </channel>
+</rss>
