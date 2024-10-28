@@ -4,7 +4,7 @@
         <title>멜론 티켓</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 28 Oct 2024 04:20:03 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Oct 2024 05:16:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Mon, 28 Oct 2024 01:13:02 GMT</pubDate>
             <content:encoded><![CDATA[2024.10.22(화) 14:00]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/10/2024101610423657f35ee3-4e34-4b11-bfd6-7a5c1ab50192.png/melon/resize/65x92/strip/true" length="0" type="image/png/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[2024 ONEW B-Day Party ‘O! NEW DAY’ 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9520</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9520</guid>
+            <pubDate>Mon, 28 Oct 2024 05:16:23 GMT</pubDate>
+            <content:encoded><![CDATA[오픈일정 보기 &gt;]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/10/2024102516315904aa4c30-f777-4c9c-9924-6bab23060df0.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
         <item>
             <title><![CDATA[2024 ONEWE 4th Live Concert 'O! NEW E!volution Ⅳ’ 티켓 오픈 안내]]></title>
@@ -86,14 +94,6 @@
             <pubDate>Sun, 27 Oct 2024 21:13:28 GMT</pubDate>
             <content:encoded><![CDATA[2024.11.06(수) 14:00]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/10/202410241559020953ace9-41a8-4f5e-96de-eccc902a204c.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤직 코멘터리 : Talkback #5 'UNXL' 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9508</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9508</guid>
-            <pubDate>Sun, 27 Oct 2024 21:13:28 GMT</pubDate>
-            <content:encoded><![CDATA[2024.10.29(화) 20:00]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/10/202410241544541954340a-e476-4b10-9f22-f053b95227de.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
     </channel>
 </rss>

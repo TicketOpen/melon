@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 28 Oct 2024 04:20:03 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Oct 2024 05:16:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -48,6 +48,14 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/10/202410251554068e31d386-4efe-4e97-8186-5788524c2f1e.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
         <item>
+            <title><![CDATA[2024 ONEW B-Day Party ‘O! NEW DAY’ 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9520</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9520</guid>
+            <pubDate>Mon, 28 Oct 2024 05:16:29 GMT</pubDate>
+            <content:encoded><![CDATA[오픈일정 보기 &gt;]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/10/2024102516315904aa4c30-f777-4c9c-9924-6bab23060df0.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
             <title><![CDATA[2024 ONEWE 4th Live Concert 'O! NEW E!volution Ⅳ’ 티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9519</link>
             <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9519</guid>
@@ -78,14 +86,6 @@
             <pubDate>Sun, 27 Oct 2024 21:13:34 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>24.11.06(수)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/10/20241025101222aac31532-e25c-4e90-9af2-e2ebc96e7b0f.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[MMA2024 (멜론뮤직어워드) 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9506</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9506</guid>
-            <pubDate>Sun, 27 Oct 2024 21:13:34 GMT</pubDate>
-            <content:encoded><![CDATA[오픈일정 보기 &gt;]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/10/202410231605347ccf1d97-5839-40c2-b621-afab0691b2bb.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
