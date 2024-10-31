@@ -1,8 +1,91 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://ticket.melon.com/csoon/index.htm#orderType=0&amp;pageIndex=1&amp;schGcode=GENRE_ALL&amp;schText=&amp;schDt=</id>
-    <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
-    <updated>2024-10-31T04:20:35.800Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Thu, 31 Oct 2024 05:16:59 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[MMA2024 (멜론뮤직어워드) 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9506</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9506</guid>
+            <pubDate>Thu, 31 Oct 2024 05:16:53 GMT</pubDate>
+            <content:encoded><![CDATA[오픈일정 보기 &gt;]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/10/202410231605347ccf1d97-5839-40c2-b621-afab0691b2bb.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[로우행잉프루츠 단독 콘서트 : PASSION OF VARIOUS TYPES 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9526</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9526</guid>
+            <pubDate>Thu, 31 Oct 2024 05:16:53 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>24.11.01(금)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/10/20241029105238c32de9a8-1989-48e2-b621-8e37117a438e.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[맥거핀 단독 콘서트 : Mr. Education 2 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9535</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9535</guid>
+            <pubDate>Thu, 31 Oct 2024 05:16:53 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>24.11.05(화)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/10/20241030160417720baefe-401a-4786-8a71-f009d4eceb59.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[2024 선우정아 단독콘서트 〈너머 (Beyond)〉 in Seoul 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9484</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9484</guid>
+            <pubDate>Thu, 31 Oct 2024 05:16:53 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>24.10.25(금)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/10/2024101815241174cdf09d-e790-48dc-a92b-186ec747d93e.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[디깅나우 : 심아일랜드 단독공연 'Let's find your inner child, Grown-ups! 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9533</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9533</guid>
+            <pubDate>Thu, 31 Oct 2024 05:16:53 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>24.11.07(목)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/10/2024103011325668480520-e0d9-4627-92dd-767442585fa3.png/melon/resize/160x225/strip/true" length="0" type="image/png/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[먼데이프로젝트 IN 라이브클럽 [취향상점 단독 콘서트] 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9534</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9534</guid>
+            <pubDate>Thu, 31 Oct 2024 05:16:53 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>24.11.07(목)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/10/202410301116322a3b67c6-c0e0-4bb7-a856-09be3343c5b6.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[먼데이프로젝트 시즌7 [yooji(유지) EP발매 단독 콘서트 'Take me to your heart'] 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9530</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9530</guid>
+            <pubDate>Thu, 31 Oct 2024 05:16:53 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>24.11.05(화)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/10/2024102914274650865b52-0a91-4e9f-8236-bcc32fde5f16.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[초승 단독 콘서트 : Winter Vacation 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9531</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9531</guid>
+            <pubDate>Thu, 31 Oct 2024 05:16:53 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>24.11.04(월)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/10/20241030090611ac3029e3-4c9e-4b6f-9fcb-be7bad240474.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[먼데이프로젝트 시즌7 청춘의 밤 [이지카이트(Izykite) 단독 콘서트] 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9529</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9529</guid>
+            <pubDate>Thu, 31 Oct 2024 05:16:53 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>24.11.05(화)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/10/202410291820437370cd76-5b5e-41a4-9bd0-d721db527312.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[2024 ONEW B-Day Party ‘O! NEW DAY’ 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9520</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9520</guid>
+            <pubDate>Thu, 31 Oct 2024 05:16:53 GMT</pubDate>
+            <content:encoded><![CDATA[오픈일정 보기 &gt;]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/10/2024102516315904aa4c30-f777-4c9c-9924-6bab23060df0.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+    </channel>
+</rss>
