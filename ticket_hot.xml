@@ -4,11 +4,19 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 31 Oct 2024 01:11:29 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 31 Oct 2024 02:51:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[로우행잉프루츠 단독 콘서트 : Passion of various types 티켓 오픈 안내]]></title>
+            <title><![CDATA[MMA2024 (멜론뮤직어워드) 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9506</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9506</guid>
+            <pubDate>Thu, 31 Oct 2024 02:51:27 GMT</pubDate>
+            <content:encoded><![CDATA[오픈일정 보기 &gt;]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/10/202410231605347ccf1d97-5839-40c2-b621-afab0691b2bb.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[로우행잉프루츠 단독 콘서트 : PASSION OF VARIOUS TYPES 티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9526</link>
             <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9526</guid>
             <pubDate>Wed, 30 Oct 2024 23:15:50 GMT</pubDate>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 30 Oct 2024 23:15:50 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>24.10.30(수)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/10/20241028162326cf6b5c89-7631-4f22-a13a-0bbf221bafb1.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[김성녀의 뮤지컬모노드라마 〈벽 속의 요정〉 A석 추가오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9528</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9528</guid>
-            <pubDate>Wed, 30 Oct 2024 23:15:50 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>24.10.30(수)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/10/20241028170540afd5758a-eaf5-4e58-8aa5-360460aecc69.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
