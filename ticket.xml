@@ -4,7 +4,7 @@
         <title>멜론 티켓</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 01 Nov 2024 08:20:01 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Nov 2024 09:16:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Fri, 01 Nov 2024 02:58:05 GMT</pubDate>
             <content:encoded><![CDATA[2024.10.22(화) 14:00]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/10/2024101610423657f35ee3-4e34-4b11-bfd6-7a5c1ab50192.png/melon/resize/65x92/strip/true" length="0" type="image/png/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[CRACKER’s HOME 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9544</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9544</guid>
+            <pubDate>Fri, 01 Nov 2024 09:16:23 GMT</pubDate>
+            <content:encoded><![CDATA[2024.11.08(금) 20:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/10/20241031163504a8c0f107-22e0-40c0-98fe-d6a03929f3b3.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
         <item>
             <title><![CDATA[연극 〈테베랜드〉 3차 티켓 오픈 안내]]></title>
@@ -86,14 +94,6 @@
             <pubDate>Fri, 01 Nov 2024 02:58:05 GMT</pubDate>
             <content:encoded><![CDATA[2024.11.07(목) 20:00]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/10/2024103011325668480520-e0d9-4627-92dd-767442585fa3.png/melon/resize/65x92/strip/true" length="0" type="image/png/melon/resize/65x92/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[초승 단독 콘서트 : Winter Vacation 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9531</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9531</guid>
-            <pubDate>Fri, 01 Nov 2024 02:58:05 GMT</pubDate>
-            <content:encoded><![CDATA[2024.11.04(월) 20:00]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/10/20241030090611ac3029e3-4c9e-4b6f-9fcb-be7bad240474.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
     </channel>
 </rss>

@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 01 Nov 2024 08:20:01 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Nov 2024 09:16:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Fri, 01 Nov 2024 05:15:59 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>24.11.06(수)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/10/202410251105105145f868-0cd7-4fef-94f8-76684b95330b.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[CRACKER’s HOME 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9544</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9544</guid>
+            <pubDate>Fri, 01 Nov 2024 09:16:29 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>24.11.08(금)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/10/20241031163504a8c0f107-22e0-40c0-98fe-d6a03929f3b3.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
         <item>
             <title><![CDATA[2024-25 린 전국투어 콘서트 “Queen of Serenade” - 대구 티켓 오픈 안내]]></title>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 01 Nov 2024 02:58:10 GMT</pubDate>
             <content:encoded><![CDATA[오픈일정 보기 &gt;]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/10/202410231605347ccf1d97-5839-40c2-b621-afab0691b2bb.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[로우행잉프루츠 단독 콘서트 : PASSION OF VARIOUS TYPES 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9526</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9526</guid>
-            <pubDate>Fri, 01 Nov 2024 02:58:10 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>24.11.01(금)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/10/20241029105238c32de9a8-1989-48e2-b621-8e37117a438e.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
