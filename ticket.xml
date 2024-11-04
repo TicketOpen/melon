@@ -4,7 +4,7 @@
         <title>멜론 티켓</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 03 Nov 2024 23:19:58 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Nov 2024 01:12:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Sun, 03 Nov 2024 22:15:24 GMT</pubDate>
             <content:encoded><![CDATA[2024.10.22(화) 14:00]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/10/2024101610423657f35ee3-4e34-4b11-bfd6-7a5c1ab50192.png/melon/resize/65x92/strip/true" length="0" type="image/png/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[PassCode ASIA TOUR 2024 in Seoul 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9546</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9546</guid>
+            <pubDate>Mon, 04 Nov 2024 01:12:14 GMT</pubDate>
+            <content:encoded><![CDATA[2024.11.04(월) 11:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/11/2024110110371329d2aeb4-12d2-4237-8942-620864e2781c.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
         <item>
             <title><![CDATA[추.성.훈 CONCERT 티켓 오픈 안내]]></title>
@@ -86,14 +94,6 @@
             <pubDate>Sun, 03 Nov 2024 22:15:24 GMT</pubDate>
             <content:encoded><![CDATA[2024.11.05(화) 20:00]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/10/20241030160417720baefe-401a-4786-8a71-f009d4eceb59.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[먼데이프로젝트 IN 라이브클럽 [취향상점 단독 콘서트] 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9534</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9534</guid>
-            <pubDate>Sun, 03 Nov 2024 22:15:24 GMT</pubDate>
-            <content:encoded><![CDATA[2024.11.07(목) 20:00]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/10/202410301116322a3b67c6-c0e0-4bb7-a856-09be3343c5b6.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
     </channel>
 </rss>
