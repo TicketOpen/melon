@@ -4,7 +4,7 @@
         <title>멜론 티켓</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Nov 2024 08:20:27 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Nov 2024 09:16:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,22 @@
             <pubDate>Tue, 05 Nov 2024 08:20:14 GMT</pubDate>
             <content:encoded><![CDATA[2024.10.22(화) 14:00]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/10/2024101610423657f35ee3-4e34-4b11-bfd6-7a5c1ab50192.png/melon/resize/65x92/strip/true" length="0" type="image/png/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[2024 KOKYUNGPYO FANMETTING [KOKYUNGPYO SHOW] 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9560</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9560</guid>
+            <pubDate>Tue, 05 Nov 2024 09:16:38 GMT</pubDate>
+            <content:encoded><![CDATA[2024.11.13(수) 20:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/11/2024110418533837e1a615-e0f6-4d59-88f6-925cc5bc57b2.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[2024 B-day PARTY - CHANYEOL [OFF THE RECORD] 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9559</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9559</guid>
+            <pubDate>Tue, 05 Nov 2024 09:16:38 GMT</pubDate>
+            <content:encoded><![CDATA[오픈일정 보기 &gt;]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/11/202411051013098d74c0d1-070b-4717-b2c1-a1a1f90d3138.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
         <item>
             <title><![CDATA[NO HIPHOP NO LIFE (노힢노랖) Vol.003 - 언에듀케이티드 키드(UNEDUCATED KID) 티켓 오픈 안내]]></title>
@@ -78,22 +94,6 @@
             <pubDate>Tue, 05 Nov 2024 08:20:14 GMT</pubDate>
             <content:encoded><![CDATA[2024.11.08(금) 18:00]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/11/20241101113418f17e8390-aee0-4962-80cf-72b0acd00c5d.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[PassCode ASIA TOUR 2024 in Seoul 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9546</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9546</guid>
-            <pubDate>Tue, 05 Nov 2024 08:20:14 GMT</pubDate>
-            <content:encoded><![CDATA[2024.11.04(월) 11:00]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/11/2024110110371329d2aeb4-12d2-4237-8942-620864e2781c.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[추.성.훈 CONCERT 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9545</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9545</guid>
-            <pubDate>Tue, 05 Nov 2024 08:20:14 GMT</pubDate>
-            <content:encoded><![CDATA[2024.11.04(월) 20:00]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/10/20241031221455fa146331-5aeb-47f8-9fa3-b4624db3fc9a.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
     </channel>
 </rss>
