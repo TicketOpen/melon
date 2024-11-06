@@ -4,7 +4,7 @@
         <title>멜론 티켓</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Nov 2024 02:43:51 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Nov 2024 03:18:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,22 @@
             <pubDate>Wed, 06 Nov 2024 02:43:39 GMT</pubDate>
             <content:encoded><![CDATA[2024.11.08(금) 11:00]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/11/20241105172841e0b5c8ba-8bf4-483e-945e-dd765c7bb1bb.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[2024 KAVE 단독 콘서트 투어 〈Say My Name〉 서울, 부산 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9562</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9562</guid>
+            <pubDate>Wed, 06 Nov 2024 03:18:36 GMT</pubDate>
+            <content:encoded><![CDATA[오픈일정 보기 &gt;]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/11/20241105133431b5ba8a55-68d4-47d3-844b-c179691283c4.png/melon/resize/65x92/strip/true" length="0" type="image/png/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[먼데이프로젝트 시즌7 [김바다밴드 단독 콘서트 ‘바다가 시작되는 곳’] 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9561</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9561</guid>
+            <pubDate>Wed, 06 Nov 2024 03:18:36 GMT</pubDate>
+            <content:encoded><![CDATA[2024.11.13(수) 20:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/11/20241105094736b3e8462b-ded1-4aab-af1f-9127c34a1aea.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
         <item>
             <title><![CDATA[2024 KOKYUNGPYO FANMETTING [KOKYUNGPYO SHOW] 티켓 오픈 안내]]></title>
@@ -78,22 +94,6 @@
             <pubDate>Tue, 05 Nov 2024 23:15:53 GMT</pubDate>
             <content:encoded><![CDATA[2024.11.07(목) 20:00]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/11/202411011722397a1c58c2-65a2-40b3-b9a4-96bb668b58d9.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[제70회 라이브 클럽 데이－블라인드 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9551</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9551</guid>
-            <pubDate>Tue, 05 Nov 2024 23:15:53 GMT</pubDate>
-            <content:encoded><![CDATA[2024.11.06(수) 15:00]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/11/202411041028330e80493e-eb0c-4a32-9c9c-1fc9f5218866.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[정효빈 소극장 단독 콘서트 [The Blossom] 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9548</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9548</guid>
-            <pubDate>Tue, 05 Nov 2024 23:15:53 GMT</pubDate>
-            <content:encoded><![CDATA[2024.11.06(수) 14:00]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/11/20241101114913f7a6d630-47cf-4e5f-9438-06531f38be2e.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
     </channel>
 </rss>
