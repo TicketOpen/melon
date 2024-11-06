@@ -4,7 +4,7 @@
         <title>멜론 티켓</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Nov 2024 09:17:58 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Nov 2024 10:16:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Wed, 06 Nov 2024 08:21:21 GMT</pubDate>
             <content:encoded><![CDATA[2024.10.22(화) 14:00]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/10/2024101610423657f35ee3-4e34-4b11-bfd6-7a5c1ab50192.png/melon/resize/65x92/strip/true" length="0" type="image/png/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[Song Sohee 1st Concert：風流（풍류）티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9565</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9565</guid>
+            <pubDate>Wed, 06 Nov 2024 10:16:34 GMT</pubDate>
+            <content:encoded><![CDATA[2024.11.13(수) 19:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/11/20241106145621dd2acb10-500d-46f9-9072-410edeeeefed.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
         <item>
             <title><![CDATA[아야츠노 유니 1st solo concert “Christmas On The Merry Go Round" 티켓 오픈 안내]]></title>
@@ -86,14 +94,6 @@
             <pubDate>Wed, 06 Nov 2024 08:21:21 GMT</pubDate>
             <content:encoded><![CDATA[2024.11.07(목) 20:00]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/11/202411041908538fefeea2-5e39-44b4-a5ee-93eec364b0a2.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[2024 다양성 연말 단독 공연 〈SNOWBALL〉 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9554</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9554</guid>
-            <pubDate>Wed, 06 Nov 2024 08:21:21 GMT</pubDate>
-            <content:encoded><![CDATA[2024.11.11(월) 20:00]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/11/2024110417012750b2b773-2aa3-4d48-b0e0-a496b7b1f8a4.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
     </channel>
 </rss>
