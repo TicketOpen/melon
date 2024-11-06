@@ -4,7 +4,7 @@
         <title>멜론 티켓</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Nov 2024 01:09:04 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Nov 2024 02:43:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Tue, 05 Nov 2024 23:15:53 GMT</pubDate>
             <content:encoded><![CDATA[2024.10.22(화) 14:00]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/10/2024101610423657f35ee3-4e34-4b11-bfd6-7a5c1ab50192.png/melon/resize/65x92/strip/true" length="0" type="image/png/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[에이퍼즈 앨범발매 쇼케이스 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9563</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9563</guid>
+            <pubDate>Wed, 06 Nov 2024 02:43:39 GMT</pubDate>
+            <content:encoded><![CDATA[2024.11.08(금) 11:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/11/20241105172841e0b5c8ba-8bf4-483e-945e-dd765c7bb1bb.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
         <item>
             <title><![CDATA[2024 KOKYUNGPYO FANMETTING [KOKYUNGPYO SHOW] 티켓 오픈 안내]]></title>
@@ -86,14 +94,6 @@
             <pubDate>Tue, 05 Nov 2024 23:15:53 GMT</pubDate>
             <content:encoded><![CDATA[2024.11.06(수) 14:00]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/11/20241101114913f7a6d630-47cf-4e5f-9438-06531f38be2e.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[폴카이트 X 최인경 겨울 콘서트 ‘12:01’ 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9547</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9547</guid>
-            <pubDate>Tue, 05 Nov 2024 23:15:53 GMT</pubDate>
-            <content:encoded><![CDATA[2024.11.08(금) 18:00]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/11/20241101113418f17e8390-aee0-4962-80cf-72b0acd00c5d.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
     </channel>
 </rss>
