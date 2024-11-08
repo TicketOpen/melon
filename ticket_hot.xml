@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Nov 2024 07:14:28 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Nov 2024 08:19:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,6 +30,14 @@
             <pubDate>Fri, 08 Nov 2024 07:14:22 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>24.11.13(수)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/11/20241108120840fa52f123-21c5-416f-a28c-b2ae2cee3483.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[고상지 단독 콘서트 ‘Christmas in Another World’ 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9583</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9583</guid>
+            <pubDate>Fri, 08 Nov 2024 08:19:13 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>24.11.14(목)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/11/202411081039543dc624ed-f9e7-40f9-a689-7d623af8a648.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
         <item>
             <title><![CDATA[NCT 127 4TH TOUR ‘NEO CITY : SEOUL - THE MOMENTUM’ 티켓 오픈 안내]]></title>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 08 Nov 2024 07:14:22 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>24.11.14(목)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/11/20241107112137990d9a8d-e850-4a5f-826f-61e4690a6e57.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[스티x정민 더블콘서트 ‘그둘이 또 알고싶다 : 인연만이지?’ 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9580</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9580</guid>
-            <pubDate>Fri, 08 Nov 2024 07:14:22 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>24.11.11(월)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/11/202411071017032f5f650f-1e2f-44bb-95de-6c60f44876c4.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
