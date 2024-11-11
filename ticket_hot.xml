@@ -4,9 +4,17 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Nov 2024 01:10:40 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Nov 2024 02:47:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2024 KOKYUNGPYO FANMEETING [KOKYUNGPYO SHOW] 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9560</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9560</guid>
+            <pubDate>Mon, 11 Nov 2024 02:47:33 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>24.11.13(수)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/11/2024110418533837e1a615-e0f6-4d59-88f6-925cc5bc57b2.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
         <item>
             <title><![CDATA[방긋, 빙삭 콘서트 〈너와 나의 우주〉 티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9581</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 11 Nov 2024 01:10:33 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>24.10.22(화)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/10/2024101610423657f35ee3-4e34-4b11-bfd6-7a5c1ab50192.png/melon/resize/160x225/strip/true" length="0" type="image/png/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[2024 김사월 연말 단독 공연 〈밖은 너무 추워 나는〉 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9573</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9573</guid>
-            <pubDate>Mon, 11 Nov 2024 01:10:33 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>24.11.13(수)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/11/20241107142438deaf8116-d88e-4bb8-88b6-2002d76a7773.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
