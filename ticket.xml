@@ -4,9 +4,17 @@
         <title>멜론 티켓</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Nov 2024 09:16:43 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Nov 2024 10:16:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[소원 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9613</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9613</guid>
+            <pubDate>Thu, 14 Nov 2024 10:16:46 GMT</pubDate>
+            <content:encoded><![CDATA[2024.11.15(금) 19:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/11/20241114132908423ec6e2-a1cb-4b6b-8652-9644542277d1.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
         <item>
             <title><![CDATA[브로큰티스 단독 콘서트 [Midnight Inc.] 티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9610</link>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 14 Nov 2024 05:15:46 GMT</pubDate>
             <content:encoded><![CDATA[2024.11.18(월) 20:00]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/11/2024111115525684d4b00c-c8e9-4c6c-a59b-8e6711c8d942.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[2024 치비 단독콘서트 〈What am i〉 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9598</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9598</guid>
-            <pubDate>Thu, 14 Nov 2024 05:15:46 GMT</pubDate>
-            <content:encoded><![CDATA[2024.11.15(금) 20:00]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/11/202411081549599af0d839-e232-4882-91b8-4b37504246ab.png/melon/resize/65x92/strip/true" length="0" type="image/png/melon/resize/65x92/strip/true"/>
         </item>
     </channel>
 </rss>
