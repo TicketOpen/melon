@@ -4,9 +4,17 @@
         <title>멜론 티켓</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Nov 2024 11:13:43 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Nov 2024 12:30:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[감제이 Off the record 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9623</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9623</guid>
+            <pubDate>Fri, 15 Nov 2024 12:30:47 GMT</pubDate>
+            <content:encoded><![CDATA[2024.11.18(월) 21:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/11/20241114213838b262fbdf-879e-467c-948f-411e74d3c4e2.png/melon/resize/65x92/strip/true" length="0" type="image/png/melon/resize/65x92/strip/true"/>
+        </item>
         <item>
             <title><![CDATA[2024 2am Concert 〈2am is coming to town〉-Seoul 티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9622</link>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 15 Nov 2024 11:13:31 GMT</pubDate>
             <content:encoded><![CDATA[2024.11.15(금) 19:00]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/11/20241114132908423ec6e2-a1cb-4b6b-8652-9644542277d1.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[브로큰티스 단독 콘서트 [Midnight Inc.] 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9610</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9610</guid>
-            <pubDate>Fri, 15 Nov 2024 11:13:31 GMT</pubDate>
-            <content:encoded><![CDATA[2024.11.21(목) 20:00]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/11/20241113162233809c713f-b908-4bf9-8b7a-b811475c42f0.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
     </channel>
 </rss>
