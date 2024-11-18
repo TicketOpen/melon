@@ -4,9 +4,25 @@
         <title>멜론 티켓</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Nov 2024 02:58:50 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Nov 2024 03:33:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2024 엔분의일 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9625</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9625</guid>
+            <pubDate>Mon, 18 Nov 2024 03:33:18 GMT</pubDate>
+            <content:encoded><![CDATA[2024.11.20(수) 20:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/11/20241115180147d1ccfc23-e6a0-4300-babc-d4f3eea56c05.png/melon/resize/65x92/strip/true" length="0" type="image/png/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[기프트 연말 단독공연 [ISLAND] 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9624</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9624</guid>
+            <pubDate>Mon, 18 Nov 2024 03:33:18 GMT</pubDate>
+            <content:encoded><![CDATA[2024.11.21(목) 20:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/11/20241115105453a98eadc5-c367-4ed1-99ab-4974f10600d0.png/melon/resize/65x92/strip/true" length="0" type="image/png/melon/resize/65x92/strip/true"/>
+        </item>
         <item>
             <title><![CDATA[감제이 Off the record 티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9623</link>
@@ -70,22 +86,6 @@
             <pubDate>Mon, 18 Nov 2024 01:15:27 GMT</pubDate>
             <content:encoded><![CDATA[2042.11.21(금) 20:00]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/11/20241114161118796d1f97-6d68-4a19-a11f-49dbfd1bdbe1.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[김뜻돌 [천사 인터뷰] 리스닝 세션 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9614</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9614</guid>
-            <pubDate>Mon, 18 Nov 2024 01:15:27 GMT</pubDate>
-            <content:encoded><![CDATA[2024.11.18(월) 20:00]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/11/20241114135641d9ccf6e6-16d2-464c-a4d4-1d022cc2c716.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[소원 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9613</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9613</guid>
-            <pubDate>Mon, 18 Nov 2024 01:15:27 GMT</pubDate>
-            <content:encoded><![CDATA[2024.11.15(금) 19:00]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/11/20241114132908423ec6e2-a1cb-4b6b-8652-9644542277d1.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
     </channel>
 </rss>
