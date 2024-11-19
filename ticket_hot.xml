@@ -1,8 +1,91 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://ticket.melon.com/csoon/index.htm#orderType=0&amp;pageIndex=1&amp;schGcode=GENRE_ALL&amp;schText=&amp;schDt=</id>
-    <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
-    <updated>2024-11-19T17:14:58.829Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Tue, 19 Nov 2024 18:21:53 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뮤지컬 〈웃는 남자〉 1차 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9644</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9644</guid>
+            <pubDate>Tue, 19 Nov 2024 18:21:47 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>24.11.26(화)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/11/2024111916041841dc6232-a775-4d70-91b8-e97f9590dac7.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[“7 ROCK PRIME 2024” 〈Modern Rock Fest〉 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9384</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9384</guid>
+            <pubDate>Tue, 19 Nov 2024 18:21:47 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>24.10.10(목)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/11/202411151052344e206642-dff9-4560-9fdf-46ff0dd8697b.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[미피 70주년 생일 기념전: 미피와 마법 우체통 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9642</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9642</guid>
+            <pubDate>Tue, 19 Nov 2024 18:21:47 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>24.11.21(목)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/11/2024111916335474216a91-d7c8-46ec-9f20-081b8c1aaf8f.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[2024 박시환 Mini Concert : Winter Dreamscape 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9632</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9632</guid>
+            <pubDate>Tue, 19 Nov 2024 18:21:47 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>24.11.21(목)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/11/202411151548533d5f3997-df37-4348-b27f-7889e633d182.png/melon/resize/160x225/strip/true" length="0" type="image/png/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[LEEBADA WINTER CONCERT 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9638</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9638</guid>
+            <pubDate>Tue, 19 Nov 2024 18:21:47 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>24.11.22(금)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/11/2024111913371405c4b6eb-8552-4ab7-9bad-c26250c3f084.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[이영훈 단독 공연 ‘연하장’ 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9643</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9643</guid>
+            <pubDate>Tue, 19 Nov 2024 18:21:47 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>24.11.21(목)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/11/20241119112605c350897a-b0d3-4d15-a253-050361a11788.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[MMA2024 (멜론뮤직어워드) 3차 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9639</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9639</guid>
+            <pubDate>Tue, 19 Nov 2024 18:21:47 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>24.11.21(목)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/11/20241119093950ba9ffe8b-e6fa-408d-ac6a-919988c89bd0.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[박준하 (JUNHA PARK) 연말 단독 콘서트 〈Christmas Town〉 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9615</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9615</guid>
+            <pubDate>Tue, 19 Nov 2024 18:21:47 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>24.11.21(목)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/11/20241114161118796d1f97-6d68-4a19-a11f-49dbfd1bdbe1.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[2024 모브닝 연말 콘서트 〈ADAM〉 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9637</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9637</guid>
+            <pubDate>Tue, 19 Nov 2024 18:21:47 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>24.11.22(금)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/11/20241118164446b06c4b78-d4c7-4791-8444-b33211817b34.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[109 연말 단독 콘서트 ‘잔향’ 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9641</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9641</guid>
+            <pubDate>Tue, 19 Nov 2024 18:21:47 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>24.11.20(수)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/11/202411181553582d1335ec-6fd5-42ea-b78b-1eafc117c732.png/melon/resize/160x225/strip/true" length="0" type="image/png/melon/resize/160x225/strip/true"/>
+        </item>
+    </channel>
+</rss>
