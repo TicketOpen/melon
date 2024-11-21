@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Nov 2024 14:15:19 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Nov 2024 15:17:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -518,31 +518,6 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/11/202411201752490b259c57-f51a-459d-b706-5235e24c9a01.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
-            <title><![CDATA[손을모아 단독 콘서트：WISH，HOPES，DESIRE (멜론티켓 ─ 판매중)]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=210516</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=210516</guid>
-            <pubDate>Thu, 21 Nov 2024 10:17:42 GMT</pubDate>
-            <content:encoded><![CDATA[<td>
-                            <div class="show_infor">
-                                <div class="thumb_90x125  img">
-                                    <a href="#">
-                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/10/202410141845090e3005bd-7056-4638-9d51-44a9bb179d13.jpg/melon/resize/90x125/strip/true" alt="">
-                                        <span class="frame"></span>
-                                    </a>
-                                </div>
-                                <p class="infor_text">
-                                    <span class="ico_wrap">
-                                        <span class="ico_list ico_list1">단독판매</span><span class="ico_list ico_list4"> 판매중</span></span>
-                                    <span class="show_title"><a href="/performance/index.htm?prodId=210516">손을모아 단독 콘서트：WISH，HOPES，DESIRE</a></span>
-                                </p>
-                            </div>
-                        </td>
-                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
-                            2024.11.21 - 2024.11.21</td>
-                        <td class="show_loc">롤링홀 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/10/202410141845090e3005bd-7056-4638-9d51-44a9bb179d13.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
             <title><![CDATA[[땡큐 얼리버드] 미피 70주년 생일 기념전: 미피와 마법 우체통 (멜론티켓 ─ 판매중)]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=210607</link>
             <guid>https://ticket.melon.com/performance/index.htm?prodId=210607</guid>
@@ -666,6 +641,31 @@
                             2024.11.22 - 2024.11.22</td>
                         <td class="show_loc">웨스트브릿지 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/10/20241031222311a563f0d1-497e-40d4-aa13-78ebe6ad8ed8.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[성휘 단독 콘서트 “사랑이 많은 밤” (멜론티켓 ─ 판매중)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=210628</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=210628</guid>
+            <pubDate>Thu, 21 Nov 2024 15:17:05 GMT</pubDate>
+            <content:encoded><![CDATA[<td>
+                            <div class="show_infor">
+                                <div class="thumb_90x125  img">
+                                    <a href="#">
+                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/11/202411051352225b120abd-8893-4287-b079-21cca1ed73fb.jpg/melon/resize/90x125/strip/true" alt="">
+                                        <span class="frame"></span>
+                                    </a>
+                                </div>
+                                <p class="infor_text">
+                                    <span class="ico_wrap">
+                                        <span class="ico_list ico_list1">단독판매</span><span class="ico_list ico_list4"> 판매중</span></span>
+                                    <span class="show_title"><a href="/performance/index.htm?prodId=210628">성휘 단독 콘서트 “사랑이 많은 밤”</a></span>
+                                </p>
+                            </div>
+                        </td>
+                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
+                            2024.11.22 - 2024.11.22</td>
+                        <td class="show_loc">클럽온에어 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/11/202411051352225b120abd-8893-4287-b079-21cca1ed73fb.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
     </channel>
 </rss>
