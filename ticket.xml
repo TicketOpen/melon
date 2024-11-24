@@ -1,8 +1,91 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://ticket.melon.com/csoon/index.htm</id>
-    <title>멜론 티켓</title>
-    <updated>2024-11-24T05:15:01.653Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>멜론 티켓</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Sun, 24 Nov 2024 06:20:59 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[먼데이프로젝트 시즌7 [soul delivery(소울 딜리버리) 단독 콘서트 ‘home sweet home’] 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9672</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9672</guid>
+            <pubDate>Sun, 24 Nov 2024 06:20:46 GMT</pubDate>
+            <content:encoded><![CDATA[2024.11.28(목) 19:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/11/202411221525051cbc5bf5-5b24-4c10-9aa6-ca1acb57037b.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[나원호 단독 콘서트  ‘CHORDS OF CONNECTION’ 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9671</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9671</guid>
+            <pubDate>Sun, 24 Nov 2024 06:20:46 GMT</pubDate>
+            <content:encoded><![CDATA[2024.11.27(수) 18:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/11/20241121160838e99b8822-aaf7-42ba-bd54-7e0b19b206ac.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[9001 단독 콘서트 〈2024 굴이쓰마쓰〉 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9670</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9670</guid>
+            <pubDate>Sun, 24 Nov 2024 06:20:46 GMT</pubDate>
+            <content:encoded><![CDATA[2024.11.27(수) 20:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/11/20241121163736f8ee88f6-0e42-403a-b155-e741c018b73d.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[[문별] The first anniversary of Moon Byul & SHOOTING STAR ‘Twinkle Twinkle’ 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9667</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9667</guid>
+            <pubDate>Sun, 24 Nov 2024 06:20:46 GMT</pubDate>
+            <content:encoded><![CDATA[오픈일정 보기 &gt;]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/11/2024112213390249c6840f-5b6d-4059-b115-70d32338eeed.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[406호 프로젝트 정기공연 [연말정산] 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9666</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9666</guid>
+            <pubDate>Sun, 24 Nov 2024 06:20:46 GMT</pubDate>
+            <content:encoded><![CDATA[2024.11.25(월) 20:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/11/202411220857551ba8f435-805d-4904-bd89-c1dbaf2a8676.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[2024 Someday Christmas in 부산 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9664</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9664</guid>
+            <pubDate>Sun, 24 Nov 2024 06:20:46 GMT</pubDate>
+            <content:encoded><![CDATA[2024.11.22(금) 18:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/11/20241121160203828b7493-5c4a-4cef-ad62-e9e48b39e0a9.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[이지형 콘서트 ‘라이브 크리스마스 2024’ 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9663</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9663</guid>
+            <pubDate>Sun, 24 Nov 2024 06:20:46 GMT</pubDate>
+            <content:encoded><![CDATA[2024.11.25(월) 19:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/11/202411201336026578f539-7f5b-48b8-894a-78880fa21e93.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[Carol Time Legend 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9662</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9662</guid>
+            <pubDate>Sun, 24 Nov 2024 06:20:46 GMT</pubDate>
+            <content:encoded><![CDATA[2024.11.22(금) 18:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/11/2024112012460465b9cf14-7244-405d-bf4b-f84d29cb6f75.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[조동희 앨범 발매 기념 공연 〈꽃차례〉 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9661</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9661</guid>
+            <pubDate>Sun, 24 Nov 2024 06:20:46 GMT</pubDate>
+            <content:encoded><![CDATA[2024.11.22(금) 20:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/11/2024112110513603576d4e-85c8-4eeb-8736-cd39116c7d0c.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[래빗홀 레이블 1st 콘서트 [Love Again] 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9660</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9660</guid>
+            <pubDate>Sun, 24 Nov 2024 06:20:46 GMT</pubDate>
+            <content:encoded><![CDATA[2024.11.22(금) 12:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/11/202411201539054384b880-fb74-4cd7-ab6f-b0847aa1eabe.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+    </channel>
+</rss>
