@@ -4,9 +4,17 @@
         <title>멜론 티켓</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Nov 2024 02:56:47 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Nov 2024 03:30:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[먼데이프로젝트 IN 라이브클럽 [아사달(ASADAL) 단독 콘서트] 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9682</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9682</guid>
+            <pubDate>Tue, 26 Nov 2024 03:30:06 GMT</pubDate>
+            <content:encoded><![CDATA[2024.12.05(목) 20:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/11/20241125144019e0d97ca6-ee87-49b0-a7cc-e23f0a8f5d0c.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
         <item>
             <title><![CDATA[2024 손진욱 음감회 티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9681</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 25 Nov 2024 22:15:07 GMT</pubDate>
             <content:encoded><![CDATA[2024.11.28(목) 19:00]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/11/202411221525051cbc5bf5-5b24-4c10-9aa6-ca1acb57037b.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[나원호 단독 콘서트  ‘CHORDS OF CONNECTION’ 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9671</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9671</guid>
-            <pubDate>Mon, 25 Nov 2024 22:15:07 GMT</pubDate>
-            <content:encoded><![CDATA[2024.11.27(수) 18:00]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/11/20241126085922230f9d96-1b94-48ed-a55c-625b834b1f23.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
     </channel>
 </rss>

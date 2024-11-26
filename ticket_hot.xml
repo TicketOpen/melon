@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Nov 2024 02:56:47 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Nov 2024 03:30:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Tue, 26 Nov 2024 01:14:20 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>24.11.27(수)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/11/20241126085922230f9d96-1b94-48ed-a55c-625b834b1f23.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[먼데이프로젝트 IN 라이브클럽 [아사달(ASADAL) 단독 콘서트] 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9682</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9682</guid>
+            <pubDate>Tue, 26 Nov 2024 03:30:12 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>24.12.05(목)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/11/20241125144019e0d97ca6-ee87-49b0-a7cc-e23f0a8f5d0c.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
         <item>
             <title><![CDATA[OAH! (오아!) 연말 단독 공연 〈We’re May〉 티켓 오픈 안내]]></title>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 25 Nov 2024 22:15:13 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>24.11.27(수)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/11/202411221550417e05be42-0922-4e94-995e-756668fe9c87.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[먼데이프로젝트 시즌7 [soul delivery(소울 딜리버리) 단독 콘서트 ‘home sweet home’] 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9672</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9672</guid>
-            <pubDate>Mon, 25 Nov 2024 22:15:13 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>24.11.28(목)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/11/202411221525051cbc5bf5-5b24-4c10-9aa6-ca1acb57037b.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
