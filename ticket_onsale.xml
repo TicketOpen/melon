@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 판매중</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Nov 2024 14:15:31 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Nov 2024 15:17:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -283,31 +283,6 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/10/20241017103202ac3b3c3c-2216-4e03-9443-59184f66647f.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
-            <title><![CDATA[연극 〈퉁소소리〉]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=209389</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=209389</guid>
-            <pubDate>Wed, 27 Nov 2024 14:15:30 GMT</pubDate>
-            <content:encoded><![CDATA[<td>
-                            <div class="show_infor">
-                                <div class="thumb_90x125  img">
-                                    <a href="#">
-                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/10/20241014132748c68b9f98-b067-4ab2-b235-c6fb0c9ae217.jpg/melon/resize/90x125/strip/true" alt="">
-                                        <span class="frame"></span>
-                                    </a>
-                                </div>
-                                <p class="infor_text">
-                                    <span class="ico_wrap">
-                                        <span class="ico_list ico_list4"> 판매중</span></span>
-                                    <span class="show_title"><a href="/performance/index.htm?prodId=209389">연극 〈퉁소소리〉</a></span>
-                                </p>
-                            </div>
-                        </td>
-                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
-                            2024.11.11 - 2024.11.27</td>
-                        <td class="show_loc">세종문화회관 M씨어터</td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/10/20241014132748c68b9f98-b067-4ab2-b235-c6fb0c9ae217.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
             <title><![CDATA[연극 〈테베랜드〉]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=210443</link>
             <guid>https://ticket.melon.com/performance/index.htm?prodId=210443</guid>
@@ -381,31 +356,6 @@
                             2024.11.21 - 2025.01.24</td>
                         <td class="show_loc">인사센트럴뮤지엄 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/11/202411011438323f7edd64-4ea8-4e75-9274-a4766082ddd1.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[먼데이프로젝트 시즌7 [yooji(유지) EP발매 단독 콘서트 ‘Take me to your heart’]]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=210592</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=210592</guid>
-            <pubDate>Wed, 27 Nov 2024 14:15:30 GMT</pubDate>
-            <content:encoded><![CDATA[<td>
-                            <div class="show_infor">
-                                <div class="thumb_90x125  img">
-                                    <a href="#">
-                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/10/20241029113249b8d5b3c2-4b5c-44b6-9fd8-9eb904cf0579.jpg/melon/resize/90x125/strip/true" alt="">
-                                        <span class="frame"></span>
-                                    </a>
-                                </div>
-                                <p class="infor_text">
-                                    <span class="ico_wrap">
-                                        <span class="ico_list ico_list1">단독판매</span><span class="ico_list ico_list4"> 판매중</span></span>
-                                    <span class="show_title"><a href="/performance/index.htm?prodId=210592">먼데이프로젝트 시즌7 [yooji(유지) EP발매 단독 콘서트 ‘Take me to your heart’]</a></span>
-                                </p>
-                            </div>
-                        </td>
-                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
-                            2024.11.27 - 2024.11.27</td>
-                        <td class="show_loc">언플러그드 홍대 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/10/20241029113249b8d5b3c2-4b5c-44b6-9fd8-9eb904cf0579.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
             <title><![CDATA[LOOK AT! GIRLS(Sanghee X Kawanishi Natsuki X n@di Live in Seoul)]]></title>
@@ -506,6 +456,56 @@
                             2024.11.29 - 2024.11.29</td>
                         <td class="show_loc">구름아래소극장 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/10/202410281620020e60a704-6e95-455b-87ef-18f6971c68b2.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[디깅나우 : 심아일랜드 단독공연 ‘Let‘s find your inner child, Grown-ups!’]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=210601</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=210601</guid>
+            <pubDate>Wed, 27 Nov 2024 15:17:00 GMT</pubDate>
+            <content:encoded><![CDATA[<td>
+                            <div class="show_infor">
+                                <div class="thumb_90x125  img">
+                                    <a href="#">
+                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/10/20241030111624482b1dcc-025c-43c8-a6e5-c5827bc4f97b.png/melon/resize/90x125/strip/true" alt="">
+                                        <span class="frame"></span>
+                                    </a>
+                                </div>
+                                <p class="infor_text">
+                                    <span class="ico_wrap">
+                                        <span class="ico_list ico_list1">단독판매</span><span class="ico_list ico_list4"> 판매중</span></span>
+                                    <span class="show_title"><a href="/performance/index.htm?prodId=210601">디깅나우 :&nbsp;심아일랜드&nbsp;단독공연 ‘Let‘s find your inner child, Grown-ups!’</a></span>
+                                </p>
+                            </div>
+                        </td>
+                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
+                            2024.11.29 - 2024.11.29</td>
+                        <td class="show_loc">클럽온에어 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/10/20241030111624482b1dcc-025c-43c8-a6e5-c5827bc4f97b.png/melon/resize/90x125/strip/true" length="0" type="image/png/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[제70회 라이브 클럽 데이－블라인드 티켓]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=210611</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=210611</guid>
+            <pubDate>Wed, 27 Nov 2024 15:17:00 GMT</pubDate>
+            <content:encoded><![CDATA[<td>
+                            <div class="show_infor">
+                                <div class="thumb_90x125  img">
+                                    <a href="#">
+                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/11/2024110410210012dd3cb1-ad8d-4ff8-9e3a-4e3a9f1b4561.jpg/melon/resize/90x125/strip/true" alt="">
+                                        <span class="frame"></span>
+                                    </a>
+                                </div>
+                                <p class="infor_text">
+                                    <span class="ico_wrap">
+                                        <span class="ico_list ico_list1">단독판매</span><span class="ico_list ico_list4"> 판매중</span></span>
+                                    <span class="show_title"><a href="/performance/index.htm?prodId=210611">제70회 라이브 클럽 데이－블라인드 티켓</a></span>
+                                </p>
+                            </div>
+                        </td>
+                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
+                            2024.11.29 - 2024.11.29</td>
+                        <td class="show_loc">LIVE CLUB DAY </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/11/2024110410210012dd3cb1-ad8d-4ff8-9e3a-4e3a9f1b4561.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
     </channel>
 </rss>
