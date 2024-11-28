@@ -4,9 +4,17 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Nov 2024 08:22:01 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Nov 2024 09:18:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김푸름 단독 콘서트 ‘푸르스름’한 언플러그드 ‘BLUISH’ Unplugged 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9693</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9693</guid>
+            <pubDate>Thu, 28 Nov 2024 07:16:11 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>24.12.09(월)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/11/202411271352468b9aeac8-8696-452f-9362-65a7d907b1e3.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
         <item>
             <title><![CDATA[민수 연말 콘서트: What a 29! 티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9692</link>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 28 Nov 2024 07:16:11 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>24.11.15(금)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/11/202411081422403b8d36c4-09de-417f-af1a-6f9ed831ae0b.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[김푸름 단독 콘서트 ‘푸르스름’한 언플러그드 ‘BLUISH’ Unplugged 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9693</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9693</guid>
-            <pubDate>Thu, 28 Nov 2024 07:16:11 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>24.12.09(월)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/11/202411271352468b9aeac8-8696-452f-9362-65a7d907b1e3.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
