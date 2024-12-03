@@ -1,8 +1,91 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://ticket.melon.com/csoon/index.htm</id>
-    <title>멜론 티켓</title>
-    <updated>2024-12-03T01:16:37.914Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>멜론 티켓</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Tue, 03 Dec 2024 03:02:55 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2024 송하예 콘서트 〈white Song〉 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9721</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9721</guid>
+            <pubDate>Tue, 03 Dec 2024 03:02:42 GMT</pubDate>
+            <content:encoded><![CDATA[2024.12.04(수) 14:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/12/202412021518167b6049df-6251-4ed6-9811-2436510dcc73.PNG/melon/resize/65x92/strip/true" length="0" type="image/PNG/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[The Show Seoul - Part 9. JAZZ [2024아듀 디너콘서트] 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9720</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9720</guid>
+            <pubDate>Tue, 03 Dec 2024 03:02:42 GMT</pubDate>
+            <content:encoded><![CDATA[2024.12.04(수) 12:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/12/20241202142242d4cccf43-1c21-4a19-bd5e-c6d1295a95f7.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[〈손을모아 단독 콘서트 ‘Pray For Me’ : 롤링 30주년 기념 공연〉 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9719</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9719</guid>
+            <pubDate>Tue, 03 Dec 2024 03:02:42 GMT</pubDate>
+            <content:encoded><![CDATA[2024.12.09(월) 20:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/12/20241202152447cdeaa28d-7376-4d5e-90ac-cdc86306399d.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[김승주 연말 단독 콘서트 [THE LAST LIVE LOVE] 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9718</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9718</guid>
+            <pubDate>Tue, 03 Dec 2024 03:02:42 GMT</pubDate>
+            <content:encoded><![CDATA[2024.12.05(목) 20:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/12/20241203094447ad91262e-53cc-41c6-9368-e62ad3f48440.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[차우주 & GYU HYUK : BLOOM 2024 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9717</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9717</guid>
+            <pubDate>Tue, 03 Dec 2024 03:02:42 GMT</pubDate>
+            <content:encoded><![CDATA[2024.12.05(목) 20:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/12/2024120211110028e0edef-9e70-4a79-9174-d868f1f08298.png/melon/resize/65x92/strip/true" length="0" type="image/png/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[담담 1st EP Showcase 〈24Frame〉 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9716</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9716</guid>
+            <pubDate>Tue, 03 Dec 2024 03:02:42 GMT</pubDate>
+            <content:encoded><![CDATA[2024.12.04(수) 20:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/11/2024112914592126aaec78-2f7a-4db7-abcd-75799c0e35c7.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[MGA LIVE in SEOUL, KOREA 2025 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9715</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9715</guid>
+            <pubDate>Tue, 03 Dec 2024 03:02:42 GMT</pubDate>
+            <content:encoded><![CDATA[2024.12.11(수) 21:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/12/2024120215133048756317-4e1d-42b2-844f-c7de597dc036.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[ASC2NT ‘Expecting Tomorrow’ FAN-CON FINAL in Seoul 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9714</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9714</guid>
+            <pubDate>Tue, 03 Dec 2024 03:02:42 GMT</pubDate>
+            <content:encoded><![CDATA[2024.12.03(화) 19:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/11/20241129145357355bdbee-845a-4d39-9818-926702970b29.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[2024 ONEW B-Day Party ‘O! NEW DAY’ 시야제한석 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9713</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9713</guid>
+            <pubDate>Tue, 03 Dec 2024 03:02:42 GMT</pubDate>
+            <content:encoded><![CDATA[2024.12.05(목) 20:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/12/20241202171045b4e58882-d62c-4e26-b19b-1172b731499c.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 〈이프덴〉 3차 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9712</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9712</guid>
+            <pubDate>Tue, 03 Dec 2024 03:02:42 GMT</pubDate>
+            <content:encoded><![CDATA[2024.12.05(목) 11:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/11/20241129112628899b7723-dc1d-4ef7-a5c2-1c7a42e3953b.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+    </channel>
+</rss>
