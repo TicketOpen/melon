@@ -1,8 +1,91 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://ticket.melon.com/csoon/index.htm</id>
-    <title>멜론 티켓</title>
-    <updated>2024-12-04T13:26:52.426Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>멜론 티켓</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Wed, 04 Dec 2024 14:16:12 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[〈공중그늘 단독 콘서트 ‘파수꾼’ : 롤링 30주년 기념 공연〉 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9728</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9728</guid>
+            <pubDate>Wed, 04 Dec 2024 14:16:01 GMT</pubDate>
+            <content:encoded><![CDATA[2024.12.10(화) 20:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/12/20241203113556fcc7efe9-36f2-4b02-8604-eb512c6b09c3.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[워터밤 서울 2025 (WATERBOMB SEOUL 2025) 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9727</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9727</guid>
+            <pubDate>Wed, 04 Dec 2024 14:16:01 GMT</pubDate>
+            <content:encoded><![CDATA[2024.12.04(수) 17:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/12/20241204094910c26aca9e-b039-4103-a3bb-954ca75ebf33.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[[2025_청소년 참여연극] 연극 스윗캔디 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9726</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9726</guid>
+            <pubDate>Wed, 04 Dec 2024 14:16:01 GMT</pubDate>
+            <content:encoded><![CDATA[2024.12.09(월) 09:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/12/20241203155341b0dabf62-820d-4ffa-9469-67d43a234582.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[2024 박규리 팬미팅 〈Gyuriful Night〉 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9725</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9725</guid>
+            <pubDate>Wed, 04 Dec 2024 14:16:01 GMT</pubDate>
+            <content:encoded><![CDATA[2024.12.06(금) 20:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/12/202412030911000e0ef299-21cd-48a5-8986-f4153d851d8a.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[BXB HOME PARTY 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9724</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9724</guid>
+            <pubDate>Wed, 04 Dec 2024 14:16:01 GMT</pubDate>
+            <content:encoded><![CDATA[2024.12.04(수) 19:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/12/202412031411093094eee7-519c-4111-a906-4311d09b72f1.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[극동아시아타이거즈 다큐상영회 〈호랑이, 여름 그리고〉 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9723</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9723</guid>
+            <pubDate>Wed, 04 Dec 2024 14:16:01 GMT</pubDate>
+            <content:encoded><![CDATA[2024.12.10(화) 18:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/12/20241203110155096fa5f3-7002-46da-b922-f0b2a9c66e5e.png/melon/resize/65x92/strip/true" length="0" type="image/png/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[2025 CHANYEOL LIVE TOUR : 都市風景 (City-scape)│Epilogue 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9722</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9722</guid>
+            <pubDate>Wed, 04 Dec 2024 14:16:01 GMT</pubDate>
+            <content:encoded><![CDATA[오픈일정 보기 &gt;]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/12/2024120217235258c0d42d-347a-41e5-90ad-30410c3a7df0.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[2024 송하예 콘서트 〈white Song〉 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9721</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9721</guid>
+            <pubDate>Wed, 04 Dec 2024 14:16:01 GMT</pubDate>
+            <content:encoded><![CDATA[2024.12.04(수) 14:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/12/202412021518167b6049df-6251-4ed6-9811-2436510dcc73.PNG/melon/resize/65x92/strip/true" length="0" type="image/PNG/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[The Show Seoul - Part 9. JAZZ [2024아듀 디너콘서트] 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9720</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9720</guid>
+            <pubDate>Wed, 04 Dec 2024 14:16:01 GMT</pubDate>
+            <content:encoded><![CDATA[2024.12.04(수) 12:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/12/20241202142242d4cccf43-1c21-4a19-bd5e-c6d1295a95f7.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[〈손을모아 단독 콘서트 ‘Pray For Me’ : 롤링 30주년 기념 공연〉 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9719</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9719</guid>
+            <pubDate>Wed, 04 Dec 2024 14:16:01 GMT</pubDate>
+            <content:encoded><![CDATA[2024.12.09(월) 20:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/12/20241202152447cdeaa28d-7376-4d5e-90ac-cdc86306399d.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+    </channel>
+</rss>
