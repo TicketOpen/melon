@@ -4,9 +4,17 @@
         <title>멜론 티켓</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 04 Dec 2024 23:16:08 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 Dec 2024 01:16:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뮤지컬 〈웃는 남자〉 2차 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9729</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9729</guid>
+            <pubDate>Thu, 05 Dec 2024 01:16:22 GMT</pubDate>
+            <content:encoded><![CDATA[2024.12.12(목) 11:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/12/202412050841550dfb844e-bc31-4ec1-84c2-78c52254f3c5.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
         <item>
             <title><![CDATA[〈공중그늘 단독 콘서트 ‘파수꾼’ : 롤링 30주년 기념 공연〉 티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9728</link>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 04 Dec 2024 22:15:51 GMT</pubDate>
             <content:encoded><![CDATA[2024.12.04(수) 12:00]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/12/20241202142242d4cccf43-1c21-4a19-bd5e-c6d1295a95f7.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[〈손을모아 단독 콘서트 ‘Pray For Me’ : 롤링 30주년 기념 공연〉 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9719</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9719</guid>
-            <pubDate>Wed, 04 Dec 2024 22:15:51 GMT</pubDate>
-            <content:encoded><![CDATA[2024.12.09(월) 20:00]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/12/20241202152447cdeaa28d-7376-4d5e-90ac-cdc86306399d.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
     </channel>
 </rss>
