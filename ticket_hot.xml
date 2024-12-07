@@ -1,8 +1,91 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://ticket.melon.com/csoon/index.htm#orderType=0&amp;pageIndex=1&amp;schGcode=GENRE_ALL&amp;schText=&amp;schDt=</id>
-    <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
-    <updated>2024-12-07T07:14:32.909Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Sat, 07 Dec 2024 08:19:39 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[WOO(성현우) FAN-CON [ EVE : WOOnder Countdown ] 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9737</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9737</guid>
+            <pubDate>Sat, 07 Dec 2024 08:19:32 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>24.12.06(금)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/12/202412061822155e13b8ca-1779-4dfb-8416-d23973db166e.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[[오픈일 변경] [2025_청소년 참여연극] 연극 스윗캔디 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9726</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9726</guid>
+            <pubDate>Sat, 07 Dec 2024 08:19:32 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>24.12.12(목)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/12/20241203155341b0dabf62-820d-4ffa-9469-67d43a234582.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[2024 Snake Chicken Soup 단독공연 〈뱀, 닭, 죽〉 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9741</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9741</guid>
+            <pubDate>Sat, 07 Dec 2024 08:19:32 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>24.12.12(목)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/12/2024120517281609421bb7-006f-4df4-aed2-cb734321227f.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[THE VANE UNPLUGGED - SEOUL 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9732</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9732</guid>
+            <pubDate>Sat, 07 Dec 2024 08:19:32 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>24.12.09(월)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/12/20241204111633cdd45582-15d5-463e-af1c-87b0b15915c7.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[[추후 일정 공지] 뮤지컬 〈웃는 남자〉 2차 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9729</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9729</guid>
+            <pubDate>Sat, 07 Dec 2024 08:19:32 GMT</pubDate>
+            <content:encoded><![CDATA[추후공지]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/12/202412050841550dfb844e-bc31-4ec1-84c2-78c52254f3c5.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[Year End Party with Bump2Soul 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9743</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9743</guid>
+            <pubDate>Sat, 07 Dec 2024 08:19:32 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>24.12.09(월)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/12/202412060944307edd5c55-c45c-4c13-bed7-757668130a8e.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[SKYE‘S 이븐한 CHRISTMAS PARTY 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9736</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9736</guid>
+            <pubDate>Sat, 07 Dec 2024 08:19:32 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>24.12.10(화)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/12/2024120515295296ba44e9-10d0-4c9b-8a94-27d99f176116.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[2024 ONEW B-Day Party ‘O! NEW DAY’ 시야제한석 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9713</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9713</guid>
+            <pubDate>Sat, 07 Dec 2024 08:19:32 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>24.12.05(목)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/12/20241202171045b4e58882-d62c-4e26-b19b-1172b731499c.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[먼데이프로젝트 10주년 기념 공연 [MUSIC EVERYDAY 맥거핀X벤치위레오] 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9731</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9731</guid>
+            <pubDate>Sat, 07 Dec 2024 08:19:32 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>24.12.12(목)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/12/20241205135217d3a9ee0a-130b-4802-bcf8-78b6870bf687.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[블루디 단독 콘서트 ‘Merry Blue Dream’：롤링 30주년 기념 공연 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9738</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9738</guid>
+            <pubDate>Sat, 07 Dec 2024 08:19:32 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>24.12.12(목)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/12/202412051119090d255bdd-7a88-4317-862c-b6e692a44e8d.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+    </channel>
+</rss>
