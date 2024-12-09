@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 판매중</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 09 Dec 2024 14:17:01 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 Dec 2024 15:17:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -358,31 +358,6 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/09/202409231603062596411f-8dc2-4510-ad9f-c781b0ba7480.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
-            <title><![CDATA[먼데이프로젝트 시즌7 청춘의 밤 [Ellui(엘루이) 단독 콘서트]]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=210666</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=210666</guid>
-            <pubDate>Mon, 09 Dec 2024 13:28:14 GMT</pubDate>
-            <content:encoded><![CDATA[<td>
-                            <div class="show_infor">
-                                <div class="thumb_90x125  img">
-                                    <a href="#">
-                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/11/20241111161527c6478be9-a587-4821-9868-b520a2feb907.jpg/melon/resize/90x125/strip/true" alt="">
-                                        <span class="frame"></span>
-                                    </a>
-                                </div>
-                                <p class="infor_text">
-                                    <span class="ico_wrap">
-                                        <span class="ico_list ico_list1">단독판매</span><span class="ico_list ico_list4"> 판매중</span></span>
-                                    <span class="show_title"><a href="/performance/index.htm?prodId=210666">먼데이프로젝트 시즌7 청춘의 밤 [Ellui(엘루이) 단독 콘서트]</a></span>
-                                </p>
-                            </div>
-                        </td>
-                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
-                            2024.12.09 - 2024.12.09</td>
-                        <td class="show_loc">클럽온에어 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/11/20241111161527c6478be9-a587-4821-9868-b520a2feb907.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
             <title><![CDATA[연극 죽여주는 이야기]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=210715</link>
             <guid>https://ticket.melon.com/performance/index.htm?prodId=210715</guid>
@@ -506,6 +481,31 @@
                             2024.12.12 - 2024.12.12</td>
                         <td class="show_loc">롤링홀 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/11/2024110412012960ca703f-9fc4-4f19-b605-827ba4e06c21.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[이영훈 단독 공연 ‘연하장’]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=210702</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=210702</guid>
+            <pubDate>Mon, 09 Dec 2024 15:17:51 GMT</pubDate>
+            <content:encoded><![CDATA[<td>
+                            <div class="show_infor">
+                                <div class="thumb_90x125  img">
+                                    <a href="#">
+                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/11/2024111910280791ba6824-2393-4902-8460-e0542b94f5c6.jpg/melon/resize/90x125/strip/true" alt="">
+                                        <span class="frame"></span>
+                                    </a>
+                                </div>
+                                <p class="infor_text">
+                                    <span class="ico_wrap">
+                                        <span class="ico_list ico_list1">단독판매</span><span class="ico_list ico_list4"> 판매중</span></span>
+                                    <span class="show_title"><a href="/performance/index.htm?prodId=210702">이영훈 단독 공연 ‘연하장’</a></span>
+                                </p>
+                            </div>
+                        </td>
+                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
+                            2024.12.13 - 2024.12.15</td>
+                        <td class="show_loc">SPACE SODA2002 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/11/2024111910280791ba6824-2393-4902-8460-e0542b94f5c6.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
     </channel>
 </rss>
