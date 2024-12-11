@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 11 Dec 2024 04:20:18 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 Dec 2024 05:16:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -24,12 +24,28 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/12/20241211090413a3ee0bb6-d656-4529-a5d8-d5718bd25028.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
         <item>
+            <title><![CDATA[2025 Rolling Quartz 〈Stand up tour in SEOUL〉 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9753</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9753</guid>
+            <pubDate>Wed, 11 Dec 2024 05:16:23 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>24.12.16(월)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/12/2024121015371810391bb3-5772-48d8-abf5-cf65806c71cb.png/melon/resize/160x225/strip/true" length="0" type="image/png/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
             <title><![CDATA[zunhozoon (2016-2018) 티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9751</link>
             <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9751</guid>
             <pubDate>Wed, 11 Dec 2024 03:37:44 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>24.12.13(금)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/12/202412101338399e0806a7-7596-4a61-ace0-d6e16a95bf5d.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[CRAVITY 공식 팬클럽 ‘LUVITY’ 5기 모집 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9754</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9754</guid>
+            <pubDate>Wed, 11 Dec 2024 05:16:23 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>24.12.16(월)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/12/20241210141214ab4e7bd8-71e4-43e2-816c-1eccc60751ed.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
         <item>
             <title><![CDATA[NAAKYEUM’s Live Concert 티켓 오픈 안내]]></title>
@@ -70,22 +86,6 @@
             <pubDate>Tue, 10 Dec 2024 21:15:40 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>24.12.12(목)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/12/2024120517281609421bb7-006f-4df4-aed2-cb734321227f.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[밴드 규도 연말 단독공연 〈 HOME COMING PARTY 〉 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9702</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9702</guid>
-            <pubDate>Tue, 10 Dec 2024 21:15:40 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>24.12.04(수)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/11/2024112914023734a3eab2-8100-49b7-a20b-7473c9c8fe09.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[크랙샷 단독 콘서트 ‘CRACKSHOT’: 롤링 30주년 기념 공연 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9730</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9730</guid>
-            <pubDate>Tue, 10 Dec 2024 21:15:40 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>24.12.11(수)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/12/202412041024170c346698-4e7e-4a60-ae28-446846beae23.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
