@@ -4,9 +4,17 @@
         <title>멜론 티켓</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 11 Dec 2024 01:16:47 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 Dec 2024 03:00:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[NAAKYEUM’s Live Concert 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9750</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9750</guid>
+            <pubDate>Wed, 11 Dec 2024 02:59:56 GMT</pubDate>
+            <content:encoded><![CDATA[2024.12.11(수) 12:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/12/20241210113102135c8f93-f6d8-4735-b2c8-9b2a5d8a09e1.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
         <item>
             <title><![CDATA[극동아시아타이거즈 단독 콘서트 ‘몽유호원’ : 롤링 30주년 기념 공연 티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9749</link>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 10 Dec 2024 21:15:34 GMT</pubDate>
             <content:encoded><![CDATA[2024.12.12(목) 20:00]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/12/202412051119090d255bdd-7a88-4317-862c-b6e692a44e8d.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[WOO(성현우) FAN-CON [ EVE : WOOnder Countdown ] 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9737</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9737</guid>
-            <pubDate>Tue, 10 Dec 2024 21:15:34 GMT</pubDate>
-            <content:encoded><![CDATA[2024.12.06(금) 20:00]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/12/202412061822155e13b8ca-1779-4dfb-8416-d23973db166e.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
     </channel>
 </rss>
