@@ -1,8 +1,91 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://ticket.melon.com/csoon/index.htm</id>
-    <title>멜론 티켓</title>
-    <updated>2024-12-14T22:14:38.994Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>멜론 티켓</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Sat, 14 Dec 2024 23:14:55 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[최준호 1st Fan Concert 〈Joon’s Story〉 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9766</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9766</guid>
+            <pubDate>Sat, 14 Dec 2024 23:14:43 GMT</pubDate>
+            <content:encoded><![CDATA[2024.12.17(화) 20:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/12/202412121431398db37997-be6f-4bd3-a9eb-3faac6a6e896.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[TUNE UP STAGE : blah(블라) 첫 단독 콘서트 〈한 번 더 안녕〉 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9765</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9765</guid>
+            <pubDate>Sat, 14 Dec 2024 23:14:43 GMT</pubDate>
+            <content:encoded><![CDATA[2024.12.16(월) 18:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/12/20241212114100f33aa2b5-c887-4a06-942d-3844715287b7.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[연극 〈테베랜드〉 5차 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9763</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9763</guid>
+            <pubDate>Sat, 14 Dec 2024 23:14:43 GMT</pubDate>
+            <content:encoded><![CDATA[2024.12.18(수) 14:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/12/20241212105744e3e16203-0f37-412d-a67a-b7ad284599fc.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[와글와글: The Joyfools&난파란 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9762</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9762</guid>
+            <pubDate>Sat, 14 Dec 2024 23:14:43 GMT</pubDate>
+            <content:encoded><![CDATA[2024.12.16(월) 20:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/12/20241213165702bbd36b36-b1ad-49d4-9662-a9e83544f45b.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[허클베리피 단독 콘서트 ‘Storyteller: Page 18’ : 롤링 30주년 기념 공연 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9761</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9761</guid>
+            <pubDate>Sat, 14 Dec 2024 23:14:43 GMT</pubDate>
+            <content:encoded><![CDATA[2024.12.19(목) 20:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/12/20241212103637a3a3b7f2-dede-4fdd-a632-e129d61805e3.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[시네마천국 이머시브 특별전-TO.TOTO 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9760</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9760</guid>
+            <pubDate>Sat, 14 Dec 2024 23:14:43 GMT</pubDate>
+            <content:encoded><![CDATA[2024.12.13(금) 09:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/12/2024121215235902e5dd3d-16e9-4c8f-9498-44ef20102bb9.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[앙투안 보이어 & 김여레 〈You and I〉 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9759</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9759</guid>
+            <pubDate>Sat, 14 Dec 2024 23:14:43 GMT</pubDate>
+            <content:encoded><![CDATA[2024.12.17(화) 12:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/12/20241212183450a3c50d39-fa57-4301-aa95-ad08012b5781.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[2025 유연석 FANMEETING 〈The Secret Code : Y〉 IN SEOUL 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9758</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9758</guid>
+            <pubDate>Sat, 14 Dec 2024 23:14:43 GMT</pubDate>
+            <content:encoded><![CDATA[2024.12.19(목) 20:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/12/20241211161124e41a5f56-d171-44d9-a419-f08137b3ffe9.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 〈마타하리〉 4차 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9757</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9757</guid>
+            <pubDate>Sat, 14 Dec 2024 23:14:43 GMT</pubDate>
+            <content:encoded><![CDATA[2024.12.19(목) 11:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/12/20241212093838f179e688-475e-4dfb-bbfe-03797bb292ba.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[2025 CREZL CONCERT ‘BACKSTAGE : Logline’ 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9756</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9756</guid>
+            <pubDate>Sat, 14 Dec 2024 23:14:43 GMT</pubDate>
+            <content:encoded><![CDATA[2024.12.13(금) 19:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/12/20241211085311e0912828-7881-467e-b8df-320f4e9cf926.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+    </channel>
+</rss>
