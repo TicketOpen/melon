@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 판매중</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 16 Dec 2024 14:16:37 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 Dec 2024 15:18:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -433,31 +433,6 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/10/202410230347154f8d7ee4-b2eb-4176-9f56-d2dcdbb0970e.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
-            <title><![CDATA[먼데이프로젝트 시즌7 [Robiq 연말 파티]]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=210713</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=210713</guid>
-            <pubDate>Mon, 16 Dec 2024 13:27:10 GMT</pubDate>
-            <content:encoded><![CDATA[<td>
-                            <div class="show_infor">
-                                <div class="thumb_90x125  img">
-                                    <a href="#">
-                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/11/202411211107560af7300a-6c66-4480-a0f6-fa6e53fba4b2.jpg/melon/resize/90x125/strip/true" alt="">
-                                        <span class="frame"></span>
-                                    </a>
-                                </div>
-                                <p class="infor_text">
-                                    <span class="ico_wrap">
-                                        <span class="ico_list ico_list1">단독판매</span><span class="ico_list ico_list4"> 판매중</span></span>
-                                    <span class="show_title"><a href="/performance/index.htm?prodId=210713">먼데이프로젝트 시즌7 [Robiq 연말 파티]</a></span>
-                                </p>
-                            </div>
-                        </td>
-                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
-                            2024.12.16 - 2024.12.16</td>
-                        <td class="show_loc">클럽온에어 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/11/202411211107560af7300a-6c66-4480-a0f6-fa6e53fba4b2.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
             <title><![CDATA[CRAVITY 공식 팬클럽 ‘LUVITY’ 5기 모집]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=210801</link>
             <guid>https://ticket.melon.com/performance/index.htm?prodId=210801</guid>
@@ -506,6 +481,31 @@
                             2024.12.17 - 2024.12.17</td>
                         <td class="show_loc">클럽온에어 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/11/20241122152402eca4b640-3b8f-4d5f-b4cc-7e156c1dfac2.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[OAH! (오아!) 연말 단독 공연 〈We’re May〉]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=210729</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=210729</guid>
+            <pubDate>Mon, 16 Dec 2024 15:18:29 GMT</pubDate>
+            <content:encoded><![CDATA[<td>
+                            <div class="show_infor">
+                                <div class="thumb_90x125  img">
+                                    <a href="#">
+                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/11/202411251356077c12b861-3f6a-49d6-96d8-c381fbc66f8a.jpg/melon/resize/90x125/strip/true" alt="">
+                                        <span class="frame"></span>
+                                    </a>
+                                </div>
+                                <p class="infor_text">
+                                    <span class="ico_wrap">
+                                        <span class="ico_list ico_list1">단독판매</span><span class="ico_list ico_list4"> 판매중</span></span>
+                                    <span class="show_title"><a href="/performance/index.htm?prodId=210729">OAH! (오아!) 연말 단독 공연 〈We’re May〉</a></span>
+                                </p>
+                            </div>
+                        </td>
+                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
+                            2024.12.19 - 2024.12.19</td>
+                        <td class="show_loc">생기스튜디오 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/11/202411251356077c12b861-3f6a-49d6-96d8-c381fbc66f8a.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
     </channel>
 </rss>
