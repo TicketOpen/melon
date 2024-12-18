@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 18 Dec 2024 10:17:05 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 Dec 2024 11:13:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Wed, 18 Dec 2024 10:16:58 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>25.01.02(목)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/12/202412181531453bf6a5b2-3c82-4cef-bb5d-6b80a4e0af0c.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[swingBY: 중력가속도 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9784</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9784</guid>
+            <pubDate>Wed, 18 Dec 2024 11:13:28 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>24.12.19(목)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/12/20241218133959a64bb4a4-bb2e-44d1-9d64-17b14e97a59d.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
         <item>
             <title><![CDATA[먼데이프로젝트 시즌8 [심아일랜드 단독 콘서트 ‘Our Universe Party’] 티켓 오픈 안내]]></title>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 18 Dec 2024 10:16:58 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>24.12.20(금)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/12/20241216090025939ca7af-71f3-49ca-b015-4e0efc509633.png/melon/resize/160x225/strip/true" length="0" type="image/png/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[About Tmmm(틈에 관하여) 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9776</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9776</guid>
-            <pubDate>Wed, 18 Dec 2024 10:16:58 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>24.12.20(금)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/12/202412161134480e6d6e82-1848-41d1-87c1-dbcd45d30f41.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
