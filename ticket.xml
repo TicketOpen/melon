@@ -4,9 +4,25 @@
         <title>멜론 티켓</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 20 Dec 2024 08:19:55 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 Dec 2024 09:16:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2025 이범준 단독 콘서트 〈BOYHOOD〉 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9793</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9793</guid>
+            <pubDate>Fri, 20 Dec 2024 09:16:12 GMT</pubDate>
+            <content:encoded><![CDATA[2024.12.23(월) 20:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/12/2024121914461300b3d886-777f-480f-85d6-2be868819d60.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[Happy New Rock‘n’Roll 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9792</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9792</guid>
+            <pubDate>Fri, 20 Dec 2024 09:16:12 GMT</pubDate>
+            <content:encoded><![CDATA[2024.12.27(금) 18:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/12/20241219110416e11444be-f828-485c-bfc5-5df245009a04.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
         <item>
             <title><![CDATA[노브레인 단독 콘서트 ‘노래부인Ⅱ’ : 롤링 30주년 기념 공연 티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9790</link>
@@ -70,22 +86,6 @@
             <pubDate>Fri, 20 Dec 2024 03:20:40 GMT</pubDate>
             <content:encoded><![CDATA[2024.12.26(목) 19:00]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/12/20241218131933d489cf92-2ce9-477a-b527-b56b3107518a.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[Coaltar of the Deepers Live in Seoul 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9779</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9779</guid>
-            <pubDate>Fri, 20 Dec 2024 03:20:40 GMT</pubDate>
-            <content:encoded><![CDATA[2025.01.02(목) 14:00]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/12/202412181531453bf6a5b2-3c82-4cef-bb5d-6b80a4e0af0c.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[THE BRIDGE 2025 서울콘서트 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9778</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9778</guid>
-            <pubDate>Fri, 20 Dec 2024 03:20:40 GMT</pubDate>
-            <content:encoded><![CDATA[2024.12.20(금) 14:00]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/12/202412171803139f6ef880-b8fd-4707-9945-1bced45a3367.png/melon/resize/65x92/strip/true" length="0" type="image/png/melon/resize/65x92/strip/true"/>
         </item>
     </channel>
 </rss>
