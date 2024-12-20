@@ -4,9 +4,17 @@
         <title>멜론 티켓</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 19 Dec 2024 23:14:43 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 Dec 2024 01:10:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2025 케이시 콘서트 〈아홉번째 겨울: 사랑의 편린〉 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9789</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9789</guid>
+            <pubDate>Fri, 20 Dec 2024 01:10:20 GMT</pubDate>
+            <content:encoded><![CDATA[오픈일정 보기 &gt;]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/12/20241219113255707d6753-6050-4c05-ac22-14f96018d26a.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
         <item>
             <title><![CDATA[ONEUS 2ND WORLD TOUR ‘La Dolce Vita’ Final in Seoul 티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9787</link>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 19 Dec 2024 23:14:30 GMT</pubDate>
             <content:encoded><![CDATA[2024.12.24(화) 11:00]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/12/20241217153438887a4877-5b98-495b-9fd2-5241227f8c94.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[About Tmmm(틈에 관하여) 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9776</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9776</guid>
-            <pubDate>Thu, 19 Dec 2024 23:14:30 GMT</pubDate>
-            <content:encoded><![CDATA[2024.12.20(금) 14:00]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/12/202412161134480e6d6e82-1848-41d1-87c1-dbcd45d30f41.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
     </channel>
 </rss>
