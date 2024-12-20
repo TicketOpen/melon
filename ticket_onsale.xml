@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 판매중</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 20 Dec 2024 14:14:24 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 Dec 2024 15:15:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -458,31 +458,6 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/12/20241210140329b45fe8fc-1f10-4b73-b92c-640104c76fa3.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
-            <title><![CDATA[2024 모브닝 연말 콘서트 〈ADAM〉]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=210698</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=210698</guid>
-            <pubDate>Fri, 20 Dec 2024 03:20:52 GMT</pubDate>
-            <content:encoded><![CDATA[<td>
-                            <div class="show_infor">
-                                <div class="thumb_90x125  img">
-                                    <a href="#">
-                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/11/202411181621171e647d73-f9b7-4444-85b8-234f8d89ce83.jpg/melon/resize/90x125/strip/true" alt="">
-                                        <span class="frame"></span>
-                                    </a>
-                                </div>
-                                <p class="infor_text">
-                                    <span class="ico_wrap">
-                                        <span class="ico_list ico_list1">단독판매</span><span class="ico_list ico_list4"> 판매중</span></span>
-                                    <span class="show_title"><a href="/performance/index.htm?prodId=210698">2024 모브닝 연말 콘서트 〈ADAM〉</a></span>
-                                </p>
-                            </div>
-                        </td>
-                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
-                            2024.12.20 - 2024.12.20</td>
-                        <td class="show_loc">노들섬 라이브하우스 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/11/202411181621171e647d73-f9b7-4444-85b8-234f8d89ce83.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
             <title><![CDATA[2024 에픽하이 콘서트]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=210445</link>
             <guid>https://ticket.melon.com/performance/index.htm?prodId=210445</guid>
@@ -506,6 +481,31 @@
                             2024.12.20 - 2024.12.22</td>
                         <td class="show_loc">올림픽공원 핸드볼경기장</td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/10/202410081759285409ae9b-df1a-4987-856f-3dde66d82808.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[2024 춘베리아 특급열차]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=210752</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=210752</guid>
+            <pubDate>Fri, 20 Dec 2024 15:15:39 GMT</pubDate>
+            <content:encoded><![CDATA[<td>
+                            <div class="show_infor">
+                                <div class="thumb_90x125  img">
+                                    <a href="#">
+                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/11/20241127110304eff8d738-09bd-4a3c-86f5-772ac43a8643.jpg/melon/resize/90x125/strip/true" alt="">
+                                        <span class="frame"></span>
+                                    </a>
+                                </div>
+                                <p class="infor_text">
+                                    <span class="ico_wrap">
+                                        <span class="ico_list ico_list1">단독판매</span><span class="ico_list ico_list4"> 판매중</span></span>
+                                    <span class="show_title"><a href="/performance/index.htm?prodId=210752">2024 춘베리아 특급열차</a></span>
+                                </p>
+                            </div>
+                        </td>
+                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
+                            2024.12.20 - 2024.12.21</td>
+                        <td class="show_loc">춘천문화예술회관 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/11/20241127110304eff8d738-09bd-4a3c-86f5-772ac43a8643.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
     </channel>
 </rss>
