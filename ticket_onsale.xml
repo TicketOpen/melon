@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 판매중</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 21 Dec 2024 14:13:17 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 21 Dec 2024 15:14:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -483,29 +483,29 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/10/202410081759285409ae9b-df1a-4987-856f-3dde66d82808.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
-            <title><![CDATA[2024 춘베리아 특급열차]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=210752</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=210752</guid>
-            <pubDate>Sat, 21 Dec 2024 14:13:16 GMT</pubDate>
+            <title><![CDATA[시네마천국 이머시브 특별전-TO.TOTO]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=210809</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=210809</guid>
+            <pubDate>Sat, 21 Dec 2024 15:14:01 GMT</pubDate>
             <content:encoded><![CDATA[<td>
                             <div class="show_infor">
                                 <div class="thumb_90x125  img">
                                     <a href="#">
-                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/11/20241127110304eff8d738-09bd-4a3c-86f5-772ac43a8643.jpg/melon/resize/90x125/strip/true" alt="">
+                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/12/20241212101842e4efde22-6088-4af1-a921-276a2269bfbe.jpg/melon/resize/90x125/strip/true" alt="">
                                         <span class="frame"></span>
                                     </a>
                                 </div>
                                 <p class="infor_text">
                                     <span class="ico_wrap">
-                                        <span class="ico_list ico_list1">단독판매</span><span class="ico_list ico_list4"> 판매중</span></span>
-                                    <span class="show_title"><a href="/performance/index.htm?prodId=210752">2024 춘베리아 특급열차</a></span>
+                                        <span class="ico_list ico_list4"> 판매중</span></span>
+                                    <span class="show_title"><a href="/performance/index.htm?prodId=210809">시네마천국 이머시브 특별전-TO.TOTO</a></span>
                                 </p>
                             </div>
                         </td>
                         <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
-                            2024.12.20 - 2024.12.21</td>
-                        <td class="show_loc">춘천문화예술회관 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/11/20241127110304eff8d738-09bd-4a3c-86f5-772ac43a8643.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+                            2024.12.20 - 2025.03.30</td>
+                        <td class="show_loc">서울숲 갤러리아포레 더 서울라이티움</td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/12/20241212101842e4efde22-6088-4af1-a921-276a2269bfbe.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
     </channel>
 </rss>
