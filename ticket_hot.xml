@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 23 Dec 2024 08:21:07 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Dec 2024 09:16:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -72,20 +72,20 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/12/202412181646103291309c-507b-4f3d-9a81-003a9f8ff5c0.png/melon/resize/160x225/strip/true" length="0" type="image/png/melon/resize/160x225/strip/true"/>
         </item>
         <item>
+            <title><![CDATA[장재훈 1st EP [THE COLORS] 발매 기념 공연 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9800</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9800</guid>
+            <pubDate>Mon, 23 Dec 2024 09:16:52 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>24.12.24(화)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/12/20241220145732c28f592b-71d6-40f9-9ab9-43fddb88166c.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
             <title><![CDATA[피에타 단독 콘서트 ‘나선의 형태’ : 롤링 30주년 기념 공연 티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9795</link>
             <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9795</guid>
             <pubDate>Mon, 23 Dec 2024 08:21:01 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>24.12.30(월)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/12/20241220144334de211757-f5fc-46e1-ab7d-bee4b9fe3f8f.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[ON 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9764</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9764</guid>
-            <pubDate>Mon, 23 Dec 2024 08:21:01 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>24.12.20(금)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/12/20241220115927b67666ed-a02c-49bd-a8cd-c8f78f143571.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
