@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 27 Dec 2024 09:15:49 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Dec 2024 10:15:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -38,6 +38,14 @@
             <pubDate>Fri, 27 Dec 2024 07:15:36 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>24.12.27(금)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/12/20241223160617e1b6de15-e7ed-4559-9dd6-c0a1045c73e6.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[더 글로우 2025 (THE GLOW 2025) - 블라인드 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9809</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9809</guid>
+            <pubDate>Fri, 27 Dec 2024 10:15:44 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>24.12.30(월)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/12/202412271431540b7161a9-1f0e-4d78-91f3-26ad9d73993c.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
         <item>
             <title><![CDATA[피에타 단독 콘서트 ‘나선의 형태’ : 롤링 30주년 기념 공연 티켓 오픈 안내]]></title>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 27 Dec 2024 07:15:36 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>24.12.27(금)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/12/20241219151636a70de7dd-6e65-40e0-82b2-25fbd036b157.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[2025 케이시 콘서트 〈아홉번째 겨울: 사랑의 편린〉 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9789</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9789</guid>
-            <pubDate>Fri, 27 Dec 2024 07:15:36 GMT</pubDate>
-            <content:encoded><![CDATA[오픈일정 보기 &gt;]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/12/20241219113255707d6753-6050-4c05-ac22-14f96018d26a.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
