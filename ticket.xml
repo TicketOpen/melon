@@ -1,8 +1,91 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://ticket.melon.com/csoon/index.htm</id>
-    <title>멜론 티켓</title>
-    <updated>2024-12-30T06:22:10.309Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>멜론 티켓</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Mon, 30 Dec 2024 07:16:46 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[High-Five! 25: 유다빈밴드 X 원위(ONEWE) 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9812</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9812</guid>
+            <pubDate>Mon, 30 Dec 2024 07:16:33 GMT</pubDate>
+            <content:encoded><![CDATA[2025.01.03(금) 20:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/12/202412301444543120bac0-5a72-4cbb-a6f9-384515925a02.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[더 글로우 2025 (THE GLOW 2025) - 블라인드 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9809</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9809</guid>
+            <pubDate>Mon, 30 Dec 2024 07:16:33 GMT</pubDate>
+            <content:encoded><![CDATA[2024.12.30(월) 20:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/12/202412271431540b7161a9-1f0e-4d78-91f3-26ad9d73993c.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[유오 1st FanMeeting 〈LOVE IS EVERYWHERE〉 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9807</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9807</guid>
+            <pubDate>Mon, 30 Dec 2024 07:16:33 GMT</pubDate>
+            <content:encoded><![CDATA[2024.12.27(금) 18:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/12/202412241444302493b063-07e1-4a87-8731-62f3051a93c1.png/melon/resize/65x92/strip/true" length="0" type="image/png/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[중식이밴드 단독 콘서트 ‘회식’ : 롤링 30주년 기념 공연 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9805</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9805</guid>
+            <pubDate>Mon, 30 Dec 2024 07:16:33 GMT</pubDate>
+            <content:encoded><![CDATA[2024.12.30(월) 20:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/12/2024122411250898b5413e-1936-4509-8c99-718706022534.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[B, The Second letter | Budung 2nd Full Length Album Showcase 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9804</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9804</guid>
+            <pubDate>Mon, 30 Dec 2024 07:16:33 GMT</pubDate>
+            <content:encoded><![CDATA[2025.01.02(목) 20:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/12/20241226100557a95bacbf-8993-41e8-8288-843b36c537b1.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[재즈 더 하드보일드: 마일스 데이비스 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9803</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9803</guid>
+            <pubDate>Mon, 30 Dec 2024 07:16:33 GMT</pubDate>
+            <content:encoded><![CDATA[2024.12.27(금) 09:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/12/202412241455146f5f6a89-1026-4b9c-9601-dadf051eb19b.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 〈이프덴〉 4차 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9802</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9802</guid>
+            <pubDate>Mon, 30 Dec 2024 07:16:33 GMT</pubDate>
+            <content:encoded><![CDATA[2024.12.27(금) 14:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/12/20241223160617e1b6de15-e7ed-4559-9dd6-c0a1045c73e6.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[장재훈 1st EP [THE COLORS] 발매 기념 공연 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9800</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9800</guid>
+            <pubDate>Mon, 30 Dec 2024 07:16:33 GMT</pubDate>
+            <content:encoded><![CDATA[2024.12.24(화) 18:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/12/20241220145732c28f592b-71d6-40f9-9ab9-43fddb88166c.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[NCT ZONE 1ST ANNIVERSARY 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9798</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9798</guid>
+            <pubDate>Mon, 30 Dec 2024 07:16:33 GMT</pubDate>
+            <content:encoded><![CDATA[2024.12.27(금) 16:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/12/202412201736172302f90e-5c23-46c8-b8b3-2cda9029770e.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[2025 SEASON’S GREETINGS POP-UP 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9796</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9796</guid>
+            <pubDate>Mon, 30 Dec 2024 07:16:33 GMT</pubDate>
+            <content:encoded><![CDATA[2024.12.24(화) 18:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/12/20241223115008438c8a84-b006-41c7-a3d1-7b10d9d968dc.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+    </channel>
+</rss>
