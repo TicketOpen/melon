@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 31 Dec 2024 14:13:59 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 Dec 2024 15:15:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -493,31 +493,6 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/10/20241018162700336fcdae-57d7-4f3f-a91e-11acf33d70be.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
-            <title><![CDATA[연극 죽여주는 이야기 (멜론티켓 ─ 판매중)]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=210715</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=210715</guid>
-            <pubDate>Tue, 31 Dec 2024 13:20:47 GMT</pubDate>
-            <content:encoded><![CDATA[<td>
-                            <div class="show_infor">
-                                <div class="thumb_90x125  img">
-                                    <a href="#">
-                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/11/20241120144924b9392714-2f0b-4ec2-a025-fdf0103a3227.jpg/melon/resize/90x125/strip/true" alt="">
-                                        <span class="frame"></span>
-                                    </a>
-                                </div>
-                                <p class="infor_text">
-                                    <span class="ico_wrap">
-                                        <span class="ico_list ico_list4"> 판매중</span></span>
-                                    <span class="show_title"><a href="/performance/index.htm?prodId=210715">연극 죽여주는 이야기</a></span>
-                                </p>
-                            </div>
-                        </td>
-                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
-                            2024.12.10 - 2024.12.31</td>
-                        <td class="show_loc">가온아트홀 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/11/20241120144924b9392714-2f0b-4ec2-a025-fdf0103a3227.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
             <title><![CDATA[시네마천국 이머시브 특별전-TO.TOTO (멜론티켓 ─ 판매중)]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=210809</link>
             <guid>https://ticket.melon.com/performance/index.htm?prodId=210809</guid>
@@ -593,79 +568,104 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/11/202411041914461872f461-808d-4080-a6fe-b306437e543a.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
-            <title><![CDATA[노영심 첼로가 좋아서, 홍진호 피아노가 좋아서 (멜론티켓 ─ 판매중)]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=210716</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=210716</guid>
-            <pubDate>Tue, 31 Dec 2024 13:20:47 GMT</pubDate>
+            <title><![CDATA[〈손을모아 단독 콘서트 ‘Pray For Me’ : 롤링 30주년 기념 공연〉 (멜론티켓 ─ 판매중)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=210773</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=210773</guid>
+            <pubDate>Tue, 31 Dec 2024 15:15:09 GMT</pubDate>
             <content:encoded><![CDATA[<td>
                             <div class="show_infor">
                                 <div class="thumb_90x125  img">
                                     <a href="#">
-                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/11/20241120183351eee2ec35-c90c-42b7-914a-2fd642db15eb.jpg/melon/resize/90x125/strip/true" alt="">
-                                        <span class="frame"></span>
-                                    </a>
-                                </div>
-                                <p class="infor_text">
-                                    <span class="ico_wrap">
-                                        <span class="ico_list ico_list4"> 판매중</span></span>
-                                    <span class="show_title"><a href="/performance/index.htm?prodId=210716">노영심 첼로가 좋아서, 홍진호 피아노가 좋아서</a></span>
-                                </p>
-                            </div>
-                        </td>
-                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
-                            2024.12.31 - 2024.12.31</td>
-                        <td class="show_loc">세종문화회관 S씨어터</td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/11/20241120183351eee2ec35-c90c-42b7-914a-2fd642db15eb.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[어센트(ASC2NT) ‘Expecting Tomorrow’ FAN-CON FINAL in Seoul (멜론티켓 ─ 판매중)]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=210768</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=210768</guid>
-            <pubDate>Tue, 31 Dec 2024 13:20:47 GMT</pubDate>
-            <content:encoded><![CDATA[<td>
-                            <div class="show_infor">
-                                <div class="thumb_90x125  img">
-                                    <a href="#">
-                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/11/2024112911551826176fa0-8dd6-4a7c-9ed0-d6a696d90db4.jpg/melon/resize/90x125/strip/true" alt="">
+                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/12/202412021505581bb29687-3980-4095-a541-b829dfbb257a.jpg/melon/resize/90x125/strip/true" alt="">
                                         <span class="frame"></span>
                                     </a>
                                 </div>
                                 <p class="infor_text">
                                     <span class="ico_wrap">
                                         <span class="ico_list ico_list1">단독판매</span><span class="ico_list ico_list4"> 판매중</span></span>
-                                    <span class="show_title"><a href="/performance/index.htm?prodId=210768">어센트(ASC2NT)&nbsp;‘Expecting Tomorrow’ FAN-CON FINAL in Seoul</a></span>
+                                    <span class="show_title"><a href="/performance/index.htm?prodId=210773">〈손을모아 단독 콘서트 ‘Pray For Me’ : 롤링 30주년 기념 공연〉</a></span>
                                 </p>
                             </div>
                         </td>
                         <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
-                            2024.12.31 - 2024.12.31</td>
-                        <td class="show_loc">대원 콘텐츠 라이브 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/11/2024112911551826176fa0-8dd6-4a7c-9ed0-d6a696d90db4.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[2024 송하예 콘서트 〈white Song〉 (멜론티켓 ─ 판매중)]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=210772</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=210772</guid>
-            <pubDate>Tue, 31 Dec 2024 13:20:47 GMT</pubDate>
-            <content:encoded><![CDATA[<td>
-                            <div class="show_infor">
-                                <div class="thumb_90x125  img">
-                                    <a href="#">
-                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/12/20241202145323d7b69ccd-28bf-4e8b-b2db-37c45bc79a1e.PNG/melon/resize/90x125/strip/true" alt="">
-                                        <span class="frame"></span>
-                                    </a>
-                                </div>
-                                <p class="infor_text">
-                                    <span class="ico_wrap">
-                                        <span class="ico_list ico_list1">단독판매</span><span class="ico_list ico_list4"> 판매중</span></span>
-                                    <span class="show_title"><a href="/performance/index.htm?prodId=210772">2024 송하예 콘서트 〈white Song〉</a></span>
-                                </p>
-                            </div>
-                        </td>
-                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
-                            2024.12.31 - 2024.12.31</td>
+                            2025.01.02 - 2025.01.02</td>
                         <td class="show_loc">롤링홀 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/12/20241202145323d7b69ccd-28bf-4e8b-b2db-37c45bc79a1e.PNG/melon/resize/90x125/strip/true" length="0" type="image/PNG/melon/resize/90x125/strip/true"/>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/12/202412021505581bb29687-3980-4095-a541-b829dfbb257a.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[〈공중그늘 단독 콘서트 ‘파수꾼’ : 롤링 30주년 기념 공연〉 (멜론티켓 ─ 판매중)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=210776</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=210776</guid>
+            <pubDate>Tue, 31 Dec 2024 15:15:09 GMT</pubDate>
+            <content:encoded><![CDATA[<td>
+                            <div class="show_infor">
+                                <div class="thumb_90x125  img">
+                                    <a href="#">
+                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/12/20241203111544549c6800-997f-470a-8166-dd134370877f.jpg/melon/resize/90x125/strip/true" alt="">
+                                        <span class="frame"></span>
+                                    </a>
+                                </div>
+                                <p class="infor_text">
+                                    <span class="ico_wrap">
+                                        <span class="ico_list ico_list1">단독판매</span><span class="ico_list ico_list4"> 판매중</span></span>
+                                    <span class="show_title"><a href="/performance/index.htm?prodId=210776">〈공중그늘 단독 콘서트 ‘파수꾼’ : 롤링 30주년 기념 공연〉</a></span>
+                                </p>
+                            </div>
+                        </td>
+                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
+                            2025.01.03 - 2025.01.03</td>
+                        <td class="show_loc">롤링홀 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/12/20241203111544549c6800-997f-470a-8166-dd134370877f.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[THE FIX(더 픽스) CONCERT TOUR 〈ODDVENTURE〉 - 서울 (멜론티켓 ─ 판매중)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=210765</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=210765</guid>
+            <pubDate>Tue, 31 Dec 2024 15:15:09 GMT</pubDate>
+            <content:encoded><![CDATA[<td>
+                            <div class="show_infor">
+                                <div class="thumb_90x125  img">
+                                    <a href="#">
+                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/11/20241129165028a350430a-cc06-4a7b-b085-298539996d9f.jpg/melon/resize/90x125/strip/true" alt="">
+                                        <span class="frame"></span>
+                                    </a>
+                                </div>
+                                <p class="infor_text">
+                                    <span class="ico_wrap">
+                                        <span class="ico_list ico_list1">단독판매</span><span class="ico_list ico_list4"> 판매중</span></span>
+                                    <span class="show_title"><a href="/performance/index.htm?prodId=210765">THE&nbsp;FIX(더&nbsp;픽스) CONCERT TOUR 〈ODDVENTURE〉 - 서울</a></span>
+                                </p>
+                            </div>
+                        </td>
+                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
+                            2025.01.04 - 2025.01.04</td>
+                        <td class="show_loc">CKL스테이지 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/11/20241129165028a350430a-cc06-4a7b-b085-298539996d9f.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[Tree Opening Day *Snow (멜론티켓 ─ 판매중)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=210798</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=210798</guid>
+            <pubDate>Tue, 31 Dec 2024 15:15:09 GMT</pubDate>
+            <content:encoded><![CDATA[<td>
+                            <div class="show_infor">
+                                <div class="thumb_90x125  img">
+                                    <a href="#">
+                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/12/20241209112947e9b0bbdf-c031-487c-ae25-7e6450af4dc2.jpg/melon/resize/90x125/strip/true" alt="">
+                                        <span class="frame"></span>
+                                    </a>
+                                </div>
+                                <p class="infor_text">
+                                    <span class="ico_wrap">
+                                        <span class="ico_list ico_list1">단독판매</span><span class="ico_list ico_list4"> 판매중</span></span>
+                                    <span class="show_title"><a href="/performance/index.htm?prodId=210798">Tree Opening Day *Snow</a></span>
+                                </p>
+                            </div>
+                        </td>
+                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
+                            2025.01.04 - 2025.01.04</td>
+                        <td class="show_loc">서울특별시 성동구 연무장길 28-16, 1층 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/12/20241209112947e9b0bbdf-c031-487c-ae25-7e6450af4dc2.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
     </channel>
 </rss>
