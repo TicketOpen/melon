@@ -1,8 +1,91 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://ticket.melon.com/csoon/index.htm</id>
-    <title>멜론 티켓</title>
-    <updated>2025-01-06T18:21:04.327Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>멜론 티켓</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Mon, 06 Jan 2025 19:12:12 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2025 노을 발렌타인데이 콘서트 ‘Sunset Love: Valentine Special’ 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9823</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9823</guid>
+            <pubDate>Mon, 06 Jan 2025 19:11:58 GMT</pubDate>
+            <content:encoded><![CDATA[2025.01.08(수) 20:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2025/01/202501030950123ed0fb3e-4a1b-4667-80cc-772f05b6e199.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[아웃라이어 콘서트 [OUTLIER = ???] 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9822</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9822</guid>
+            <pubDate>Mon, 06 Jan 2025 19:11:58 GMT</pubDate>
+            <content:encoded><![CDATA[2025.01.06(월) 18:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2025/01/202501031029043794a1bc-ddc6-43b1-801b-c42f1a3d6caa.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[[2025’예비초등 필수관람 공연] 연극 아빠와 난 초등1학년_광주 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9820</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9820</guid>
+            <pubDate>Mon, 06 Jan 2025 19:11:58 GMT</pubDate>
+            <content:encoded><![CDATA[2025.01.08(수) 09:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2025/01/20250106111527ea7aca6d-a57b-4422-8fa6-5875950ca151.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[기프트 단독 공연 : 데이지 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9819</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9819</guid>
+            <pubDate>Mon, 06 Jan 2025 19:11:58 GMT</pubDate>
+            <content:encoded><![CDATA[2025.01.10(금) 20:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2025/01/202501031017256f828bb7-b3a9-4458-87f0-54ab3186cf3d.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[벤치위레오(BWL) 단독 콘서트 ‘난류(亂流)’：롤링 30주년 기념 공연 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9818</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9818</guid>
+            <pubDate>Mon, 06 Jan 2025 19:11:58 GMT</pubDate>
+            <content:encoded><![CDATA[2025.01.10(금) 20:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2025/01/20250103101415244ea6a3-5aac-44fa-b647-411f8b26dbd2.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[WONHO OFFICIAL FANCLUB 3rd ‘위니 WENEE’ 모집 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9817</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9817</guid>
+            <pubDate>Mon, 06 Jan 2025 19:11:58 GMT</pubDate>
+            <content:encoded><![CDATA[2025.01.08(수) 14:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2025/01/2025010310055109e5fba0-a2b1-4e9f-89dc-008cde3023ca.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[밴드 에이미 1집 쇼케이스 [A Mysterious Youth] 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9816</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9816</guid>
+            <pubDate>Mon, 06 Jan 2025 19:11:58 GMT</pubDate>
+            <content:encoded><![CDATA[2025.01.13(월) 12:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2025/01/20250103100742662df715-3453-4e76-b257-5e36fbb309b9.JPG/melon/resize/65x92/strip/true" length="0" type="image/JPG/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[NCT ZONE 1ST ANNIVERSARY 추가 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9815</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9815</guid>
+            <pubDate>Mon, 06 Jan 2025 19:11:58 GMT</pubDate>
+            <content:encoded><![CDATA[2025.01.06(월) 16:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2025/01/202501061124047b6fcd20-d079-42a4-8bc5-244f9fca82bd.png/melon/resize/65x92/strip/true" length="0" type="image/png/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[Weird Strangers #01 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9813</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9813</guid>
+            <pubDate>Mon, 06 Jan 2025 19:11:58 GMT</pubDate>
+            <content:encoded><![CDATA[2025.01.08(수) 20:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2025/01/202501030906423e4a0c9d-5927-43f9-b64b-3aa4fb7b064e.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[[오픈일 변경] High-Five! 25: 유다빈밴드 X 원위(ONEWE) 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9812</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9812</guid>
+            <pubDate>Mon, 06 Jan 2025 19:11:58 GMT</pubDate>
+            <content:encoded><![CDATA[2025.01.08(수) 20:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/12/202412301444543120bac0-5a72-4cbb-a6f9-384515925a02.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+    </channel>
+</rss>
