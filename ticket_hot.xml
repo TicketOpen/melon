@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Jan 2025 03:23:55 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Jan 2025 04:19:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -38,6 +38,14 @@
             <pubDate>Mon, 06 Jan 2025 02:52:14 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>25.01.08(수)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2025/01/202501030906423e4a0c9d-5927-43f9-b64b-3aa4fb7b064e.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[벤치위레오(BWL) 단독 콘서트 ‘난류(亂流)’：롤링 30주년 기념 공연 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9818</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9818</guid>
+            <pubDate>Mon, 06 Jan 2025 04:18:57 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>25.01.10(금)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2025/01/20250103101415244ea6a3-5aac-44fa-b647-411f8b26dbd2.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
         <item>
             <title><![CDATA[WONHO OFFICIAL FANCLUB 3rd ‘위니 WENEE’ 모집 오픈 안내]]></title>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 06 Jan 2025 02:52:14 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>24.12.27(금)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/12/20241223160617e1b6de15-e7ed-4559-9dd6-c0a1045c73e6.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[중식이밴드 단독 콘서트 ‘회식’ : 롤링 30주년 기념 공연 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9805</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9805</guid>
-            <pubDate>Mon, 06 Jan 2025 02:52:14 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>24.12.30(월)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2024/12/20241231084628b2e8fcd0-7d79-493b-bf80-ad0071b5c9ca.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>

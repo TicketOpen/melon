@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 판매중</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Jan 2025 03:23:55 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Jan 2025 04:19:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -358,31 +358,6 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/12/20241223115034d82d48b3-84c7-439f-9a51-21c6089eabed.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
-            <title><![CDATA[NCT ZONE 1ST ANNIVERSARY]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=210840</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=210840</guid>
-            <pubDate>Mon, 06 Jan 2025 02:52:19 GMT</pubDate>
-            <content:encoded><![CDATA[<td>
-                            <div class="show_infor">
-                                <div class="thumb_90x125  img">
-                                    <a href="#">
-                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/12/2024123017591017393491-00fb-45a0-9047-4adbc10f3240.png/melon/resize/90x125/strip/true" alt="">
-                                        <span class="frame"></span>
-                                    </a>
-                                </div>
-                                <p class="infor_text">
-                                    <span class="ico_wrap">
-                                        <span class="ico_list ico_list1">단독판매</span><span class="ico_list ico_list4"> 판매중</span></span>
-                                    <span class="show_title"><a href="/performance/index.htm?prodId=210840">NCT ZONE 1ST ANNIVERSARY</a></span>
-                                </p>
-                            </div>
-                        </td>
-                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
-                            2025.01.05 - 2025.01.20</td>
-                        <td class="show_loc">무신사 스퀘어 성수 4 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/12/2024123017591017393491-00fb-45a0-9047-4adbc10f3240.png/melon/resize/90x125/strip/true" length="0" type="image/png/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
             <title><![CDATA[WONHO OFFICIAL FANCLUB 3rd ‘위니 WENEE’ 모집]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=210854</link>
             <guid>https://ticket.melon.com/performance/index.htm?prodId=210854</guid>
@@ -506,6 +481,31 @@
                             2025.01.10 - 2025.01.10</td>
                         <td class="show_loc">롤링홀 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/12/20241206154803c5754f71-f638-498c-b893-aab7640140f9.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[Happy New Rock‘n’Roll]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=210826</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=210826</guid>
+            <pubDate>Mon, 06 Jan 2025 04:19:02 GMT</pubDate>
+            <content:encoded><![CDATA[<td>
+                            <div class="show_infor">
+                                <div class="thumb_90x125  img">
+                                    <a href="#">
+                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/12/2024121809290657e5fb36-bf13-4023-b51f-c85f6dfbbf65.jpg/melon/resize/90x125/strip/true" alt="">
+                                        <span class="frame"></span>
+                                    </a>
+                                </div>
+                                <p class="infor_text">
+                                    <span class="ico_wrap">
+                                        <span class="ico_list ico_list1">단독판매</span><span class="ico_list ico_list4"> 판매중</span></span>
+                                    <span class="show_title"><a href="/performance/index.htm?prodId=210826">Happy New Rock‘n’Roll</a></span>
+                                </p>
+                            </div>
+                        </td>
+                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
+                            2025.01.10 - 2025.01.10</td>
+                        <td class="show_loc">스페이스한강 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/12/2024121809290657e5fb36-bf13-4023-b51f-c85f6dfbbf65.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
     </channel>
 </rss>
