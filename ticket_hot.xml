@@ -1,8 +1,91 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://ticket.melon.com/csoon/index.htm#orderType=0&amp;pageIndex=1&amp;schGcode=GENRE_ALL&amp;schText=&amp;schDt=</id>
-    <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
-    <updated>2025-01-08T05:15:07.363Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Wed, 08 Jan 2025 06:22:24 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Dynamicduo 1st Concert in Japan ~これからたまに会おうぜ～ (앞으로 가끔 보자) 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9839</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9839</guid>
+            <pubDate>Wed, 08 Jan 2025 06:22:18 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>25.01.10(금)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2025/01/20250108083753dfe5ec70-74b3-4544-a3de-c4a934778093.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[안병웅 콘서트 ‘MPBOY in Rollinghall’ : 롤링 30주년 기념 공연 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9833</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9833</guid>
+            <pubDate>Wed, 08 Jan 2025 06:22:18 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>25.01.14(화)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2025/01/202501071023017f725ca5-0af9-4143-9c44-bf3b674476c9.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[먼데이프로젝트 시즌8 [품바21 단독 콘서트 ‘변화’] 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9832</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9832</guid>
+            <pubDate>Wed, 08 Jan 2025 06:22:18 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>25.01.15(수)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2025/01/2025010714390075d04602-cf53-4611-8264-8144fce4e997.png/melon/resize/160x225/strip/true" length="0" type="image/png/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[Hathaw9y PURE LOVE After-party : 롤링 30주년 기념 공연 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9826</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9826</guid>
+            <pubDate>Wed, 08 Jan 2025 06:22:18 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>25.01.13(월)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2025/01/202501061604018c2b1c58-8bfd-41ba-8f7d-407d997f98fc.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[TAEYEON CONCERT - The TENSE 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9829</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9829</guid>
+            <pubDate>Wed, 08 Jan 2025 06:22:18 GMT</pubDate>
+            <content:encoded><![CDATA[오픈일정 보기 &gt;]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2025/01/2025010710272229e0405a-1496-44cb-9a52-cf849c691ec8.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 〈이프덴〉 5차 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9828</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9828</guid>
+            <pubDate>Wed, 08 Jan 2025 06:22:18 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>25.01.10(금)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2025/01/2025010616384068c2b773-4fd9-438e-9be5-1baf88f2cebd.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[더블 이펙트 - 김승주 x 심아일랜드 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9834</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9834</guid>
+            <pubDate>Wed, 08 Jan 2025 06:22:18 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>25.01.12(일)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2025/01/2025010809362047794a5c-f685-4314-91ec-fa12389f57ad.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 〈웃는 남자〉 3차 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9835</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9835</guid>
+            <pubDate>Wed, 08 Jan 2025 06:22:18 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>25.01.14(화)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2025/01/202501081112169b49e3f1-1938-4743-83ff-d576387e3422.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[2025 NCT WISH ASIA TOUR LOG in SEOUL 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9838</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9838</guid>
+            <pubDate>Wed, 08 Jan 2025 06:22:18 GMT</pubDate>
+            <content:encoded><![CDATA[오픈일정 보기 &gt;]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2025/01/20250107114006e70c2f8e-bdc9-4554-b310-fc00cf662239.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[2025 범진 단독콘서트 ‘BE MY VALENTINE : FIRST LOVE’ 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9837</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9837</guid>
+            <pubDate>Wed, 08 Jan 2025 06:22:18 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>25.01.13(월)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2025/01/20250107175329cc2a2c06-43f0-4d04-81fd-08b69ad9a70a.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+    </channel>
+</rss>
