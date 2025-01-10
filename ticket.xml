@@ -4,9 +4,17 @@
         <title>멜론 티켓</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Jan 2025 07:15:21 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Jan 2025 08:19:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[AnimeJapan 2025 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9851</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9851</guid>
+            <pubDate>Fri, 10 Jan 2025 08:19:45 GMT</pubDate>
+            <content:encoded><![CDATA[2025.01.17(금) 20:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2025/01/202501091754155638f5b5-dd6a-4663-a225-1e24d05e0db6.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
         <item>
             <title><![CDATA[CRAVITY 공식 팬클럽 ‘LUVITY’ 5기 추가 모집 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9850</link>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 10 Jan 2025 07:15:09 GMT</pubDate>
             <content:encoded><![CDATA[오픈일정 보기 &gt;]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2025/01/20250107114006e70c2f8e-bdc9-4554-b310-fc00cf662239.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[2025 범진 단독콘서트 ‘BE MY VALENTINE : FIRST LOVE’ 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9837</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9837</guid>
-            <pubDate>Fri, 10 Jan 2025 07:15:09 GMT</pubDate>
-            <content:encoded><![CDATA[2025.01.13(월) 14:00]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2025/01/20250107175329cc2a2c06-43f0-4d04-81fd-08b69ad9a70a.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
     </channel>
 </rss>

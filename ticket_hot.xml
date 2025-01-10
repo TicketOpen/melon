@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Jan 2025 07:15:21 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Jan 2025 08:19:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -56,6 +56,14 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2025/01/202501081055288fd9d3c1-2e83-45ed-8bd1-bc52fa1b806a.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
         <item>
+            <title><![CDATA[AnimeJapan 2025 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9851</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9851</guid>
+            <pubDate>Fri, 10 Jan 2025 08:19:52 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>25.01.17(금)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2025/01/202501091754155638f5b5-dd6a-4663-a225-1e24d05e0db6.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
             <title><![CDATA[9와숫자들 단독 콘서트 ‘로큰롤파티, 바위를 굴려라’ : 롤링 30주년 기념 공연 티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9847</link>
             <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9847</guid>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 10 Jan 2025 07:15:15 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>25.01.10(금)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2025/01/2025010614484013dd33fd-c4c3-4d66-a225-56c486466eb6.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[2024-25 aespa LIVE TOUR－SYNK：PARALLEL LINE－ENCORE 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9841</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9841</guid>
-            <pubDate>Fri, 10 Jan 2025 07:15:15 GMT</pubDate>
-            <content:encoded><![CDATA[오픈일정 보기 &gt;]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2025/01/2025010818054192f947fe-afdb-4bf8-991a-ac5338a08c65.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
