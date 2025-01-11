@@ -1,8 +1,91 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://ticket.melon.com/csoon/index.htm</id>
-    <title>멜론 티켓</title>
-    <updated>2025-01-11T03:20:11.832Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>멜론 티켓</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Sat, 11 Jan 2025 04:18:21 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[AnimeJapan 2025 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9851</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9851</guid>
+            <pubDate>Sat, 11 Jan 2025 04:18:08 GMT</pubDate>
+            <content:encoded><![CDATA[2025.01.17(금) 20:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2025/01/202501091754155638f5b5-dd6a-4663-a225-1e24d05e0db6.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[CRAVITY 공식 팬클럽 ‘LUVITY’ 5기 추가 모집 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9850</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9850</guid>
+            <pubDate>Sat, 11 Jan 2025 04:18:08 GMT</pubDate>
+            <content:encoded><![CDATA[2025.01.13(월) 14:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2025/01/2025010915244103442d20-e83a-4e7b-8b4d-c9138c2e2ef4.png/melon/resize/65x92/strip/true" length="0" type="image/png/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[먼데이프로젝트 시즌8 : 전기뱀장어 단독 콘서트 [나의 섬을 찾아서] 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9848</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9848</guid>
+            <pubDate>Sat, 11 Jan 2025 04:18:08 GMT</pubDate>
+            <content:encoded><![CDATA[2025.01.16(목) 20:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2025/01/20250110105934831fcea7-155d-493b-adcb-9a2e7f1ec668.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[9와숫자들 단독 콘서트 ‘로큰롤파티, 바위를 굴려라’ : 롤링 30주년 기념 공연 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9847</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9847</guid>
+            <pubDate>Sat, 11 Jan 2025 04:18:08 GMT</pubDate>
+            <content:encoded><![CDATA[2025.01.16(목) 20:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2025/01/202501091711259beedf69-41ec-43e5-b964-e0fa958fd003.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[2025 ONEW CONCERT [ONEW THE LIVE : CONNECTION] IN SEOUL 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9845</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9845</guid>
+            <pubDate>Sat, 11 Jan 2025 04:18:08 GMT</pubDate>
+            <content:encoded><![CDATA[오픈일정 보기 &gt;]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2025/01/20250110150655a0a338ab-a6d4-40ba-86e3-dd4f60b53b5c.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[찬민 단독콘서트 ‘잃어버린 시간을 찾아서’：롤링 30주년 기념 공연 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9843</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9843</guid>
+            <pubDate>Sat, 11 Jan 2025 04:18:08 GMT</pubDate>
+            <content:encoded><![CDATA[2025.01.15(수) 20:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2025/01/202501081745177341e780-09d7-426f-bd0c-f384a6b06044.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[2024-25 aespa LIVE TOUR－SYNK：PARALLEL LINE－ENCORE 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9841</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9841</guid>
+            <pubDate>Sat, 11 Jan 2025 04:18:08 GMT</pubDate>
+            <content:encoded><![CDATA[오픈일정 보기 &gt;]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2025/01/2025010818054192f947fe-afdb-4bf8-991a-ac5338a08c65.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[〈항해〉 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9840</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9840</guid>
+            <pubDate>Sat, 11 Jan 2025 04:18:08 GMT</pubDate>
+            <content:encoded><![CDATA[2025.01.09(목) 18:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2025/01/202501081055288fd9d3c1-2e83-45ed-8bd1-bc52fa1b806a.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[Dynamicduo 1st Concert in Japan ~これからたまに会おうぜ～ (앞으로 가끔 보자) 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9839</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9839</guid>
+            <pubDate>Sat, 11 Jan 2025 04:18:08 GMT</pubDate>
+            <content:encoded><![CDATA[2025.01.10(금) 18:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2025/01/20250108083753dfe5ec70-74b3-4544-a3de-c4a934778093.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[2025 NCT WISH ASIA TOUR LOG in SEOUL 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9838</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9838</guid>
+            <pubDate>Sat, 11 Jan 2025 04:18:08 GMT</pubDate>
+            <content:encoded><![CDATA[오픈일정 보기 &gt;]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2025/01/20250107114006e70c2f8e-bdc9-4554-b310-fc00cf662239.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+    </channel>
+</rss>
