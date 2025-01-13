@@ -4,9 +4,17 @@
         <title>멜론 티켓</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Jan 2025 04:19:43 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Jan 2025 05:16:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2025 윤준협 두번째 팬미팅 〈One Special Day〉 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9854</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9854</guid>
+            <pubDate>Mon, 13 Jan 2025 05:15:52 GMT</pubDate>
+            <content:encoded><![CDATA[2025.01.17(금) 14:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2025/01/20250110154309b75a7974-8083-4d65-965a-02045dccb261.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
         <item>
             <title><![CDATA[더 글로우 2025 (THE GLOW 2025) 티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9853</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 13 Jan 2025 04:19:32 GMT</pubDate>
             <content:encoded><![CDATA[오픈일정 보기 &gt;]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2025/01/2025010818054192f947fe-afdb-4bf8-991a-ac5338a08c65.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[〈항해〉 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9840</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9840</guid>
-            <pubDate>Mon, 13 Jan 2025 04:19:32 GMT</pubDate>
-            <content:encoded><![CDATA[2025.01.09(목) 18:00]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2025/01/202501081055288fd9d3c1-2e83-45ed-8bd1-bc52fa1b806a.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
     </channel>
 </rss>
