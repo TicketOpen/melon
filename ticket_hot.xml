@@ -4,9 +4,17 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Jan 2025 05:16:04 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Jan 2025 06:22:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[조은세 단독 콘서트 - Garden is You 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9855</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9855</guid>
+            <pubDate>Mon, 13 Jan 2025 06:22:49 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>25.01.15(수)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2025/01/202501131516315529de2d-b4af-4b98-a8bd-c51a5aee6981.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
         <item>
             <title><![CDATA[더 글로우 2025 (THE GLOW 2025) 티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9853</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 13 Jan 2025 04:19:37 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>25.01.16(목)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2025/01/202501091711259beedf69-41ec-43e5-b964-e0fa958fd003.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[2025 ONEW CONCERT [ONEW THE LIVE : CONNECTION] IN SEOUL 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9845</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9845</guid>
-            <pubDate>Mon, 13 Jan 2025 04:19:37 GMT</pubDate>
-            <content:encoded><![CDATA[오픈일정 보기 &gt;]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2025/01/20250110150655a0a338ab-a6d4-40ba-86e3-dd4f60b53b5c.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
