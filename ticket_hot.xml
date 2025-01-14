@@ -1,8 +1,91 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://ticket.melon.com/csoon/index.htm#orderType=0&amp;pageIndex=1&amp;schGcode=GENRE_ALL&amp;schText=&amp;schDt=</id>
-    <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
-    <updated>2025-01-14T12:28:46.286Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Tue, 14 Jan 2025 13:20:07 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[찬민 단독콘서트 ‘잃어버린 시간을 찾아서’：롤링 30주년 기념 공연 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9843</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9843</guid>
+            <pubDate>Tue, 14 Jan 2025 13:20:00 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>25.01.15(수)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2025/01/202501081745177341e780-09d7-426f-bd0c-f384a6b06044.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[2025 GOT7 CONCERT 〈NESTFEST〉 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9862</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9862</guid>
+            <pubDate>Tue, 14 Jan 2025 13:20:00 GMT</pubDate>
+            <content:encoded><![CDATA[오픈일정 보기 &gt;]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2025/01/202501141756285c63e4d1-9093-43fe-805a-77f9aacdecf2.png/melon/resize/160x225/strip/true" length="0" type="image/png/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[LITE Live in Seoul 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9860</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9860</guid>
+            <pubDate>Tue, 14 Jan 2025 13:20:00 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>25.01.16(목)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2025/01/202501131710490cd996d8-8255-4018-ad60-73513e24a01c.JPG/melon/resize/160x225/strip/true" length="0" type="image/JPG/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[TAEYEON CONCERT - The TENSE 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9829</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9829</guid>
+            <pubDate>Tue, 14 Jan 2025 13:20:00 GMT</pubDate>
+            <content:encoded><![CDATA[오픈일정 보기 &gt;]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2025/01/202501141447263cf22e06-97fc-435e-b5bb-a6b737ce46c8.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[AnimeJapan 2025 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9851</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9851</guid>
+            <pubDate>Tue, 14 Jan 2025 13:20:00 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>25.01.17(금)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2025/01/202501141029562c02c9db-c0ab-436c-8ee8-1ba471ee8d08.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[이지혜 팬서트 두번졔 〈우리, 차 한 잔 할까〉 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9861</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9861</guid>
+            <pubDate>Tue, 14 Jan 2025 13:20:00 GMT</pubDate>
+            <content:encoded><![CDATA[오픈일정 보기 &gt;]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2025/01/202501141007117549b3e4-68b0-4ba9-8e38-0bb5b2cc4ead.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[Rokudenashi 1st Oneman Live「Not Just A Memory」Live In Korea 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9863</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9863</guid>
+            <pubDate>Tue, 14 Jan 2025 13:20:00 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>25.01.20(월)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2025/01/202501131723397aba1fa5-9909-49a9-be37-9bdb0a225952.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[김뮤지엄 첫번째 단독 콘서트 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9857</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9857</guid>
+            <pubDate>Tue, 14 Jan 2025 13:20:00 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>25.01.17(금)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2025/01/2025011315173538902e95-cb68-40a8-a9b9-4df3bb66205a.png/melon/resize/160x225/strip/true" length="0" type="image/png/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[조은세 단독 콘서트 - Garden is You 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9855</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9855</guid>
+            <pubDate>Tue, 14 Jan 2025 13:20:00 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>25.01.15(수)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2025/01/202501131516315529de2d-b4af-4b98-a8bd-c51a5aee6981.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[더 글로우 2025 (THE GLOW 2025) 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9853</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9853</guid>
+            <pubDate>Tue, 14 Jan 2025 13:20:00 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>25.01.23(목)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2025/01/202501131138522955d7f2-0643-47ff-9761-acfb7b09e668.png/melon/resize/160x225/strip/true" length="0" type="image/png/melon/resize/160x225/strip/true"/>
+        </item>
+    </channel>
+</rss>
