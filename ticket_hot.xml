@@ -4,9 +4,17 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Jan 2025 01:09:04 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Jan 2025 02:42:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한올, 새봄 첫 번째 콘서트 ‘마음 둘 곳’ 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9865</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9865</guid>
+            <pubDate>Wed, 15 Jan 2025 02:42:10 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>25.01.16(목)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2025/01/202501151041159296a3c7-91a5-4472-9c17-2443879399ed.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
         <item>
             <title><![CDATA[찬민 단독콘서트 ‘잃어버린 시간을 찾아서’：롤링 30주년 기념 공연 티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9843</link>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 15 Jan 2025 01:08:59 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>25.01.15(수)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2025/01/202501131516315529de2d-b4af-4b98-a8bd-c51a5aee6981.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[더 글로우 2025 (THE GLOW 2025) 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9853</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9853</guid>
-            <pubDate>Wed, 15 Jan 2025 01:08:59 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>25.01.23(목)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2025/01/202501131138522955d7f2-0643-47ff-9761-acfb7b09e668.png/melon/resize/160x225/strip/true" length="0" type="image/png/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
