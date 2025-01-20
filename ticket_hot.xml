@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Jan 2025 10:23:54 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Jan 2025 11:13:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Mon, 20 Jan 2025 09:18:41 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>25.01.24(금)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2025/01/20250120150326e08b3e10-ddf3-4c14-a574-a33c715409b6.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[[talk&Concert] Cinema Meets US #part1 (2025년 영화,사람을 만나다) 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9884</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9884</guid>
+            <pubDate>Mon, 20 Jan 2025 11:12:55 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>25.02.03(월)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2025/01/2025012014251493eb9053-6edf-48e9-a2eb-b7abef6c9708.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
         <item>
             <title><![CDATA[2025 JOHNNY B-day PARTY [Johnny’s Celebration Center] 티켓 오픈 안내]]></title>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 20 Jan 2025 06:22:15 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>25.01.20(월)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2025/01/202501151423432bd34ef1-2d7e-4191-bc24-d8b60cb8e3d0.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[COOMO 2025 단독 앵콜 콘서트 [U,] 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9878</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9878</guid>
-            <pubDate>Mon, 20 Jan 2025 06:22:15 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>25.01.20(월)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2025/01/202501161430565b2b0c6a-ca25-4bca-bfe1-93df7fc3a86a.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>

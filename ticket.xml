@@ -4,7 +4,7 @@
         <title>멜론 티켓</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Jan 2025 10:23:54 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Jan 2025 11:13:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,22 @@
             <pubDate>Mon, 20 Jan 2025 06:22:09 GMT</pubDate>
             <content:encoded><![CDATA[오픈일정 보기 &gt;]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2025/01/202501141756285c63e4d1-9093-43fe-805a-77f9aacdecf2.png/melon/resize/65x92/strip/true" length="0" type="image/png/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[[talk&Concert] Cinema Meets US #part1 (2025년 영화,사람을 만나다) 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9884</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9884</guid>
+            <pubDate>Mon, 20 Jan 2025 11:12:49 GMT</pubDate>
+            <content:encoded><![CDATA[2025.02.03(월) 14:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2025/01/2025012014251493eb9053-6edf-48e9-a2eb-b7abef6c9708.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[컬러풀 스테이지 #8 심아일랜드, 벤치위레오, 스킵잭 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9883</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9883</guid>
+            <pubDate>Mon, 20 Jan 2025 11:12:49 GMT</pubDate>
+            <content:encoded><![CDATA[2025.01.22(수) 20:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2025/01/20250120095510ecad7ce4-c720-43d8-a12f-bcca57f11042.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
         <item>
             <title><![CDATA[THE JOYFOOLS [HOMECOMING] 티켓 오픈 안내]]></title>
@@ -78,22 +94,6 @@
             <pubDate>Mon, 20 Jan 2025 06:22:09 GMT</pubDate>
             <content:encoded><![CDATA[2025.01.23(목) 20:00]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2025/01/20250117110448ca7bc809-0a4f-4e93-8e33-4a06743d00f0.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[스프링스 단독콘서트 2025 입춘:다시 또 봄 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9873</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9873</guid>
-            <pubDate>Mon, 20 Jan 2025 06:22:09 GMT</pubDate>
-            <content:encoded><![CDATA[2025.01.17(금) 18:00]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2025/01/20250115142354e983ce02-a7a5-4e8b-a793-142c47c1df57.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[TONE STUDIO LIVE 〈까치산(KACHISAN)〉 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9871</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9871</guid>
-            <pubDate>Mon, 20 Jan 2025 06:22:09 GMT</pubDate>
-            <content:encoded><![CDATA[2025.01.20(월) 20:00]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2025/01/202501151423432bd34ef1-2d7e-4191-bc24-d8b60cb8e3d0.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
     </channel>
 </rss>
