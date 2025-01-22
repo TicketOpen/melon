@@ -1,8 +1,91 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://ticket.melon.com/csoon/index.htm</id>
-    <title>멜론 티켓</title>
-    <updated>2025-01-22T07:14:54.331Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>멜론 티켓</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Wed, 22 Jan 2025 08:20:03 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[와글와글: 잭킹콩X심아일랜드 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9893</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9893</guid>
+            <pubDate>Wed, 22 Jan 2025 08:19:51 GMT</pubDate>
+            <content:encoded><![CDATA[2025.01.24(금) 20:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2025/01/20250121141212f6329bf9-2d9e-4e78-b666-c32e362ecb39.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[먼데이프로젝트 시즌8 [양치기소년단 단독콘서트: 입단식] 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9892</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9892</guid>
+            <pubDate>Wed, 22 Jan 2025 08:19:51 GMT</pubDate>
+            <content:encoded><![CDATA[2025.01.31(금) 19:30]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2025/01/2025012116171886d77fe2-1af3-48d9-9888-5b459227011f.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[컬러풀 스테이지 #9 레드씨 & 품바21 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9891</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9891</guid>
+            <pubDate>Wed, 22 Jan 2025 08:19:51 GMT</pubDate>
+            <content:encoded><![CDATA[2025.01.23(목) 20:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2025/01/20250120142441b3aed080-9379-412f-979d-11ac6cd5cd15.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[Happy Luven Day ! : YUN JUNG HWAN FanMeeting 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9890</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9890</guid>
+            <pubDate>Wed, 22 Jan 2025 08:19:51 GMT</pubDate>
+            <content:encoded><![CDATA[2025.01.22(수) 18:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2025/01/202501201442187e0815fa-c548-41eb-8db3-ed803706be8e.png/melon/resize/65x92/strip/true" length="0" type="image/png/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[김뜻돌 단독공연 〈돌잔치 : Angel Drop〉 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9889</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9889</guid>
+            <pubDate>Wed, 22 Jan 2025 08:19:51 GMT</pubDate>
+            <content:encoded><![CDATA[2025.02.03(월) 20:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2025/01/2025012016581267e35261-5a37-4c34-a335-9c31e8339e58.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[2025 NINE.i FANMEETING IN SEOUL ‘NINE.i STORY’ 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9888</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9888</guid>
+            <pubDate>Wed, 22 Jan 2025 08:19:51 GMT</pubDate>
+            <content:encoded><![CDATA[2025.01.22(수) 12:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2025/01/20250120145006894768da-306b-423a-9215-b954548fce60.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[LG아트센터 서울 2025년 기획공연 시즌 CoMPAS 25 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9887</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9887</guid>
+            <pubDate>Wed, 22 Jan 2025 08:19:51 GMT</pubDate>
+            <content:encoded><![CDATA[오픈일정 보기 &gt;]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2025/01/2025012014130739d02a71-1a32-4740-becd-4eb7496347c0.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[김오키럽럽 발렌타인데이 단독공연 〈 LOVE LOVE LOVE 〉 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9886</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9886</guid>
+            <pubDate>Wed, 22 Jan 2025 08:19:51 GMT</pubDate>
+            <content:encoded><![CDATA[2025.01.23(목) 20:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2025/01/20250120140138f47e97ee-7ed4-4a6d-84c5-80b2f52afa96.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[그로칼랭 II 앨범발매 기념 토크 콘서트 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9885</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9885</guid>
+            <pubDate>Wed, 22 Jan 2025 08:19:51 GMT</pubDate>
+            <content:encoded><![CDATA[2025.01.22(수) 20:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2025/01/2025012110315493066b16-d9c5-41ae-9652-e2ff76328f99.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[[talk&Concert] Cinema Meets US #part1 (2025년 영화,사람을 만나다) 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9884</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9884</guid>
+            <pubDate>Wed, 22 Jan 2025 08:19:51 GMT</pubDate>
+            <content:encoded><![CDATA[2025.02.03(월) 14:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2025/01/2025012014251493eb9053-6edf-48e9-a2eb-b7abef6c9708.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+    </channel>
+</rss>
