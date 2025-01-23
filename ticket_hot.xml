@@ -4,9 +4,17 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Jan 2025 06:21:04 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Jan 2025 07:14:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2025 GOT7 CONCERT 〈NESTFEST〉 - 추가회차 (1/31) 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9899</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9899</guid>
+            <pubDate>Thu, 23 Jan 2025 07:14:48 GMT</pubDate>
+            <content:encoded><![CDATA[오픈일정 보기 &gt;]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2025/01/20250123114947419a7184-7208-417b-83b8-1604301f5079.png/melon/resize/160x225/strip/true" length="0" type="image/png/melon/resize/160x225/strip/true"/>
+        </item>
         <item>
             <title><![CDATA[제71회 라이브 클럽 데이－블라인드 티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9895</link>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 23 Jan 2025 03:17:22 GMT</pubDate>
             <content:encoded><![CDATA[오픈일정 보기 &gt;]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2025/01/202501141756285c63e4d1-9093-43fe-805a-77f9aacdecf2.png/melon/resize/160x225/strip/true" length="0" type="image/png/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[THE JOYFOOLS [HOMECOMING] 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9882</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9882</guid>
-            <pubDate>Thu, 23 Jan 2025 03:17:22 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>25.01.24(금)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2025/01/20250120150326e08b3e10-ddf3-4c14-a574-a33c715409b6.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
