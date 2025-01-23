@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Jan 2025 04:18:02 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Jan 2025 05:15:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -48,6 +48,14 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2025/01/2025012217521069932069-11db-49a2-bae2-12d7ad05a795.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
         <item>
+            <title><![CDATA[SHIN SOOHYUN SOLO CONCERT [ I AM ] IN SEOUL 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9898</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9898</guid>
+            <pubDate>Thu, 23 Jan 2025 05:15:05 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>25.02.03(월)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2025/01/202501221432434eef5b41-fa1e-440b-84f8-9b03c95e88b0.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
             <title><![CDATA[김뜻돌 단독공연 〈돌잔치 : Angel Drop〉 티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9889</link>
             <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9889</guid>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 23 Jan 2025 03:17:22 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>25.01.24(금)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2025/01/20250120150326e08b3e10-ddf3-4c14-a574-a33c715409b6.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[2025 JOHNNY B-day PARTY [Johnny’s Celebration Center] 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9881</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9881</guid>
-            <pubDate>Thu, 23 Jan 2025 03:17:22 GMT</pubDate>
-            <content:encoded><![CDATA[오픈일정 보기 &gt;]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2025/01/202501200948042fa7097b-df61-4009-966c-3a2e719c84cb.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
