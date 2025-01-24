@@ -4,9 +4,25 @@
         <title>멜론 티켓</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Jan 2025 08:20:01 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Jan 2025 09:16:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김건의 음악 다방 SEASON2 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9907</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9907</guid>
+            <pubDate>Fri, 24 Jan 2025 09:16:00 GMT</pubDate>
+            <content:encoded><![CDATA[2025.01.31(금) 20:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2025/01/20250123143056930f3607-a976-4a7d-a8db-3aec6cbacfcc.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[이병찬 : Valentine Concert 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9906</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9906</guid>
+            <pubDate>Fri, 24 Jan 2025 09:16:00 GMT</pubDate>
+            <content:encoded><![CDATA[2025.01.31(금) 20:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2025/01/20250123105647746be1b3-39c3-486a-975a-f9fe1afac461.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
         <item>
             <title><![CDATA[2025 IVE THE 3RD FAN CONCERT 〈IVE SCOUT〉 티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9904</link>
@@ -70,22 +86,6 @@
             <pubDate>Fri, 24 Jan 2025 08:19:49 GMT</pubDate>
             <content:encoded><![CDATA[2025.01.31(금) 20:00]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2025/01/2025012217521069932069-11db-49a2-bae2-12d7ad05a795.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[제71회 라이브 클럽 데이－블라인드 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9895</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9895</guid>
-            <pubDate>Fri, 24 Jan 2025 08:19:49 GMT</pubDate>
-            <content:encoded><![CDATA[2025.01.23(목) 15:00]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2025/01/20250121154100ce8d45f5-000e-40c3-ae60-25f11155cccc.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[와글와글: 잭킹콩X심아일랜드 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9893</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9893</guid>
-            <pubDate>Fri, 24 Jan 2025 08:19:49 GMT</pubDate>
-            <content:encoded><![CDATA[2025.01.24(금) 20:00]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2025/01/20250121141212f6329bf9-2d9e-4e78-b666-c32e362ecb39.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
     </channel>
 </rss>
