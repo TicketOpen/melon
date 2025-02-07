@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 07 Feb 2025 08:20:22 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Feb 2025 09:16:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -64,6 +64,14 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2025/02/202502071405575f3d8eb6-93b2-4917-9f32-46bad36484da.png/melon/resize/160x225/strip/true" length="0" type="image/png/melon/resize/160x225/strip/true"/>
         </item>
         <item>
+            <title><![CDATA[Roh Taehyun Fanmeeting: SUGAR RUSH 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9957</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9957</guid>
+            <pubDate>Fri, 07 Feb 2025 09:15:56 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>25.02.11(화)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2025/02/20250207114059f66f6eaf-4047-405d-be79-7b1f631ed341.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
             <title><![CDATA[“다시 보고싶은 로키드가 있어” 티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9948</link>
             <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9948</guid>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 07 Feb 2025 08:20:16 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>25.02.13(목)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2025/02/2025020514451155ca1219-60a7-4437-bce1-cb50f4be7bfb.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[주윤하 콘서트 - 우리가 불렀던 노래 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9951</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9951</guid>
-            <pubDate>Fri, 07 Feb 2025 08:20:16 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>25.02.10(월)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2025/02/202502061352539d02808a-4cd2-4a62-8b73-0cdcf64056e8.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
