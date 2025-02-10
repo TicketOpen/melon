@@ -4,9 +4,17 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 10 Feb 2025 08:20:51 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Feb 2025 09:17:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[W24 단독콘서트 ‘Seize The Day’ 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9958</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9958</guid>
+            <pubDate>Mon, 10 Feb 2025 09:17:28 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>25.02.10(월)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2025/02/20250206134707fa776f36-64f9-4618-9897-530c84e3c95d.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
         <item>
             <title><![CDATA[기프트 전국 클럽투어 [Get, Set, Ready and Go!] - 서울 티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9966</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 10 Feb 2025 07:15:17 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>25.02.25(화)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2025/02/202502071607117f1d6683-1331-40ec-9eb0-6ed7a6601fe8.png/melon/resize/160x225/strip/true" length="0" type="image/png/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[SHIN SOOHYUN SOLO CONCERT [ I AM ] IN SEOUL After Party 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9969</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9969</guid>
-            <pubDate>Mon, 10 Feb 2025 07:15:17 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>25.02.25(화)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2025/02/20250207160631a745a08a-3db5-4588-bb0f-16c51c66b74f.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
