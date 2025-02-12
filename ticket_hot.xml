@@ -1,8 +1,91 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://ticket.melon.com/csoon/index.htm#orderType=0&amp;pageIndex=1&amp;schGcode=GENRE_ALL&amp;schText=&amp;schDt=</id>
-    <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
-    <updated>2025-02-12T01:09:45.181Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Wed, 12 Feb 2025 02:44:18 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[MGA LIVE in SEOUL, KOREA 2025 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9715</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9715</guid>
+            <pubDate>Wed, 12 Feb 2025 02:44:11 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>24.12.11(수)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2025/02/2025021108422156b0efa8-eca4-48cc-bfc7-ee47f497219a.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[W24 단독콘서트 ‘Seize The Day’ 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9958</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9958</guid>
+            <pubDate>Wed, 12 Feb 2025 02:44:11 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>25.02.10(월)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2025/02/20250206134707fa776f36-64f9-4618-9897-530c84e3c95d.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[정명훈 x KBS교향악단 〈베토벤 9〉 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9972</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9972</guid>
+            <pubDate>Wed, 12 Feb 2025 02:44:11 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>25.02.20(목)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2025/02/20250210143258f82745a1-39d1-472f-875e-4cda8d9191ea.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[기프트 전국 클럽투어 [Get, Set, Ready and Go!] - 서울 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9966</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9966</guid>
+            <pubDate>Wed, 12 Feb 2025 02:44:11 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>25.02.12(수)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2025/02/20250210133751209dea21-8a50-4950-a94f-6aa66fde80ba.png/melon/resize/160x225/strip/true" length="0" type="image/png/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[기프트 전국 클럽투어 [Get, Set, Ready and Go!] - 인천 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9965</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9965</guid>
+            <pubDate>Wed, 12 Feb 2025 02:44:11 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>25.02.12(수)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2025/02/20250210133738fe2114ac-a1a9-4eaf-8909-2fb5ff6cc437.png/melon/resize/160x225/strip/true" length="0" type="image/png/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[기프트 전국 클럽투어 [Get, Set, Ready and Go!] - 청주 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9964</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9964</guid>
+            <pubDate>Wed, 12 Feb 2025 02:44:11 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>25.02.13(목)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2025/02/202502101337273168083d-6b0e-4105-b500-dc12a33f1371.png/melon/resize/160x225/strip/true" length="0" type="image/png/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[기프트 전국 클럽투어 [Get, Set, Ready and Go!] - 부산 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9963</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9963</guid>
+            <pubDate>Wed, 12 Feb 2025 02:44:11 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>25.02.13(목)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2025/02/2025021013371218468517-8e07-4e46-b7fb-70bde12fee46.png/melon/resize/160x225/strip/true" length="0" type="image/png/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[기프트 전국 클럽투어 [Get, Set, Ready and Go!] - 대구 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9962</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9962</guid>
+            <pubDate>Wed, 12 Feb 2025 02:44:11 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>25.02.14(금)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2025/02/202502101336587e20ef50-d277-4b68-b338-d8585a1b56ad.png/melon/resize/160x225/strip/true" length="0" type="image/png/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[기프트 전국 클럽투어 [Get, Set, Ready and Go!] - 거제 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9961</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9961</guid>
+            <pubDate>Wed, 12 Feb 2025 02:44:11 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>25.02.14(금)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2025/02/202502101336390ed053c1-22d1-47dc-9521-17fa279ee9a0.png/melon/resize/160x225/strip/true" length="0" type="image/png/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[2025 GOT7 CONCERT 〈NESTFEST〉 Re-Streaming 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9933</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9933</guid>
+            <pubDate>Wed, 12 Feb 2025 02:44:11 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>25.02.07(금)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2025/02/20250204140237cfe17d84-239a-48e6-9588-9278282ec556.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+    </channel>
+</rss>
