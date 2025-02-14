@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 14 Feb 2025 14:14:07 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Feb 2025 15:16:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -543,31 +543,6 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2025/02/2025020711463251a708ab-be74-44dc-9791-3839818b92bc.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
-            <title><![CDATA[이병찬 : Valentine Concert (멜론티켓 ─ 판매중)]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=210955</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=210955</guid>
-            <pubDate>Fri, 14 Feb 2025 13:21:53 GMT</pubDate>
-            <content:encoded><![CDATA[<td>
-                            <div class="show_infor">
-                                <div class="thumb_90x125  img">
-                                    <a href="#">
-                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2025/01/20250123102544e2ac2d1a-29a1-4ff6-b47f-a163d6a35b72.jpg/melon/resize/90x125/strip/true" alt="">
-                                        <span class="frame"></span>
-                                    </a>
-                                </div>
-                                <p class="infor_text">
-                                    <span class="ico_wrap">
-                                        <span class="ico_list ico_list1">단독판매</span><span class="ico_list ico_list4"> 판매중</span></span>
-                                    <span class="show_title"><a href="/performance/index.htm?prodId=210955">이병찬 : Valentine Concert</a></span>
-                                </p>
-                            </div>
-                        </td>
-                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
-                            2025.02.14 - 2025.02.14</td>
-                        <td class="show_loc">롤링홀 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2025/01/20250123102544e2ac2d1a-29a1-4ff6-b47f-a163d6a35b72.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
             <title><![CDATA[2025 노을 발렌타인데이 콘서트 ‘Sunset Love: Valentine Special’ (멜론티켓 ─ 판매중)]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=210856</link>
             <guid>https://ticket.melon.com/performance/index.htm?prodId=210856</guid>
@@ -593,79 +568,104 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2025/01/2025010611053132325eb4-217c-4e55-a47e-27fc81474f73.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
-            <title><![CDATA[2025 범진 단독콘서트 ‘BE MY VALENTINE : FIRST LOVE’ (멜론티켓 ─ 판매중)]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=210873</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=210873</guid>
-            <pubDate>Fri, 14 Feb 2025 13:21:53 GMT</pubDate>
+            <title><![CDATA[MGA LIVE in SEOUL, KOREA 2025 (멜론티켓 ─ 판매중)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=210767</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=210767</guid>
+            <pubDate>Fri, 14 Feb 2025 15:16:50 GMT</pubDate>
             <content:encoded><![CDATA[<td>
                             <div class="show_infor">
                                 <div class="thumb_90x125  img">
                                     <a href="#">
-                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2025/01/202501101519156d771ca6-4039-409e-9fba-04011056f61f.jpg/melon/resize/90x125/strip/true" alt="">
+                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2025/02/202502110840552328c365-ea55-42af-ad94-1357fd35f111.jpg/melon/resize/90x125/strip/true" alt="">
+                                        <span class="frame"></span>
+                                    </a>
+                                </div>
+                                <p class="infor_text">
+                                    <span class="ico_wrap">
+                                        <span class="ico_list ico_list1">단독판매</span><span class="ico_list ico_list4"> 판매중</span></span>
+                                    <span class="show_title"><a href="/performance/index.htm?prodId=210767">MGA LIVE in SEOUL, KOREA 2025</a></span>
+                                </p>
+                            </div>
+                        </td>
+                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
+                            2025.02.15 - 2025.02.16</td>
+                        <td class="show_loc">고려대학교 화정체육관 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2025/02/202502110840552328c365-ea55-42af-ad94-1357fd35f111.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[2025 CHANYEOL LIVE TOUR : 都市風景 (City-scape)│Epilogue (멜론티켓 ─ 판매중)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=210774</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=210774</guid>
+            <pubDate>Fri, 14 Feb 2025 15:16:50 GMT</pubDate>
+            <content:encoded><![CDATA[<td>
+                            <div class="show_infor">
+                                <div class="thumb_90x125  img">
+                                    <a href="#">
+                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/12/2024120217243038afdacb-9d84-41ee-9f24-c9539d4f17f4.jpg/melon/resize/90x125/strip/true" alt="">
+                                        <span class="frame"></span>
+                                    </a>
+                                </div>
+                                <p class="infor_text">
+                                    <span class="ico_wrap">
+                                        <span class="ico_list ico_list1">단독판매</span><span class="ico_list ico_list4"> 판매중</span></span>
+                                    <span class="show_title"><a href="/performance/index.htm?prodId=210774">2025 CHANYEOL LIVE TOUR : 都市風景 (City-scape)│Epilogue </a></span>
+                                </p>
+                            </div>
+                        </td>
+                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
+                            2025.02.15 - 2025.02.16</td>
+                        <td class="show_loc">KBS아레나 (구88체육관) </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/12/2024120217243038afdacb-9d84-41ee-9f24-c9539d4f17f4.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[2024-25 린 전국투어 콘서트 “Queen of Serenade” - 전주 (멜론티켓 ─ 판매중)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=210577</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=210577</guid>
+            <pubDate>Fri, 14 Feb 2025 15:16:50 GMT</pubDate>
+            <content:encoded><![CDATA[<td>
+                            <div class="show_infor">
+                                <div class="thumb_90x125  img">
+                                    <a href="#">
+                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/12/2024120210014651b7e06b-9b58-4cbc-8da1-ecdfcd76e2d9.jpg/melon/resize/90x125/strip/true" alt="">
                                         <span class="frame"></span>
                                     </a>
                                 </div>
                                 <p class="infor_text">
                                     <span class="ico_wrap">
                                         <span class="ico_list ico_list1">1열보유</span><span class="ico_list ico_list4"> 판매중</span></span>
-                                    <span class="show_title"><a href="/performance/index.htm?prodId=210873">2025 범진 단독콘서트 ‘BE MY VALENTINE : FIRST LOVE’</a></span>
+                                    <span class="show_title"><a href="/performance/index.htm?prodId=210577">2024-25 린 전국투어 콘서트 “Queen of Serenade” - 전주</a></span>
                                 </p>
                             </div>
                         </td>
                         <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
-                            2025.02.14 - 2025.02.14</td>
-                        <td class="show_loc">YES24 원더로크홀 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2025/01/202501101519156d771ca6-4039-409e-9fba-04011056f61f.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+                            2025.02.15 - 2025.02.15</td>
+                        <td class="show_loc">한국소리문화의전당 모악당</td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/12/2024120210014651b7e06b-9b58-4cbc-8da1-ecdfcd76e2d9.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
-            <title><![CDATA[THE JOYFOOLS [HOMECOMING] (멜론티켓 ─ 판매중)]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=210918</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=210918</guid>
-            <pubDate>Fri, 14 Feb 2025 13:21:53 GMT</pubDate>
+            <title><![CDATA[9와숫자들 단독 콘서트 ‘로큰롤파티, 바위를 굴려라’ : 롤링 30주년 기념 공연 (멜론티켓 ─ 판매중)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=210872</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=210872</guid>
+            <pubDate>Fri, 14 Feb 2025 15:16:50 GMT</pubDate>
             <content:encoded><![CDATA[<td>
                             <div class="show_infor">
                                 <div class="thumb_90x125  img">
                                     <a href="#">
-                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2025/01/202501201009151a2013f3-f91f-499b-93ed-2fb381564e22.jpg/melon/resize/90x125/strip/true" alt="">
+                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2025/01/20250109171308ee5cc9ca-61d3-4968-b218-323482a3cd6b.jpg/melon/resize/90x125/strip/true" alt="">
                                         <span class="frame"></span>
                                     </a>
                                 </div>
                                 <p class="infor_text">
                                     <span class="ico_wrap">
                                         <span class="ico_list ico_list1">단독판매</span><span class="ico_list ico_list4"> 판매중</span></span>
-                                    <span class="show_title"><a href="/performance/index.htm?prodId=210918">THE JOYFOOLS [HOMECOMING]</a></span>
+                                    <span class="show_title"><a href="/performance/index.htm?prodId=210872">9와숫자들 단독 콘서트 ‘로큰롤파티, 바위를 굴려라’ : 롤링 30주년 기념 공연</a></span>
                                 </p>
                             </div>
                         </td>
                         <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
-                            2025.02.14 - 2025.02.14</td>
-                        <td class="show_loc">벨로주 홍대 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2025/01/202501201009151a2013f3-f91f-499b-93ed-2fb381564e22.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[김오키럽럽 발렌타인데이 단독공연 〈 LOVE LOVE LOVE 〉 (멜론티켓 ─ 판매중)]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=210924</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=210924</guid>
-            <pubDate>Fri, 14 Feb 2025 13:21:53 GMT</pubDate>
-            <content:encoded><![CDATA[<td>
-                            <div class="show_infor">
-                                <div class="thumb_90x125  img">
-                                    <a href="#">
-                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2025/01/20250120142316ceff7ca8-47f9-40d4-8f2c-44dc00d11326.jpg/melon/resize/90x125/strip/true" alt="">
-                                        <span class="frame"></span>
-                                    </a>
-                                </div>
-                                <p class="infor_text">
-                                    <span class="ico_wrap">
-                                        <span class="ico_list ico_list1">단독판매</span><span class="ico_list ico_list4"> 판매중</span></span>
-                                    <span class="show_title"><a href="/performance/index.htm?prodId=210924">김오키럽럽 발렌타인데이 단독공연 〈 LOVE LOVE LOVE 〉</a></span>
-                                </p>
-                            </div>
-                        </td>
-                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
-                            2025.02.14 - 2025.02.14</td>
-                        <td class="show_loc">문화정원아트홀 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2025/01/20250120142316ceff7ca8-47f9-40d4-8f2c-44dc00d11326.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+                            2025.02.15 - 2025.02.15</td>
+                        <td class="show_loc">롤링홀 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2025/01/20250109171308ee5cc9ca-61d3-4968-b218-323482a3cd6b.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
     </channel>
 </rss>
