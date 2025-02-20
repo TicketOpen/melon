@@ -1,8 +1,91 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://ticket.melon.com/csoon/index.htm#orderType=0&amp;pageIndex=1&amp;schGcode=GENRE_ALL&amp;schText=&amp;schDt=</id>
-    <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
-    <updated>2025-02-20T02:46:52.819Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Thu, 20 Feb 2025 03:20:42 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[홍대광 단독 콘서트 ‘Spring Light’ 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9997</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9997</guid>
+            <pubDate>Thu, 20 Feb 2025 03:20:35 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>25.02.20(목)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2025/02/20250218103752d3a5d00c-0a80-410e-aef0-2d54ace149af.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[제17회 서울재즈페스티벌 2025 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=10000</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=10000</guid>
+            <pubDate>Thu, 20 Feb 2025 03:20:35 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>25.02.27(목)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2025/02/20250219173856ba24a30e-5890-49cb-941f-f4f8abc451e1.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[2025 타임캡슐 슈퍼콘서트 in 인천 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9992</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9992</guid>
+            <pubDate>Thu, 20 Feb 2025 03:20:35 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>25.02.19(수)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2025/02/20250217161005c9f2ea34-ac65-4e68-bfd3-e7cd9a12f20c.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[2025 정해인 앵콜 팬미팅 ‘OUR TIME - HBD’ 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9989</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9989</guid>
+            <pubDate>Thu, 20 Feb 2025 03:20:35 GMT</pubDate>
+            <content:encoded><![CDATA[오픈일정 보기 &gt;]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2025/02/2025021710323869c65d77-79c5-4b1e-a253-039ed4b7de34.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[[얼리버드] 아르누보의 꽃 : 알폰스 무하 원화전 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9988</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9988</guid>
+            <pubDate>Thu, 20 Feb 2025 03:20:35 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>25.02.19(수)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2025/02/2025021811411479b15263-ffda-4285-a3cd-30c5a1fc88bf.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[윈디시티 단독 콘서트 ‘Love, Power and Unity’ : 롤링 30주년 기념 공연 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9986</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9986</guid>
+            <pubDate>Thu, 20 Feb 2025 03:20:35 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>25.02.24(월)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2025/02/20250217085334e80a1aa2-ea63-4619-9139-dd9b980aa8e7.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[체인리액션 10주년 기념 단독 콘서트 ‘A Love Supreme’ : 롤링 30주년 기념 공연 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9993</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9993</guid>
+            <pubDate>Thu, 20 Feb 2025 03:20:35 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>25.02.25(화)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2025/02/20250217142144efc0865c-d158-4be1-8f52-a02497546bab.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[먼데이프로젝트 IN 라이브클럽 [박태욱 단독 콘서트] 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9995</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9995</guid>
+            <pubDate>Thu, 20 Feb 2025 03:20:35 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>25.02.26(수)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2025/02/20250218111700a5444333-2e04-494e-8c56-6832c9deb0e5.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[DMZ 피스트레인 뮤직 페스티벌 2025 블라인드 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9994</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9994</guid>
+            <pubDate>Thu, 20 Feb 2025 03:20:35 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>25.02.20(목)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2025/02/2025021814051220b77d46-2ab6-4820-a832-74c2635e9b15.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[먼데이프로젝트 시즌8 My Universe [히키(HICKEE) 단독 콘서트] 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9999</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9999</guid>
+            <pubDate>Thu, 20 Feb 2025 03:20:35 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>25.02.27(목)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2025/02/202502191405497852394a-9f67-434e-bcb6-38f63308406d.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+    </channel>
+</rss>
