@@ -4,9 +4,17 @@
         <title>멜론 티켓</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 20 Feb 2025 10:17:10 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Feb 2025 11:13:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[CIKI 단독 공연 ‘Love is destructive.’ 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=10006</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=10006</guid>
+            <pubDate>Thu, 20 Feb 2025 11:12:57 GMT</pubDate>
+            <content:encoded><![CDATA[2025.02.21(금) 20:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2025/02/2025022010452160df7e64-6a69-44f1-8027-a8591053f6d9.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
         <item>
             <title><![CDATA[ORDINARY DREAM 티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=10004</link>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 20 Feb 2025 10:16:58 GMT</pubDate>
             <content:encoded><![CDATA[2025.02.20(목) 12:00]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2025/02/2025021814051220b77d46-2ab6-4820-a832-74c2635e9b15.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[체인리액션 10주년 기념 단독 콘서트 ‘A Love Supreme’ : 롤링 30주년 기념 공연 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9993</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9993</guid>
-            <pubDate>Thu, 20 Feb 2025 10:16:58 GMT</pubDate>
-            <content:encoded><![CDATA[2025.02.25(화) 20:00]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2025/02/20250217142144efc0865c-d158-4be1-8f52-a02497546bab.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
     </channel>
 </rss>

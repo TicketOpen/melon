@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 20 Feb 2025 10:17:09 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Feb 2025 11:13:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -38,6 +38,14 @@
             <pubDate>Thu, 20 Feb 2025 10:17:03 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>25.02.27(목)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2025/02/20250219173856ba24a30e-5890-49cb-941f-f4f8abc451e1.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[CIKI 단독 공연 ‘Love is destructive.’ 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=10006</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=10006</guid>
+            <pubDate>Thu, 20 Feb 2025 11:13:03 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>25.02.21(금)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2025/02/2025022010452160df7e64-6a69-44f1-8027-a8591053f6d9.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
         <item>
             <title><![CDATA[2025 타임캡슐 슈퍼콘서트 in 인천 티켓 오픈 안내]]></title>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 20 Feb 2025 10:17:03 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>25.02.25(화)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2025/02/20250217142144efc0865c-d158-4be1-8f52-a02497546bab.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[먼데이프로젝트 IN 라이브클럽 [박태욱 단독 콘서트] 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9995</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9995</guid>
-            <pubDate>Thu, 20 Feb 2025 10:17:03 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>25.02.26(수)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2025/02/20250218111700a5444333-2e04-494e-8c56-6832c9deb0e5.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
