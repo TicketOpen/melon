@@ -4,9 +4,17 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 21 Feb 2025 07:15:46 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Feb 2025 08:20:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[WTT Champions Incheon 2025 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=10013</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=10013</guid>
+            <pubDate>Fri, 21 Feb 2025 08:20:05 GMT</pubDate>
+            <content:encoded><![CDATA[오픈일정 보기 &gt;]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2025/02/20250221152628f71d6112-de45-4691-87aa-9efbd3651f69.png/melon/resize/160x225/strip/true" length="0" type="image/png/melon/resize/160x225/strip/true"/>
+        </item>
         <item>
             <title><![CDATA[[추후 일정 공지] YB - 꿀파티 vol.4 in 춘천 티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9974</link>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 21 Feb 2025 05:15:17 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>25.02.24(월)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2025/02/2025022011362050c71c3c-e29e-4c61-925d-2f4009197071.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[키위 EP “Vertigo” 발매기념 단독공연 : Where are we headed now? 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=10010</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=10010</guid>
-            <pubDate>Fri, 21 Feb 2025 05:15:17 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>25.02.28(금)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2025/02/20250220111409d229efe7-8e4f-46df-86c9-cf261454853b.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
