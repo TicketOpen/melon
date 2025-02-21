@@ -1,8 +1,91 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://ticket.melon.com/csoon/index.htm</id>
-    <title>멜론 티켓</title>
-    <updated>2025-02-21T02:47:22.286Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>멜론 티켓</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Fri, 21 Feb 2025 03:21:42 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[키위 EP “Vertigo” 발매기념 단독공연 : Where are we headed now? 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=10010</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=10010</guid>
+            <pubDate>Fri, 21 Feb 2025 03:21:31 GMT</pubDate>
+            <content:encoded><![CDATA[2025.02.28(금) 12:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2025/02/20250220111409d229efe7-8e4f-46df-86c9-cf261454853b.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[TONE STUDIO LIVE 〈BUMP2SOUL〉 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=10009</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=10009</guid>
+            <pubDate>Fri, 21 Feb 2025 03:21:31 GMT</pubDate>
+            <content:encoded><![CDATA[2025.02.28(금) 20:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2025/02/202502201407455bbf1910-122a-4c16-b387-ef6dd2518b38.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[박소은 단독 콘서트 ‘매일’ : 롤링 30주년 기념 공연 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=10008</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=10008</guid>
+            <pubDate>Fri, 21 Feb 2025 03:21:31 GMT</pubDate>
+            <content:encoded><![CDATA[2025.02.28(금) 20:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2025/02/202502201735113f226558-3bb8-4135-8a22-f78799d0276e.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[컬러풀 스테이지 #10 틸더 & 헤이맨 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=10007</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=10007</guid>
+            <pubDate>Fri, 21 Feb 2025 03:21:31 GMT</pubDate>
+            <content:encoded><![CDATA[2025.02.24(월) 20:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2025/02/20250221100658bcea9e08-6f85-4434-aa42-85ba52800b73.png/melon/resize/65x92/strip/true" length="0" type="image/png/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[CIKI 단독 공연 ‘Love is destructive.’ 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=10006</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=10006</guid>
+            <pubDate>Fri, 21 Feb 2025 03:21:31 GMT</pubDate>
+            <content:encoded><![CDATA[2025.02.21(금) 20:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2025/02/2025022010452160df7e64-6a69-44f1-8027-a8591053f6d9.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[ORDINARY DREAM 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=10004</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=10004</guid>
+            <pubDate>Fri, 21 Feb 2025 03:21:31 GMT</pubDate>
+            <content:encoded><![CDATA[2025.02.21(금) 19:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2025/02/202502191513089d71c0bf-847d-417b-ae18-d5432b889cee.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[2025 live workspace ‘12BH’ vol.01 jeonju 추가 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=10003</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=10003</guid>
+            <pubDate>Fri, 21 Feb 2025 03:21:31 GMT</pubDate>
+            <content:encoded><![CDATA[2025.02.21(금) 20:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2025/02/2025022017212856b04191-cf13-4fd7-8525-a8822e282857.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[앤서니 라자로 앙코르 서울 공연 (Anthony Lazaro Encore in Seoul) 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=10002</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=10002</guid>
+            <pubDate>Fri, 21 Feb 2025 03:21:31 GMT</pubDate>
+            <content:encoded><![CDATA[2025.02.21(금) 14:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2025/02/202502191816025c3a8268-3150-4c0d-9e88-2a0a31872530.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[제17회 서울재즈페스티벌 2025 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=10000</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=10000</guid>
+            <pubDate>Fri, 21 Feb 2025 03:21:31 GMT</pubDate>
+            <content:encoded><![CDATA[2025.02.27(목) 12:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2025/02/20250219173856ba24a30e-5890-49cb-941f-f4f8abc451e1.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[먼데이프로젝트 시즌8 My Universe [히키(HICKEE) 단독 콘서트] 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9999</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9999</guid>
+            <pubDate>Fri, 21 Feb 2025 03:21:31 GMT</pubDate>
+            <content:encoded><![CDATA[2025.02.27(목) 19:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2025/02/202502191405497852394a-9f67-434e-bcb6-38f63308406d.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+    </channel>
+</rss>
