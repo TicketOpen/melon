@@ -4,9 +4,17 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 25 Feb 2025 04:19:28 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Feb 2025 05:15:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[제12회 김사월 쇼: 수잔 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=10024</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=10024</guid>
+            <pubDate>Tue, 25 Feb 2025 05:15:44 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>25.03.06(목)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2025/02/202502251114491cf6d390-96c3-400a-85ba-7fb4dc8a87e0.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
         <item>
             <title><![CDATA[체인리액션 10주년 기념 단독 콘서트 ‘A Love Supreme’ : 롤링 30주년 기념 공연 티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9993</link>
@@ -40,6 +48,14 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2025/02/20250224122122ae1f4091-baf9-437e-a2a7-f9a4a2229b6b.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
         <item>
+            <title><![CDATA[윤종신 전국 투어 콘서트 ‘그때’ - 수원 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=10025</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=10025</guid>
+            <pubDate>Tue, 25 Feb 2025 05:15:44 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>25.02.28(금)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2025/02/20250224152225912a4c92-9adc-4190-a367-e865d78c7765.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
             <title><![CDATA[2025 정해인 앵콜 팬미팅 ‘OUR TIME - HBD’ 티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9989</link>
             <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9989</guid>
@@ -70,22 +86,6 @@
             <pubDate>Tue, 25 Feb 2025 01:12:28 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>25.02.26(수)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2025/02/2025022115355353cc02af-d1e5-4c8f-9bc4-46962ce01fff.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[2025 서도밴드 클럽투어 〈새 집〉 - 강릉 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=10020</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=10020</guid>
-            <pubDate>Tue, 25 Feb 2025 01:12:28 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>25.02.28(금)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2025/02/2025022115253015f6b0fe-74e0-4d65-ad73-0cac0cafe885.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[2025 서도밴드 클럽투어 〈새 집〉 - 포항 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=10019</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=10019</guid>
-            <pubDate>Tue, 25 Feb 2025 01:12:28 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>25.02.28(금)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2025/02/20250221144633021506e1-9f16-495a-bac7-e142ae8001fa.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
