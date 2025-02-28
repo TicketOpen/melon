@@ -4,9 +4,25 @@
         <title>멜론 티켓</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 28 Feb 2025 08:20:26 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Feb 2025 09:17:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2025 장들레 EP 발매 기념 공연 〈아는사람〉 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=10040</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=10040</guid>
+            <pubDate>Fri, 28 Feb 2025 09:17:14 GMT</pubDate>
+            <content:encoded><![CDATA[2025.03.04(화) 19:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2025/02/20250228143621e1091d2e-731e-4bb3-9cf4-ac9e181a515f.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[2025 김수영 소극장 단독공연 〈Bloom〉 추가 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=10039</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=10039</guid>
+            <pubDate>Fri, 28 Feb 2025 09:17:14 GMT</pubDate>
+            <content:encoded><![CDATA[2025.03.05(수) 19:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2025/02/202502271759022af8bc58-495c-4a6f-9a9a-6e56e4feb522.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
         <item>
             <title><![CDATA[IVE 공식 팬클럽 ‘DIVE’ 4기 추가모집 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=10037</link>
@@ -70,22 +86,6 @@
             <pubDate>Fri, 28 Feb 2025 08:20:13 GMT</pubDate>
             <content:encoded><![CDATA[2025.03.05(수) 20:00]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2025/02/20250226160848c394231c-f08c-4bd2-b2af-d4296d263c8e.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[열두달 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=10026</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=10026</guid>
-            <pubDate>Fri, 28 Feb 2025 08:20:13 GMT</pubDate>
-            <content:encoded><![CDATA[2025.02.28(금) 20:00]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2025/02/2025022518051507fe2834-1070-4baf-a426-6fc7c12a638f.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[윤종신 전국 투어 콘서트 ‘그때’ - 수원 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=10025</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=10025</guid>
-            <pubDate>Fri, 28 Feb 2025 08:20:13 GMT</pubDate>
-            <content:encoded><![CDATA[2025.02.28(금) 14:00]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2025/02/20250224152225912a4c92-9adc-4190-a367-e865d78c7765.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
     </channel>
 </rss>

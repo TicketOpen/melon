@@ -4,9 +4,17 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 28 Feb 2025 08:20:26 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Feb 2025 09:17:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2025 장들레 EP 발매 기념 공연 〈아는사람〉 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=10040</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=10040</guid>
+            <pubDate>Fri, 28 Feb 2025 09:17:20 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>25.03.04(화)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2025/02/20250228143621e1091d2e-731e-4bb3-9cf4-ac9e181a515f.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
         <item>
             <title><![CDATA[박강현 단독콘서트 〈Melody in Blue Ep.2〉 티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=10034</link>
@@ -30,6 +38,14 @@
             <pubDate>Fri, 28 Feb 2025 08:20:20 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>25.03.04(화)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2025/02/202502281339282d772c34-2209-44e9-be99-e87d199dbeff.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[2025 김수영 소극장 단독공연 〈Bloom〉 추가 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=10039</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=10039</guid>
+            <pubDate>Fri, 28 Feb 2025 09:17:20 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>25.03.05(수)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2025/02/202502271759022af8bc58-495c-4a6f-9a9a-6e56e4feb522.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
         <item>
             <title><![CDATA[IVE 공식 팬클럽 ‘DIVE’ 4기 추가모집 오픈 안내]]></title>
@@ -70,22 +86,6 @@
             <pubDate>Fri, 28 Feb 2025 08:20:20 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>25.02.27(목)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2025/02/20250226111618a64975cb-487e-4a30-805a-764f3e47dee9.png/melon/resize/160x225/strip/true" length="0" type="image/png/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[GEMINI SEASON ‘Miles Away’ The World Tour in Seoul 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=10029</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=10029</guid>
-            <pubDate>Fri, 28 Feb 2025 08:20:20 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>25.02.28(금)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2025/02/202502261114102c626ea5-61ed-4e2c-8745-c0b54e0449c4.png/melon/resize/160x225/strip/true" length="0" type="image/png/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[먼데이프로젝트 IN 라이브클럽 [박태욱 단독 콘서트] 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=9995</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=9995</guid>
-            <pubDate>Fri, 28 Feb 2025 08:20:20 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>25.02.26(수)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2025/02/20250218111700a5444333-2e04-494e-8c56-6832c9deb0e5.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
