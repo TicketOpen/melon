@@ -1,8 +1,91 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://ticket.melon.com/csoon/index.htm#orderType=0&amp;pageIndex=1&amp;schGcode=GENRE_ALL&amp;schText=&amp;schDt=</id>
-    <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
-    <updated>2025-03-05T14:15:28.270Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Wed, 05 Mar 2025 15:18:01 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[정승환 공식 팬클럽 US(어스) 멤버십 모집 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=10052</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=10052</guid>
+            <pubDate>Wed, 05 Mar 2025 15:17:53 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>25.03.05(수)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2025/03/2025030515532679ce8e07-85a5-40c3-b2f2-c3a13a3e8d7b.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[브로콜리너마저 단독콘서트 ‘롤링 홀리 브로콜리’ : 롤링 30주년 기념 공연 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=10049</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=10049</guid>
+            <pubDate>Wed, 05 Mar 2025 15:17:53 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>25.03.11(화)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2025/03/20250304181102536025b4-b16e-4e7d-83c7-c6d161944224.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[Hi-Fi Un!corn 1st ASIA Tour “Beat it Beat it” IN SEOUL 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=10042</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=10042</guid>
+            <pubDate>Wed, 05 Mar 2025 15:17:53 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>25.03.10(월)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2025/03/202503041033092770c833-152f-4afa-8ec1-9003d2622d5b.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[[SKYE WHITE DAY FAN MEETING : CANDY DATE] 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=10047</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=10047</guid>
+            <pubDate>Wed, 05 Mar 2025 15:17:53 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>25.03.05(수)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2025/03/20250304172015db039d56-da71-4d75-b7eb-d1e79d462aa5.png/melon/resize/160x225/strip/true" length="0" type="image/png/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[윤종신 전국투어 콘서트 ‘그때’ - 대구 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=10051</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=10051</guid>
+            <pubDate>Wed, 05 Mar 2025 15:17:53 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>25.03.11(화)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2025/03/202503041711040901e5a3-ed45-4959-843d-90b681ba1f28.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[THE VANE MONSTER ON THE ROAD Ep1. SEOUL 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=10035</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=10035</guid>
+            <pubDate>Wed, 05 Mar 2025 15:17:53 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>25.03.07(금)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2025/02/20250227113853c28804ec-a7cd-47cc-9dc0-ed4d2a3a0f70.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[박강현 단독콘서트 〈Melody in Blue Ep.2〉 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=10034</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=10034</guid>
+            <pubDate>Wed, 05 Mar 2025 15:17:53 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>25.02.28(금)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2025/02/202502281002023d437832-3510-4042-b47f-c2f85f6f4825.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 〈매디슨 카운티의 다리〉 1차 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=10044</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=10044</guid>
+            <pubDate>Wed, 05 Mar 2025 15:17:53 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>25.03.07(금)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2025/02/2025022818193046b8251e-f3b0-4643-8920-21e1a27d51ad.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[이브&로맨틱펀치 조인트 콘서트 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=10050</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=10050</guid>
+            <pubDate>Wed, 05 Mar 2025 15:17:53 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>25.03.12(수)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2025/03/20250304151627c4aeca1d-96c8-440a-b985-7403c46ecf1b.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[김승주 단독 콘서트 ‘Hint’ : 롤링 30주년 기념 공연 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=10046</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=10046</guid>
+            <pubDate>Wed, 05 Mar 2025 15:17:53 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>25.03.10(월)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2025/03/2025030414530234c783fd-505f-418d-8e98-e84096d8a054.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+    </channel>
+</rss>
