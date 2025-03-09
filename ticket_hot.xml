@@ -1,8 +1,91 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://ticket.melon.com/csoon/index.htm#orderType=0&amp;pageIndex=1&amp;schGcode=GENRE_ALL&amp;schText=&amp;schDt=</id>
-    <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
-    <updated>2025-03-09T12:22:39.274Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Sun, 09 Mar 2025 13:14:34 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[옥상달빛 소극장공연 [옥캉스] 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=10067</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=10067</guid>
+            <pubDate>Sun, 09 Mar 2025 13:14:27 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>25.03.11(화)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2025/03/20250307092239704412f5-e4ad-4200-a4b5-0911642bcae9.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[김필선 단독 콘서트 『꿈: 필선』 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=10065</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=10065</guid>
+            <pubDate>Sun, 09 Mar 2025 13:14:27 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>25.03.14(금)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2025/03/202503071647224db938e8-483e-44b3-92b0-caf2317e1d59.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[Soul Delivery 단독 콘서트 〈The new wave collective〉 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=10066</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=10066</guid>
+            <pubDate>Sun, 09 Mar 2025 13:14:27 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>25.03.13(목)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2025/03/20250306212212ef25b4e2-e4ce-4b39-ab49-c7ea04e27baf.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[ALWAYS HEALING LIVE CONCERT 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=10018</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=10018</guid>
+            <pubDate>Sun, 09 Mar 2025 13:14:27 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>25.02.26(수)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2025/03/20250307134036ca19e4e4-e1dd-42c0-87b5-920ec66118c5.png/melon/resize/160x225/strip/true" length="0" type="image/png/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[먼데이프로젝트 시즌8 [올리비아 마쉬 EP 발매 기념 Listening Party ‘Meanwhile’] Encore 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=10060</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=10060</guid>
+            <pubDate>Sun, 09 Mar 2025 13:14:27 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>25.03.13(목)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2025/03/20250307090334db1e603b-3191-4f87-8e20-ff6d054dc4f5.png/melon/resize/160x225/strip/true" length="0" type="image/png/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[스티 단독 콘서트 ‘버라이어티 유나이티드 BINGO 라이브’ 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=10061</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=10061</guid>
+            <pubDate>Sun, 09 Mar 2025 13:14:27 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>25.03.10(월)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2025/03/20250306183501d2bd60dc-28a2-46db-9c03-1e1bb1163544.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[DMZ 피스트레인 뮤직 페스티벌 2025 1차 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=10063</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=10063</guid>
+            <pubDate>Sun, 09 Mar 2025 13:14:27 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>25.03.10(월)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2025/03/20250306182359a01785f5-49c7-4e2e-a57f-93c68d2fc994.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 〈매디슨 카운티의 다리〉 1차 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=10044</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=10044</guid>
+            <pubDate>Sun, 09 Mar 2025 13:14:27 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>25.03.07(금)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2025/02/2025022818193046b8251e-f3b0-4643-8920-21e1a27d51ad.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[윤종신 Curated 20 정인 X 라디 〈1980 화요일〉 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=10062</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=10062</guid>
+            <pubDate>Sun, 09 Mar 2025 13:14:27 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>25.03.10(월)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2025/03/202503061732102f011cda-2b18-4750-bc9e-d9338c7e908d.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[먼데이프로젝트 시즌8 [Robiq, Four Seasons : Spring] 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=10054</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=10054</guid>
+            <pubDate>Sun, 09 Mar 2025 13:14:27 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>25.03.13(목)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2025/03/20250306111836e6d8682a-003a-48b4-a88c-c2cd9f934f68.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+    </channel>
+</rss>
