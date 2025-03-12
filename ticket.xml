@@ -1,8 +1,91 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://ticket.melon.com/csoon/index.htm</id>
-    <title>멜론 티켓</title>
-    <updated>2025-03-12T11:13:58.578Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>멜론 티켓</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Wed, 12 Mar 2025 12:32:30 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[윤종신 전국투어 콘서트 ‘그때’ - 고양 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=10080</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=10080</guid>
+            <pubDate>Wed, 12 Mar 2025 12:32:17 GMT</pubDate>
+            <content:encoded><![CDATA[2025.03.18(화) 20:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2025/03/2025031117540330dcfb4b-c8c3-49a8-b0de-fb05a5d8e26e.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[홀린 단독콘서트 ‘For those who grieve’ : 롤링 30주년 기념 공연 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=10079</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=10079</guid>
+            <pubDate>Wed, 12 Mar 2025 12:32:17 GMT</pubDate>
+            <content:encoded><![CDATA[2025.03.18(화) 20:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2025/03/20250311112624611ec292-7e04-487f-84b4-83f729ee5c79.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[먼데이프로젝트 시즌8 [피아노 슈게이저 단독 콘서트 ‘이미 없는 남극으로’] 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=10078</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=10078</guid>
+            <pubDate>Wed, 12 Mar 2025 12:32:17 GMT</pubDate>
+            <content:encoded><![CDATA[2025.03.19(수) 20:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2025/03/202503111525015a60a800-cdd8-477f-8c3c-2cbfb528720e.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[먼데이프로젝트 IN 라이브클럽 [포져군단 단독 콘서트] 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=10077</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=10077</guid>
+            <pubDate>Wed, 12 Mar 2025 12:32:17 GMT</pubDate>
+            <content:encoded><![CDATA[2025.03.19(수) 19:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2025/03/20250311144500b6f228f7-7720-4785-b2f5-9b3d379c5025.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[SS:umic Festival #4 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=10076</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=10076</guid>
+            <pubDate>Wed, 12 Mar 2025 12:32:17 GMT</pubDate>
+            <content:encoded><![CDATA[2025.03.14(금) 11:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2025/03/20250311133946d96971a8-e465-4788-9595-ef5b28b52164.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[2025 ZUHO CONCERT 주주총회: DOMINION 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=10075</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=10075</guid>
+            <pubDate>Wed, 12 Mar 2025 12:32:17 GMT</pubDate>
+            <content:encoded><![CDATA[2025.03.14(금) 19:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2025/03/20250311102735654a428f-f4a0-4177-9fbc-ac57ff3b6d07.png/melon/resize/65x92/strip/true" length="0" type="image/png/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[2025 KAI SOLO CONCERT TOUR 〈KAION〉 IN SEOUL 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=10073</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=10073</guid>
+            <pubDate>Wed, 12 Mar 2025 12:32:17 GMT</pubDate>
+            <content:encoded><![CDATA[오픈일정 보기 &gt;]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2025/03/20250307143442f75e484a-d342-459d-949a-38bdb2afc166.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[톡식(TOXIC) & 더 픽스 (THE FIX) 콘서트 : 롤링 30주년 기념 공연 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=10072</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=10072</guid>
+            <pubDate>Wed, 12 Mar 2025 12:32:17 GMT</pubDate>
+            <content:encoded><![CDATA[2025.03.17(월) 20:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2025/03/20250310095143b1c77032-07c8-4576-8a03-691de3e87042.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[PEAK FESTIVAL 2025 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=10070</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=10070</guid>
+            <pubDate>Wed, 12 Mar 2025 12:32:17 GMT</pubDate>
+            <content:encoded><![CDATA[2025.03.11(화) 18:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2025/03/202503071541358cdbeb50-63ea-4a53-94d1-2623ebfbcbb9.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[SHINee WORLD Ⅶ [E.S.S.A.Y] (Every Stage Shines Around You) 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=10069</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=10069</guid>
+            <pubDate>Wed, 12 Mar 2025 12:32:17 GMT</pubDate>
+            <content:encoded><![CDATA[오픈일정 보기 &gt;]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2025/03/2025030717190549b57cc1-6400-4de9-b6e8-23cc28cda4cf.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+    </channel>
+</rss>
