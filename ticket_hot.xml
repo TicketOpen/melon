@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 13 Mar 2025 06:23:03 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Mar 2025 07:15:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -48,6 +48,14 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2025/03/20250312104635885f1d14-3d6e-4a3f-a8c0-5da6731fc898.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
         <item>
+            <title><![CDATA[Dream Walker #6 : 허회경 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=10087</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=10087</guid>
+            <pubDate>Thu, 13 Mar 2025 07:15:50 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>25.03.19(수)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2025/03/202503121032404bf7b0db-d4fb-4f7e-9980-db8966f4b449.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
             <title><![CDATA[윤종신 전국투어 콘서트 ‘그때’ - 고양 티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=10080</link>
             <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=10080</guid>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 13 Mar 2025 03:27:40 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>25.03.19(수)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2025/03/202503111525015a60a800-cdd8-477f-8c3c-2cbfb528720e.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[먼데이프로젝트 IN 라이브클럽 [포져군단 단독 콘서트] 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=10077</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=10077</guid>
-            <pubDate>Thu, 13 Mar 2025 03:27:40 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>25.03.19(수)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2025/03/20250311144500b6f228f7-7720-4785-b2f5-9b3d379c5025.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
