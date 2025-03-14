@@ -1,8 +1,91 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://ticket.melon.com/csoon/index.htm</id>
-    <title>멜론 티켓</title>
-    <updated>2025-03-14T13:22:50.697Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>멜론 티켓</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Fri, 14 Mar 2025 14:15:39 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[406호 프로젝트 정기공연 [406DAY] 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=10097</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=10097</guid>
+            <pubDate>Fri, 14 Mar 2025 14:15:25 GMT</pubDate>
+            <content:encoded><![CDATA[2025.03.17(월) 20:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2025/03/20250314090206d458ecb8-0563-4c37-8dc0-41040ba918dd.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[이병찬 : Valentine Concert 2 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=10096</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=10096</guid>
+            <pubDate>Fri, 14 Mar 2025 14:15:25 GMT</pubDate>
+            <content:encoded><![CDATA[2025.03.17(월) 20:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2025/03/20250314114047c1ee57e7-e031-41fe-b278-670388dcb74c.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[음성사서함 첫번째 단독 공연 “봄이라서 하는 말” 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=10095</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=10095</guid>
+            <pubDate>Fri, 14 Mar 2025 14:15:25 GMT</pubDate>
+            <content:encoded><![CDATA[2025.03.17(월) 19:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2025/03/20250313155045d768b245-9037-4603-811a-2182d6ecd5ad.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[할로우잰 & 바닐라유니티 조인트 콘서트 : 롤링 30주년 기념 공연 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=10093</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=10093</guid>
+            <pubDate>Fri, 14 Mar 2025 14:15:25 GMT</pubDate>
+            <content:encoded><![CDATA[2025.03.21(금) 20:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2025/03/20250313151510397c6b21-db09-47c2-ab50-8d500217bb80.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[[2025’예비초등 필수관람 공연] 연극 아빠와 난 초등1학년_대구 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=10092</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=10092</guid>
+            <pubDate>Fri, 14 Mar 2025 14:15:25 GMT</pubDate>
+            <content:encoded><![CDATA[2025.03.14(금) 09:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2025/03/20250314085253d82fc089-05a0-42a9-87f4-c6e847e273c4.png/melon/resize/65x92/strip/true" length="0" type="image/png/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[2025 지수연 팬미팅: BLOOMING LETTER 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=10091</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=10091</guid>
+            <pubDate>Fri, 14 Mar 2025 14:15:25 GMT</pubDate>
+            <content:encoded><![CDATA[2025.03.14(금) 19:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2025/03/20250313162106c7803f0a-9084-4b3b-8b37-cff06d7645ac.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[손혜은 정규 1집 발매 콘서트 〈모자이크〉 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=10090</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=10090</guid>
+            <pubDate>Fri, 14 Mar 2025 14:15:25 GMT</pubDate>
+            <content:encoded><![CDATA[2025.03.21(금) 14:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2025/03/202503131425338e1446ac-198e-4e95-aa9b-f5a1d296c388.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[슈퍼팝 2025 코리아 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=10089</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=10089</guid>
+            <pubDate>Fri, 14 Mar 2025 14:15:25 GMT</pubDate>
+            <content:encoded><![CDATA[2025.03.14(금) 11:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2025/03/202503131020467d85476b-31d9-4b7b-819a-ed9e34ceb8bf.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[사랑해준 그대만이 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=10088</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=10088</guid>
+            <pubDate>Fri, 14 Mar 2025 14:15:25 GMT</pubDate>
+            <content:encoded><![CDATA[2025.03.14(금) 18:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2025/03/2025031214030761706b7d-ad2b-4f42-9d15-93e09354edb6.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[Dream Walker #6 : 허회경 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=10087</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=10087</guid>
+            <pubDate>Fri, 14 Mar 2025 14:15:25 GMT</pubDate>
+            <content:encoded><![CDATA[2025.03.19(수) 20:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2025/03/20250313165222d571f64d-6ccf-45f4-b2f5-4ae5327e0f7e.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+    </channel>
+</rss>
