@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 17 Mar 2025 02:57:34 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Mar 2025 03:31:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Mon, 17 Mar 2025 02:57:28 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>25.03.17(월)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2025/03/20250314114047c1ee57e7-e031-41fe-b278-670388dcb74c.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[이지영 (빅마마) 단독콘서트 ‘봄날의 여유’ : 롤링 30주년 기념 공연 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=10100</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=10100</guid>
+            <pubDate>Mon, 17 Mar 2025 03:31:45 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>25.03.24(월)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2025/03/20250314110517295187a0-afcb-4b6e-a509-991f35571376.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
         <item>
             <title><![CDATA[[2025’예비초등 필수관람 공연] 연극 아빠와 난 초등1학년_김해 티켓 오픈 안내]]></title>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 17 Mar 2025 02:57:28 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>25.03.17(월)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2025/03/20250313155045d768b245-9037-4603-811a-2182d6ecd5ad.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[할로우잰 & 바닐라유니티 조인트 콘서트 : 롤링 30주년 기념 공연 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=10093</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=10093</guid>
-            <pubDate>Mon, 17 Mar 2025 02:57:28 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>25.03.21(금)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2025/03/20250313151510397c6b21-db09-47c2-ab50-8d500217bb80.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
