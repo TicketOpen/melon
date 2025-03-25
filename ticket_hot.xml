@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 25 Mar 2025 09:18:02 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Mar 2025 10:18:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,6 +30,14 @@
             <pubDate>Tue, 25 Mar 2025 05:17:34 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>25.03.26(수)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2025/03/20250318143538fed1855a-d296-47fb-9ad4-a10a607abef1.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[2025 Lee Dae Yeol 1st Fanmeeting : Cozy Camp 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=10133</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=10133</guid>
+            <pubDate>Tue, 25 Mar 2025 10:18:30 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>25.03.28(금)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2025/03/20250324174035b74e795d-eaba-4306-909f-5a03643b0693.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
         <item>
             <title><![CDATA[Sora Kim 2nd Album Release Concert 티켓 오픈 안내]]></title>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 25 Mar 2025 05:17:34 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>25.02.27(목)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2025/03/20250319185745ca370008-ec22-4546-87a8-f8231954e05d.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[현재, 너와 나의 Memories 1st FanMeeting 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=10129</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=10129</guid>
-            <pubDate>Tue, 25 Mar 2025 05:17:34 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>25.03.25(화)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2025/03/20250321110331ad61c2bb-954e-4ed3-a4f1-1db7a9e2336d.png/melon/resize/160x225/strip/true" length="0" type="image/png/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
