@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 25 Mar 2025 05:17:41 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Mar 2025 06:23:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Tue, 25 Mar 2025 05:17:34 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>25.03.26(수)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2025/03/20250318143538fed1855a-d296-47fb-9ad4-a10a607abef1.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[「체크인 한양」드라마 팬미팅 in TOKYO ～체크인 하시겠습니까?～ 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=10131</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=10131</guid>
+            <pubDate>Tue, 25 Mar 2025 06:23:28 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>25.03.27(목)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2025/03/2025032415052607fb2914-ce54-4bf0-b41e-0f26725ee39d.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
         <item>
             <title><![CDATA[Sora Kim 2nd Album Release Concert 티켓 오픈 안내]]></title>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 25 Mar 2025 05:17:34 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>25.03.25(화)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2025/03/20250321110331ad61c2bb-954e-4ed3-a4f1-1db7a9e2336d.png/melon/resize/160x225/strip/true" length="0" type="image/png/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[[20% 할인 + 음료 증정] 아르누보의 꽃 : 알폰스 무하 원화전 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=10108</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=10108</guid>
-            <pubDate>Tue, 25 Mar 2025 05:17:34 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>25.03.20(목)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2025/03/2025031821203780e5afc5-ae3d-4b93-b979-3b5f42793b8b.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
