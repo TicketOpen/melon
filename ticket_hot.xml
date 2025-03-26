@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 26 Mar 2025 07:16:27 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Mar 2025 08:21:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -64,6 +64,14 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2025/03/2025032415052607fb2914-ce54-4bf0-b41e-0f26725ee39d.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
         <item>
+            <title><![CDATA[[앵콜 특가]시네마 천국 이머시브 특별전-투.토토 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=10138</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=10138</guid>
+            <pubDate>Wed, 26 Mar 2025 08:21:46 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>25.04.01(화)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2025/03/2025032515272382b5cb9f-9cba-4574-ba50-bc7c51c44531.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
             <title><![CDATA[시인을 위하여 정규 일집 발매 기념 쇼케이스 티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=10135</link>
             <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=10135</guid>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 26 Mar 2025 06:23:03 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>25.03.26(수)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2025/03/20250318143538fed1855a-d296-47fb-9ad4-a10a607abef1.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[Sora Kim 2nd Album Release Concert 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=10128</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=10128</guid>
-            <pubDate>Wed, 26 Mar 2025 06:23:03 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>25.04.01(화)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2025/03/202503241112352529ab24-f4d0-4f8c-9ea6-da81f7f67f20.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
