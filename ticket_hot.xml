@@ -4,9 +4,17 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 26 Mar 2025 06:23:10 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Mar 2025 07:16:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[발레드림(Ballet Dream) 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=10137</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=10137</guid>
+            <pubDate>Wed, 26 Mar 2025 07:16:21 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>25.03.28(금)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2025/03/20250326154846f0cf574e-a837-431f-ac83-d37295d551d0.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
         <item>
             <title><![CDATA[숨비 단독콘서트 STAGE&SHOT 티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=10134</link>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 26 Mar 2025 06:23:03 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>25.04.01(화)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2025/03/202503241112352529ab24-f4d0-4f8c-9ea6-da81f7f67f20.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 〈매디슨 카운티의 다리〉 2차 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=10105</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=10105</guid>
-            <pubDate>Wed, 26 Mar 2025 06:23:03 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>25.03.21(금)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2025/03/2025031715235584b2a0d2-d4d9-4190-96e4-cf594fe8d6d2.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
