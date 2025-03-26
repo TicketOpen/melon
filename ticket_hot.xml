@@ -4,9 +4,17 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 26 Mar 2025 02:57:10 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Mar 2025 03:30:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[숨비 단독콘서트 STAGE&SHOT 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=10134</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=10134</guid>
+            <pubDate>Wed, 26 Mar 2025 03:30:05 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>25.03.31(월)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2025/03/20250326092044858686e3-d81b-448b-a450-b36b60f58f38.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
         <item>
             <title><![CDATA[기프트 단독콘서트 ‘초심’ : 롤링 30주년 기념 공연 티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=10120</link>
@@ -40,6 +48,14 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2025/03/2025032415052607fb2914-ce54-4bf0-b41e-0f26725ee39d.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
         <item>
+            <title><![CDATA[시인을 위하여 정규 일집 발매 기념 쇼케이스 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=10135</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=10135</guid>
+            <pubDate>Wed, 26 Mar 2025 03:30:05 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>25.03.31(월)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2025/03/20250325144345ec4c5daa-edea-4386-87f6-1c61174a84ef.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
             <title><![CDATA[뮤지컬 〈구텐버그〉 1차 티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=10109</link>
             <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=10109</guid>
@@ -70,22 +86,6 @@
             <pubDate>Tue, 25 Mar 2025 21:15:00 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>25.03.21(금)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2025/03/202503182212003754f837-c802-4aac-b606-349f9d890873.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[이정권 EP 앨범 발매 기념 콘서트 ‘봄으로 피어’ 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=10116</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=10116</guid>
-            <pubDate>Tue, 25 Mar 2025 21:15:00 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>25.03.21(금)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2025/03/2025031810223694dbc459-96ed-4f1c-b116-c512dc757b47.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[제17회 서울재즈페스티벌 2025 2차 라인업 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=10118</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=10118</guid>
-            <pubDate>Tue, 25 Mar 2025 21:15:00 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>25.02.27(목)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2025/03/20250319185745ca370008-ec22-4546-87a8-f8231954e05d.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
