@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 판매중</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 01 Apr 2025 04:20:03 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Apr 2025 05:17:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -383,6 +383,31 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2025/02/202502241327235c23ba9c-2caf-455d-bc97-a425e392676b.png/melon/resize/90x125/strip/true" length="0" type="image/png/melon/resize/90x125/strip/true"/>
         </item>
         <item>
+            <title><![CDATA[페인터즈]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=211235</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=211235</guid>
+            <pubDate>Tue, 01 Apr 2025 05:17:38 GMT</pubDate>
+            <content:encoded><![CDATA[<td>
+                            <div class="show_infor">
+                                <div class="thumb_90x125  img">
+                                    <a href="#">
+                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2025/03/2025033116222695b51507-f3e5-4dde-a731-8efa3a46a963.png/melon/resize/90x125/strip/true" alt="">
+                                        <span class="frame"></span>
+                                    </a>
+                                </div>
+                                <p class="infor_text">
+                                    <span class="ico_wrap">
+                                        <span class="ico_list ico_list4"> 판매중</span></span>
+                                    <span class="show_title"><a href="/performance/index.htm?prodId=211235">페인터즈</a></span>
+                                </p>
+                            </div>
+                        </td>
+                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
+                            2025.04.02 - 오픈런</td>
+                        <td class="show_loc">광화문 전용관 (경향아트힐) </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2025/03/2025033116222695b51507-f3e5-4dde-a731-8efa3a46a963.png/melon/resize/90x125/strip/true" length="0" type="image/png/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
             <title><![CDATA[고고학 단독 콘서트 ‘파도’ : 롤링 30주년 기념 공연]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=211132</link>
             <guid>https://ticket.melon.com/performance/index.htm?prodId=211132</guid>
@@ -481,31 +506,6 @@
                             2025.04.04 - 2025.04.20</td>
                         <td class="show_loc">세종문화회관 S씨어터</td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2025/03/20250321091228d5093363-d9a5-4f04-b406-f2ab52015f1e.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[Soul Delivery 단독 콘서트 〈The new wave collective〉]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=211153</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=211153</guid>
-            <pubDate>Tue, 01 Apr 2025 04:20:02 GMT</pubDate>
-            <content:encoded><![CDATA[<td>
-                            <div class="show_infor">
-                                <div class="thumb_90x125  img">
-                                    <a href="#">
-                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2025/03/2025031218593709d42f3f-39bc-4a35-9c86-502635eac331.jpg/melon/resize/90x125/strip/true" alt="">
-                                        <span class="frame"></span>
-                                    </a>
-                                </div>
-                                <p class="infor_text">
-                                    <span class="ico_wrap">
-                                        <span class="ico_list ico_list1">단독판매</span><span class="ico_list ico_list4"> 판매중</span></span>
-                                    <span class="show_title"><a href="/performance/index.htm?prodId=211153">Soul Delivery 단독 콘서트 〈The new wave collective〉</a></span>
-                                </p>
-                            </div>
-                        </td>
-                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
-                            2025.04.04 - 2025.04.04</td>
-                        <td class="show_loc">CJ아지트 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2025/03/2025031218593709d42f3f-39bc-4a35-9c86-502635eac331.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
     </channel>
 </rss>
