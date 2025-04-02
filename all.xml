@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 01 Apr 2025 23:16:20 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Apr 2025 01:17:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -343,6 +343,31 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2025/03/20250305155337e658c322-1b7a-4db6-ae6a-02827393b8a8.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
+            <title><![CDATA[[20% 할인 + 음료 증정] 아르누보의 꽃 : 알폰스 무하 원화전 (멜론티켓 ─ 판매중)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=211201</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=211201</guid>
+            <pubDate>Tue, 01 Apr 2025 20:19:34 GMT</pubDate>
+            <content:encoded><![CDATA[<td>
+                            <div class="show_infor">
+                                <div class="thumb_90x125  img">
+                                    <a href="#">
+                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2025/03/202503182103326086f55b-a251-4165-b649-45edde7a5cea.jpg/melon/resize/90x125/strip/true" alt="">
+                                        <span class="frame"></span>
+                                    </a>
+                                </div>
+                                <p class="infor_text">
+                                    <span class="ico_wrap">
+                                        <span class="ico_list ico_list4"> 판매중</span></span>
+                                    <span class="show_title"><a href="/performance/index.htm?prodId=211201">[20% 할인 + 음료 증정] 아르누보의 꽃 : 알폰스 무하 원화전</a></span>
+                                </p>
+                            </div>
+                        </td>
+                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
+                            2025.03.20 - 2025.05.31</td>
+                        <td class="show_loc">마이아트뮤지엄 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2025/03/202503182103326086f55b-a251-4165-b649-45edde7a5cea.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
             <title><![CDATA[[얼리버드] 아르누보의 꽃 : 알폰스 무하 원화전 (멜론티켓 ─ 판매중)]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=211058</link>
             <guid>https://ticket.melon.com/performance/index.htm?prodId=211058</guid>
@@ -391,31 +416,6 @@
                             2025.03.20 - 2025.07.13</td>
                         <td class="show_loc">마이아트뮤지엄 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2025/03/20250318203006a2bd43d6-0d55-4971-b4ed-7c5e071cd95a.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[[20% 할인 + 음료 증정] 아르누보의 꽃 : 알폰스 무하 원화전 (멜론티켓 ─ 판매중)]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=211201</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=211201</guid>
-            <pubDate>Tue, 01 Apr 2025 20:19:34 GMT</pubDate>
-            <content:encoded><![CDATA[<td>
-                            <div class="show_infor">
-                                <div class="thumb_90x125  img">
-                                    <a href="#">
-                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2025/03/202503182103326086f55b-a251-4165-b649-45edde7a5cea.jpg/melon/resize/90x125/strip/true" alt="">
-                                        <span class="frame"></span>
-                                    </a>
-                                </div>
-                                <p class="infor_text">
-                                    <span class="ico_wrap">
-                                        <span class="ico_list ico_list4"> 판매중</span></span>
-                                    <span class="show_title"><a href="/performance/index.htm?prodId=211201">[20% 할인 + 음료 증정] 아르누보의 꽃 : 알폰스 무하 원화전</a></span>
-                                </p>
-                            </div>
-                        </td>
-                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
-                            2025.03.20 - 2025.05.31</td>
-                        <td class="show_loc">마이아트뮤지엄 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2025/03/202503182103326086f55b-a251-4165-b649-45edde7a5cea.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
             <title><![CDATA[2025 김수영 소극장 단독공연 〈Bloom〉 (멜론티켓 ─ 판매중)]]></title>
@@ -468,29 +468,29 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2025/02/202502261728481e4fbfb0-0972-4591-acad-427aa54e19c0.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
-            <title><![CDATA[WTT Champions Incheon 2025 (멜론티켓 ─ 판매중)]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=211112</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=211112</guid>
+            <title><![CDATA[[앵콜 특가]시네마 천국 이머시브 특별전-투.토토 (멜론티켓 ─ 판매중)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=211216</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=211216</guid>
             <pubDate>Tue, 01 Apr 2025 20:19:34 GMT</pubDate>
             <content:encoded><![CDATA[<td>
                             <div class="show_infor">
                                 <div class="thumb_90x125  img">
                                     <a href="#">
-                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2025/02/202502241327235c23ba9c-2caf-455d-bc97-a425e392676b.png/melon/resize/90x125/strip/true" alt="">
+                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2025/03/20250325152654d13291b0-4135-40da-a691-bc7dd0452bf6.jpg/melon/resize/90x125/strip/true" alt="">
                                         <span class="frame"></span>
                                     </a>
                                 </div>
                                 <p class="infor_text">
                                     <span class="ico_wrap">
                                         <span class="ico_list ico_list1">단독판매</span><span class="ico_list ico_list4"> 판매중</span></span>
-                                    <span class="show_title"><a href="/performance/index.htm?prodId=211112">WTT Champions Incheon 2025</a></span>
+                                    <span class="show_title"><a href="/performance/index.htm?prodId=211216">[앵콜 특가]시네마 천국 이머시브 특별전-투.토토</a></span>
                                 </p>
                             </div>
                         </td>
                         <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
-                            2025.04.01 - 2025.04.06</td>
-                        <td class="show_loc">인스파이어 아레나 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2025/02/202502241327235c23ba9c-2caf-455d-bc97-a425e392676b.png/melon/resize/90x125/strip/true" length="0" type="image/png/melon/resize/90x125/strip/true"/>
+                            2025.04.01 - 2025.04.30</td>
+                        <td class="show_loc">서울숲 갤러리아포레 더 서울라이티움</td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2025/03/20250325152654d13291b0-4135-40da-a691-bc7dd0452bf6.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
             <title><![CDATA[정세운 공식 팬클럽 ‘행운(LUCKY)’ 7기 모집 (멜론티켓 ─ 판매중)]]></title>
@@ -518,29 +518,29 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2025/03/20250327153313159262bb-d43d-4750-9fbb-db3d52a0478a.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
-            <title><![CDATA[[앵콜 특가]시네마 천국 이머시브 특별전-투.토토 (멜론티켓 ─ 판매중)]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=211216</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=211216</guid>
+            <title><![CDATA[WTT Champions Incheon 2025 (멜론티켓 ─ 판매중)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=211112</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=211112</guid>
             <pubDate>Tue, 01 Apr 2025 20:19:34 GMT</pubDate>
             <content:encoded><![CDATA[<td>
                             <div class="show_infor">
                                 <div class="thumb_90x125  img">
                                     <a href="#">
-                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2025/03/20250325152654d13291b0-4135-40da-a691-bc7dd0452bf6.jpg/melon/resize/90x125/strip/true" alt="">
+                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2025/02/202502241327235c23ba9c-2caf-455d-bc97-a425e392676b.png/melon/resize/90x125/strip/true" alt="">
                                         <span class="frame"></span>
                                     </a>
                                 </div>
                                 <p class="infor_text">
                                     <span class="ico_wrap">
                                         <span class="ico_list ico_list1">단독판매</span><span class="ico_list ico_list4"> 판매중</span></span>
-                                    <span class="show_title"><a href="/performance/index.htm?prodId=211216">[앵콜 특가]시네마 천국 이머시브 특별전-투.토토</a></span>
+                                    <span class="show_title"><a href="/performance/index.htm?prodId=211112">WTT Champions Incheon 2025</a></span>
                                 </p>
                             </div>
                         </td>
                         <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
-                            2025.04.01 - 2025.04.30</td>
-                        <td class="show_loc">서울숲 갤러리아포레 더 서울라이티움</td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2025/03/20250325152654d13291b0-4135-40da-a691-bc7dd0452bf6.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+                            2025.04.01 - 2025.04.06</td>
+                        <td class="show_loc">인스파이어 아레나 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2025/02/202502241327235c23ba9c-2caf-455d-bc97-a425e392676b.png/melon/resize/90x125/strip/true" length="0" type="image/png/melon/resize/90x125/strip/true"/>
         </item>
         <item>
             <title><![CDATA[페인터즈 (멜론티켓 ─ 판매중)]]></title>
@@ -593,29 +593,29 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2025/03/202503041648425f33d20e-c07c-4dfa-aca8-496885fe111c.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
-            <title><![CDATA[반쪼가리자작 (멜론티켓 ─ 판매중)]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=211142</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=211142</guid>
-            <pubDate>Tue, 01 Apr 2025 20:19:34 GMT</pubDate>
+            <title><![CDATA[빅타임 (BIG TIME) : 생일파티 (멜론티켓 ─ 판매중)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=211203</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=211203</guid>
+            <pubDate>Wed, 02 Apr 2025 01:16:59 GMT</pubDate>
             <content:encoded><![CDATA[<td>
                             <div class="show_infor">
                                 <div class="thumb_90x125  img">
                                     <a href="#">
-                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2025/03/20250321091228d5093363-d9a5-4f04-b406-f2ab52015f1e.jpg/melon/resize/90x125/strip/true" alt="">
+                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2025/03/20250319094939f2dfaa68-9e80-4428-ad3b-9720e6ec8017.jpg/melon/resize/90x125/strip/true" alt="">
                                         <span class="frame"></span>
                                     </a>
                                 </div>
                                 <p class="infor_text">
                                     <span class="ico_wrap">
-                                        <span class="ico_list ico_list4"> 판매중</span></span>
-                                    <span class="show_title"><a href="/performance/index.htm?prodId=211142">반쪼가리자작</a></span>
+                                        <span class="ico_list ico_list1">단독판매</span><span class="ico_list ico_list4"> 판매중</span></span>
+                                    <span class="show_title"><a href="/performance/index.htm?prodId=211203">빅타임 (BIG TIME) : 생일파티</a></span>
                                 </p>
                             </div>
                         </td>
                         <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
-                            2025.04.04 - 2025.04.20</td>
-                        <td class="show_loc">세종문화회관 S씨어터</td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2025/03/20250321091228d5093363-d9a5-4f04-b406-f2ab52015f1e.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+                            2025.04.04 - 2025.04.04</td>
+                        <td class="show_loc">프리즘홀 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2025/03/20250319094939f2dfaa68-9e80-4428-ad3b-9720e6ec8017.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
             <title><![CDATA[김승주 단독 콘서트 ‘Hint’ : 롤링 30주년 기념 공연 (멜론티켓 ─ 판매중)]]></title>
@@ -643,29 +643,29 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2025/03/20250304163809d1034cd8-1619-4277-ba57-6d8ebb6c2e47.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
-            <title><![CDATA[Soul Delivery 단독 콘서트 〈The new wave collective〉 (멜론티켓 ─ 판매중)]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=211153</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=211153</guid>
-            <pubDate>Tue, 01 Apr 2025 23:16:19 GMT</pubDate>
+            <title><![CDATA[반쪼가리자작 (멜론티켓 ─ 판매중)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=211142</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=211142</guid>
+            <pubDate>Tue, 01 Apr 2025 20:19:34 GMT</pubDate>
             <content:encoded><![CDATA[<td>
                             <div class="show_infor">
                                 <div class="thumb_90x125  img">
                                     <a href="#">
-                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2025/03/2025031218593709d42f3f-39bc-4a35-9c86-502635eac331.jpg/melon/resize/90x125/strip/true" alt="">
+                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2025/03/20250321091228d5093363-d9a5-4f04-b406-f2ab52015f1e.jpg/melon/resize/90x125/strip/true" alt="">
                                         <span class="frame"></span>
                                     </a>
                                 </div>
                                 <p class="infor_text">
                                     <span class="ico_wrap">
-                                        <span class="ico_list ico_list1">단독판매</span><span class="ico_list ico_list4"> 판매중</span></span>
-                                    <span class="show_title"><a href="/performance/index.htm?prodId=211153">Soul Delivery 단독 콘서트 〈The new wave collective〉</a></span>
+                                        <span class="ico_list ico_list4"> 판매중</span></span>
+                                    <span class="show_title"><a href="/performance/index.htm?prodId=211142">반쪼가리자작</a></span>
                                 </p>
                             </div>
                         </td>
                         <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
-                            2025.04.04 - 2025.04.04</td>
-                        <td class="show_loc">CJ아지트 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2025/03/2025031218593709d42f3f-39bc-4a35-9c86-502635eac331.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+                            2025.04.04 - 2025.04.20</td>
+                        <td class="show_loc">세종문화회관 S씨어터</td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2025/03/20250321091228d5093363-d9a5-4f04-b406-f2ab52015f1e.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
     </channel>
 </rss>
