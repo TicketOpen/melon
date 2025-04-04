@@ -1,8 +1,99 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://ticket.melon.com/csoon/index.htm</id>
-    <title>멜론 티켓</title>
-    <updated>2025-04-04T16:20:43.336Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>멜론 티켓</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Fri, 04 Apr 2025 17:15:47 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뮤지컬 〈팬텀〉 10주년 기념 공연 1차 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=10158</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=10158</guid>
+            <pubDate>Fri, 04 Apr 2025 17:15:33 GMT</pubDate>
+            <content:encoded><![CDATA[오픈일정 보기 &gt;]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2025/03/20250331110728a8de8e7b-ed02-4371-8c4d-926739933473.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[LUCY 일곱 번째 단독 콘서트 〈와장창〉 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=10184</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=10184</guid>
+            <pubDate>Fri, 04 Apr 2025 17:15:33 GMT</pubDate>
+            <content:encoded><![CDATA[2025.04.09(수) 20:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2025/04/202504031757099ff83701-e6d9-4a91-86d8-abdf378bc0da.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[DMZ 피스트레인 뮤직 페스티벌 2025 2차 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=10183</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=10183</guid>
+            <pubDate>Fri, 04 Apr 2025 17:15:33 GMT</pubDate>
+            <content:encoded><![CDATA[2025.04.07(월) 12:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2025/04/202504031535339e345337-9233-4863-9ec7-30f0a2535bf4.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[OGS 단독콘서트 ‘Future Past’ : 롤링 30주년 기념 공연 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=10182</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=10182</guid>
+            <pubDate>Fri, 04 Apr 2025 17:15:33 GMT</pubDate>
+            <content:encoded><![CDATA[2025.04.08(화) 20:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2025/04/202504031408172ce836dc-2a56-42c3-9a42-edf00df453eb.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[먼데이프로젝트 시즌8 불고기 디스코 단독 콘서트 ‘GOOD TIME’ 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=10181</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=10181</guid>
+            <pubDate>Fri, 04 Apr 2025 17:15:33 GMT</pubDate>
+            <content:encoded><![CDATA[2025.04.09(수) 20:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2025/04/20250403173918db451279-8dcf-48f1-a96e-15c9a8c57394.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[2025년 “벚꽃이 피는 이유” 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=10180</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=10180</guid>
+            <pubDate>Fri, 04 Apr 2025 17:15:33 GMT</pubDate>
+            <content:encoded><![CDATA[2025.04.04(금) 13:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2025/04/20250402112726cfd45cc0-ff7c-40ff-bf6f-520eb7f753ac.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[현대카드 Curated 98 ATARAYO 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=10178</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=10178</guid>
+            <pubDate>Fri, 04 Apr 2025 17:15:33 GMT</pubDate>
+            <content:encoded><![CDATA[2025.04.04(금) 18:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2025/04/20250402180028af4c9986-1a1b-4319-a149-c4125ed6e0fa.png/melon/resize/65x92/strip/true" length="0" type="image/png/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[소란하는 밤 단독콘서트 ‘소란하는 유니버스 : 첫 호출’ : 롤링 30주년 기념 공연 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=10177</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=10177</guid>
+            <pubDate>Fri, 04 Apr 2025 17:15:33 GMT</pubDate>
+            <content:encoded><![CDATA[2025.04.11(금) 20:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2025/04/202504021442154d6518ad-21b7-4527-a0eb-5f4a26056707.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[먼데이프로젝트 시즌8 [급한노새 싱글 발매 기념 단독 콘서트 ‘럭키’] 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=10176</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=10176</guid>
+            <pubDate>Fri, 04 Apr 2025 17:15:33 GMT</pubDate>
+            <content:encoded><![CDATA[2025.04.10(목) 19:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2025/04/20250402111343a904c277-b8df-457f-b12f-da965cd4beac.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[먼데이프로젝트 시즌8 Our Universe [손을모아 단독 콘서트] 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=10175</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=10175</guid>
+            <pubDate>Fri, 04 Apr 2025 17:15:33 GMT</pubDate>
+            <content:encoded><![CDATA[2025.04.10(목) 20:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2025/04/20250402102836be6a02fe-3cbc-4021-a74e-b5eccb19b6a5.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[ASH AHN(안성현) 단독 콘서트 〈TO MY JOYFUL WORLD〉 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=10174</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=10174</guid>
+            <pubDate>Fri, 04 Apr 2025 17:15:33 GMT</pubDate>
+            <content:encoded><![CDATA[2025.04.03(목) 18:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2025/04/202504021108397b032ff2-fc38-401f-a2f1-656944b1aea5.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+    </channel>
+</rss>
