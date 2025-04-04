@@ -4,7 +4,7 @@
         <title>멜론 티켓</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 04 Apr 2025 07:16:58 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Apr 2025 08:22:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Fri, 04 Apr 2025 07:16:44 GMT</pubDate>
             <content:encoded><![CDATA[오픈일정 보기 &gt;]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2025/03/20250331110728a8de8e7b-ed02-4371-8c4d-926739933473.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[LUCY 일곱 번째 단독 콘서트 〈와장창〉 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=10184</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=10184</guid>
+            <pubDate>Fri, 04 Apr 2025 08:21:55 GMT</pubDate>
+            <content:encoded><![CDATA[2025.04.09(수) 20:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2025/04/202504031757099ff83701-e6d9-4a91-86d8-abdf378bc0da.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
         <item>
             <title><![CDATA[DMZ 피스트레인 뮤직 페스티벌 2025 2차 티켓 오픈 안내]]></title>
@@ -86,14 +94,6 @@
             <pubDate>Fri, 04 Apr 2025 07:16:44 GMT</pubDate>
             <content:encoded><![CDATA[2025.04.03(목) 18:00]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2025/04/202504021108397b032ff2-fc38-401f-a2f1-656944b1aea5.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[TONE STUDIO LIVE 〈위수(WISUE)〉 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=10173</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=10173</guid>
-            <pubDate>Fri, 04 Apr 2025 07:16:44 GMT</pubDate>
-            <content:encoded><![CDATA[2025.04.10(목) 20:00]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2025/04/202504021101375e7a84f4-32e4-4d8a-b8c8-a0f73274be16.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
     </channel>
 </rss>
