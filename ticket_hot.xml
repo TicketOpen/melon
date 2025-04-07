@@ -1,8 +1,91 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://ticket.melon.com/csoon/index.htm#orderType=0&amp;pageIndex=1&amp;schGcode=GENRE_ALL&amp;schText=&amp;schDt=</id>
-    <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
-    <updated>2025-04-07T16:20:08.757Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Mon, 07 Apr 2025 17:15:22 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[디폴트 단독공연: Sirius Pre-release Show 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=10192</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=10192</guid>
+            <pubDate>Mon, 07 Apr 2025 17:15:14 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>25.04.08(화)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2025/04/20250407145445521ec29c-0b32-4bf6-81d6-06dd98fb3d19.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[AoB Presents #1 : Grateful Sound 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=10191</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=10191</guid>
+            <pubDate>Mon, 07 Apr 2025 17:15:14 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>25.04.15(화)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2025/04/20250404103007766a9922-1807-43e9-ad5b-24404ccaa7d6.png/melon/resize/160x225/strip/true" length="0" type="image/png/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[앵콜! 브로콜리너마저 클럽투어 - 광주 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=10190</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=10190</guid>
+            <pubDate>Mon, 07 Apr 2025 17:15:14 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>25.04.10(목)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2025/04/20250407103633e1ff0e11-f6d5-482c-9a9e-30ab2f96aa32.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[2025 NCT DREAM FANMEETING 〈DREAM QUEST〉 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=10169</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=10169</guid>
+            <pubDate>Mon, 07 Apr 2025 17:15:14 GMT</pubDate>
+            <content:encoded><![CDATA[오픈일정 보기 &gt;]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2025/04/202504011038430e9ee16a-27da-404c-a646-86172607ecc0.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[윤종신 전국투어 콘서트 ‘그때’ - 서울 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=10168</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=10168</guid>
+            <pubDate>Mon, 07 Apr 2025 17:15:14 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>25.04.08(화)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2025/04/20250401111750c37d2383-e45b-4277-8b2c-82568e802101.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 〈팬텀〉 10주년 기념 공연 1차 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=10158</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=10158</guid>
+            <pubDate>Mon, 07 Apr 2025 17:15:14 GMT</pubDate>
+            <content:encoded><![CDATA[오픈일정 보기 &gt;]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2025/03/20250331110728a8de8e7b-ed02-4371-8c4d-926739933473.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[LUCY 일곱 번째 단독 콘서트 〈와장창〉 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=10184</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=10184</guid>
+            <pubDate>Mon, 07 Apr 2025 17:15:14 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>25.04.09(수)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2025/04/202504031757099ff83701-e6d9-4a91-86d8-abdf378bc0da.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[DMZ 피스트레인 뮤직 페스티벌 2025 2차 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=10183</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=10183</guid>
+            <pubDate>Mon, 07 Apr 2025 17:15:14 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>25.04.07(월)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2025/04/202504031535339e345337-9233-4863-9ec7-30f0a2535bf4.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[OGS 단독콘서트 ‘Future Past’ : 롤링 30주년 기념 공연 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=10182</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=10182</guid>
+            <pubDate>Mon, 07 Apr 2025 17:15:14 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>25.04.08(화)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2025/04/202504031408172ce836dc-2a56-42c3-9a42-edf00df453eb.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[지창민 데뷔노트 In 부산 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=10187</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=10187</guid>
+            <pubDate>Mon, 07 Apr 2025 17:15:14 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>25.04.08(화)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2025/04/2025040416103808fd1f26-ff33-4b95-8cd9-d69fe4ed43f6.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+    </channel>
+</rss>
