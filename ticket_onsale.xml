@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 판매중</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Apr 2025 14:17:51 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Apr 2025 15:19:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -383,31 +383,6 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2025/03/20250321091228d5093363-d9a5-4f04-b406-f2ab52015f1e.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
-            <title><![CDATA[먼데이프로젝트 시즌8 [피아노 슈게이저 단독 콘서트 ‘이미 없는 남극으로’]]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=211165</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=211165</guid>
-            <pubDate>Mon, 07 Apr 2025 11:14:34 GMT</pubDate>
-            <content:encoded><![CDATA[<td>
-                            <div class="show_infor">
-                                <div class="thumb_90x125  img">
-                                    <a href="#">
-                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2025/03/20250311152053d881aca4-26b6-41df-a066-724e018e1272.jpg/melon/resize/90x125/strip/true" alt="">
-                                        <span class="frame"></span>
-                                    </a>
-                                </div>
-                                <p class="infor_text">
-                                    <span class="ico_wrap">
-                                        <span class="ico_list ico_list1">단독판매</span><span class="ico_list ico_list4"> 판매중</span></span>
-                                    <span class="show_title"><a href="/performance/index.htm?prodId=211165">먼데이프로젝트 시즌8 [피아노 슈게이저 단독 콘서트 ‘이미 없는 남극으로’]</a></span>
-                                </p>
-                            </div>
-                        </td>
-                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
-                            2025.04.07 - 2025.04.07</td>
-                        <td class="show_loc">클럽온에어 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2025/03/20250311152053d881aca4-26b6-41df-a066-724e018e1272.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
             <title><![CDATA[옥상달빛 소극장공연 [옥캉스]]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=211149</link>
             <guid>https://ticket.melon.com/performance/index.htm?prodId=211149</guid>
@@ -506,6 +481,31 @@
                             2025.04.10 - 2025.04.10</td>
                         <td class="show_loc">공상온도 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2025/03/2025031114595776432eeb-9fee-40e1-adfc-edda96287b29.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[먼데이프로젝트 시즌8 [피에타 단독 콘서트 ‘난시’]]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=211172</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=211172</guid>
+            <pubDate>Mon, 07 Apr 2025 15:19:24 GMT</pubDate>
+            <content:encoded><![CDATA[<td>
+                            <div class="show_infor">
+                                <div class="thumb_90x125  img">
+                                    <a href="#">
+                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2025/03/20250312151305b5ac1d21-bc19-4111-9566-7a0f374f95b7.jpg/melon/resize/90x125/strip/true" alt="">
+                                        <span class="frame"></span>
+                                    </a>
+                                </div>
+                                <p class="infor_text">
+                                    <span class="ico_wrap">
+                                        <span class="ico_list ico_list1">단독판매</span><span class="ico_list ico_list4"> 판매중</span></span>
+                                    <span class="show_title"><a href="/performance/index.htm?prodId=211172">먼데이프로젝트 시즌8 [피에타 단독 콘서트 ‘난시’]</a></span>
+                                </p>
+                            </div>
+                        </td>
+                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
+                            2025.04.10 - 2025.04.10</td>
+                        <td class="show_loc">클럽온에어 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2025/03/20250312151305b5ac1d21-bc19-4111-9566-7a0f374f95b7.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
     </channel>
 </rss>
