@@ -1,8 +1,91 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://ticket.melon.com/csoon/index.htm</id>
-    <title>멜론 티켓</title>
-    <updated>2025-04-09T19:14:41.136Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>멜론 티켓</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Wed, 09 Apr 2025 20:17:49 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2025 빈센트블루 단독 콘서트 ‘Blue Wood’ 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=10204</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=10204</guid>
+            <pubDate>Wed, 09 Apr 2025 20:17:35 GMT</pubDate>
+            <content:encoded><![CDATA[2025.04.14(월) 20:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2025/04/20250409172923c2e2690e-8276-4cbb-afb2-829ee3b97128.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[제72회 라이브 클럽 데이－일반 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=10203</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=10203</guid>
+            <pubDate>Wed, 09 Apr 2025 20:17:35 GMT</pubDate>
+            <content:encoded><![CDATA[2025.04.11(금) 15:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2025/04/2025040909403501dad777-7c4c-491f-bb6d-054a6af8149c.png/melon/resize/65x92/strip/true" length="0" type="image/png/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[Find own rhythm : 잭킹콩x암호 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=10201</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=10201</guid>
+            <pubDate>Wed, 09 Apr 2025 20:17:35 GMT</pubDate>
+            <content:encoded><![CDATA[2025.04.14(월) 18:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2025/04/202504091145422f6e14b7-d4a8-48fe-9463-1f044d874c5c.png/melon/resize/65x92/strip/true" length="0" type="image/png/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[2025 한대음 페스티벌 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=10200</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=10200</guid>
+            <pubDate>Wed, 09 Apr 2025 20:17:35 GMT</pubDate>
+            <content:encoded><![CDATA[2025.04.11(금) 20:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2025/04/202504081744093ff80c47-c4cf-4f55-9b5d-ffdaffefdccc.png/melon/resize/65x92/strip/true" length="0" type="image/png/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[먼데이프로젝트 시즌8 [찬민 단독 콘서트 ‘여명’] 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=10199</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=10199</guid>
+            <pubDate>Wed, 09 Apr 2025 20:17:35 GMT</pubDate>
+            <content:encoded><![CDATA[2025.04.16(수) 20:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2025/04/202504081839593570b7fc-4e8d-4140-9fa4-bc931e044226.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[Shinsei Kamattechan Live in Seoul 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=10197</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=10197</guid>
+            <pubDate>Wed, 09 Apr 2025 20:17:35 GMT</pubDate>
+            <content:encoded><![CDATA[2025.04.22(화) 18:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2025/04/202504071623270a015b69-cfa0-46f3-b42d-fb201f9b57c6.png/melon/resize/65x92/strip/true" length="0" type="image/png/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[제17회 서울재즈페스티벌 2025 3차 라인업 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=10196</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=10196</guid>
+            <pubDate>Wed, 09 Apr 2025 20:17:35 GMT</pubDate>
+            <content:encoded><![CDATA[2025.02.27(목) 12:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2025/04/20250407182152fb6f4420-a2cf-451e-8c5e-146e0d443a0e.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 〈매디슨 카운티의 다리〉 3차 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=10195</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=10195</guid>
+            <pubDate>Wed, 09 Apr 2025 20:17:35 GMT</pubDate>
+            <content:encoded><![CDATA[2025.04.11(금) 14:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2025/04/2025040715141797f4bd07-a7ec-4353-bd1a-b719e70b070e.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[오이스터 단독콘서트 ‘What If We Missed’ : 롤링 30주년 기념 공연 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=10194</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=10194</guid>
+            <pubDate>Wed, 09 Apr 2025 20:17:35 GMT</pubDate>
+            <content:encoded><![CDATA[2025.04.15(화) 20:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2025/04/20250407171723a26d4071-7c32-4259-94e5-04e356d620ad.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[세종문화회관 무경계 컨템퍼러리 Sync Next 25 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=10193</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=10193</guid>
+            <pubDate>Wed, 09 Apr 2025 20:17:35 GMT</pubDate>
+            <content:encoded><![CDATA[오픈일정 보기 &gt;]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2025/04/2025040716135838ab37a6-2d48-4d06-ae68-e2792b0037e9.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+    </channel>
+</rss>
