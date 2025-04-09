@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 09 Apr 2025 09:18:22 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Apr 2025 10:21:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -91,7 +91,7 @@
             <title><![CDATA[2025 빈센트블루 단독 콘서트 ‘Blue Wood’ 티켓 오픈 안내 (멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식)]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=10204</link>
             <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=10204</guid>
-            <pubDate>Wed, 09 Apr 2025 09:18:15 GMT</pubDate>
+            <pubDate>Wed, 09 Apr 2025 09:18:09 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>25.04.14(월)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2025/04/20250409172923c2e2690e-8276-4cbb-afb2-829ee3b97128.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
@@ -123,7 +123,7 @@
             <title><![CDATA[제72회 라이브 클럽 데이－일반 티켓 오픈 안내 (멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식)]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=10203</link>
             <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=10203</guid>
-            <pubDate>Wed, 09 Apr 2025 09:18:15 GMT</pubDate>
+            <pubDate>Wed, 09 Apr 2025 09:18:09 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>25.04.11(금)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2025/04/2025040909403501dad777-7c4c-491f-bb6d-054a6af8149c.png/melon/resize/160x225/strip/true" length="0" type="image/png/melon/resize/160x225/strip/true"/>
         </item>
@@ -343,31 +343,6 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2025/03/20250305155337e658c322-1b7a-4db6-ae6a-02827393b8a8.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
-            <title><![CDATA[[얼리버드] 아르누보의 꽃 : 알폰스 무하 원화전 (멜론티켓 ─ 판매중)]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=211058</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=211058</guid>
-            <pubDate>Wed, 09 Apr 2025 06:24:23 GMT</pubDate>
-            <content:encoded><![CDATA[<td>
-                            <div class="show_infor">
-                                <div class="thumb_90x125  img">
-                                    <a href="#">
-                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2025/02/202502181140008e67d390-4573-40ca-ba0d-16bdd891cd33.jpg/melon/resize/90x125/strip/true" alt="">
-                                        <span class="frame"></span>
-                                    </a>
-                                </div>
-                                <p class="infor_text">
-                                    <span class="ico_wrap">
-                                        <span class="ico_list ico_list4"> 판매중</span></span>
-                                    <span class="show_title"><a href="/performance/index.htm?prodId=211058">[얼리버드] 아르누보의 꽃 : 알폰스 무하 원화전</a></span>
-                                </p>
-                            </div>
-                        </td>
-                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
-                            2025.03.20 - 2025.05.09</td>
-                        <td class="show_loc">마이아트뮤지엄 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2025/02/202502181140008e67d390-4573-40ca-ba0d-16bdd891cd33.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
             <title><![CDATA[[20% 할인 + 음료 증정] 아르누보의 꽃 : 알폰스 무하 원화전 (멜론티켓 ─ 판매중)]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=211201</link>
             <guid>https://ticket.melon.com/performance/index.htm?prodId=211201</guid>
@@ -391,6 +366,31 @@
                             2025.03.20 - 2025.05.31</td>
                         <td class="show_loc">마이아트뮤지엄 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2025/03/202503182103326086f55b-a251-4165-b649-45edde7a5cea.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[[얼리버드] 아르누보의 꽃 : 알폰스 무하 원화전 (멜론티켓 ─ 판매중)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=211058</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=211058</guid>
+            <pubDate>Wed, 09 Apr 2025 06:24:23 GMT</pubDate>
+            <content:encoded><![CDATA[<td>
+                            <div class="show_infor">
+                                <div class="thumb_90x125  img">
+                                    <a href="#">
+                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2025/02/202502181140008e67d390-4573-40ca-ba0d-16bdd891cd33.jpg/melon/resize/90x125/strip/true" alt="">
+                                        <span class="frame"></span>
+                                    </a>
+                                </div>
+                                <p class="infor_text">
+                                    <span class="ico_wrap">
+                                        <span class="ico_list ico_list4"> 판매중</span></span>
+                                    <span class="show_title"><a href="/performance/index.htm?prodId=211058">[얼리버드] 아르누보의 꽃 : 알폰스 무하 원화전</a></span>
+                                </p>
+                            </div>
+                        </td>
+                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
+                            2025.03.20 - 2025.05.09</td>
+                        <td class="show_loc">마이아트뮤지엄 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2025/02/202502181140008e67d390-4573-40ca-ba0d-16bdd891cd33.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
             <title><![CDATA[아르누보의 꽃 : 알폰스 무하 원화전 (멜론티켓 ─ 판매중)]]></title>
@@ -443,31 +443,6 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2025/02/202502261728481e4fbfb0-0972-4591-acad-427aa54e19c0.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
-            <title><![CDATA[정세운 공식 팬클럽 ‘행운(LUCKY)’ 7기 모집 (멜론티켓 ─ 판매중)]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=211231</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=211231</guid>
-            <pubDate>Wed, 09 Apr 2025 06:24:23 GMT</pubDate>
-            <content:encoded><![CDATA[<td>
-                            <div class="show_infor">
-                                <div class="thumb_90x125  img">
-                                    <a href="#">
-                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2025/03/20250327153313159262bb-d43d-4750-9fbb-db3d52a0478a.jpg/melon/resize/90x125/strip/true" alt="">
-                                        <span class="frame"></span>
-                                    </a>
-                                </div>
-                                <p class="infor_text">
-                                    <span class="ico_wrap">
-                                        <span class="ico_list ico_list1">단독판매</span><span class="ico_list ico_list4"> 판매중</span></span>
-                                    <span class="show_title"><a href="/performance/index.htm?prodId=211231">정세운 공식 팬클럽 ‘행운(LUCKY)’ 7기 모집</a></span>
-                                </p>
-                            </div>
-                        </td>
-                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
-                            2025.04.01 - 2025.04.13</td>
-                        <td class="show_loc">- </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2025/03/20250327153313159262bb-d43d-4750-9fbb-db3d52a0478a.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
             <title><![CDATA[[앵콜 특가]시네마 천국 이머시브 특별전-투.토토 (멜론티켓 ─ 판매중)]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=211216</link>
             <guid>https://ticket.melon.com/performance/index.htm?prodId=211216</guid>
@@ -491,6 +466,31 @@
                             2025.04.01 - 2025.04.30</td>
                         <td class="show_loc">서울숲 갤러리아포레 더 서울라이티움</td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2025/04/20250409145444848fcc04-cf04-4d63-a6b2-7fc4551f5771.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[정세운 공식 팬클럽 ‘행운(LUCKY)’ 7기 모집 (멜론티켓 ─ 판매중)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=211231</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=211231</guid>
+            <pubDate>Wed, 09 Apr 2025 06:24:23 GMT</pubDate>
+            <content:encoded><![CDATA[<td>
+                            <div class="show_infor">
+                                <div class="thumb_90x125  img">
+                                    <a href="#">
+                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2025/03/20250327153313159262bb-d43d-4750-9fbb-db3d52a0478a.jpg/melon/resize/90x125/strip/true" alt="">
+                                        <span class="frame"></span>
+                                    </a>
+                                </div>
+                                <p class="infor_text">
+                                    <span class="ico_wrap">
+                                        <span class="ico_list ico_list1">단독판매</span><span class="ico_list ico_list4"> 판매중</span></span>
+                                    <span class="show_title"><a href="/performance/index.htm?prodId=211231">정세운 공식 팬클럽 ‘행운(LUCKY)’ 7기 모집</a></span>
+                                </p>
+                            </div>
+                        </td>
+                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
+                            2025.04.01 - 2025.04.13</td>
+                        <td class="show_loc">- </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2025/03/20250327153313159262bb-d43d-4750-9fbb-db3d52a0478a.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
             <title><![CDATA[페인터즈 (멜론티켓 ─ 판매중)]]></title>
@@ -568,29 +568,29 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2025/03/20250307092657d20f9b4a-6a55-4d39-b1a5-15a9a439d25f.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
-            <title><![CDATA[먼데이프로젝트 IN 라이브클럽 [포져군단 단독 콘서트] (멜론티켓 ─ 판매중)]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=211164</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=211164</guid>
+            <title><![CDATA[파우스트 (멜론티켓 ─ 판매중)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=210953</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=210953</guid>
             <pubDate>Wed, 09 Apr 2025 06:24:23 GMT</pubDate>
             <content:encoded><![CDATA[<td>
                             <div class="show_infor">
                                 <div class="thumb_90x125  img">
                                     <a href="#">
-                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2025/03/2025031114595776432eeb-9fee-40e1-adfc-edda96287b29.jpg/melon/resize/90x125/strip/true" alt="">
+                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2025/03/202503041501069db7804b-e8a3-4318-8861-c6d9f63105c6.jpg/melon/resize/90x125/strip/true" alt="">
                                         <span class="frame"></span>
                                     </a>
                                 </div>
                                 <p class="infor_text">
                                     <span class="ico_wrap">
-                                        <span class="ico_list ico_list1">단독판매</span><span class="ico_list ico_list4"> 판매중</span></span>
-                                    <span class="show_title"><a href="/performance/index.htm?prodId=211164">먼데이프로젝트 IN 라이브클럽 [포져군단 단독 콘서트]</a></span>
+                                        <span class="ico_list ico_list4"> 판매중</span></span>
+                                    <span class="show_title"><a href="/performance/index.htm?prodId=210953">파우스트</a></span>
                                 </p>
                             </div>
                         </td>
                         <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
-                            2025.04.10 - 2025.04.10</td>
-                        <td class="show_loc">공상온도 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2025/03/2025031114595776432eeb-9fee-40e1-adfc-edda96287b29.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+                            2025.04.10 - 2025.04.13</td>
+                        <td class="show_loc">세종문화회관 대극장</td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2025/03/202503041501069db7804b-e8a3-4318-8861-c6d9f63105c6.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
             <title><![CDATA[정효빈 단독 콘서트 ‘대화가 필요해’ : 롤링 30주년 기념 공연 (멜론티켓 ─ 판매중)]]></title>
@@ -618,6 +618,31 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2025/03/20250305144930c37075ef-d759-47f4-b4d7-319c4abcdbd9.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
+            <title><![CDATA[먼데이프로젝트 IN 라이브클럽 [포져군단 단독 콘서트] (멜론티켓 ─ 판매중)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=211164</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=211164</guid>
+            <pubDate>Wed, 09 Apr 2025 06:24:23 GMT</pubDate>
+            <content:encoded><![CDATA[<td>
+                            <div class="show_infor">
+                                <div class="thumb_90x125  img">
+                                    <a href="#">
+                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2025/03/2025031114595776432eeb-9fee-40e1-adfc-edda96287b29.jpg/melon/resize/90x125/strip/true" alt="">
+                                        <span class="frame"></span>
+                                    </a>
+                                </div>
+                                <p class="infor_text">
+                                    <span class="ico_wrap">
+                                        <span class="ico_list ico_list1">단독판매</span><span class="ico_list ico_list4"> 판매중</span></span>
+                                    <span class="show_title"><a href="/performance/index.htm?prodId=211164">먼데이프로젝트 IN 라이브클럽 [포져군단 단독 콘서트]</a></span>
+                                </p>
+                            </div>
+                        </td>
+                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
+                            2025.04.10 - 2025.04.10</td>
+                        <td class="show_loc">공상온도 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2025/03/2025031114595776432eeb-9fee-40e1-adfc-edda96287b29.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
             <title><![CDATA[먼데이프로젝트 시즌8 [피에타 단독 콘서트 ‘난시’] (멜론티켓 ─ 판매중)]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=211172</link>
             <guid>https://ticket.melon.com/performance/index.htm?prodId=211172</guid>
@@ -641,31 +666,6 @@
                             2025.04.10 - 2025.04.10</td>
                         <td class="show_loc">클럽온에어 </td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2025/03/20250312151305b5ac1d21-bc19-4111-9566-7a0f374f95b7.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[파우스트 (멜론티켓 ─ 판매중)]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=210953</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=210953</guid>
-            <pubDate>Wed, 09 Apr 2025 06:24:23 GMT</pubDate>
-            <content:encoded><![CDATA[<td>
-                            <div class="show_infor">
-                                <div class="thumb_90x125  img">
-                                    <a href="#">
-                                        <img onerror="noImage(this, 90, 125)" src="https://cdnticket.melon.co.kr/resource/image/upload/product/2025/03/202503041501069db7804b-e8a3-4318-8861-c6d9f63105c6.jpg/melon/resize/90x125/strip/true" alt="">
-                                        <span class="frame"></span>
-                                    </a>
-                                </div>
-                                <p class="infor_text">
-                                    <span class="ico_wrap">
-                                        <span class="ico_list ico_list4"> 판매중</span></span>
-                                    <span class="show_title"><a href="/performance/index.htm?prodId=210953">파우스트</a></span>
-                                </p>
-                            </div>
-                        </td>
-                        <td class="show_date"><!-- @@@ 2016.02.01 class명 추가 -->
-                            2025.04.10 - 2025.04.13</td>
-                        <td class="show_loc">세종문화회관 대극장</td><!-- @@@ 2016.02.01 class명 추가 -->]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2025/03/202503041501069db7804b-e8a3-4318-8861-c6d9f63105c6.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
     </channel>
 </rss>
