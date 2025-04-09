@@ -4,7 +4,7 @@
         <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 09 Apr 2025 01:16:27 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Apr 2025 03:00:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,22 @@
             <pubDate>Wed, 09 Apr 2025 01:16:20 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>25.04.11(금)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2025/04/2025040715141797f4bd07-a7ec-4353-bd1a-b719e70b070e.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[먼데이프로젝트 시즌8 [찬민 단독 콘서트 ‘여명’] 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=10199</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=10199</guid>
+            <pubDate>Wed, 09 Apr 2025 03:00:09 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>25.04.16(수)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2025/04/202504081839593570b7fc-4e8d-4140-9fa4-bc931e044226.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[2025 한대음 페스티벌 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=10200</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=10200</guid>
+            <pubDate>Wed, 09 Apr 2025 03:00:09 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>25.04.11(금)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2025/04/202504081744093ff80c47-c4cf-4f55-9b5d-ffdaffefdccc.png/melon/resize/160x225/strip/true" length="0" type="image/png/melon/resize/160x225/strip/true"/>
         </item>
         <item>
             <title><![CDATA[소란하는 밤 단독콘서트 ‘소란하는 유니버스 : 첫 호출’ : 롤링 30주년 기념 공연 티켓 오픈 안내]]></title>
@@ -70,22 +86,6 @@
             <pubDate>Wed, 09 Apr 2025 01:16:20 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[오픈]</strong>25.04.15(화)]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2025/04/20250407171723a26d4071-7c32-4259-94e5-04e356d620ad.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[Shinsei Kamattechan Live in Seoul 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=10197</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=10197</guid>
-            <pubDate>Wed, 09 Apr 2025 01:16:20 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[오픈]</strong>25.04.22(화)]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2025/04/202504071623270a015b69-cfa0-46f3-b42d-fb201f9b57c6.png/melon/resize/160x225/strip/true" length="0" type="image/png/melon/resize/160x225/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[세종문화회관 무경계 컨템퍼러리 Sync Next 25 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=10193</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=10193</guid>
-            <pubDate>Wed, 09 Apr 2025 01:16:20 GMT</pubDate>
-            <content:encoded><![CDATA[오픈일정 보기 &gt;]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2025/04/2025040716135838ab37a6-2d48-4d06-ae68-e2792b0037e9.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
         </item>
     </channel>
 </rss>
