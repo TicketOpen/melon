@@ -4,9 +4,25 @@
         <title>멜론 티켓</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 09 Apr 2025 08:23:53 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Apr 2025 09:18:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2025 빈센트블루 단독 콘서트 ‘Blue Wood’ 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=10204</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=10204</guid>
+            <pubDate>Wed, 09 Apr 2025 09:18:09 GMT</pubDate>
+            <content:encoded><![CDATA[2025.04.14(월) 20:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2025/04/20250409172923c2e2690e-8276-4cbb-afb2-829ee3b97128.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[제72회 라이브 클럽 데이－일반 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=10203</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=10203</guid>
+            <pubDate>Wed, 09 Apr 2025 09:18:09 GMT</pubDate>
+            <content:encoded><![CDATA[2025.04.11(금) 15:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2025/04/2025040909403501dad777-7c4c-491f-bb6d-054a6af8149c.png/melon/resize/65x92/strip/true" length="0" type="image/png/melon/resize/65x92/strip/true"/>
+        </item>
         <item>
             <title><![CDATA[Find own rhythm : 잭킹콩x암호 티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=10201</link>
@@ -70,22 +86,6 @@
             <pubDate>Wed, 09 Apr 2025 06:24:11 GMT</pubDate>
             <content:encoded><![CDATA[오픈일정 보기 &gt;]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2025/04/2025040716135838ab37a6-2d48-4d06-ae68-e2792b0037e9.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[디폴트 단독공연: Sirius Pre-release Show 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=10192</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=10192</guid>
-            <pubDate>Wed, 09 Apr 2025 06:24:11 GMT</pubDate>
-            <content:encoded><![CDATA[2025.04.08(화) 20:00]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2025/04/20250407145445521ec29c-0b32-4bf6-81d6-06dd98fb3d19.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[AoB Presents #1 : Grateful Sound 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=10191</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=10191</guid>
-            <pubDate>Wed, 09 Apr 2025 06:24:11 GMT</pubDate>
-            <content:encoded><![CDATA[2025.04.15(화) 19:00]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2025/04/20250404103007766a9922-1807-43e9-ad5b-24404ccaa7d6.png/melon/resize/65x92/strip/true" length="0" type="image/png/melon/resize/65x92/strip/true"/>
         </item>
     </channel>
 </rss>
