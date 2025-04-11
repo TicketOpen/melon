@@ -4,7 +4,7 @@
         <title>멜론 티켓</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 11 Apr 2025 05:18:14 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Apr 2025 06:23:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -48,14 +48,6 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2025/04/20250410093916f74960ec-5a8b-4b63-8a61-aebd3965e02a.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
         <item>
-            <title><![CDATA[사용가능]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=10205</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=10205</guid>
-            <pubDate>Fri, 11 Apr 2025 01:16:37 GMT</pubDate>
-            <content:encoded><![CDATA[추후공지]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/web/thumb/Noimage_65x92.png" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[2025 빈센트블루 단독 콘서트 ‘Blue Wood’ 티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=10204</link>
             <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=10204</guid>
@@ -86,6 +78,14 @@
             <pubDate>Fri, 11 Apr 2025 01:16:37 GMT</pubDate>
             <content:encoded><![CDATA[2025.04.11(금) 20:00]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2025/04/202504081744093ff80c47-c4cf-4f55-9b5d-ffdaffefdccc.png/melon/resize/65x92/strip/true" length="0" type="image/png/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[먼데이프로젝트 시즌8 [찬민 단독 콘서트 ‘여명’] 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=10199</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=10199</guid>
+            <pubDate>Fri, 11 Apr 2025 06:23:31 GMT</pubDate>
+            <content:encoded><![CDATA[2025.04.16(수) 20:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2025/04/202504081839593570b7fc-4e8d-4140-9fa4-bc931e044226.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
         </item>
     </channel>
 </rss>
