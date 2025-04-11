@@ -4,9 +4,17 @@
         <title>멜론 티켓</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 11 Apr 2025 03:00:45 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Apr 2025 03:37:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2025 live workspace ‘최창순’ vol.02 jeonju 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=10210</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=10210</guid>
+            <pubDate>Fri, 11 Apr 2025 03:37:34 GMT</pubDate>
+            <content:encoded><![CDATA[2025.04.14(월) 20:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2025/04/20250411085853d21df3c6-6b2f-41ab-8208-1ca09d3e4433.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
         <item>
             <title><![CDATA[JEONJINHEE PIANO 雨後 티켓 오픈 안내]]></title>
             <link>https://ticket.melon.com/csoon/detail.htm?csoonId=10208</link>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 11 Apr 2025 01:16:37 GMT</pubDate>
             <content:encoded><![CDATA[2025.04.16(수) 20:00]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2025/04/202504081839593570b7fc-4e8d-4140-9fa4-bc931e044226.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[Shinsei Kamattechan Live in Seoul 티켓 오픈 안내]]></title>
-            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=10197</link>
-            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=10197</guid>
-            <pubDate>Fri, 11 Apr 2025 01:16:37 GMT</pubDate>
-            <content:encoded><![CDATA[2025.04.22(화) 18:00]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2025/04/202504071623270a015b69-cfa0-46f3-b42d-fb201f9b57c6.png/melon/resize/65x92/strip/true" length="0" type="image/png/melon/resize/65x92/strip/true"/>
         </item>
     </channel>
 </rss>
