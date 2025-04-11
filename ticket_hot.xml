@@ -1,8 +1,91 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://ticket.melon.com/csoon/index.htm#orderType=0&amp;pageIndex=1&amp;schGcode=GENRE_ALL&amp;schText=&amp;schDt=</id>
-    <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
-    <updated>2025-04-10T23:15:56.529Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>멜론티켓 ─ 티켓오픈소식 ─ HOT 공연 오픈 소식</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Fri, 11 Apr 2025 01:16:50 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[JEONJINHEE PIANO 雨後 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=10208</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=10208</guid>
+            <pubDate>Fri, 11 Apr 2025 01:16:44 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>25.04.17(목)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2025/04/20250409174629de56379b-51f7-4bd6-a77d-168473fdeb0e.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[연극 ‘헤다 가블러’ 마지막 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=10207</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=10207</guid>
+            <pubDate>Fri, 11 Apr 2025 01:16:44 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>25.04.15(화)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2025/04/20250410141556fb688d3a-0899-4f04-a786-b81925e0ceee.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[제72회 라이브 클럽 데이－일반 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=10203</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=10203</guid>
+            <pubDate>Fri, 11 Apr 2025 01:16:44 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>25.04.11(금)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2025/04/2025040909403501dad777-7c4c-491f-bb6d-054a6af8149c.png/melon/resize/160x225/strip/true" length="0" type="image/png/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 〈매디슨 카운티의 다리〉 3차 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=10195</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=10195</guid>
+            <pubDate>Fri, 11 Apr 2025 01:16:44 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>25.04.11(금)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2025/04/2025040715141797f4bd07-a7ec-4353-bd1a-b719e70b070e.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[LUCY 일곱 번째 단독 콘서트 〈와장창〉 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=10184</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=10184</guid>
+            <pubDate>Fri, 11 Apr 2025 01:16:44 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>25.04.09(수)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2025/04/202504031757099ff83701-e6d9-4a91-86d8-abdf378bc0da.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[KARDI 단독콘서트 ‘각별’ : 롤링 30주년 기념 공연 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=10206</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=10206</guid>
+            <pubDate>Fri, 11 Apr 2025 01:16:44 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>25.04.16(수)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2025/04/20250410093916f74960ec-5a8b-4b63-8a61-aebd3965e02a.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[2025 빈센트블루 단독 콘서트 ‘Blue Wood’ 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=10204</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=10204</guid>
+            <pubDate>Fri, 11 Apr 2025 01:16:44 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>25.04.14(월)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2025/04/20250409172923c2e2690e-8276-4cbb-afb2-829ee3b97128.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[2025 한대음 페스티벌 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=10200</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=10200</guid>
+            <pubDate>Fri, 11 Apr 2025 01:16:44 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>25.04.11(금)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2025/04/202504081744093ff80c47-c4cf-4f55-9b5d-ffdaffefdccc.png/melon/resize/160x225/strip/true" length="0" type="image/png/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[OGS 단독콘서트 ‘Future Past’ : 롤링 30주년 기념 공연 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=10182</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=10182</guid>
+            <pubDate>Fri, 11 Apr 2025 01:16:44 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>25.04.08(화)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2025/04/202504031408172ce836dc-2a56-42c3-9a42-edf00df453eb.jpg/melon/resize/160x225/strip/true" length="0" type="image/jpg/melon/resize/160x225/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[Find own rhythm : 잭킹콩x암호 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=10201</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=10201</guid>
+            <pubDate>Fri, 11 Apr 2025 01:16:44 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[오픈]</strong>25.04.14(월)]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2025/04/202504091145422f6e14b7-d4a8-48fe-9463-1f044d874c5c.png/melon/resize/160x225/strip/true" length="0" type="image/png/melon/resize/160x225/strip/true"/>
+        </item>
+    </channel>
+</rss>
