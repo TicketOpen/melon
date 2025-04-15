@@ -1,8 +1,91 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://ticket.melon.com/csoon/index.htm</id>
-    <title>멜론 티켓</title>
-    <updated>2025-04-15T06:23:47.905Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://ticket.melon.com/csoon/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>멜론 티켓</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Tue, 15 Apr 2025 07:17:24 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뮤지컬 〈멤피스〉 1차 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=10227</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=10227</guid>
+            <pubDate>Tue, 15 Apr 2025 07:17:11 GMT</pubDate>
+            <content:encoded><![CDATA[2025.04.24(목) 14:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2025/04/20250415131238bc0a66c8-9561-47d7-bc6d-01ea791644c2.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[마인드유 단독콘서트 ‘다시, 봄’ : 롤링 30주년 기념 공연 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=10226</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=10226</guid>
+            <pubDate>Tue, 15 Apr 2025 07:17:11 GMT</pubDate>
+            <content:encoded><![CDATA[2025.04.21(월) 20:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2025/04/20250414163001e2fe2a3b-4a5b-462a-9510-4d9142f53043.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 〈팬텀〉 10주년 기념 공연 2차 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=10225</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=10225</guid>
+            <pubDate>Tue, 15 Apr 2025 07:17:11 GMT</pubDate>
+            <content:encoded><![CDATA[2025.04.22(화) 11:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2025/04/20250414165556b5cfe7cd-7c48-4ba9-9c56-cc304dd56cbb.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[MEANING OF GLOW 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=10224</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=10224</guid>
+            <pubDate>Tue, 15 Apr 2025 07:17:11 GMT</pubDate>
+            <content:encoded><![CDATA[2025.04.15(화) 18:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2025/04/20250414104054d8320c20-a551-4c2e-9f9c-2bb68c7e2ac4.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[2025 IRENE & SEULGI Concert Tour [ BALANCE ] in SEOUL 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=10222</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=10222</guid>
+            <pubDate>Tue, 15 Apr 2025 07:17:11 GMT</pubDate>
+            <content:encoded><![CDATA[오픈일정 보기 &gt;]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2025/04/202504141137032c7f1347-3aff-47d9-98ab-287951af09c5.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[2025 RO WOON FAN MEETING ‘Before Blooming’ 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=10221</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=10221</guid>
+            <pubDate>Tue, 15 Apr 2025 07:17:11 GMT</pubDate>
+            <content:encoded><![CDATA[오픈일정 보기 &gt;]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2025/04/2025041114164767a45a8e-8144-4e3a-a26a-d836ce942a14.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[전주국제영화제 씨네투어X음악 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=10220</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=10220</guid>
+            <pubDate>Tue, 15 Apr 2025 07:17:11 GMT</pubDate>
+            <content:encoded><![CDATA[2025.04.18(금) 14:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2025/04/202504141123181184ee63-9598-4792-a2a6-3d6511a7ebea.png/melon/resize/65x92/strip/true" length="0" type="image/png/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[아디오스오디오 단독콘서트 ‘별들 사이로’ : 롤링 30주년 기념 공연 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=10218</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=10218</guid>
+            <pubDate>Tue, 15 Apr 2025 07:17:11 GMT</pubDate>
+            <content:encoded><![CDATA[2025.04.18(금) 20:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2025/04/20250411145403a85c25e7-e891-4199-b9c8-54b6f5ad1475.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[신해경 단독 공연 ‘꽃이 피는 계절’ : 부산 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=10217</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=10217</guid>
+            <pubDate>Tue, 15 Apr 2025 07:17:11 GMT</pubDate>
+            <content:encoded><![CDATA[2025.04.22(화) 20:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2025/04/2025041110205493cb4520-00c9-4d91-a773-2d498dfe37e8.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[서자영 [Naro] 3번째 EP 발매기념 단독 콘서트 티켓 오픈 안내]]></title>
+            <link>https://ticket.melon.com/csoon/detail.htm?csoonId=10216</link>
+            <guid>https://ticket.melon.com/csoon/detail.htm?csoonId=10216</guid>
+            <pubDate>Tue, 15 Apr 2025 07:17:11 GMT</pubDate>
+            <content:encoded><![CDATA[2025.04.17(목) 19:00]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/ticketopen/2025/04/2025041110592572d64fa7-579e-48eb-a3c1-dfb8657d9493.jpg/melon/resize/65x92/strip/true" length="0" type="image/jpg/melon/resize/65x92/strip/true"/>
+        </item>
+    </channel>
+</rss>
